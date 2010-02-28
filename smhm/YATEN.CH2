@@ -1,0 +1,564 @@
+"Yaten"
+"Yaten"
+0
+"yaten"
+"%SN appears as the smart alec, Yaten."
+"%SN charges into battle as Yaten."
+40
+40
+90
+50
+""
+"%SN runs off to take some more pictures."
+"%SN attempts to block."
+"%SN is thrown by the force of the blast."
+"%SN screams, 'The secret maternal movement away from death.'"
+""
+""
+""
+""
+"css"
+"%SN pulls out a camera and takes a picture of %T."
+"%SN steals %T's soul with the picture."
+"Shutterbug"
+"sb"
+1
+"%SN takes a picture of %T."
+"%SN takes a picture of %T."
+""
+"%SN takes the photo of %T and rips it hurting them."
+"%SN rips the photo of %T in tiny itty bitty peices."
+0
+""
+"%T is bleeding all over the place."
+""
+"%T takes the picture away from %T."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+150
+2
+"Camera Light Beam"
+"clb"
+1
+"%SN holds up his camera."
+"%SN holds up his camera."
+""
+"A beam of light comes from the camera and smashes into %T."
+"A powerful beam emits from the camera and it crushes %T."
+0
+""
+"%T is burnt."
+""
+""
+0
+0
+0
+0
+0
+50
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+30
+80
+2
+"Camera Drain"
+"cd"
+0
+"%SN pulls out his camera."
+""
+""
+"%SN uses the camera to drain %T's life energy."
+""
+0
+""
+"%T feels week."
+""
+"%T smashes the camera."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+50
+0
+0
+0
+0
+0
+11
+90
+2
+"Film exposure"
+"fe"
+0
+"%SN pulls out yards and yards of film."
+""
+""
+"%SN wraps %T in the film."
+""
+0
+""
+"%T can't break free."
+""
+"%T snaps the film."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Smart Alec Remark"
+"sar"
+0
+"%SN tells Michiru her lipstick doesn't match."
+""
+""
+"Michiru crushes her lipstick and turns and smacks %T instead of %SN."
+""
+0
+""
+"Michiru crushes her lipstick and turns and smacks %T instead of %SN."
+""
+"%T sees Michiru coming and ducks."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Seiya and Taiki morn for their brother."
+""
+""
+""
+""
+"%SN pummels %T's dead body sacrasticly."
+""
+""
+""
+""
+""
+""
+""
+""

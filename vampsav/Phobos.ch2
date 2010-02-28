@@ -1,0 +1,560 @@
+"Phobos"
+"Phobos"
+""
+"Phobos"
+"%SN flies out of a temple in New Mexico as the robot, Phobos."
+"%SN flies in as Phobos."
+ 80 
+ 80 
+ 30 
+ 30 
+ 0 
+"%SN recharges his system."
+"%SN forms a translucent shield of energy."
+"%SN's shield shatters."
+"%SN says, ''My master.....Order.....Please''"
+""
+""
+""
+""
+"squish"
+"%SN disappears into the sky."
+"%SN decends from the sky at tremendous speeds and slams down on %T! halliou?!"
+"Ice Laser"
+"ice"
+ 0 
+"%SN emits a beam of ice."
+""
+""
+"A huge beam of ice engulfs %T! %T is frozen solid!"
+""
+ 0 
+""
+""
+""
+"%T dodges the ice laser."
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Bomb"
+"bomb"
+ 1 
+"%SN flies into the sky."
+"%SN flies into the sky."
+""
+"%SN drops a bomb on %T! >BOOM!<"
+"%SN drops a bomb on %T exploding, leaving a crater %S2 miles wide!!"
+ 0 
+""
+">> KAAAABOOOOOOOOOOOOM <<"
+""
+"%T knocks the bomb into a lake."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 65 
+ 2 
+"Genocide Vulcan"
+"gv"
+ 0 
+"%SN launches a series of rockets and lasers at %T!"
+""
+""
+"%T is blasted by rockets and lasers!"
+""
+ 0 
+""
+"%T is blasted by rockets and lasers!!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 75 
+ 2 
+"Final Guardian B"
+"fgB"
+ 1 
+"%SN encases %T in a sphere of energy."
+"%SN encases %T in a sphere of energy."
+""
+"%T stands stunned, as %SN morphs into a rocket launcher, blasting %T intensly!"
+"%T stands stunned, as %SN morphs into a rocket launcher, blasting %T intensly!!"
+ 0 
+""
+"%T stands stunned, as %SN morphs into a rocket launcher, blasting %T intensly!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 100 
+ 2 
+"Energy Sphere"
+"es"
+ 0 
+"%SN flings out a ball of energy."
+""
+""
+"A ball of energy moves slowly through the air, then explodes on %T!"
+""
+ 0 
+""
+"A ball of energy moves slowly through the air, then explodes on %T!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 85 
+ 2 
+"Dark Force"
+"df"
+ 0 
+"%SN stomps the ground."
+""
+""
+"Multiple robots of %SN appear and give him upgrades!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

@@ -1,0 +1,560 @@
+"Mega-Machine"
+"megamachine"
+""
+"bewaremykittylauncher"
+"A Giant machine rises from the Ground! MEGA MACHINE! DUHN DUHN DUHNN!"
+"A Giant machine rolls into battle."
+ 40 
+ 40 
+ 100 
+ 40 
+ 0 
+"............"
+"%SN raises a giant shield."
+"%SN's shield falls apart!"
+"%SN fires a warning shot into the air."
+""
+""
+""
+""
+"cheetah"
+"%SN's kitty gun lowers to the ground......"
+"A Giant Cheetah's launched! It Rips %T to shreds! Mm! %Toz!"
+"Kitty Launcher"
+"kl"
+ 1 
+"Kitty Launcher Ready! Targeting %T! FIRE!"
+"Kitty Launcher 1 and 2 Ready! Target %T! FIRE!"
+""
+"Tabbies, Russian blues and Torties Rain from the sky, clawing %T!"
+"%T screams as %S2 Tabbies and Torties Fly into their Face!"
+ 0 
+""
+"A Giant Tortie falls on %T!"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 50 
+ 2 
+"Massive Discharge"
+"md"
+ 0 
+"The Mega Machine Releases a Blue Light...."
+""
+"A Giant Blast Radiates out, Blasting Almost Everyone!"
+""
+""
+ 0 
+""
+"%T's eyes get Wide!"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 35 
+ 6 
+"Squeeze Life"
+"squeezelife"
+ 0 
+"%T yelps as %SN grabs them in the Mega Machine!"
+""
+""
+"%T's Life flows into %SN's Body!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 11 
+ 90 
+ 2 
+"Cute Kitten"
+"ck"
+ 0 
+"%SN lowers the Kitten Gun....."
+""
+"A Kitten comes out! Awwwwww!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 5 
+ 5 
+ 5 
+ 5 
+ 5 
+ 5 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 5 
+ 5 
+ 5 
+ 5 
+ 5 
+ 5 
+ 5 
+ 0 
+ 5 
+ 0 
+ 0 
+ 5 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 0 
+ 6 
+"Mega Missle"
+"missle"
+ 0 
+"A Giant Turret Aims At %T! [Ruh Roh, %T!]"
+""
+""
+"BOOOOOOOM!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 100 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+"%SN explodes."
+""
+""
+""
+""
+"%SN allows the Kitty Kennels to empty so the kitties can feast on %T!"
+""
+""
+""
+""

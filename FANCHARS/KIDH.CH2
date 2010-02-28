@@ -1,0 +1,560 @@
+"Kat-In-Da-Hat"
+"Kat"
+""
+"~readmeastory"
+"Dr. Seuss appears as %SN becomes the loveable, Kat-In-Da-Hat!"
+"%SN jumps in the nursery as Kat-In-Da-Hat!"
+ 58 
+ 58 
+ 46 
+ 58 
+ 0 
+"%SN sits down on a kiddie chair and reads 'The Cat in the Hat!'"
+"%SN grabs 'The Cat in the Hat' and blocks!"
+"The block failed, but %SN decides to read the book anyway!"
+"%SN says 'I will not eat it in a box, I will not eat it with a fox!'"
+"%SN says 'Your reading level is lower than a kindergarteners!'"
+"%SN frolics and sticks their tongue out!"
+""
+""
+"pounce"
+"%SN practices on a trampoline..."
+"%SN pounces on %T, just like Tigger would!  Bai bai!"
+"Life cubed"
+"lifecubed"
+ 0 
+"%SN retrieves her Life-Cubed book!"
+""
+""
+"%SN casts Life-Cubed upon %T!"
+""
+ 0 
+""
+""
+""
+"%SN swaps the Life-Cubed book for 'The Cat in the Hat' instead!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 25 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Sleepy time!"
+"naptime"
+ 0 
+"%SN takes out the bed time story!"
+""
+""
+"%SN makes %T go to bed!"
+""
+ 0 
+""
+""
+""
+"%T had too much coffee to go to bed!  Sorry %SN!"
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Read"
+"read"
+ 0 
+"%SN asks %T to read her 'The Cat in the Hat!'"
+""
+""
+"Oops!  %T doesn't do a good job of reading, so %SN blinds 'em!"
+""
+ 0 
+""
+""
+""
+"%T does a fantastic job of reading, so %SN lets 'em go!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"FUN-gus"
+"fungus"
+ 0 
+""
+""
+"%SN shouts, 'You know, I put the f-u-n in fungus!'"
+""
+""
+ 0 
+"%SN turns %T into a fungus, restoring their HP!"
+""
+""
+"%SN missed and turned Dr. Seuss into a fungus instead!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 0 
+ 3 
+"Summon Dr. Seuss"
+"drseuss"
+ 1 
+"%SN calls out to Dr. Seuss!"
+"%SN yells for Dr. Seuss to come!"
+""
+"Dr. Seuss attacks %T as a favor for %SN!"
+"%T is viciously attacked by Dr. Seuss!"
+ 0 
+""
+"OUCH!  Dr. Seuss nails %T for %SN!"
+""
+"Dr. Seuss doesn't care and continues writing his stories."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 75 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 100 
+ 2 
+"Hokey Pencil Pokey"
+"pencil"
+ 1 
+"%SN sharpens her pencil..."
+"%SN takes out an electric pencil sharpener..."
+""
+"%SN pokes at %T with a sharpened point!"
+"%SN pokes at %T with her 5 #2 pencils!"
+ 0 
+""
+"%SN simultaneously pokes at %T!"
+""
+"%SN decides to sketch instead..."
+ 0 
+ 40 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 85 
+ 2 
+"Milk Toss"
+"mt"
+ 0 
+"%SN opens up the fridge..."
+""
+""
+"%SN throws the cold milk at %T's face!"
+""
+ 0 
+""
+"%SN throws a large bucket of ice cold milk at %T's face!"
+""
+"%SN decides to drink the milk instead!"
+ 0 
+ 0 
+ 80 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 70 
+ 2 
+"Life3 Times Its Reciprocal Minus One"
+"~haha"
+ 0 
+"%SN says, 'It's not nice to life3 if you don't share!'"
+""
+""
+"%SN watches %T's life3 disappear!  You deserved it!"
+""
+ 0 
+""
+""
+""
+"Darn, %SN decided to play nice and gave back %T's life3!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+"R.I.P. Kat-In-Da-Hat!  Oh you meanies!  %SN just wanted to play!"
+""
+""
+""
+""
+"Oh yaah!  %SN really SOCKed... er HAT-ed.. it to 'em!"
+""
+""
+""
+""

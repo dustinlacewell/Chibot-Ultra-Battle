@@ -1,0 +1,19 @@
+This is Beta Release #2, it should have ALL files required to run ChUB SE. A few bugs are fixed, such as the capture the flag not working correctly. If you get Unexpected Error, please email me with detailed information about your computer, which you can find by right-clicking "My Computer" and choosing "Properties". Tell me everything you see in the "General" and "Performance" tabs.
+
+The character editor DOES work.
+
+If you would like your Dataset to be added to the Final version of C2KSE, then please email me at kamek@russia.crosswinds.net. If your dataset was included but was missing some files (namely, arenas!) then send the files to me. If your dataset has an INI file other than the one you created, send me the appropriate INI file.
+
+I finally got around to writing the docs, so read them!
+
+Sorry, but Scarecrow and Charm are not enabled yet. They'll be in the next release, whenever that is...
+
+That mushroom on the status window now only shows up if the player is a mushroom.
+
+WARNING! NOTE! ATTENTION!! ALOHA!!!
+
+I changed the Arena format without remembering to inform you of the change. If you have been wondering why /rest replenishes a buttload of HP, well, it's because that Arenas work differently in resting now! The minumum and maximum HP replenished in arenas has been CHANGED. It is NO LONGER an absolute reference to HP! Arenas now replenish a PERCENTAGE of the MAXIMUM HP! This was changed because of the ability to change the MaxHP. If you have an arena for C2K, then make sure that the HP is NOT AN ABSOLUTE REFERENCE but a PERCENTAGE. This will make it MUCH smaller. The default Grassy Field arena (which is built into the game, so you can run datasets without arenas now) replenishes 3-10% of your Max HP value.
+
+I apologize for the confusion.
+
+One last note. An additional EXE file has been included, it is ChUBSE Alternate.exe. It was compiled differently and has many optimizations, so it should run faster. However, it may not work on some computers, or it might not work at all. If the regular ChUBSE.EXE screws up on you, try the Alternate EXE. If the alternate works and is faster, then use it! But if there are problems with the alternate, then just leave it.

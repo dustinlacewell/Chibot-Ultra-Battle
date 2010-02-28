@@ -1,0 +1,564 @@
+"Sailor Galaxia"
+"galaxia"
+2120
+"galaxia"
+"%SN teleports in as the evil Sailor Galaxia."
+"%SN teleports in as the evil Sailor Galaxia."
+50
+50
+60
+60
+""
+"%SN sits on her throne and ponders."
+"%SN throws her two most pathetic warriors, Phi and Chi, in front of herself."
+"%T blasts Phi and Chi to little bits, doing %SN a great favor!"
+"%SN says, 'The power given me is great. You shall die!'"
+"%SN yawns really obnoxiously."
+"%SN says, 'Your StarSeed will be mine!'"
+""
+""
+"gi"
+"%SN shrieks 'Galactica Inflation!' as bolts of golden light radiate from her body."
+"Bolts of golden light radiate from %SN's body and blast %T turning them into a pile of ash!"
+"Star Column"
+"psb"
+1
+"%SN forms a sphere of pulsating stars in her hands."
+"%SN raises her arm as a globe of stars encompasses her fist."
+""
+"%SN throws the sphere of stars at %T, which explodes into a column of cosmic energy."
+"The globe of stars enters %T's body and erupts sending cosmic energy reeling through their body!"
+0
+""
+"%SN throws the sphere of stars at %T, which explodes into a column of cosmic energy!"
+""
+"%SN's sphere of stars dissolves."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+80
+2
+"Galactica Gauntlet Blast"
+"ggb"
+0
+"%SN releases two glowing balls of light from her Galactica Gauntlets."
+""
+""
+"Two spheres of light slam into %T, knocking them to the floor."
+""
+0
+""
+"Two spheres of light converge into a huge golden beam and slam into %T!!"
+""
+"%SN's misses %T and blasts Sailor Phi"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+90
+2
+"Comet Splash"
+"cs"
+1
+"%SN fires off several golden comets of energy."
+"%SN's eyes flash with light as she fires off many golden energy comets."
+""
+"Several comets of golden energy slam into %T!"
+"%S2 energy comets slam into %T in rapid succession!!"
+0
+""
+"%SN's energy comets combine into one and slam full-force into %T!"
+""
+"%SN's energy comets fly right past %T."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+21
+100
+2
+"Golden Whip"
+"gw"
+0
+"%SN forms a golden whip of energy.  "
+""
+""
+"%SN cracks her whip against %T's side, leaving a large gash wound!"
+""
+0
+""
+"%SN cracks her whip in %T's face!! %T is flabbergasted!"
+""
+"%SN misses %T, and whips Sailor Chi in the face."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+50
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+70
+2
+"Dark Sword"
+"sword"
+0
+"%SN unsheathes a large black sword and dives at %T."
+""
+""
+"%SN slashes %T several times with her dark sword."
+""
+0
+""
+"%SN slashes %T several times and blasts them with her gauntlets!"
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+90
+2
+"Sapphire Crystal Empower"
+"sce"
+0
+"%SN extracts energy from the Sapphire Crystal."
+""
+""
+"%SN uses the Sapphire Crystal to empower %T!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+50
+50
+0
+0
+0
+50
+0
+50
+50
+0
+50
+0
+0
+0
+0
+0
+0
+3
+"Dimension Toss"
+"dt"
+0
+"%SN's Galactica Gauntlets flicker with light."
+""
+""
+"%SN gestures and %T falls away into her dimension."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Comet Rain"
+"cr"
+0
+"%SN gestures and the sky fills with light..."
+""
+"Stars from the heavens rain down onto %SN's enemies!"
+""
+""
+0
+""
+"A star embeds itself deep into %T's skull!!"
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+30
+60
+5
+"Golden Flash"
+"gf"
+0
+"%SN strikes her gauntlets together, forming a flash of golden light."
+""
+""
+"%T is struck by a blast of golden light."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Chaos Invasion"
+"ci"
+0
+"%SN touches %T on the forehead."
+""
+""
+"The spirit of Chaos rushes through %T's body..."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+8
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

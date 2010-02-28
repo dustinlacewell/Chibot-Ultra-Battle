@@ -1,0 +1,226 @@
+"Restore Materia"
+"restore-mat"
+"%SN grabs the Restore Materia."
+"The Restore Materia enables you to cure yourself."
+""
+5
+"Cure 1"
+"Cure 1"
+0
+"%SN casts Cure on %T."
+""
+"%SN casts Cure."
+"%SN casts Cure on %T and %T is slightly healed."
+""
+1
+"%SN casts Cure and %SN is slightly healed."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+90
+3
+"Cure 2"
+"Cure 2"
+0
+"%SN casts Cure 2 on %T."
+""
+"%SN casts Cure 2."
+"%SN casts Cure 2, healing %T greatly."
+""
+1
+"%SN casts Cure 2, healing %SN greatly."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+150
+3
+"Cure 3"
+"Cure 3"
+0
+"%SN begins to heal all allies."
+""
+"%SN begins to heal all allies."
+"%SN casts Cure 3, healing all allies."
+""
+1
+"%SN casts Cure 3, healing all allies."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+80
+1
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

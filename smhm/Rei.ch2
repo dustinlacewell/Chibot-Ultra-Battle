@@ -1,0 +1,564 @@
+"Rei"
+"Rei"
+0
+"rei"
+"%SN steps out of the Hiwaka Shrine as Rei!"
+"%SN burns with the passion of fire as she appears on the battlefield as Rei."
+40
+40
+80
+60
+""
+"%SN returns to the temple to meditate."
+"%SN holds up a powerful ofuda to protect her."
+"%SN's ofuda is burned."
+"%SN yells, 'I'm a better leader than that ditz, Usagi!'"
+""
+""
+""
+""
+"fsa"
+"%SN calls apon the fire within her soul."
+"%SN burns %T to a chrisp!"
+"Ofuda attack"
+"ofuda"
+0
+"%SN holds up an ofuda and begins to chant."
+""
+""
+"%SN grins as the ofuda smacks %T on the head."
+""
+0
+""
+""
+""
+"%T shreds the ofuda."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Ofuda Wall"
+"ow"
+0
+"%SN creates a wall of ofuda."
+""
+"%SN creates a wall of ofuda."
+"%SN protects herself from any harm."
+""
+0
+"%SN creates a wall of ofuda."
+""
+""
+"%T tears through the wall."
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+8
+"Sacred Flame Attack"
+"sf"
+1
+"%SN calls apon the powers of the sacred flame."
+"%SN calls apon the powers of the sacred flame."
+""
+"The flame rises and burns %T."
+"The flame becomes an inferno and fires %T."
+0
+""
+"%T is charcoal."
+""
+"%T doses the flame with water."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+150
+2
+"Mutliple Ofuda Attack"
+"moa"
+0
+"%SN lets loose several ofuda."
+""
+""
+"%SN's ofuda hit everyone!"
+""
+0
+""
+""
+""
+"%T avoids the ofuda."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+6
+"Divination"
+"div"
+0
+"%SN calls apon the devine energies of the Hiwaka Shrine."
+""
+""
+"%SN purges %T off all their evil."
+""
+0
+""
+"%T is left feeling week."
+""
+"%T destroys the Hiwaka Shrine."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Phobos"
+"phobos"
+0
+"%SN orders Phobos to attack %T."
+""
+""
+"The bird flies into %T's face blinding them."
+""
+0
+""
+"%T has feathers in their mouth."
+""
+"%T stabs the poor bird."
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+60
+2
+"Deimos"
+"deimos"
+1
+"%SN orders Deimos to attack %T."
+"%SN orders Deimos to attack %T."
+""
+"Deimos pecks %T's eyes out."
+"Deimos rips some of %T's vital organs out."
+0
+""
+"%Tisn't going to be walking away from this one."
+""
+"%T knocks Deimos down and steps on him."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+100
+2
+"Consult the Sacred Flame"
+"csf"
+0
+"%SN asks the sacred flame for guidence."
+""
+""
+"The flame tells %SN all she needs to know about %T."
+""
+0
+""
+""
+""
+"The flame tells %SN nothing."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+23
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"%T can't help but morn for the lose of the firey soul of %SN."
+""
+""
+""
+""
+"%SN bruns %T and spreads their ashes all over the world."
+""
+""
+""
+""
+""
+""
+""
+""

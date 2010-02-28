@@ -1,0 +1,564 @@
+"Bizzaro*Sephiroth"
+"bizzaro"
+0
+"bizzaro"
+"%SN uses the life forces of the Planet to become Bizzaro Sephiroth."
+"%SN joins in as Bizzaro Sephiroth."
+80
+30
+80
+30
+""
+"%SN drains the life energy from the Planet."
+"%SN blocks with its wings."
+""
+""
+""
+""
+""
+""
+"core annihilation"
+"%SN's core fires a yellow beam at %T."
+"The yellow beam rips %T apart!"
+"Blast"
+"att"
+0
+"%SN's points his right wing at %T."
+""
+""
+"An explosion occurs around %T!"
+""
+0
+""
+""
+""
+"An explosion occurs around %T but %T sustains no damage."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+50
+2
+"Bizarro Energy"
+"be"
+0
+"%SN folds its wings."
+""
+"%SN folds its wings."
+"%SN heals himself with bizarro energy."
+""
+0
+"%SN heals himself with bizarro energy."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+100
+8
+"Bolt 3"
+"b3"
+1
+"%SN points his left wing at %T."
+"%SN points his left wing at %T."
+""
+"A massive lightning bolt strikes %T!"
+"A massive lightning bolt strikes %T!"
+0
+""
+"A massive lightning bolt strikes %T!"
+""
+"%T dodges the lightning bolt."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+80
+2
+"Ice 3"
+"i3"
+1
+"%SN points his left wing at %T."
+"%SN points his left wing at %T."
+""
+"A dome of ice encloses %T."
+"A huge dome of ice encloses %T."
+0
+""
+"A dome of ice encloses %T."
+""
+"%T dodges the ice attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+80
+2
+"Quake 3"
+"q3"
+1
+"%SN points his left wing at %T."
+"%SN points his left wing at %T."
+""
+"A pyramid of blocks rises out of the ground under %T."
+"A massive pyramid of blocks rises out of the ground under %T."
+0
+""
+"A pyramid of blocks rises out of the ground under %T."
+""
+"%T dodges the earthquake."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+27
+80
+2
+"Fire 3"
+"f3"
+1
+"%SN points his left wing at %T."
+"%SN points his left wing at %T."
+""
+"A massive firebomb consumes %T."
+"An enormous firebomb consumes %T."
+0
+""
+"A massive firebomb consumes %T."
+""
+"%T dodges the firebomb."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+80
+2
+"Demi"
+"demi"
+0
+"%SN starts to cast ''Demi'' on %T."
+""
+""
+"%SN shoots a gravbomb at %T."
+""
+0
+""
+""
+""
+"%T dodges the gravbomb."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+19
+0
+2
+"Stop"
+"pots"
+0
+"%SN starts to cast ''Stop'' on %T."
+""
+""
+"A clock appears before %T. The clock stops. %T stops."
+""
+0
+""
+""
+""
+"A clock appears before %T. The clock stops. Nothing happens."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Heartless Angel"
+"ha"
+0
+"%SN calls upon evil angels to attack his foes."
+""
+"Evil angels enter everyone's bodies."
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+"Revive"
+"Revive"
+0
+"%SN starts to revive %T."
+""
+""
+"%T is revived by %SN."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+0
+3
+"~Safer*Sephiroth"
+"safer"
+0
+"%SN seems to have been defeated, but...."
+""
+""
+"%SN changes into the almighty SAFER SEPHIROTH!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Bizzaro Sephiroth, one of the final bosses."
+""
+""
+""

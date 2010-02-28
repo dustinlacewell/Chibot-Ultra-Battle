@@ -1,0 +1,560 @@
+"Toreador"
+"Toreador"
+""
+"Torrie"
+"Toreador appears enshrouded in shadow"
+"%SN appears in a boom of thunder"
+ 49 
+ 36 
+ 100 
+ 35 
+ 0 
+"%SN retreats into the shadows to recharg"
+"Toreador throws up a wall of roses"
+"%SN's rose wall falls apart"
+"%SN screams ''HEDONIST!''"
+""
+""
+""
+""
+"rose"
+"masses of roses fly from %SN's hands"
+"thousands of roses utterly destroy %T"
+"Sweet Song"
+"ss"
+ 0 
+"%SN sings and the music mezmerizes %T"
+""
+""
+"%T falls entranced"
+""
+ 0 
+""
+"%T falls totally entranced with the music and dies"
+""
+"%SN's voice gives out"
+ 100 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 50 
+ 2 
+"Auspex"
+"auspex"
+ 0 
+"%SN peers into %T's aura"
+""
+""
+"%SN sees all that is in %T's aura"
+""
+ 0 
+""
+""
+""
+"%SN sees nothing"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 23 
+ 0 
+ 2 
+"Celerity"
+"celerity"
+ 0 
+"%SN concentraits"
+""
+""
+"%SN moves faster"
+""
+ 0 
+""
+""
+""
+"%SN loses his speed"
+-1 
+-1 
+-1 
+-1 
+-1 
+-1 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+-1 
+-1 
+ 0 
+ 10 
+-1 
+-1 
+ 0 
+ 50 
+-1 
+ 0 
+ 0 
+-1 
+ 10 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 0 
+ 2 
+"Arms of the Abyss"
+"aota"
+ 1 
+"Tendrils of shadow flash around %T"
+"Shadows fom around %T"
+""
+"%T is torn by the tendrils"
+"%T is shredded by the tendrils"
+ 0 
+""
+"%T is ripped apart by the tendrils"
+""
+"%T the tendrils fade"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 140 
+ 2 
+"Moonlight Rapture"
+"mlr"
+ 1 
+"Moonlight shines around %T"
+"Rays of moonlight play over %T"
+""
+"%T is burned by the moonlight"
+"%T dies under the onslaught of moonlight"
+ 0 
+""
+"%T's flesh is seared by the moonlight"
+""
+"%SN's moonlight fades"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 
+ 280 
+ 2 
+"Blood Point Heal"
+"bph"
+ 0 
+"%SN uses a Blood Point to heal themselves"
+""
+""
+""
+""
+ 0 
+"%SN is healed"
+""
+""
+"%SN fails to heal themselves"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 100 
+ 3 
+"Touch of the Vampire"
+"totv"
+ 0 
+"%T is blessed"
+""
+""
+"%T is blessed"
+""
+ 0 
+""
+""
+""
+"%T is not blessed"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+"%SN yells ''FOOLS!! my clan shall avenge me!''"
+""
+""
+""
+""
+"%SN laughs "
+""
+""
+""
+""

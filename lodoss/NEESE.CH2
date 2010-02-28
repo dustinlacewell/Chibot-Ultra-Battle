@@ -1,0 +1,560 @@
+"Neese"
+"Neese"
+""
+"Neese"
+"%SN enters as the High Priestess of Marfa, Neese"
+"%SN enters as Neese"
+ 15 
+ 15 
+ 95 
+ 95 
+ 0 
+"%SN prays to Marfa for guidance"
+"%SN prays to Marfa for protection"
+""
+""
+""
+""
+""
+""
+"bramd"
+"%SN cries to the Ancient Ice Dragon Bramd for help"
+"Bramd freezes %T with his frost breath then he smashes them into little pieces"
+"Holy Healing"
+"Heal"
+ 0 
+"%SN summons her power of healing..."
+""
+"%SN summons her power of healing..."
+"%SN places her hands on %T and heals them.."
+""
+ 0 
+"%SN places hands on her chest and heals herself."
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 145 
+ 3 
+"Mass Heal"
+"Mass"
+ 0 
+""
+""
+"%SN tells all her allies to come to her."
+"%SN uses her healing ability to heal them all."
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 90 
+ 1 
+"Mass Holy Blessing"
+"Blessing"
+ 0 
+"%SN tells her allies to come to her as she prays to Marfa."
+""
+""
+"All of %SN 's allies have been blessed"
+""
+ 0 
+""
+""
+""
+"%T's spirit was too troubled to receive the blessing"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+"Mass Cure"
+"cure"
+ 0 
+""
+""
+"%SN tells all her allies to come to her as she prays to Marfa."
+"%SN's allies have been healed of all ills by the holy power of Marfa."
+""
+ 0 
+""
+""
+""
+""
+-1 
+-1 
+-1 
+-1 
+-1 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+-1 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 30 
+ 1 
+"Divine Ray"
+"ray"
+ 1 
+"%SN prays to Marfa as she raises her arms."
+"%SN prays to Marfa as she raises her arms."
+""
+"A Ray of Energy falls down from the sky and crashes into %T."
+"Suddenly %S2 Divine Rays rain down on %T."
+ 0 
+""
+""
+""
+"%T dives to the side and %SN's Divine Ray misses"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 70 
+ 2 
+"Holy Warrior"
+"warrior"
+ 1 
+"%SN prays to Marfa for help to fight %T"
+"%SN prays to Marfa for help to fight %T."
+""
+"%T is attacked by a invisible force that acts like warrior"
+"A invisible warrior appears behind %T and slashes them %S2 times"
+ 0 
+""
+""
+""
+"%T hits %SN over the head before she could finish the prayer"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 75 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

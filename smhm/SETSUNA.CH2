@@ -1,0 +1,564 @@
+"Setsuna"
+"Setsuna"
+0
+"setsuna"
+"%SN steps out of the shadows as Setsuna."
+"%SN jumps into battle as Setsuna."
+60
+60
+70
+30
+""
+"%SN polishes her Garnet Orb."
+"%SN uses the Garnet Orb Holder as a sheild."
+"%T knockes the Garnet Orb Holder out of %T's hands."
+"%SN cries, 'I'm Soldier of Revolution!'"
+""
+""
+""
+""
+"sgb"
+"%SN holds up the Garnet Orb."
+"A beam comes from the Garnet Orb and devistates %T."
+"Appear from Darkness"
+"ad"
+0
+"%SN appears from behind %T."
+""
+""
+"%T is caught totally by surprise."
+""
+0
+""
+"%T finds themselves on the floor."
+""
+"%T flings %SN."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"3rd talisman"
+"tt"
+0
+"%SN reveals that she has the 3rd Talisman."
+""
+""
+"%T tries to get it, but is smacked away by %SN."
+""
+0
+""
+"%T is out cold."
+""
+"%T decides not to take the Garnet Orb."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Garnet Orb Holder Strike"
+"hs"
+1
+"%SN pulls out the Garnet Orb Holder."
+"%SN pulls out the Garnet Orb Holder."
+""
+"%SN smacks %T with the holder."
+"%SN rams the holder through %T."
+0
+""
+"%T finds themselves in a puddle of blood."
+""
+"%T knockes the Garnet Orb holder away."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+90
+2
+"Luna P Toss"
+"lpt"
+1
+"%SN grabs %T."
+"%SN grabs %T."
+""
+"%SN tosses %T into the Luna P, trapping them."
+"%SN heaves %T into the Luna P, trapping them."
+0
+""
+"%T is trapped there for all eternity."
+""
+"%T runs away from %SN."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+100
+2
+"Time Gate Close "
+"tgc"
+0
+"%SN holds up the Garnet Orb Holder."
+""
+""
+"%SN closes the gates of time on %T, leaving them stuck in it forever."
+""
+0
+""
+"%SN closes the gates of time on %T, leaving them stuck in it forever."
+""
+"%T teleports away from %SN."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+150
+2
+"Ultimate Slow Down"
+"usd"
+0
+"%SN smiles and calls on the powers of Chronos."
+""
+""
+"With the powers of Chronos, %SN slows down time for everyone!"
+""
+0
+""
+"With the powers of Chronos, %SN slows down time for everyone!"
+""
+"%T just managed to slip past the powers of the time god."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"One of the most powerful senshi has died."
+""
+""
+""
+""
+"%SN aged you didn't she!"
+""
+""
+""
+""
+""
+""
+""
+""

@@ -1,0 +1,560 @@
+"Kestra the Lotus Healer"
+"kestra"
+""
+"Kestra"
+"%SN appears in a flury of lotus petals as Kestra the Lotus Healer!"
+"%SN sppears in a huge lotus blossom as Kestra the Lotus Healer"
+ 43 
+ 32 
+ 82 
+ 63 
+ 0 
+"%SN glides back to her palace and recharges herself"
+"%SN sends a shower of Lotus petals to block her"
+"%T evades the lotus petals"
+""
+""
+""
+""
+""
+"lr"
+"%SN raises her arms and thousands of lotus blossoms swirl around her"
+"the lotuses fly at %T and cover them, destroying their body"
+"Lotus Heal"
+"lh"
+ 0 
+""
+""
+"The glowing emblem of the mighty Lotus Healers hangs in the air before %SN"
+""
+""
+ 0 
+"the lotus flashes and healing energies sweep through %SN"
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 0 
+ 3 
+"Bloom Revival"
+"br"
+ 0 
+""
+""
+"%SN concentraits on %T"
+""
+""
+ 0 
+"a lotus emblem appears on %T's head and revives them."
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 17 
+ 0 
+ 3 
+"Lotus Blast"
+"lb"
+ 0 
+"%SN waves and lotus energies form a ball "
+"%SN chants and many lotus energy balls appear"
+""
+"the lotus ball strikes %T and they scream in pain"
+"balls of lotus energy rush at %T "
+ 0 
+""
+"%T is ripped apart by the lotus energies"
+""
+"the lotus balls flicker and vanish"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 100 
+ 2 
+"Lotus Flash"
+"lf"
+ 0 
+"Lotus petals float in the air around %SN"
+""
+""
+"%T is hit with the lotus petals"
+""
+ 0 
+""
+"%T is ripped apart by the lotus blooms"
+""
+"The lotuses wilt and die"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 60 
+ 2 
+"Bloom Bless"
+"bb"
+ 0 
+"%SN chants and lotus energies swirl in the air"
+""
+""
+"%T is invogerated by the energies"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+"Curse of the Lotus Healer"
+"cotlh"
+ 0 
+"%SN growls in anger as her hands fly from under her robes"
+""
+""
+"%T is hit by the mythical Curse of the Lotus Healer(rut roh!!)."
+""
+ 0 
+""
+""
+""
+""
+ 100 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Onyx Spires"
+"os"
+ 0 
+"%SN calls upon the gemstone powers granted upon her"
+""
+""
+"a spire of onyx rips up from the ground under %T and peirces them"
+""
+ 0 
+""
+"a spire of sharp onyx tears from the ground and rips through %T"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 100 
+ 2 
+"Gemstone Devestation"
+"gd"
+ 0 
+"%SN glows with diamond and sapphire energy"
+""
+""
+"%T is bombarded by rays of diamond and sapphire energies"
+""
+ 0 
+""
+"%T mis thrashed by the gemstone energies"
+""
+"the energies leave %SN"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 60 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+"%SN chants ''the lotus looks small and fragile but it hides great power, I will return''"
+""
+""
+""
+""
+"%SN whispers ''Noone can stand the might of the Lotus Healer!''"
+""
+""
+""
+""

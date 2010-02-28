@@ -1,0 +1,560 @@
+"Karla"
+"Karla"
+""
+"Karla"
+"%SN enters as the Feared Grey Witch, Karla"
+"%SN enters as Karla"
+ 10 
+ 10 
+ 100 
+ 100 
+ 0 
+"%SN takes a break to think of the best way to maintain the balance of Lodoss"
+"%SN uses her magic to defend herself"
+""
+""
+""
+""
+""
+""
+"fallberg"
+"%SN chants her most powerful 'Ice' spell"
+"Suddenly a giant Iceberg falls down from the sky onto %T, crushing the very life out of them"
+"Magic Spell Fog"
+"Fog"
+ 0 
+"%SN chants a 'Fog' spell"
+""
+"%SN looks at her enemies through her enhanced sight"
+"A huge Blanket of Fog rolls in making it hard for %T to see"
+""
+ 0 
+""
+""
+""
+"%T has incredible eyesight so the fog doesn't bother them"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 80 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 5 
+"Magic Spell Chaos"
+"chaos"
+ 0 
+"%SN chants a 'Chaos' spell"
+""
+"%SN mesmerizes her enemies and causes them to fight among themselves"
+""
+""
+ 0 
+""
+""
+""
+"%T's mind was too strong"
+ 0 
+ 20 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 5 
+"Magic Spell Teleport"
+"teleport"
+ 0 
+"%SN chants a 'Teleport' spell"
+""
+""
+"%SN suddenly teleports to somewhere else"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+"Magic Barrier"
+"barrier"
+ 0 
+"%SN chants a 'Barrier' spell"
+""
+""
+"A magical barrier forms around %T"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Lightning Bolt"
+"bolt"
+ 0 
+"%SN glows with power as she chants a 'Lightning' spell"
+""
+""
+"A crackling lightning bolt erupts from %SN's hands and smashes into %T"
+""
+ 0 
+""
+""
+""
+"%T evaded %SN's powerful Lightning Bolt"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 85 
+ 2 
+"Iceball"
+"ice"
+ 1 
+"%SN chants a 'Ice' spell"
+"%SN glows with power as she chants a more powerful 'Ice' spell"
+""
+"A huge Ice ball appears in front of %SN then it hurls forward and smashes into %T"
+"A huge storm of ice balls rain down %T"
+ 0 
+""
+""
+""
+"%T evaded %SN's strong Iceball"
+ 0 
+ 0 
+ 5 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 70 
+ 2 
+"Fireball"
+"Fire"
+ 1 
+"%SN chants a 'Fire' spell"
+"%SN glows with power as she chants a more powerful 'Fire' spell"
+""
+"A huge fireball forms in %SN's palm then she throws it at %T"
+"%SN creates %S2 fireballs then throws them all at %T"
+ 0 
+""
+""
+""
+"%T dodged out of the way of %SN's incoming Fireball"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 75 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

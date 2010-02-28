@@ -1,0 +1,560 @@
+"Spork"
+"Spork"
+""
+"~spork"
+"It's a bird! It's a fat pig! NO! It's Super Spork!!"
+"%SN joins in as Super Spork."
+ 25 
+ 35 
+ 85 
+ 75 
+ 0 
+"%SN sits down and twiddles his thumbs."
+"%SN uses a shovel for a shield."
+"%T got to %SN while they were using the shovel to shovel!"
+""
+""
+""
+""
+""
+"smash"
+"%SN tuns at %T with his Shovel."
+"%SN smashes %T into the pavement with his Shovel."
+"Shovel of Doom"
+"sod"
+ 0 
+"%SN raises his shovel."
+""
+""
+"%SN whaps %T with his shovel."
+""
+ 0 
+""
+"%SN smashes %T with his shovel!"
+""
+"%SN's wide arc missed %T."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 2 
+"Angel of Mine"
+"aom"
+ 0 
+"%SN begins singing Angel of Mine by Monica."
+""
+""
+"A little angel comes down to aid %SN."
+""
+ 0 
+""
+""
+""
+"%SN forgot the words..."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+"Tornado"
+"tno"
+ 1 
+"%SN begins to chant a spell and the air around %T begins to move."
+"%SN begins to chant a spell and the air around %T begins to move."
+""
+"The air around %T slams them into the ground."
+"The air around %T flings them high into the sky."
+ 0 
+""
+"The air around %T slams them into a wall."
+""
+"The air around %T stops moving."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 28 
+ 60 
+ 2 
+"Hot Water Geyser Inferno"
+"hwgf"
+ 1 
+"%SN gestures at the ground beneath %T."
+"%SN gestures at the ground beneath %T."
+""
+"A geyser bursts from the ground, tossing %T into the air."
+"A bioling geyser erupts from the ground and scolds %T!"
+ 0 
+""
+"A geyser bursts from the ground flings %T across the room."
+""
+"There was no water beneath %T"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 80 
+ 2 
+"Questionable Origin 4th Dimension"
+"qod"
+ 0 
+"%SN prepares to cast a spell."
+""
+""
+"%T is surround in a black aura of strange origination."
+""
+ 0 
+""
+"%T is blown away by a strange aura of energy."
+""
+"%SN failed to cast the spell."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 30 
+ 2 
+"Life Surrender"
+"ls"
+ 0 
+"%SN prepares for his final spell."
+""
+""
+"%SN casts a spell and dies, healing all his allies."
+""
+ 0 
+""
+""
+""
+"%SN forgot how that spell went..."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 7 
+ 0 
+ 3 
+"Death Incarnate Bloody Mortis Strike"
+"dibms"
+ 0 
+"%SN's pupils turn pitch black and dilate."
+""
+""
+"A beam emits from %SN's body, blasting %T."
+""
+ 0 
+""
+"A stream of energy blasts from %SN's body, ripping %T apart!"
+""
+"The darkness is unexpectedly lifted from %SN."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 90 
+ 2 
+"Bolt X"
+"bolt-x"
+ 0 
+"%SN's hand turns blue."
+""
+"%SN sends a Stream of Lightning cascading across the room, hitting everyone!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 40 
+ 5 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

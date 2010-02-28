@@ -1,0 +1,564 @@
+"Nidorino"
+"Nidorino"
+2573
+"Nidorino"
+"%SN is now Nidorino. (#033)"
+"%SN joins in as Nidorino. (#033)"
+50
+50
+50
+50
+""
+"%SN recovers."
+"%SN blocks."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Leer"
+"leer"
+0
+"%SN glares at %T."
+""
+""
+"%SN stares %T's barriers away!"
+""
+0
+""
+""
+""
+"%T stares %SN down. %SN is confused!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-1
+-1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Tackle"
+"tackle"
+1
+"%SN charges at %T."
+"%SN dashes at %T."
+""
+"%SN tackles %T!"
+"%SN smashes %T to the moon!"
+0
+""
+"%SN tackles %T so hard they slam into a tree!"
+""
+"%T dodges and %SN runs into a tree."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T dodges and %SN runs into a tree."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+"Horn Attack"
+"Horn Attack"
+1
+"%SN charges at %T."
+"%SN charges at %T."
+""
+"%SN butts %T with its horns!"
+"%SN butts %T with its horns!"
+0
+""
+""
+""
+"%SN tried to attack %T but missed."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%SN tried to attack %T but missed."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Poison Sting"
+"Poison Sting"
+1
+"%SN moves toward %T."
+"%SN goes toward %T."
+""
+"%SN stings %T!"
+"%SN stings %T with poison!"
+0
+""
+""
+""
+"%T quickly evades %SN's sting."
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+"%T quickly evades %SN's sting."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+70
+90
+2
+"Focus Energy"
+"Focus Energy"
+0
+"%SN focuses its energy."
+""
+""
+"%SN gains Bless!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+8
+"Fury Attack"
+"Fury Attack"
+1
+"%SN gets mad at %T!"
+"%SN gets really P.O.'d at %T!!"
+""
+"%SN attacks %T four times!"
+"%SN attacks %T %S2 times!"
+0
+""
+"%SN attacks %T eight times!"
+""
+"All of %SN's attacks missed %T."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"All of %SN's attacks missed %T."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+"Horn Drill"
+"Horn Drill"
+1
+"%SN charges at %T."
+"%SN dashes at %T."
+""
+"%SN attacks %T using its horn as a drill!"
+"%SN drills %T really good!"
+0
+""
+""
+""
+"%T dodges %SN's horn drill."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T dodges %SN's horn drill."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+120
+2
+"Double Kick"
+"Double Kick"
+1
+"%SN dashes at %T."
+"%SN charges at %T!"
+""
+"%SN kicks %T twice."
+"%SN beats the <TOS> outta %T!"
+0
+""
+"%SN kicks %T four times!"
+""
+"%T dodges %SN's kick."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+130
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"~Nidoking"
+"evolve"
+0
+"%SN glows with a bright white light."
+""
+""
+"%SN evolves into Nidoking! (morph)"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Type: Poison"
+"Height: 2' 11''"
+"Weight: 43 lb."
+"An aggressive Pokemon that is quick to attack. The horn on its head secretes a powerful venom."

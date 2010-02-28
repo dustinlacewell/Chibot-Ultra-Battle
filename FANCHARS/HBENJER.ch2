@@ -1,0 +1,560 @@
+"Hellectic BenJer"
+"HBenJer"
+""
+"~Itstimefortheworldtomeetbenjer"
+"BenJer stands, armed with massive weapons of ultimate destruction."
+"Everyone in the arena turns to notice BenJer, as he enters the arena."
+ 0 
+ 45 
+ 100 
+ 75 
+ 0 
+"BenJer levitates in a bacta tank."
+"BenJer holds out his hand, and scoffs."
+"BenJer screams, and his block fails."
+"BenJer says, 'Face it, it's hopeless.  I'll meet you in hell.'"
+""
+""
+""
+""
+"epi"
+"Two energy pillars appear, one under %T and one above %T."
+"The energy pillars converge, smashing %T!"
+"Star Pendant"
+"sp"
+ 0 
+"BenJer swings his Star Pendant, as energy radiates from it."
+"BenJer swings his Star Pendant, as energy radiates from it."
+""
+"The energy dispels onto %T, curing them of all status."
+""
+ 0 
+"The energy dispels onto BenJer, curing them of all status."
+""
+""
+"BenJer drops the Star Pendant."
+-1 
+-1 
+-1 
+-1 
+-1 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+-1 
+ 0 
+ 0 
+-1 
+-1 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 120 
+ 3 
+"Devil's Pendant"
+"dp"
+ 0 
+"BenJer swings the Devil's Pendant, as a red aura glows around it."
+""
+""
+"The aura surrounds %T, canceling their good status!"
+""
+ 0 
+""
+""
+""
+"BenJer accidentally throws the Devil's Pendant."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+-1 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Praiser's Pendant"
+"pp"
+ 0 
+"BenJer swings the Praiser's Pendant, as a holy light engulfs %T"
+""
+"BenJer swings the Praiser's Pendant, as a holy light engulfs him."
+"%T is empowered by the Holy energy!"
+""
+ 0 
+"BenJer is empowered by the Holy energy!"
+""
+""
+"The Praiser's Pendant shatters!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 50 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Hovering Tranquilizer"
+"ht"
+ 0 
+"BenJer throws green dust into the air."
+""
+"%T inhales the green dust and falls asleep!"
+""
+""
+ 0 
+""
+""
+""
+"BenJer eats the green dust."
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 5 
+"Arrow Upstart"
+"au"
+ 0 
+"BenJer releases the gospellic arrow of light towards %T's corpse."
+""
+""
+"The arrow implants itself into %T's corpse, reviving them!"
+""
+ 0 
+""
+""
+""
+"Crap!  The arrow missed!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 17 
+ 0 
+ 3 
+"Cloak of Darkness"
+"cod"
+ 0 
+"BenJer covers himself in a dark cloak."
+""
+""
+"BenJer rips off the cloak and reveals himself as %T!"
+""
+ 0 
+""
+""
+""
+"BenJer fails to morph."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+ 0 
+ 2 
+"Tri-Yari Spiral"
+"tys"
+ 1 
+"BenJer twirls his Yari, as dark energy spirals around the arena."
+"BenJer twirls his Yari, as dark energy spirals around the arena."
+"The dark energy spirals envelop %T, shocking them!"
+"The dark energy spirals envelop %T, shocking them!"
+"The dark energy spirals go inside %T, shocking them from the inside!"
+ 0 
+""
+"The dark energy spirals envelop %T, shocking them!"
+""
+"%T dodges the energy spiral."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 80 
+ 5 
+"Murasami Cosmic Energy Blade"
+"mces"
+ 1 
+"BenJer forms a Murasami blade of Dark energy."
+"BenJer forms a Murasami blade of Cosmic energy."
+""
+"BenJer swings the sword, as an energy slash scars %T!"
+"BenJer rips through %T with the Cosmic Murasami Blade, scoring multiple hits!"
+ 0 
+""
+"BenJer swings the sword, as an energy slash scars %T!"
+""
+"%T dodges the Murasami Slash."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 59 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 175 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+"Holes of light break through BenJer's body, as a light engulfs the arena."
+""
+""
+""
+""
+"BenJer banishes %T's soul to hell."
+""
+""
+""
+""

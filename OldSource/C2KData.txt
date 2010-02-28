@@ -1,0 +1,373 @@
+*** CHUB 2000 ***
+*** DATASET MAKER'S GUIDE ***
+(or, how to make characters that don't suck)
+
+    This guide can be read by itself. However, to get the fullest understanding of Chibot Ultra Battle, it is advisable to read all three Guides: Player's Guide, Host's Guide, and Dataset Maker's Guide.
+
+
+    I. What is a Dataset?
+
+    A Dataset is a collection of characters, weapons, items, and arena that define your Chibot Ultra Battle game. The only thing required to make a dataset is an init file (*.INI), but in order to have a meaningful dataset, you will need at least one character, item, arena, and youma.
+
+
+    II. How do I make a Dataset Init File?
+
+    Go into your favorite text editor (or Notepad) and make a new file. Let's call ours "TUTORIAL.INI". The first six lines are the strings for the dataset. Here's what they are:
+
+    Line 1: Dataset Name
+    Line 2: Begin Selection
+    Line 3: End Selection / Prepare for Battle
+    Line 4: Begin Battle
+    Line 5: Pause Battle
+    Line 6: Un-Pause Battle
+    Line 7: End Battle
+    Line 8: Should always say [More]
+    Line 9: Clear Characters String
+    Line 10: Chars NOT Cleared String
+    Line 11: Abort Battle String
+    Line 12: Defects ON (%SN = Name)
+    Line 13: Defects OFF (%SN = Name)
+    Line 14: I Want A Draw (%SN = Name)
+    Line 15: I don't Want A Draw (%SN = Name)
+    Line 16: Unmorph String (%SN = Name, %S2 = character being unmorphed into)
+    Line 17: No effect, put a ""
+    Line 18: No effect, put a ""
+    Line 19: /flee fail string (%SN = Name)
+    Line 20: /get when there is no /get item (%SN = Name)
+    Line 21: Divert String (%SN = Name, %S2 = Amount)
+    Line 22: Not enough MP String (%SN = Name, %T = Move, %S2 = MP Required, %Y = Current MP)
+    Line 23: Game Ends when everyone dies
+    Line 24: Drawn by agreement
+    Line 25: 1 (Game) Hour Left
+    Line 26: 30 (Game) Minutes Left
+    Line 27: 20 Minutes Left
+    Line 28: 10 Minutes Left
+    Line 29: 5 Minutes Left
+    Line 30: 2 Minutes Left
+    Line 31: Sudden Death Warning (1 Min Left)
+    Line 32: 1 Minute Left (CTF)
+    Line 33: 30 Seconds
+    Line 34: 15 Seconds
+    Line 35: 5 Seconds
+    Line 36: Ran out of Time
+    Line 37: You Win
+    Line 38: You Lose
+    Line 39: Respawn (%SN = Name)
+    Line 40: Voting Start
+    Line 41: Leave it as ""
+    Line 42: Oops String (%SN = Name) 
+    Line 43: Random Select (%SN = Name, %S2 = Char. Selected)
+    Line 44: Character Taken (%SN = Name, %S2 = Character, %T = Other player)
+    Line 45: Successful Defect (%SN = Name, %Y = Person Defected to, %S2 = Team Name, %T = Team ID)
+    Line 46: Failed Defect (same)
+    Line 47: Fleeing (%SN = Name)
+    Line 48: Super Hit Kill (%SN = Attacker, %T = Killed Player, %S2 = # of Hits, %Y = Move Name (All Caps)
+
+    All lines below that are filenames which point to the files of your dataset.
+
+    As an example, let's put in your TUTORIAL.INI:
+
+"Tutorial Dataset"
+"-- Choose a Character (ex: /moon) --"
+"-- End Select: Prepare to Fight! --"
+"-- Tutorial Battle has BEGUN! --"
+"-- Tutorial Battle has PAUSED {S Drop} --"
+"-- Tutorial Battle has UNPAUSED --"
+"-- Tutorial Battle has been ENDED! {S Goodbye} --"
+C:\<chpath>\SMEB\*.CH2
+C:\<chpath>\ARENAS\*.AN?
+C:\<chpath>\ITEMS\*.ITM
+C:\<chpath>\WEAPONS\*.WPN
+
+If you do not use a [More] after the Battle Ended String, it will assume default values for the rest. After the Battle Ended string is the only place you can put in a [More].
+
+Replace <chpath> with the full DOS pathname of the directory your copy of Chibot is located in. For example, if you unzipped the file to C:\CHUB then the first line would be
+
+C:\CHUB\SMEB\*.CH?
+
+BTW, the *.CH? means "Load all character files in this directory." (ChUB 2000 does not support old .CHR files.) You may use other DOS wildcards, for example:
+
+C:\CRAP\E*.*
+
+will load all usable files that begin with the letter E in the folder C:\CRAP.
+
+C:\CHUB\FINFANT\*.CH2
+
+will load only NEW (CH2-format) characters from C:\CHUB\FINFANT.
+
+C:\STUFF\MO?N.CH?
+
+will load any characters that start with the letters "M", "O", and have an "N" in the third position of the filename, from the folder C:\STUFF.
+
+And finally...
+
+C:\CHUB\NEWCHAR\??????~?.*
+
+will load all files that are longer than 8 characters, assuming your hard drive is formatted for FAT32 (long filenames).
+
+C:\CHUB\NEWCHAR\Cloud Strife.ch2
+
+THIS IS NOT ACCEPTABLE! Chibot Ultra Battle cannot load 32-bit filenames.
+Instead, use:
+
+C:\CHUB\NEWCHAR\CLOUDS~1.CH2
+
+However, if you use
+
+C:\CHUB\NEWCHAR\*.CH2
+
+then "Cloud Strife.ch2" WILL be loaded along with any other files in that directory. However, the method I've asked you to put in your TUTORIAL.INI works the best, since it automatically adds entities (characters, items, arenas, youma) as you save them into one of the above directories.
+
+Now, run Chibot. Select TUTORIAL.INI and you will have a simple game of Sailor Moon, assuming you unzipped Chibot correctly.
+
+
+    III. What happened to YOUMA?
+
+    Youma were deleted because nobody used them.
+
+
+    IV. How do I make ITEMS?
+
+    Items are easy to make. Most of this is filling in the blanks, but you must be careful of what you make.
+
+    Variables: Use %SN for the person's name, and %Y for the youma's name who gets the item.
+
+    Name: Name of the item (shown in the battle window)
+    Spawn: Shown when the item appears.
+    Telefrag: When an item disappears to make room for another, the telefrag string is shown.
+    Get String: Type in what you want shown when the person/youma gets the item.
+    HP, MP: Enter the amount of HP or MP gained. Use a negative number (e.g., -100) to subtract HP or MP. Youma are not affected by MP changes.
+    Mute, Chaos, Freeze, etc: Click these to indicate which status the items give.
+
+
+    Time for a few sample items. Let's make a green amulet that gives Life3 when picked up.
+
+    Name: Green Amulet
+    Spawn: A green amulet tied to a string appears before you.
+    Telefrag: The amulet explodes spontaneously!
+
+    Get: %SN picks up the amulet and wears it around their neck.
+    HP: 0
+    MP: 0
+    Life3: Checked
+
+    Save this as ITEMS\AMULET.ITM, then clear it using the menu. Now, how about a Quad Damage from Quake?
+
+    Name: Quad Damage
+    Spawn: A glowing blue 'Q' appears on the field.
+    Telefrag: Someone grabs the 'Q' and runs away.
+
+    Get: %SN grabs the Quad Damage.
+    Bless: Checked
+
+    Save as ITEMS\QUADDAMA.ITM, and let's make one more: Can of Cheeze Balls.
+
+    Name: Cheeze Balls
+    Spawn: A can of Cheeze Balls appears.
+    Telefrag: The Cheeze Balls fly out of the can and vanish.
+
+    Get: %SN eats up the entire contents of the can of Cheeze Balls!
+    HP: 200
+    MP: 200
+    Check the following: Haste, Regen, Quick, PBarrier, MBarrier, Bless.
+
+    As you can see, it is very easy to make cheap items! So be careful when making items.
+
+
+    V. How do I make ARENAS?
+
+    Arenas are the locales where your players fight. Arenas are composed of 4 things: the damage modifiers, the events, the description, and the HP/MP restoration modifiers.
+
+    The description can be up to 10 lines long and is displayed in the arena selection screen, and when the options are listed.
+
+    The damage modifiers help to personify your arena. You can change the multipliers for various elements, such as fire and water. Before subtracting the damage that is done to a person, it is multiplied by the element's multiplier. If your arena is based on Rei's shrine, then you could have Fire
+multiplied by 2. There is also an "all" multiplier which will affect all elements. This is in addition to the elemental multipliers -- so if your "all" multiplier is 0.5 and the "Lightning" mutiplier is 2, then "Lightning" will do the same damage as it would in a normal arena.
+
+    The HP/MP modifiers change how much HP and MP are restored in the arena. You can also change the gradual rate of HP/MP recovered per (game) second.
+
+    The events are the coolest part of arenas! You can have events to help or harm players. To have events do damage, put a positive number in the HP Damage box. To have them heal, put a negative number. You can also have events affect ALL the people in the battle, youma included. The one thing that needs
+explanation is Frequency. This should be a low number around 1 through 5. 5 means very frequently and 1 means rare.
+
+    Here is a sample arena. Save it as NUCLEAR.AN2.
+
+    Name: Nuclear Power Plant
+    Description:
+         Nuclear power is said to be one of the safest
+         means of producing electricity. However, after
+         being on the inside of this plant, you'll never
+         want to be within 100 miles of a power plant
+         again.
+
+    HP restored per Rest: -10, 50   (That's a -10)
+    MP restored per Rest: 30, 50
+    HP restored per second: 0
+    MP restored per second: 2
+
+    Leave all Damage Multipliers alone.
+
+    Event 1:
+         Name "Rad Poisoning"
+         HP Damage: 50
+         Frequency: 3
+         Hits All: Leave unchecked
+         Hit: "A radiation leak from the reactor poisons %T! [50]"
+         Miss: "The reactor leaks radiation."
+
+    Event 2:
+         Name "Minor Explosion"
+         HP Damage: 100
+         Frequency: 2
+         Hits All: Unchecked
+         Hit: "A panel near %T explodes, sending them flying! [100]"
+         Miss: "A panel explodes!"
+
+    Event 3:
+         Name "Meltdown!!!"
+         HP Damage: 9999 (as many 9's as will fit)
+         Frequency: 1
+         Hits All: Checked
+         Hit: "The nuclear reactor melts down, killing everyone inside! [9999]"
+         Miss: "A nuclear meltdown is imminent, but is quickly dealt with."
+
+    Try this arena, but use your Life3 wisely, for if the nuclear reactor should melt down and you have Life3, you will return to life!
+
+
+    VI. How do I make CHARACTERS?
+
+    I've saved this section for last, because it is the most difficult aspect of creating a dataset. I've seen characters made by various people, and it appears that not many people know how to make a character correctly.
+
+    I'll start with the basics.
+
+    The character's FULL NAME is what is shown in the list of players in the game. The character's TARGETING ID is an alias for the FULL NAME and can be used in place of the FULL NAME for targeting, such as in the /moves command. The COMMAND KEY is the command typed in to pick the character. The COMMAND KEY
+can also be used in place of the FULL NAME for getting moves, but it's usually easiest to use the TARGETING ID.
+
+    In the Chibot Character Editor, the COMMAND KEY is the box with a / to the left of it. DO NOT PUT ANOTHER SLASH IN THE BOX. If you put "/HOSER" in the box, then the selection command to get the character will be "//hoser" which is impossible to do. (Try it in a chatroom and find out what happens.)
+
+    Important variables in most of the strings are %SN and %T. %SN stands for the name of the person playing the character, and %T is replaced with the target of the person's move. For example, if you are MrNough38 attacking ChiPol4 with Death Ribbon Revolution, then:
+
+    %SN holds out the Silence Glaive toward %T
+
+will be shown as
+
+    MrNough38 holds out the Silence Glaive toward ChiPol4
+
+    The Selection String is the line of text shown when the character is chosen at selection. The Select Join String is shown when the character is picked in the middle of a battle. DON'T GET THESE CONFUSED! It shouldn't be too difficult to mix them up.
+
+    Rest, Block, Block Failed, and Block Successful are self-explanatory. For Block and Block Failed, you can put in a %T, but if you do /block when nobody is attacking you, %T will be replaced with a blank. There are five Taunts, Kill Strings, and When Killed Strings.
+
+    TAUNTS are displayed when the person types /taunt. It is recommended you have at least one taunt.
+    KILL STRINGS are displayed when the PLAYER MAKES A KILL against an enemy. Replace %T with the name of the enemy killed.
+    WHEN KILLED STRINGS are displayed when the PLAYER IS KILLED. In the past, you could use %T for the name of the person who killed you, but now %T will display nothing, so try to avoid using %T.
+
+    THE FATALITY is a move that can be done when an enemy is at 1/6th of Maximum HP or less. It will add insult to humilation, kill the target instantly, and nullify their chances of being lifed by their Life3 effect. 
+    The FATAL COMMAND KEY has a white / to its left, just like the Selection String. DO NOT PUT ANOTHER SLASH HERE. You do NOT have to put anything here -- if you leave it blank, they won't be able to use a fatality.
+    PRE-FATAL STRING is shown when the person doing the Fatality starts to execute the fatality by using the FATAL COMMAND KEY.
+    FATAL MOVE STRING is shown when the fatality is carried out and the enemy is killed.
+    Fatalities take 20 or more game seconds to execute, while normal moves take 15 to execute.
+
+    Here's an important part: the Physical and Magical Strength and Defense.
+    PHYSICAL STRENGTH affects the amount of damage that your PHYSICAL MOVES will do. EVERYONE should have at least ONE Physical Attack, or else the effects could be devastating if the player is muted.
+    PHYSICAL DEFENSE is a measure of how well your character can hold up against Physical Attacks.
+    MAGICAL STRENGTH affects everything but NoDmg and Physical moves. If you have a low Magical Strength, then a bundle of Physical Moves would probably be recommended.
+    MAGICAL DEFENSE is a measure of how well your character can hold up to magic attacks, such as Fire and Lightning. Note that "Demi" is not a Physical OR Magical attack.
+
+    Note that these stats combined cannot total more than 220. This is to prevent cheeziness. In ChUB 2000, the damage system was redone. Defense will still lower the damage taken by attacks, but now if you have a bigger defense, you have a greater chance of evading attacks. A defense value of 100 will make it a 50/50 chance on whether you get hit by a move of that type or not. Defense has no bearing on evading "NoDmg" attacks.
+
+    WEAK TO is the element that this character will take extra damage from.
+    RESISTANCE is the element that this character will take less damage from.
+    If both WEAK TO and RESISTANCE are the same element, then the character has no weakness nor strength against any particular element. This is the default for new characters.
+
+    Now, I shall discuss MOVES. The moves make the man (or woman), as they say. If your character's moves are crappy, your character won't be worth playing. Of course, there is a difference between "good" and "cheezy" moves.
+
+    MOVE NAME: Name of the Move, shown in the NeoStatus screen and in /status.
+    COMMAND KEY: Just like a Selection Command Key. DO NOT PUT ANOTHER /     
+    Can be Supered?: Only Physical and Magic attacks can be Supered. Even though other elements might not gray out the box, it still won't Super. Also note that moves that hit more than one person when not Supered, ONLY HIT ONE PERSON WHEN SUPERED. This applies for ALL moves. Supers hit ONE person and ONE
+person only.
+    MOVE BEGIN: String shown when COMMAND KEY is entered, eg:
+         %SN starts to put the smack down on %T
+    SUPER BEGIN: String shown when COMMAND KEY is entered with a Super Modifier (/3-move), eg:
+         %SN starts to put the Supa Smaka down on %T
+    HEAL SELF BEGIN: Only needed in cure/healing moves, and only shown when the target is oneself. Example:
+         %SN starts to heal herself.
+      If your MOVE BEGIN for a heal move is something like "%SN puts their hand on %T and tries to heal them" and a HEAL SELF is not defined, then you'll get something like:
+         HoserChi puts their hand on HoserChi and tries to heal them
+      and this looks pretty dorky ^_^ so make a HEAL SELF!
+    POST-MOVE A: This is only available on moves that hit more than one enemy. This string is shown when the move is about to hit, but before anyone is actually damaged.
+    POST-MOVE B: This string is shown when the move is completed and everyone has been hit. For these types of moves I recommend you do NOT use a Move Hit string (below) because this will cause a great deal of scrolling -- and it also draws attention to your overly cheap character should you have a move that hits all enemies.
+    MOVE HIT: Shown when the move hits an enemy.
+    MOVE MISSED: Duh. Think about it.
+    CRITICAL HIT: About 1 in 10 times, a move will do double damage for a critical hit -- this string is shown INSTEAD OF, not in addition to, the MOVE HIT string. If this is not defined then the move hit string is shown instead.
+    SUPER HIT: Super Move successful
+    SUPER MISS: Super Move missed!
+    MOVE STRENGTH: Not many people know what this means. The Move Strength is the AVERAGE amount of damage your attack will do when used on someone who has the same Defense as you do Attack. Attacks do radically different damage when Supered, and it usually depends on the number of hits inflicted. A weak move,
+or /att, will have 20 in this box. (Any moves that have 20 or less Move Strength require no MP unless status modifiers are added.) A medium move is about 50, and a strong move would be 100. Be reasonable. Here is where a lot of the cheese is produced. If you're hosting and playing a cheap character, the
+players may decide to /hostboot you (see CHIPLAY.TXT for info).
+
+    TARGET: Here's what you can have for the Target:
+    SELF ONLY: Move works only on oneself, default target self. (/attacking will show you attacking yourself)
+    ALL ALLIES: Move works on all of your allies, default target own team.
+    ONE ALLY: Move works on one ally, default target self.
+    ONE ENEMY: Move works on one enemy, default target enemy.
+    ONE ENEMY TEAM: Move works on an entire team of enemies, default target enemy team.
+    ALL ENEMIES: Move works on all enemies, default target irrelevant.
+    EVERYBODY: Move works on every entity in the battle, default target irrelevant.
+
+    ELEMENT: All elements but these elements are "magic" elements:
+    PHYSICAL: Inflicts Physical Damage.
+    NODMG: Inflicts no damage. Target is affected only by the STATUS.
+    HEAL: Restores HP.
+    MORPH: Move that allows person to morph into any character in the dataset.
+    HP THEFT: Steals away HP from the target. ONLY WORKS ON ONE PERSON REGARDLESS OF THE TARGET SETTING.
+    MP THEFT: Steals away MP from the target. ONLY WORKS ON ONE PERSON REGARDLESS OF THE TARGET SETTING.
+    (For HP and MP theft, no more HP or MP will be stolen than the person can hold, and no more will be stolen than the target can give -- so if you HP drain someone with 20 HP, the most you can get is 20 HP, killing the target.)
+    LIFE: Raises a dead ally. DOES NOT WORK IN FFA AND CERTAIN OTHER CONDITIONS.
+    DEMI: Cuts an enemy's HP in half. This move now works 100% of the time unless defended against with /block. ONLY WORKS ON ONE PERSON REGARDLESS OF THE TARGET SETTING.
+    REVEAL: Shows enemy's statistics. ONLY WORKS ON ONE PERSON.
+    POISON: A poison elemental attack. This also counts as "magic", but it will poison your enemy every time unless they have a Luck rune or the Elemental Armor guarding against Poison.
+
+    STATUS: The STATUS is what makes MOST cheap moves cheap. Each slot has a number in it. The number represents the percent chance of the person targeted receiving the status effect. A minus 1 (-1) will remove the status effect.
+
+    MUTE: Target cannot use anything but PHYSICAL moves, REST, BLOCK, TAUNT, and DIVERT.
+    CHAOS: Target uncontrollably attacks random targets with random moves.
+    FREEZE: Target is encased in a block of ice, preventing them from doing anything. Also stops their current move.
+    POISON: Target is poisoned and loses HP at 15-second intervals. At each interval the poison has a 50-50 chance of wearing off.
+    BLINDNESS: Target is blinded and attack value is dropped to zero. Their moves will still do damage, but very little.
+    HASTE: Target's moves hit in 10 seconds instead of 15.
+    SLOW: Target's moves hit in 20 seconds instead of 15.
+    STUN: Target is paralyzed and unable to move. A hit will snap them out of it.
+    LIFE3: Life-giving faerie enters target's body, causing resurrection after death. THIS ONLY WORKS ONCE -- SUBSEQUENT LIFE3 SPELLS AFTER TARGET COMES BACK TO LIFE WILL HAVE NO EFFECT. (This is to prevent the Life3 cheeziness)
+    REGEN: Target gets HP back gradually.
+    STOP: Target is frozen in time and unable to do anything. The only plus to this is that if a person is blocking while stopped (The block would have to fail), they'll continue to block even when frozen in time. If they are counterattacking while stopped, and the block fails, then the next person to
+attack them will get whacked when the Stop effect wears off.
+    MUSHROOM: Target is transformed into a fungus, and at each turn they regain some HP. Mushrooms cannot act.
+    MIA (MISSING IN ACTION): Target is taken out of battle for a short time. This status cannot be nullified in any way, shape, or form.
+    QUICK: The next non-morph non-life move for the target hits instantly. Good way to surprise someone with a Super, or freeze someone who is about to attack you. Also considered very CHEAP. ^_^
+    BERSERK: Target goes wild and starts attacking random enemies with random attacks, with increased attack power. If the target has no attacking moves, then the berserk will fail.
+    SLEEP: Target is put to sleep. A hit will wake them up.
+    BLESS: Target is blessed with a holy spirit and does more (1.5x) damage.
+    CURSE: Target is cursed by a hex and does less (1.5x) damage.
+    P. BARRIER: ????
+    M. BARRIER: ????
+
+    I'm not going to make a sample character here. The best way to figure out how to make characters is to view the samples that came with the game. In some folders there may be an .OLD file or two. To use these characters, rename them to a .CH2 file.
+
+
+    VII. How do I make WEAPONS?
+
+    Finally, you now have the ability to make Weapons and/or Materia. All Weapons are are move extensions. Each Weapon can have up to five moves which tack on to the ability of the person using the weapon. Unlike FF7 Materia, you cannot make Weapons change the stats of your character.
+
+    WARNING: WEAPONS FROM CHUB TALISMANS WILL NOT WORK FOR CHUB 2000, AND VICE VERSA.
+
+    Weapons have a certain number of uses, referred to as "charges." If you leave the number of uses to 0, then charges will not apply. Some weapon moves can be set to use a charge. See PHASER.W2K for an example.
+
+    There are a few extra options in the Weapon Move Editor.
+
+	No Effect on Weapon: This is a move that can be done with the weapon without using a charge or destroying the weapon. For example, /slash for a sword.
+	Expends Weapon: This is a move that requires a charge on the weapon. For example, /shoot for a gun.
+	Weapon is Dropped: This is a move that makes the weapon fall to the floor after being used. For example, /kick for a Troopa Shell.
+	Destroys Weapon: This is a move (usually a powerful one) that makes the weapon break or self-destruct after finished. For an example, see the EQUALIZER weapon.
+	Instant Hit: Only works for "Expends Weapon" and "Destroys Weapon", and only if the weapon is to be destroyed after this move (only one charge left or the weapon breaks). It causes the move to hit immediately. For an example, see the BOMB.W2K. (USE IN EXTREME MODERATION!)
+	Requires All Uses: Use this for REALLY REALLY powerful moves. It will require all charges on the weapon in order to activate. This does not necessarily destroy the weapon, though. Used best with "Destroys Weapon".
+
+    Other than these options, all moves are the same as in the character editor.	
+

@@ -1,0 +1,560 @@
+"Donovan"
+"Donovan"
+""
+"Donovan"
+"%SN throws off a robe displaying a huge sword as Donovan."
+"%SN runs into battle as Donovan."
+ 50 
+ 50 
+ 70 
+ 50 
+ 0 
+"%SN comforts Anita."
+"Giant beads glow and circle around %SN."
+"%T shatters %SN's beads with a single blow."
+"%SN says, ''I will do away with all that is evil''"
+""
+""
+""
+""
+"im"
+"%SN thrusts his arm forward."
+"A giant Iron Maiden falls from the sky and smashes %T to bits."
+"Blizzard Sword"
+"bs"
+ 0 
+"The beads around %SN glow bright blue as a beautiful Icy woman rises up."
+""
+""
+"The ice woman gestures, sending a massive snowflake into %T."
+""
+ 0 
+""
+""
+""
+"%T dodges the flying snowflake."
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Flame Sword"
+"fs"
+ 1 
+"%SN's beads burn with light, as a man of fire rises up from his body."
+"%SN's beads burn with light, as a man of fire rises up from his body."
+""
+"The giant man of fire takes a massive swipe with %SN's sword, igniting %T in flames!"
+"The giant man of fire swipes his sword across %T's body burning them with 10,%S2 degrees of fire!"
+ 0 
+""
+"The giant man of fire takes a massive swipe with %SN's sword, igniting %T in flames!"
+""
+"%T leaps into a nearby pond."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 65 
+ 2 
+"Lightning Sword"
+"ls"
+ 0 
+"%SN's beads form a triangular position as an Electrical storm begins."
+""
+""
+"A man made of pure electricity fries %T with hundreds of volts of power!"
+""
+ 0 
+""
+"A man made of pure electricity fries %T with hundreds of volts of power!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 75 
+ 2 
+"Spirit Crusher"
+"sc"
+ 1 
+"%SN gestures and a <B>huge</B> figure appears in the sky."
+"%SN gestures and a <B>huge</B> figure appears in the sky."
+""
+"A grey cloud looms over %T, as a giant foot slams them into the floor!"
+"A grey cloud looms over %T, and a giant foot smashes them %S2 feet underground!!"
+ 0 
+""
+"A grey cloud looms over %T, as a giant foot slams them into the floor!"
+""
+"%T sidesteps the giant foot."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 19 
+ 0 
+ 2 
+"Demon Morph"
+"dm"
+ 0 
+"%SN's darkside takes over as he morphs into a Demon."
+""
+""
+"%SN races through the air and slams into %T, frying them with power."
+""
+ 0 
+""
+"%SN races through the air and slams into %T, frying them with power!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 100 
+ 2 
+"Sword Sail"
+"ss"
+ 0 
+"%SN leaps into the sword and sails towards %T."
+""
+""
+"%SN sails downwards slicing %T as he passes."
+""
+ 0 
+""
+"%SN sails downwards slicing %T as he passes! %T's blood stains %SN's sword."
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 30 
+ 2 
+"Sword Slash"
+"slash"
+ 0 
+"%SN raises his hand and his sword is sent spinning through the air."
+""
+""
+"%T is massacred by a spinning sword."
+""
+ 0 
+""
+"%T is mangled by a spinning sword!"
+""
+"%T catches %SN's sword in their hands."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 40 
+ 2 
+"Bead Strangle"
+"beads"
+ 0 
+"%SN sends his strand of beads towards %T."
+""
+""
+"%SN's beads wrap around %T's neck and shake them violently!"
+""
+ 0 
+""
+""
+""
+"%T kicks the beads away."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Dark Force"
+"df"
+ 0 
+"%SN stabs his sword into the ground."
+""
+""
+"%SN's sword comes to life and increases his attack."
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

@@ -1,0 +1,560 @@
+"Morrigan Aensland"
+"Morrigan "
+""
+"Morrigan"
+"%SN rises up from the floor as Morrigan Aensland."
+"%SN flies in as Morrigan Aensland."
+ 70 
+ 35 
+ 70 
+ 45 
+ 0 
+"%SN drains the life of an innocent bystander."
+"%SN folds her wings over herslef."
+"%SN's defenses are easily breeched."
+"%SN giggles."
+""
+""
+""
+""
+"dk"
+"%SN flies towards %T."
+"%SN kisses %T, sucking all the life out of them! %T falls to the floor in a green mush!"
+"Soul Fist"
+"sf"
+ 0 
+"%SN releases a golden bat of energy into the air."
+""
+""
+"A shiny golden bat slams into %T, knocking them back."
+""
+ 0 
+""
+"A shiny golden bat slams into %T, and bites the F*UCK out of them!!"
+""
+"%T knocks %SN's projectile away with ease."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 50 
+ 2 
+"Shadow Blade"
+"sb"
+ 0 
+"%SN forms her wing into a razor sharp blade."
+""
+""
+"%SN's wing tears through %T's chest creating a deep wound!"
+""
+ 0 
+""
+"%SN's wing tears through %T's chest creating a deep wound!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 60 
+ 2 
+"Vector Drain"
+"vd"
+ 0 
+"%SN grabs %T and flies high into the sky."
+""
+""
+"%SN spirals down to the ground slamming %T down hard head first!"
+""
+ 0 
+""
+"%SN spirals down to the ground slamming %T down hard head first!"
+""
+"%T blocks %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 65 
+ 2 
+"Darkness Illusion"
+"illusion"
+ 0 
+"%SN creates a replica of herself and surrounds %T."
+""
+""
+"%SN unleashes a flurry of punches and kicks onto %T!"
+""
+ 0 
+""
+"%SN unleashes a flurry of punches and kicks onto %T!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 80 
+ 2 
+"Finishing Shower"
+"fs"
+ 1 
+"%SN floats backwards as her wings form multiple guns."
+"%SN floats backwards as her wings form multiple guns."
+""
+"Tiny sharp bullets dart through the air and pierce %T's body all over!"
+"Huge sharp bullets dart through the air and impale %T's body!"
+ 0 
+""
+"Tiny sharp bullets dart through the air and pierce %T's body all over!"
+""
+"%T leaps aside the barrage of flying shrapnel."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 100 
+ 2 
+"Valkyrie Turn "
+"vt"
+ 0 
+"%SN wraps her wings around her feet forming a drill."
+""
+""
+"%SN drills the hell out of %T's chest!"
+""
+ 0 
+""
+"%SN drills the hell out of %T's chest!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 75 
+ 2 
+"Dark Force"
+"df"
+ 0 
+"%SN raises her arms and shouts, ''Ikayo!''"
+""
+""
+"%SN's replica enhances her strength."
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+"Cryptic Needle"
+"cn"
+ 1 
+"%SN converges her wings into a huge fist."
+"%SN converges her wings into a huge fist."
+""
+"%SN grabs %T and sends surges of power through them!"
+"%SN grabs %T and sends a huge bolt of dark energy though their body!!"
+ 0 
+""
+"%SN grabs %T and sends surges of power through them!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 75 
+ 2 
+"Wing Spears"
+"ws"
+ 0 
+"%SN floats into the air and morphs her wings into multiple spears."
+""
+"%SN's spear-shaped wings tear through the arena!"
+""
+""
+ 0 
+""
+"A spear imaples %T's chest! uh.....ow"
+""
+"%T dodges the maelstrom of spears."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 5 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

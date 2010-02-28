@@ -1,0 +1,560 @@
+"Pyron"
+"Pyron"
+""
+"Pyron"
+"A column of fire consumes %SN, as he becomes Pyron."
+"%SN teleports into battle as Pyron."
+ 30 
+ 60 
+ 70 
+ 60 
+ 0 
+"%SN teleports away and feeds on a star."
+"%SN blocks with the Sun."
+"%SN drops the Sun."
+"%SN burns brightly."
+""
+""
+""
+""
+"sd"
+"%SN touches %T on the forehead."
+"%SN's flames enter %T's body, and explode them!"
+"Soul Smasher"
+"ss"
+ 0 
+"Rings of energy circle %SN's hands as he forms a ball of fire."
+""
+""
+"A giant ball of fire explodes on %T, igniting them in flames!"
+""
+ 0 
+""
+"A giant ball of fire explodes on %T, igniting them in flames!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 60 
+ 2 
+"Zodiac Fire"
+"zf"
+ 0 
+"%SN morphs into a spinning ring of fire."
+""
+""
+"%SN rolls into %T, scorching them with fire."
+""
+ 0 
+""
+"%SN rolls into %T, scorching them with fire!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 55 
+ 2 
+"Orbital Blaze"
+"ob"
+ 0 
+"%SN leaps into the air as giant balls of fire orbit around him."
+""
+""
+"%SN dashes towards %T, knocking them multiple times with huge flaming comets!"
+""
+ 0 
+""
+"%SN dashes towards %T, knocking them multiple times with huge flaming comets!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 75 
+ 2 
+"Galactica Voyage"
+"gv"
+ 0 
+"%SN forms a shield of galactic energy around himself."
+""
+""
+"%SN disappears into the void he created!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+"Cosmo Disruption"
+"cd"
+ 1 
+"%SN gestures and the constellation 'Orion' surrounds %T."
+"%SN gestures creating the <B>'Big Dipper'</B> around %T."
+""
+"The constellation 'Orion' explodes in several novas annihilating %T!"
+"The <B>'Big Dipper'</B> explodes with the force of the Sun!! Flesh is thrown from %T's body!!!"
+ 0 
+""
+"The Constellation 'Orion' explodes in several novas annihilating %T!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 100 
+ 2 
+"Piled Hell"
+"ph"
+ 0 
+"%SN sinks into the ground."
+""
+""
+"%SN rises up from the floor in a huge column of fire, severely burning %T!"
+""
+ 0 
+""
+"%SN rises up from the floor in a huge column of fire, severely burning %T!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 80 
+ 2 
+"Dark Force"
+"df"
+ 0 
+"%SN extracts fire from the Sun."
+""
+""
+"Forces from the Sun enter %SN's body!!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

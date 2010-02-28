@@ -1,0 +1,564 @@
+"'Tails' Prower"
+"tails"
+0
+"tails"
+"%SN flies out of Genecyst as Tails! ('Tails')"
+"A nearby Genesis machine spews out %SN as Tails."
+40
+30
+90
+50
+""
+"%SN pigs out on chili dogs!"
+"%SN hides."
+"%T finds %SN hiding in a tree."
+"%SN says, 'I'm not a two-tailed brat!'"
+"%SN says, 'Your mother was an echidna!'"
+"%SN says, 'I always say, two tails are better than one.'"
+""
+""
+"rr"
+"Dr. Robotnik appears and points his roboticizer ray at %SN."
+"%SN ducks as Robotnik shoots his roboticizer ray. Zap! %T's a robot!"
+"Spin Attack"
+"sa"
+0
+"%SN leaps into the air."
+""
+""
+"%SN spins into a ball and crashes into %T!"
+""
+0
+""
+"%SN spins into a ball and knocks %T down!"
+""
+"%SN spins into a ball but misses %T."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Spin Dash"
+"sd"
+1
+"%SN curls up into a ball."
+"%SN curls up into a ball."
+""
+"%SN spin-dashes through %T!"
+"%SN rip-roars through %T scoring %S2 hits!!"
+0
+""
+"%SN rip-roars through %T!!"
+""
+"%SN spin-dashes at %T but misses."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Kitsune Blast"
+"kb"
+0
+"%SN charges a ball of energy in his hands."
+""
+""
+"%SN throws an energy ball at %T!"
+""
+0
+""
+"%SN throws a big energy ball at %T!"
+""
+"%SN suddenly remembers that he can't use magic, and the Ki blast disappears."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+29
+100
+2
+"Power Ring Blast"
+"prb"
+0
+"%SN holds up the Power Ring."
+""
+""
+"%SN's ring emits a blast of energy at %T!"
+""
+0
+""
+"%SN's ring emits a big blast of energy at %T!"
+""
+"%SN's Ring Blast fizzles out."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+29
+80
+2
+"~Super Tails"
+"super"
+0
+"%SN uses the power of the Super Emeralds to transform into Super Tails"
+""
+""
+"%SN is now SUPER TAILS!!!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+3
+"Chaos Emerald Healing"
+"ceh"
+0
+"%SN holds up the Chaos Emerald and %T is showered in light."
+""
+"%SN holds up the Chaos Emerald and is showered in its light."
+"%T is healed greatly from the power of the Chaos Emerald."
+""
+0
+"%SN is healed greatly from the power of the Chaos Emerald."
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+180
+3
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+"0"
+""
+""
+""
+""
+""
+"0"
+""
+"Tails, Sonic's two-tailed bro."
+""
+""
+""

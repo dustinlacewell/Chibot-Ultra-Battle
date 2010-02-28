@@ -1,0 +1,560 @@
+"Demitri Maximoff"
+"Demitri"
+""
+"Demitri"
+"A red aura of light surrounds %SN's body as he becomes Demitri Maximoff!"
+"%SN flies in as Demitri Maximoff."
+ 60 
+ 50 
+ 60 
+ 50 
+ 0 
+"%SN drinks a goblet of blood."
+"%SN folds his arm over himself creating a huge wing of energy."
+"%T tears open %SN's wings."
+"%SN says, ''Your blood is weak''"
+""
+""
+""
+""
+"sb"
+"%SN glides towards %T."
+"%SN bites %T's neck and rips out their jugular with his teeth!"
+"Chaos Flare"
+"cf"
+ 0 
+"%SN whips his hand forward releasing a bat of energy into the sky."
+""
+""
+"An energy bat slams into %T."
+""
+ 0 
+""
+"An energy bat slams into %T, and munches on their neck!"
+""
+"%T deflects %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 60 
+ 2 
+"Demon Cradle"
+"dc"
+ 1 
+"%SN leaps towards %T."
+"%SN's body emits a blue glow as leaps at %T."
+""
+"%SN spirals upwards and slashes %T multiple times."
+"%SN shouts, ''Demon Cradle!'' as he unleashes an endless rising punch on %T!!"
+ 0 
+""
+"%SN spirals upwards and slashes %T multiple times!"
+""
+"%T blocks %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 70 
+ 2 
+"Bat Spin"
+"bs"
+ 0 
+"%SN disappears in a puff of smoke."
+""
+""
+"%SN dives down from the sky and spears %T with his legs."
+""
+ 0 
+""
+"%SN dives down from the sky and spears %T with his legs!"
+""
+"%T leaps aside %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 50 
+ 2 
+"Midnight Pleasure"
+"mp"
+ 0 
+"%SN advances towards %T."
+""
+""
+"%SN bites %T several times on the neck, then boots them into the sky!"
+""
+ 0 
+""
+"%SN bites %T several times on the neck, then boots them into the sky!"
+""
+"%T kicks out %SN's teeth."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 100 
+ 2 
+"Midnight Bliss"
+"mb"
+ 0 
+"%SN gives %T a rose, turning them into a woman."
+""
+""
+"%SN lifts %T up by the neck and drains away half of their HP!"
+""
+ 0 
+""
+""
+""
+"%T shakes her boobies and shocks %SN."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 19 
+ 0 
+ 2 
+"Demon Horde"
+"dh"
+ 1 
+"%SN raises his arms and two massive balls of fire surround him."
+"%SN raises his arms as fires swarms around him."
+""
+"%SN morphs into a swarm of fire bats and tears through %T."
+"%SN spins sending waves of fire ripping through %T's body!!"
+ 0 
+""
+"%SN morphs into a swarm of fire bats and tears through %T! %T is lite up!!"
+""
+"%T douses %SN in water."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 95 
+ 2 
+"Dark Force"
+"df"
+ 0 
+"%SN gestures and two bats of energy circle him."
+""
+""
+"The two energy bats grant %SN strength enhancers."
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

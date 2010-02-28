@@ -1,0 +1,449 @@
+*** ChUB 2000 ***
+*** PLAYER'S GUIDE ***
+(or, how to not be a newbie)
+
+    This guide can be read by itself. However, to get the fullest understanding of Chibot Ultra Battle, it is advisable to read all three Guides: Player's Guide, Host's Guide, and Dataset Maker's Guide.
+
+
+    I. Character Selection
+
+    Do NOT attempt to choose a character until you see the selection begin prompt. If the host is using a dataset which you are not familiar with, ask nicely if they will show the list of characters. Doing /characters or /list will just make them angry (-ier), and you will get nowhere. When in doubt, try
+the default characters, those can be found in nearly every dataset, except some of the specialized datasets (Pokemon).
+
+    To get moves (unless the host says NOT to get moves), type /moves-character, and replace character with the name of your character. For example, to get moves for Cait Sith (FinFant\Cait.Ch2), you can do either of
+the following:
+
+    /moves-cait
+    /moves-cait sith
+
+    If a character has a weird selection command, you can do /moves-selectioncommand and get the moves for that character. For example, if you were to pick /~Iamthemostpowerfulbeingever, you could:
+
+    /moves-~Iamthemostpowerfulbeingever
+
+    to get moves for that person.
+
+    Remember, if the host says NOT to get moves, then don't get them. Wait for the host to say it's ok to get moves. If the host doesn't say anything, then it probably won't hurt to try once the battle is ready to begin.
+
+    Once you get your moves, WRITE THEM DOWN, or use Windows NotePad or File, New in AOL. Copy-and-paste your moves into the notefile and rearrange your windows so you can have easy reference to them. DO NOT REPEATEDLY GET MOVES FOR YOUR CHARACTER. It is annoying, it scrolls, and it is one of the things that
+separate the newbies from the average people. Another no-no is copying the moves into the clipboard, and repeatedly hitting "paste" and sending those moves to the chat room when you need them. DON'T DO THAT! It adds to the already hectic scrolling of the bot and makes it more difficult for others to play.
+
+
+    II. Options
+
+    The host might show a list of options. Here is what each option means:
+
+    Version: Version of the bot.
+    Joining: If no joining is allowed, then the bot will reject anyone who tries to join.
+    Max Players: The number of players, dead or alive, allowed in the game.
+    Battle Type: What kind of game is being played (see III, "Battle Types").
+    Time Limit: How much time you have before the game will force itself to end.
+    First to Die: Normally, the first to die is dead. However, if Zombie Mode is on, then the first to die becomes a zombie with 1000 HP and great strength. The only way to harm this zombie is to use a healing move on it. Once the Zombie dies, play continues as normal. THE ZOMBIE CANNOT BE BROUGHT BACK TO
+LIFE UNDER ANY CIRCUMSTANCE, EVEN IN RESPAWN FFA. If you become the Zombie, it is advisable to attack fast and furiously, for you cannot block a cure move. You will be invincible to all moves but heals and Life spells, so don't worry about blocking.
+    Infinite MP: The most popular setting for this is "ON". This allows all moves to be used for zero MP cost, and all but disables the use of MP. MP Drain moves will still drain MP, but it's kind of pointless when you don't need MP to cast spells... isn't it? Arena: Gives a brief description of the arena. The
+only details available are how much HP/MP is gained by resting, and how much HP/MP you get gradually. As for element changes... you'll have to try them and see!
+
+
+    III. Battle Types
+
+    There are various kinds of battle types... FFA is the most popular
+nowadays. Here are all the games:
+
+    Teams: The team remaining after all other teams are destroyed wins.
+ 
+    FFA: Every person for themself!
+
+    Capture the Flag: There are two teams, Red Team and Blue Team. One person on each team receives the flag of their color, but nobody knows who gets the flag. The object is to kill the enemy with the flag, thus capturing it, and hold the flag for 75 game seconds. If you are killed before the 75 seconds
+completes, you lose the flag back to the other team and play continues on. This is the only true Teams mode that allows Respawn (see Respawn below). No other time limits are allowed in this game. Life moves are allowed, but not really necessary. Life3 status is not allowed.
+
+    ReSpawn FFA: 30 game seconds after you die, you come back to life (respawn). The object is to achieve a set number of kills set by the host. The first person to get this many kills wins.
+
+    Fatality FFA: Just like ReSpawn FFA, but the goal is to achieve a certain number of FATALITIES. Normal kills are worthless. In order to score anything, you must use your Fatality to kill people. This makes the game extremely difficult, and you might be playing for awhile.
+
+
+    IV. The Moves
+
+    Here are the different types of moves in Chibot Ultra Battle.
+
+    Targeting Moves: Some moves may hit more than one target, or they may hit
+all of your allies, or they may hit yourself only.
+
+    >> Yourself Only: The move can only be executed on yourself.
+    >> Enemy Target: The default target is an enemy. Usually causes damage
+and/or bad status.
+    >> Ally Target: The move will be executed on yourself by default. Usually a
+heal, shield, or a good status move.
+    >> One Enemy Team: The move will attack an entire team. Note that this will
+not attack ALL enemies, but just one team. So don't waste your time on
+one-person teams.
+    >> All Enemies: The move will target everyone but you and your allies.
+Roll's /toaster and Olan's /galaxy stop are examples of these moves. These
+moves tend to be cheezy, as in the latter case. (I ended up changing the Stop
+rate to 20%, so the move doesn't stop as many people.)
+    >> All but Yourself: These moves are rarely used. They will hit everyone in
+the battle, including your allies, but not you.
+    >> Everybody: This move will affect EVERYBODY in the battle, including
+yourself and your allies. Also rarely used.
+
+    Elemental Moves: Some moves have different effects, or elements. Here are
+all the elements:
+
+    >> No Damage: The move is a Status move (see below).
+    >> Physical: /att is the most common. It can be a punch, or someone
+whacking someone else with a baseball bat, or even a summoned monster beating
+the crap out of an enemy. Tuxedo Kamen has a wealth of physical attacks. The
+PhysStr and PhysDef stats are determined in calculating damage for Physical
+moves. (Almost everything else uses MagStr and MagDef.)
+    >> Healing Cure Power: Restores HP to the target. Example: Saturn's /heal.
+    >> Morph: Allows the person to change into another character in the
+dataset, borrowing the new character's moves and stats. Proto started this
+whole mess with his /morph. You can use the name, targeting ID, or the
+selection string of the character you want to morph to when doing it. Example:
+/morph-Venus. /morph-~Iamonebighosernough. /morph-<Screen Name>. The third
+example will morph you into whoever <Screen Name> happens to be.
+    >> Sacrifice: The player gives his or her life to completely heal their
+entire team. Kind of useless in FFA except as a suicide move.
+    >> Shield: While the move is being executed, the targets are protected by a
+shield which blocks most attacks and cuts down on Super attack damage. However
+there's a chance that the shield can be destroyed by an attack: in this case,
+the person doing the shield move is wasting their time sustaining a shield that
+doesn't exist.
+    >> HP Theft, MP Theft: These elements drain HP or MP from the target and
+give it to the user. No more HP or MP may be drained than the user can hold:
+example, if you have 295 HP and steal HP from an enemy, the most you could
+steal is 5 HP.
+    >> Life: Causes a dead person to come back alive.
+    >> Demi: Cuts an enemy's HP in half. PhysStr, PhysDef, MagStr, and MagDef
+are all ignored in this case.
+    >> Moon (Pearl/Holy/White) Energy, Shadow, Water, Fire, Lightning, Heart,
+Earth: Attacking elements.
+    >> ????: Wouldn't you like to know!
+    >> StealMove: Steals (draws) a move from the enemy which can be used by the
+move thief. A player may only have one stolen move at a time, any other moves
+stolen will erase the current stolen move. It is no longer possible to steal
+moves from youma. It has been said that if you steal a move from yourself,
+weird things happen...
+
+    Disabled Elements (No longer exist):
+
+    >> Cover: This move was taken out. It used to be Tuxedo Kamen's /cover
+move, which would protect an ally from taking damage from enemy attacks.
+However, it was rarely used, and very buggy, so it was taken out.
+    >> StopMove: This move was also removed. If successful, it would cause an
+enemy to lose track of what move they were doing and be stunned for a short
+time. The user of the StopMove could then counterattack or do whatever. It's
+like Sailor Venus's /kick in SMS. It was too cheap, and turned out to be a
+tactical failure, so it was removed.
+    >> Critical: This move was erased. It caused someone to give their life in
+exchange for an ultra-powerful hit on an enemy, using killing him or her. At
+first, it ALWAYS killed the enemy. Then it was changed to take away 3/4ths of
+their maximum HP value. Then, it was finally wiped from the element list.
+    >> Mind Meld: It was Luna, Artemis, and Diana's old mind meld move: It
+would damage enemies, but heal allies. It was taken out because it was too
+confusing, and unorthodox.
+    >> Old Regen: It was a hidden element which gave Regen status, but is no
+longer necessary.
+    >> Old Life3: A hidden element which gave Life3 status but is no longer
+necessary.
+
+    Status Moves: These moves may cause bad or good status in conjunction with
+the effects listed above.
+
+    Good Happy Cool Status:
+
+    >> Haste: Increases speed.
+    >> Life3: Allows you to come back when you die. Works only once -- further
+Life3 effects after you die once do nothing. Not very useful in Respawn FFA.
+    >> Regen: Gradually restores HP.
+    >> Quick: Next non-morph non-life move takes effect immediately.
+    >> PBarrier: Gives you 100 PBarrier points. When you are attacked by a
+physical move, the PBarrier will take some of the HP damage.
+    >> MBarrier: Gives you 100 MBarrier points. When you are attacked by magic,
+the MBarrier will take some of the HP damage.
+    >> Bless: Increases your attacking power by 1.5 times.
+
+    Bad Evil Nasty Status:
+
+    >> Mute: Disables non-physical moves.
+    >> Chaos: You lose all control of your character. You might attack your
+allies or heal your friends. Ultimately, you end up doing random attacks on
+random people. This might even lead to an accidental Sacrifice...
+    >> Freeze: Frozen in a block of ice won't do you much good. If the ice is
+melted you can escape, or you can wait for the ice to thaw.
+    >> Poison: The opposite of regen. Poison is one of the worst ways to die,
+since you cough up your internal organs and spew blood. (That's a pretty
+picture, ne??)
+    >> Slow: Your speed is decreased. Haste will cancel Slow and vice versa.
+    >> Stun: You are paralyzed and unable to act. A physical hit will knock you
+out of it.
+    >> Stop: You are frozen in time. When it wears off, it will be like nothing
+had ever happened -- you'll still be doing whatever move on whatever target you
+were doing before you were stopped.
+    >> Sleep: Nighty night! A physical hit will wake you up.
+    >> Curse: A hex placed on you causes your attacks to do 1.5 times LESS
+damage. (The opposite of Bless.)
+
+    Can be Bad or Good:
+
+    >> Mushroom:
+      Good News: Your HP restores itself each turn.
+      Bad News: You are transformed into a fungus incapable of doing anything.
+    >> Missing In Action:
+      Good News: Nobody may attack you. Great way to hide for awhile!
+      Bad News: You cannot act, and you cannot be healed.
+      When you are returned, you'll be doing whatever you were doing before you
+were "abducted".
+    >> Berserk:
+      You will automatically attack enemies. No heal or other friendly moves
+will be used, only attacks. Who knows what will happen, though, if you have a
+character with no attacks, just heals?
+      Good News: Your attack value is raised dramatically.
+      Bad News: You cannot control your attacks or targets.
+
+
+    V. Team Functions
+
+    /defect-player (or /defect-#): Defect to "player"'s team, or defect to the
+team number specified. If they are not allowing defects, you won't defect.
+
+    /nodefect: Prevents people from doing /defect on you.
+
+    /teamname: Changes the team name; only the Team Captain may do this. (If
+you are not Team Captain, it will say who the Captain is.)
+
+    /newteam: Only works if defects are on. It lets you create a new team with
+just yourself on it.
+
+    /kick: Will kick someone off of your team and put them on a new team. Only
+the Team Captain may do this. (This is because a certain two ::AHEM:: unnamed
+people would defect to a team then kick the other off, resulting in a
+never-ending kick session.)
+
+
+    VI. Computerizing
+
+    Computerizing is by default disabled. If the host enables it, you may do
+/cpu to put yourself in Auto Battle CPU mode. The AI will determine whether to
+attack, whether to heal, or whether to turn tail and run (ha! cpu's fight to
+the finish!). CPU's will generally use protective spells like Haste and
+MBarrier on themselves first before attacking. If it has Life3 or Regen, those
+moves will come first. Then it will use the most powerful move on the person
+with the least HP. (Yes, CPU's can be cheap in Infinite MP mode... they'll keep
+doing the strongest move until muted or otherwise.) If there are many CPU's,
+this can lead to the vulture syndrome. The best way to stop them from feeding
+on you is to restore your HP to a level higher than someone else's, or attack
+someone else until their HP is lower than yours. Then the CPU's will go after
+them instead.
+
+    Some CPU's are vengeful and will attack the person who last attacked the
+CPU, whether they targeted or not.
+
+    CPU's also have a nasty habit of diverting and healing until they have
+Level 3, then they will blow the crap out of someone.
+
+    CPU's also have an evil habit of using shields and counterattacking.
+
+    Yes, they're cheap. Yes, they can probably defeat the average human player.
+But not all hosts like the /cpu option, and that is why it is by default off.
+
+    The CPU routines are still not quite perfected. Sometimes they will attack
+their teammates for no reason (only if their teammate used a certain move).
+Other times, they will keep doing one move even though it has no effect
+(example, a HP Drain move on someone when they have 300 HP already). They may
+be cheap, but they're not hyperintelligent (yet).
+
+    There is supposedly a secret command that will make you repeatedly attack
+the last person to attack you, regardless of who else attacks you... but it's
+just a rumor... or is it?
+
+
+    VII. Misc. Commands
+
+    /get: When an item appears on the field, type /get to get it. Many items
+are good, but there ARE a few traps, so be careful what you /get.
+
+    /stop: Stop the move you're doing now.
+    /halt: Same as /stop
+
+    /block: Use this command to attempt to block an attack, or to lower the
+damage done by the attack.
+
+    /flee: Turn tail and run!!!!
+
+    /divert: See VIII below.
+
+    /attacking: Tells you all the people who are targeting you in the battle.
+
+    /status: Use this to find out what you're doing. If your moves aren't
+working, try doing /status and see if you're knocked out or something.
+
+    /~save: NOT A COMMAND! I was going to put in a rescue feature in here, to
+save someone from being Fatalitied or something like that -- the price would be
+that the person doing the rescuing would get Fatalized instead. I ended up not
+adding it, though.
+
+    /hostboot-<SN>: There is a new feature in ChUB. If Hoser101 starts up their
+bot while someone else is hosting, type in /hostboot-Hoser101. This starts the
+HostBoot vote. If 5 different people type in /hostboot-Hoser101, then
+Hoser101's bot will be terminated and he will be booted off of AOL! This was
+needed because people don't have any respect for other hosts. You may also
+abbreviate the person's SN to "Hoser" but make sure that you don't cut it TOO
+short so that the original host's bot responds to the HostBoot as well.
+ 
+
+    VIII. Super Attacks, Counterattacking, and the Super Meter
+
+    The more attacks you do, the more your Super Meter goes up. The meter can
+also go up when someone attacks you. The more damage inflicted or taken, the
+more the meter rises. The Super Meter is the third number on your ready prompt.
+
+    By using the /divert command, you can change (excess) HP into Super Points,
+which are added to your super meter. So if you get a +300 HP item like the
+KeroKeroCola, you can /divert-300 for an instantly full Super Meter. Note that
+you may only divert HP until your HP reaches 250 -- no diverts past 250 are
+allowed.
+
+    The maximum amount for your Super Meter is 300, though it is rumored that
+you can go even higher...
+
+    When you have at least 100 on your Super Meter, you can do a Super Attack,
+or a Counter Attack. When getting moves for your player, you might notice that
+some moves have an asterisk by them *.
+
+    <-> Mystery Ninja: (/att) (/throw)* (/ww) (/boom)
+
+    In the case of the Mystery Ninja, you can Super /throw, if you have a Level
+1 or better on your Super Meter. To do a Level 1 Super /throw, just type in:
+
+    /1-throw
+
+    You may specify a target if you want to. You can also do a Level 2 or Level
+3 attack, if you want.
+
+    /2-throw
+    /3-throw
+
+    Just type the correct number before the "-throw".
+
+    When someone is attacking you and you have 100 Super Points or better, you
+can Counter Attack. Any move may be used to Counter Attack with. If it's a
+damaging move then it will hit the person attacking you. If it's a healing move
+then it will be executed on yourself.
+
+    Host: <-> StatusMan: (/haste) (/slow) (/stop) (/freeze) (/mia)
+
+    Host: [({< StatusMan (300/200/100)
+    Host: Mystery Ninja throws something at StatusMan.
+
+    In this case, you could counterattack Mystery Ninja when she attacked you.
+If you wanted, you could counterattack by Hasting yourself. Or, you could
+counterattack by casting Slow, Stop, Freeze, or MIA on Mystery Ninja.
+
+    StatusMan: /block-stop
+    Host: Counterattacking with "Stop"
+    Host: StatusMan grabs a shield!! [Mystery Ninja]
+
+    If Mystery Ninja did not stop, she would be stopped -- by your spell.
+Beware: Some people are stubborn and will not let you counterattack. They'll
+keep hitting /stop, then attacking again. Your response might be to /stop and
+/block-stop again... leading to an infinite loop.
+
+    Let's say that Mystery Ninja continued her attack.
+
+    Host: Mystery Ninja throws a shuriken at StatusMan. [25]
+    Host: StatusMan casts "Stop" on Mystery Ninja!
+    Host: Mystery Ninja is frozen in time!
+    Host: [({< StatusMan (300/200/0)
+
+    If you were to counterattack with Haste instead...
+
+    Host: Mystery Ninja throws a shuriken at StatusMan. [25]
+    Host: StatusMan casts "Haste" on StatusMan!
+    Host: [({< Mystery Ninja (250/160/40)
+    Host: [({< StatusMan (300/200/0) <Haste>
+
+    Sometimes, you can have what are called counterattack chains. Let's say we
+have four people in a battle:
+
+    <-> StatusMan: (/haste) (/slow) (/stop) (/freeze) (/mia)
+    <-> Mystery Ninja: (/att) (/throw)* (/ww) (/boom)
+    <-> Roll: (/att) (/bs)* (/th)* (/rb)* (/ls) (/toaster) (/db)
+    <-> Olan: (/att) (/throw stone)* (/dash)* (/accumulate) (/galaxy stop)
+
+    Host: [({< StatusMan (300/200/200)
+    Host: [({< Mystery Ninja (300/200/200)
+    Host: [({< Roll (300/200/200)
+    Host: [({< Olan (300/200/200)
+
+    This is an FFA Battle. Let's say StatusMan were to attack Mystery Ninja.
+
+    StatusMan: /stop-Myst
+    Host: StatusMan starts casting "Stop" on Mystery Ninja.
+
+    This displeases Mystery Ninja, who does not want to be stopped. She
+counterattacks with /ww, a move that hits all foes.
+
+    Mystery Ninja: /block-ww
+    Host: Counterattacking with "Water Wave"
+    Host: Mystery Ninja defends! [StatusMan]
+
+    Olan sees that Mystery Ninja's counterattack will hit him as well, so he
+decides to block with Galaxy Stop.
+
+    Olan: /block-Galaxy Stop
+    Host: Counterattacking with "Galaxy Stop"
+    Host: Olan hides behind a rock. [No threat]
+
+    The block says "no threat" because no person is attacking Olan at this
+time.
+    Roll sees that she'll get hit with both a Water Wave AND a Galaxy Stop...
+assuming StatusMan's attack is indeed blocked. Should Roll counterattack or use
+the Leaf Shield, which is a shield move?
+
+    If Roll counterattacks, she will hit Mystery Ninja after the water wave...
+but this will leave her defenseless against Olan's Galaxy Stop counterattack.
+It would be better for Roll to use the Leaf Shield.
+
+    Roll: /ls
+    Host: Roll uses the Leaf Shield and Roll is surrounded by leaves.
+
+    Let's jump to the exciting conclusion...
+
+    Host: StatusMan casts "Stop" on Mystery Ninja but it fails.
+
+    At this point, StatusMan's attack failed because Mystery Ninja was
+blocking. Now, Mystery Ninja will counter with Water Wave.
+
+    Host: Olan blocks Mystery Ninja's attack.
+    Host: Roll blocks Mystery Ninja's attack.
+    Host: Mystery Ninja unleashes a massive water wave! [29]
+
+    Olan and Roll both blocked the attack, because Olan is blocking and Roll is
+using the Leaf Shield. Now, Olan counterattacks with Galaxy Stop.
+
+    Host: StatusMan is frozen in time!
+    Host: Mystery Ninja is frozen in time!
+    Host: Roll blocks the Galaxy Stop spell.
+    Host: Olan casts "Galaxy Stop!"
+    Host: Olan (300/200/100)
+
+    StatusMan and Mystery Ninja are both stopped in time, but Roll comes out
+unscathed here. All it takes is a little brains!
+
+    Q. Can I counterattack with a Super?
+    A. No. Counterattacking is a Super Move in itself, and you cannot do a
+Super in a Super.
+
+
+    IX. About the Youma
+
+    Youma ("monster" or "monsters") have five attacks: Rest (not really an
+attack), Energy Drain (drains HP's from target), Attack (HP damage), Mega Bomb
+(hits all people on a team), and Hostage (Takes a player and holds them
+hostage, causing attacks aimed at the youma to hit the hostage instead.)
+
+
+    X. That should be all!
+
+    If I left anything out, please email me at aeris@japan.crosswinds.net and
+tell me what I left out. I'll fix it and post an update to my page.
+

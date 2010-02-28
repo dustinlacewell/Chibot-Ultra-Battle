@@ -1,0 +1,226 @@
+"Ice Materia"
+"ice-mat"
+"%SN grabs the Ice Materia."
+"The Ice Materia enables you to cast Ice spells."
+""
+5
+"Ice 1"
+"ice 1"
+0
+"%SN starts casting ''Ice'' on %T."
+""
+""
+"%SN casts ''Ice'' and ice cubes fall onto %T."
+""
+1
+""
+""
+""
+"%T dodges %SN's Ice spell."
+0
+0
+10
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+70
+2
+"Ice 2"
+"ice 2"
+0
+"%SN begins to cast ''Ice 2'' on %T."
+""
+""
+"%SN casts ''Ice 2'' and a block of ice surrounds %T!"
+""
+1
+""
+""
+""
+"%SN casts ''Ice 2'' but it has no effect on %T."
+0
+0
+50
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+80
+2
+"Ice 3"
+"Ice 3"
+0
+"%SN begins to cast ''Ice 3'' on all enemies."
+""
+"%SN casts ''Ice 3''."
+"Blocks of ice surround %T."
+""
+1
+"The ice melts away."
+"%T is frozen in a block of ice."
+""
+"%T is unharmed by the spell."
+0
+0
+20
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+60
+5
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

@@ -1,0 +1,279 @@
+================
+5) ABILITY LIST
+================
+A list of abilities for Pokemon from Nintendo's Official Player's Guide!
+
+NOTE: All stat increasing and decreasing effects are temporary! Also, the 
+"basic" attacks will be simply classified as "Damages."
+
+Here's how it's listed:
+Name / Type / PP / Effect
+
+----------------------------------------------------------------
+*A*
+----------------------------------------------------------------
+Absorb / Grass / 20 / Pokemon absorbs HP equal to 1/2 the damage delt.
+Acid / Poison / 30 / Damages and may decrease enemy's Defense.
+Acid Armor / Poison / 40 / Increases Pokemon's Defense.
+Agility / Psychic / 30 / Greatly increases Speed.
+Amnesia / Psyhcic / 20 / Greatly increases Special.
+Aurora Beam / Ice / 20 / Damages, may Freeze enemy and/or decrease its 
+Attack.
+
+----------------------------------------------------------------
+*B*
+----------------------------------------------------------------
+Barrage / Normal / 20 / Pokemon attacks 2 to 5 times in a row.
+Barrier / Psychic / 30 / Greatly increases Defense.
+Bide / Normal / 10 / Pokemon loses 2 to 3 turns, then damages twice the 
+amount it received.
+Bind / Normal / 20 / Pokemon attacks 2 to 5 times in a row.
+Bite / Normal / 25 / Damages.
+Blizzard / Ice / 5 / Damages and may Freeze enemy.
+Body Slam / Normal / 15 / Damages and may Paralyze enemy.
+Bone Club / Ground / 20 / Damages.
+Bonemerang / Ground / 10 / Pokemon attacks 2 times.
+Bubble / Water / 30 / Damages and may decrease Speed.
+Bubblebeam / Water / 20 / Damages and may decrease Speed. 
+
+----------------------------------------------------------------
+*C*
+----------------------------------------------------------------
+Clamp / Water / 10 / Pokemon attacks 2 to 5 times in a row.
+Comet Punch / Normal / 15 / Pokemon attacks 2 to 5 times in a row.
+Confuse Ray / Ghost / 10 / Confuses enemy.
+Confusion / Psychic / 25 / Damages and may Confuse enemy.
+Constrict / Normal / 25 / Damages and decreases enemy's Speed.
+Conversion / Normal / 30 / Converts the Pokemon's type to enemy's.
+Counter / Fighting / 20 / Hits enemy for twice the damage taken.
+Crabhammer / Water / 10 / Good chance for getting critical hit.
+Cut / Normal / 30 / Damages.
+
+----------------------------------------------------------------
+*D*
+----------------------------------------------------------------
+Defense Curl / Normal / 40 / Increases Defense.
+Dig / Ground / 10 / Pokemon digs on the first turn, then attacks on the 
+second. (Doesn't effect Flying-type Pokemon)
+Disable / Normal / 20 / Disables a Pokemon's ability.
+Dizzy Punch / Normal / 10 / Damages.
+Double Kick / Fighting / 30 / Pokemon attacks twice.
+Double Team / Normal / 15 / Increases Pokemon's Evade.
+Double-Edge / Normal / 15 / Pokemon takes 1/4 the damage the enemy takes.
+Doubleslap / Normal / 10 / Pokemon attacks multiple times.
+Dragon Rage / Dragon / 10 / Pokemon causes 40 HP damage.
+Dream Eater / Psychic / 15 / While enemy Pokemon Sleeps, Pokemon absorbs 
+HP.
+Drill Peck / Flying / 20 / Damages.
+
+----------------------------------------------------------------
+*E*
+----------------------------------------------------------------
+Earthquake / Ground / 10 / Damages. (Doesn't effect Flying-type Pokemon)
+Egg Bomb / Normal / 10 / Damages.
+Ember / Fire / 25 / Damages and may Burn enemy.
+Explosion / Normal / 5 / Damages, but kills Pokemon.
+
+----------------------------------------------------------------
+*F*
+----------------------------------------------------------------
+Fire Blast / Fire / 5 / Damages and may Burn enemy.
+Fire Punch / Fire / 15 / Damages and may Burn enemy.
+Fire Spin / Fire / 15 / Pokemon attacks 2 to 5 times in a row.
+Fissure / Ground / 5 / May defeat enemy Pokemon in one hit. (Doesn't 
+effect Flying-type Pokemon)
+Flamethrower / Fire / 15 / Damages and may Burn enemy.
+Flash / Normal / 20 / Damages.
+Fly / Flying / 15 / Pokemon flies up on first turn, then attacks on the 
+second turn.
+Focus Energy / Normal / 30 / Increases chances of critical hits. 
+Fury Attack / Normal / 20 / Pokemon attacks 2 to 5 times in a row.
+Fury Swipes / Normal / 15 / Pokemon attacks 2 to 5 times in a row.
+
+----------------------------------------------------------------
+*G*
+----------------------------------------------------------------
+Glare / Normal / 30 / Paralyzes enemy.
+Growl / Normal / 40 / Decreases enemy's Attack.
+Growth / Normal / 40 / Increases Special.
+Guillotine / Normal / 5 / Can defeat enemy in one hit.
+Gust / Normal / 35 / Damages.
+
+----------------------------------------------------------------
+*H*
+----------------------------------------------------------------
+Harden / Normal / 30 / Increases Defense.
+Haze / Ice / 30 / Cures all Status effects on both Pokemon.
+Head Butt / Normal / 15 / Damages.
+Hi Jump Kick / Fighting / 20 / If Pokemon misses, it takes 1/8 the damage 
+it would have caused.
+Horn Attack / Normal / 25 / Damages.
+Horn Drill / Normal / 5 / Can defeat enemy in one hit.
+Hydro Pump / Water / 5 / Damages.
+Hyper Beam / Normal / 5 / Pokemon attacks on first turn, then recharges 
+on the second turn.
+Hyper Fang / Normal / 15 / Damages. 
+Hypnosis / Psychic / 20 / Puts enemy to Sleep.
+
+----------------------------------------------------------------
+*I*
+----------------------------------------------------------------
+Ice Beam / Ice / 10 / Damages and may Freeze enemy.
+Ice Punch / Ice / 15 / Damages and may Freeze enemy.
+
+----------------------------------------------------------------
+*J*
+----------------------------------------------------------------
+Jump Kick / Fighting / 25 / If Pokemon misses, it takes 1/8 the damage it 
+would have caused.
+
+----------------------------------------------------------------
+*K*
+----------------------------------------------------------------
+Karate Chop / Normal / 25 / Good chance of a critical hit.
+
+----------------------------------------------------------------
+*L*
+----------------------------------------------------------------
+Leech Life / Bug / 15 / Pokemon absorbs some of enemy's HP.
+Leech Seed / Grass / 10 / Pokemon absorbs some of enemy's HP each turn.
+Leer / Normal / 30 / Decreases enemy's Defense.
+Lick / Ghost / 30 / Damages and may Paralyze enemy.
+Light Screen / Psychic / 30 / Decreases damage from Special Attacks by 
+50%.
+Lovely Kiss / Normal / 10 / Puts enemy to sleep.
+Low Kick / Fighting / 20 / Damages.
+
+----------------------------------------------------------------*M*
+----------------------------------------------------------------
+Meditate / Psychic / 40 / Increases Attack.
+Mega Drain / Grass / 10 / Pokemon absorbs HP from enemy equal to 1/2 the 
+damage caused.
+Mega Kick / Normal / 5 / Damages. 
+Mega Punch / Normal / 20 / Damages.
+Metronome / Normal / 10 / Selects a random Ability to use.
+Mimic / Normal / 10 / Pokemon mimics enemy's last attack.
+Minimize / Normal / 20 / Increases Pokemon's Evade.
+Mirror Move / Flying / 20 / Pokemon mimics enemy's last attack.
+Mist / Ice / 30 / Immune to stat decreasing Attacks.
+
+----------------------------------------------------------------
+*N*
+----------------------------------------------------------------
+Night Shade / Ghost / 15 / Causes damage equal to EXP Level.
+
+----------------------------------------------------------------
+*P*
+----------------------------------------------------------------
+Pay Day / Normal / 20 / Damages and get money after battle. (Money 
+received: EXP Level x 2)
+Peck / Flying / 35 / Damages.
+Petal Dance / Grass / 20 / Damages, but Confuses Pokemon.
+Pin Missle / Bug / 20 / Pokemon attacks 2 to 5 times in a row.
+Poison Gas / Poison / 40 / Poisons enemy.
+Poison Sting / Poison / 35 / Damages and may Poison enemy.
+Poison Powder / Poison / 35 / Poisons enemy.
+Pound / Normal / 35 / Damages.
+Psybeam / Psychic / 20 / Damages and may Confuse enemy.
+Psychic / Psychic / 10 / Damages and may decrease enemy's Special.
+Psywave / Psychic / 15 / Damages cause is equal to 1.5 times Pokemon's 
+EXP Level.
+
+----------------------------------------------------------------
+*Q*
+----------------------------------------------------------------
+Quick Attack / Normal / 30 / Pokemon attacks first.
+
+----------------------------------------------------------------
+*R*
+----------------------------------------------------------------
+Rage / Normal / 20 / Damages and increases Attack when damaged until 
+battle is over.
+Razor Leaf / Grass / 25 / Damages and has good chance of a critical hit.
+Razor Wind / Normal / 10 / Pokemons builds power on the first turn, then 
+attacks on the second turn.
+Recover / Normal / 20 / Restores HP equal to 1/2 of Pokemon's max HP.
+Reflect / Psychic / 20 / Decreases damage from Physical Attacks by 50%.
+Rest / Psychic / 10 / Pokemon restores HP, but loses 2 turns.
+Roar / Normal / 20 / Makes wild enemy Pokemon run away.
+Rock Slide / Rock / 10 / Damages.
+Rock Throw / Rock / 15 / Damages.
+Rolling Kick / Fighting / 15 / Damages.
+
+----------------------------------------------------------------
+*S*
+----------------------------------------------------------------
+Sand-Attack / Normal / 15 / Decreases enemy's Accuracy.
+Scratch / Normal / 30 / Damages.
+Screech / Normal / 40 / Greatly decreases enemy's Defense.
+Seismic Toss / Fighting / 20 / Damage caused is equal to Pokemon's EXP 
+Level.
+Self Destruct / Normal / 5 / Damages, but kills Pokemon.
+Sharpen / Normal / 30 / Increases Attack. 
+Sing / Normal / 15 / Puts enemy to Sleep.
+Skull Bash / Normal / 15 / Pokemon lowers head on the first turn, then 
+attacks on the second.
+Sky Attack / Flying / 5 / Pokemon builds power on the first turn, then 
+attacks on the second turn.
+Slam / Normal / 20 / Damages.
+Slash / Normal / 20 / Damages and has a chance for a critical hit.
+Sleep Powder / Grass / 15 / Puts enemy to Sleep.
+Sludge / Poison / 20 / Damages and may Poison enemy.
+Smog / Poison / 20 / Damages and may Poison enemy.
+Smokescreen / Normal / 20 / Decreases enemy's Accuracy.
+Softboiled / Normal / 10 / Pokemon recovers HP. (Works only with Chansey 
+and Mew)
+Solar Beam / Grass / 10 / Pokemon absorbs sunlight on the first turn, 
+then attacks on the second turn.
+Sonicboom / Normal / 20 / Causes 20 HP damage.
+Spike Cannon / Normal / 15 / Pokemon attacks 2 to 5 times in a row.
+Splash / Normal / 40 / Damages.
+Spore / Grass / 15 / Puts enemy to Sleep.
+Stomp / Normal / 20 / Damages.
+Strength / Normal / 15 / Damages.
+String Shot / Bug / 40 / Decreases enemy's Speed.
+Struggle / Normal / 10 / Only used when Pokemon runs out of PP, but 
+Pokemon takes 1/4 the damage caused.
+Stun Spore / Grass / 30 / Paralyzes enemy.
+Submission / Fighting / 25 / Pokemon takes 1/4 the damage caused.
+Substitute / Normal / 10 / Pokemon creates a "doll" whichs fights for 
+itself. Breaks when takes too much damage.
+Super Fang / Normal / 10 / Decreases enemy's HP by 1/2.
+Supersonic / Normal / 20 / Confuses enemy.
+Surf / Water / 15 / Damages.
+Swift / Normal / 20 / Damages, and highly accurate.
+Swords Dance / Normal / 30 / Increases Attack.
+
+----------------------------------------------------------------
+*T*
+----------------------------------------------------------------
+Tackle / Normal / 35 / Damages.
+Tail Whip / Normal / 30 / Decreases enemy's Defense.
+Take Down / Normal / 20 / Pokemon takes 1/4 the damage caused.
+Teleport / Psychic / 20 / Escape from wild Pokemon battles.
+Thrash / Normal / 20 / Damages, but Confuses Pokemon.
+Thunder / Electric / 10 / Damages and may Paralyze enemy.
+Thunder Wave / Electric / 20 / Paralyzes enemy.
+Thunderbolt / Electric / 15 / Damages and may Paralyze enemy.
+Thunderpunch / Electric / 15 / Damages and may Paralyze enemy.
+Thundershock / Electric / 30 / Damages and may Paralyze enemy.
+Toxic / Poison / 10 / Poisons enemy, but damage increases each turn.
+Transform / Normal / 10 / Changes Pokemon into enemy Pokemon.
+Tri Attack / Normal / 10 / Damages.
+Twineedle / Bug / 20 / Pokemon attacks twice, and may Poison enemy.
+
+----------------------------------------------------------------
+*V*
+----------------------------------------------------------------
+Vicegrip / Normal / 30 / Damages.
+Vine Whip / Grass / 10 / Damages.
+
+----------------------------------------------------------------
+*W*
+----------------------------------------------------------------
+Water Gun / Water / 25 / Damages.
+Waterfall / Water / 15 / Damages.
+Whirlwind / Normal / 20 / Tosses wild Pokemon out of battle.
+Wing Attack / Flying / 35 / Damages.
+Withdraw / Water / 40 / Increases Defense.
+Wrap / Normal / 20 / Pokemon attacks 2 to 5 times in a row.

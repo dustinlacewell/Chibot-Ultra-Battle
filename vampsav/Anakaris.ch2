@@ -1,0 +1,560 @@
+"Anakaris"
+"Anakaris"
+""
+"Anakaris"
+"A giant sarcophagus descends from the sky and %SN steps out as Anakaris!"
+"%SN appears in a cloud of dust as Anakaris."
+ 50 
+ 20 
+ 75 
+ 75 
+ 0 
+"%SN rests in a coffin."
+"%SN forms a wall of power."
+"%T breaks through %SN's defenses."
+"%SN laughs and says, ''All excellent souls should kneel before me.''"
+""
+""
+""
+""
+"me"
+"%SN dashes towards %T."
+"%SN surrounds %T in hundreds of bandages, mummifying them!"
+"The Dance of Coffins"
+"doc"
+ 1 
+"%SN leaps into the air and slams his hand forward."
+"%SN leaps into the air and slams his hand forward."
+""
+"A coffin descends from the sky and slams into %T's head!"
+"A gigantic coffin descends from the sky and crushes %T's body!!"
+ 0 
+""
+"A coffin descends from the sky and slams into %T's head!"
+""
+"%T dodges the raining coffins."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 50 
+ 2 
+"Royal Judgement"
+"rj"
+ 0 
+"%SN leaps into the air and regurgitates a swirling mass of smoke."
+""
+""
+"A cloud of rotating smoke collides with %T, morphing them into a mushroom!"
+""
+ 0 
+""
+""
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Cobra Blow"
+"cb"
+ 0 
+"%SN converges his hands into one, forming a cobra."
+""
+""
+"%SN plunges his fists into %T's face."
+""
+ 0 
+""
+"%SN's fists slam into %T's face as the cobra bites them!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 15 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 45 
+ 2 
+"Mummy Drop"
+"md"
+ 1 
+"%SN's hands wriggle and dance towards %T."
+"%SN's hands wriggle and dance towards %T."
+""
+"%SN grabs %T, wraps them in bandages, and slams them into a tree."
+"%SN pulls %T into his coffin. The coffin jumps up and down and %T is sent flying out!"
+ 0 
+""
+"%SN grabs %T, wraps them in bandages, and slams them into a rock wall!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 65 
+ 2 
+"The Pit to the Underworld"
+"pit"
+ 0 
+"%SN chants, opening a portal underneath %T."
+""
+""
+"The portal lifts %T into the sky, swirls them around and sucks them away!"
+""
+ 0 
+""
+""
+""
+"%T jumps off the portal."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Pharoah Magic I"
+"pm1"
+ 0 
+"%SN extends his palm outward as he stands in a shrine of energy."
+""
+""
+"%T is ignited in fire, charred by electricity, encased in ice, and trampled by an enormous coffin!"
+""
+ 0 
+""
+"%T is ignited in fire, charred by electricity, encased in ice, and trampled by an enormous coffin!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 100 
+ 2 
+"Pharoah Magic II"
+"pm2"
+ 0 
+"%SN extends his palm outward as he stands in a shrine."
+""
+""
+"%T is bombarded by the elements, and reduced to half their size!"
+""
+ 0 
+""
+"%T is bombarded by the elements, and reduced to half their size!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 75 
+ 2 
+"Dark Force"
+"df"
+ 0 
+"%SN splits himself in half..."
+""
+""
+"%SN speeds up dramatically."
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

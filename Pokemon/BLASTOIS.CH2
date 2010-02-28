@@ -1,0 +1,564 @@
+"Blastoise"
+"Blastoise"
+2425
+"Blastoise"
+"%SN is now #009, Blastoise."
+"%SN joins in as #009, Blastoise."
+60
+50
+60
+50
+""
+"%SN rests in the sea."
+"%SN ducks into its shell."
+"%T knocks %SN out of its shell!"
+"%SN shows off its water cannons."
+""
+""
+""
+""
+""
+""
+""
+"Tackle"
+"tackle"
+1
+"%SN charges at %T."
+"%SN dashes at %T."
+""
+"%SN tackles %T!"
+"%SN smashes %T to the moon!"
+0
+""
+"%SN tackles %T so hard they slam into a tree!"
+""
+"%T dodges and %SN runs into a tree."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T dodges and %SN runs into a tree."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+"Tail Whip"
+"Tail Whip"
+0
+"%SN swings its tail around at %T."
+""
+""
+"%SN trips %T up with its tail!"
+""
+0
+""
+""
+""
+"%T jumps %SN's tail."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+2
+"Bubble"
+"bubble"
+0
+"%SN shoots water bubbles at %T."
+""
+""
+"%T is hit by a water bubble."
+""
+0
+""
+""
+""
+"%T dodges the water bubble."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+50
+2
+"Water Gun"
+"water gun"
+1
+"%SN shoots water at %T."
+"%SN shoots water at %T."
+""
+"The water splashes over %T!"
+"The water splashes over %T!"
+0
+""
+""
+""
+"%T dodges the water attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T dodges the water attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+150
+2
+"Bite"
+"bite"
+0
+"%SN tries to take a bite out of %T."
+""
+""
+"<<CHOMP>> %SN bites %T!"
+""
+0
+""
+""
+""
+"%SN tried to bite %T, but %T leaps out of the way."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+2
+"Withdraw"
+"withdraw"
+0
+"%SN uses the Withdraw technique."
+""
+""
+"%SN gains barriers!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+100
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Skull Bash"
+"skull bash"
+1
+"%SN lowers its head and charges at %T."
+"%SN lowers its head and charges like a bull at %T!"
+""
+"%SN bashes %T hard!"
+"%SN knocks the crap outta %T!"
+0
+""
+"%SN bashes %T really hard!"
+""
+"%T quickly jumps to the side and %SN bashes a tree."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T quickly jumps away."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+150
+2
+"Hydro Pump"
+"hydro pump"
+1
+"%SN's water cannons blast out water at %T."
+"%SN's water cannons sends out an unending tidal wave of water at %T."
+""
+"%T is hit by the water and knocked over!"
+"An unending tidal wave engulfs %T and sweeps them away."
+0
+""
+"%T is blasted away by the water attack!"
+""
+"%T manages to escape %SN's hydro pump."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T manages to escape."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+150
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Type: Water"
+"Height: 5' 3''"
+"Weight: 189 lbs."
+"A brutal Pokemon with pressurized water jets on its shell. They are used for high-speed tackles."

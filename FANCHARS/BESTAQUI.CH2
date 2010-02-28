@@ -1,0 +1,560 @@
+"Safer Aquila"
+"bestaquila"
+""
+"~safer aquila"
+"%SN appears in a burst of flames!"
+"%SN appears in a burst of ice!"
+ 0 
+ 0 
+ 100 
+ 100 
+ 0 
+"%SN yawns and falls asleep."
+"%SN forms a wall infront of him."
+"%SN's wall fails him!"
+"%SN says 'You can't possibly Defeat me!'"
+"%SN taunts everyone."
+""
+""
+""
+"flash"
+"%SN raises his hand above %T......"
+"In a FLASH, %T is disentigrated!"
+"Thunderbolt"
+"tb"
+ 0 
+"%SN snaps his fingers...."
+""
+""
+"A Thunderbolt strikes %T!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Thunder Storm"
+"ts"
+ 0 
+"%SN snaps his fingers."
+""
+"Thunderbolts rake across %T's team!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 45 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 4 
+"Sky Crush"
+"sc"
+ 0 
+"%SN laughs evilly as the sky turns a pale red."
+""
+"Red beams rain down and blast %SN's enemies!"
+""
+""
+ 0 
+""
+"%T coughs up their spleen!"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 55 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 34 
+ 5 
+"Ring of fury"
+"rof"
+ 0 
+"%SN gets pissed and starts spinning around and around...."
+""
+"A ring blasts all but %SN!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 25 
+ 6 
+"Comet"
+"comet"
+ 0 
+"%SN summons a comet."
+""
+"The arena turns a bright white as the comet strikes!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 55 
+ 7 
+"Heal Team (Cheap heal)"
+"healt"
+ 0 
+""
+""
+"%SN forms a blue ball around his team."
+""
+""
+ 0 
+"%SN's team is healed by the blue ball!"
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 55 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 90 
+ 3 
+"Super Nova"
+"sn"
+ 0 
+"%SN casts Super Nova!"
+""
+"Chevy novas rain down on everyone!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 100 
+ 6 
+"Earth Beam"
+"eb"
+ 1 
+"%T gets edgy as yellow energy spirals beneath them......"
+"Yellow streaks of energy form beneath %T!"
+""
+"A ROAR of earth encompasses %T as they are thrown high in the air."
+"%S2 streaks of energy race up and blast %T!"
+ 0 
+""
+"%T falls over! o_O"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 27 
+ 80 
+ 2 
+"FireBuster"
+"fb"
+ 1 
+"%SN pulls out a flame thrower."
+"%SN pulls out a flame thrower."
+""
+"%SN shoots a barrage of flames at %T!"
+"%T is hit by a barrage of %S2 flames!"
+ 0 
+""
+"%T is toasted to a fine crisp!"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 76 
+ 2 
+"Aqueous helix"
+"ah"
+ 0 
+"%SN forms a protective Aqueous helix around his team."
+""
+"The Helix spirals about at hyper speeds then vanishes! What happened?"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 0 
+ 0 
+ 0 
+ 0 
+ 66 
+ 0 
+ 1 
+"Massive Pokeball assault"
+"mpba"
+ 0 
+"%SN flings several hundred pokeballs at %T!"
+""
+""
+"Many Pokemon Charge out and rip %T to shreds!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 80 
+ 2 
+"Jolt!"
+"~jolt"
+ 0 
+"%SN goes and whispers something in %T's ear."
+""
+""
+"%T looks at %SN and laughs! Boy, Isn't that a funny joke!"
+""
+ 0 
+""
+""
+""
+""
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 0 
+ 1 
+ 0 
+ 0 
+ 0 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 0 
+ 1 
+ 1 
+ 1 
+ 1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"%SN says 'Whoa! You defeated me!'"
+"%SN's dead body is taunted....."
+""
+""
+""
+"%SN says 'See! I said you can't possibly defeat me!'"
+"%SN taunts %T's dead body."
+""
+""
+""

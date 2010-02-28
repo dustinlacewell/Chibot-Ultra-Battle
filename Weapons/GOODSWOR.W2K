@@ -1,0 +1,226 @@
+"A Semi Good Sword"
+"goodsword"
+"%SN picks up the semi-good sword."
+"It's a somewhat good sword."
+"Based on its predecessor, the Really Good Sword."
+20
+"Sword Bless"
+"Sword Bless"
+0
+"%SN holds the sword as white magic surrounds %T."
+""
+""
+"%T is blessed by white magic."
+""
+1
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+100
+25
+0
+0
+0
+0
+0
+100
+100
+0
+100
+0
+0
+0
+0
+0
+0
+3
+"Sword Cure"
+"Sword Cure"
+0
+"%SN holds up the sword and a healing light surrounds %T."
+""
+"%SN holds up the sword and is bathed in healing light."
+"%T is cured by the power of the sword!"
+""
+1
+"%T is cured by the power of the sword!"
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+150
+3
+"Sword Slash"
+"Sword Slash"
+1
+"%SN jumps toward %T with the pretty good sword."
+"%SN charges at %T, sword in hand."
+""
+"%SN gives %T a pretty good slash!"
+"%SN slashes %T an uncountable number of times."
+0
+""
+""
+""
+"%T quickly evades %SN's slash."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T quickly evades %SN's slash."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Sword Speed"
+"Sword Speed"
+0
+"%SN holds the sword as it glows with an orange aura."
+""
+""
+"%SN is hasted by the sword's power."
+""
+1
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+"Sword Evilness"
+"Sword Evilness"
+0
+"%SN points the pretty good sword at %T as it glows green."
+""
+""
+"The sword sends virulent energy throughout %T."
+""
+1
+""
+""
+""
+"%SN waves the sword but nothing happens. ''Cruddy piece of <TOS>,'' %SN mutters."
+5
+5
+5
+5
+100
+5
+0
+-1
+0
+0
+""
+5
+5
+-1
+-1
+5
+5
+5
+-1
+5
+-1
+-1
+5
+-1
+0
+0
+0
+0
+0
+0
+2

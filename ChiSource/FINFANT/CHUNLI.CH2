@@ -1,0 +1,564 @@
+"Chun Li"
+"chunli"
+0
+"chun li"
+"%SN bows and takes her fighting stance as Chun Li."
+"%SN flips into battle as Chun Li."
+0
+60
+90
+70
+""
+"%SN sits and rests by her fathers grave."
+"%SN braces for impact."
+"%T bursts through %SN's defenses."
+"%SN laughs and says, 'Yatta!'"
+""
+""
+""
+""
+"sld"
+"Darkness falls over %T and a barrage of punches and kicks are heard."
+"Light returns and %T is seen battered and bruised with %SN's spiked bracelet impaled in thier chest!"
+"Kikoken"
+"kikoken"
+1
+"%SN fires out a blue ball of energy."
+"%SN brings her hands close to her body and gathers energy in them."
+""
+"A bright blue ball of energy slams into %T's body."
+"%SN shouts, 'Kikoshou!!' and forms a pulsating ball of energy that blasts %T %S2 times!!"
+0
+""
+"%SN creates a mini-kikosho, and blasts %T!!"
+""
+"%SN balls of energy dissolves before it reaches %T."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+30
+75
+2
+"Lightning Legs"
+"ll"
+1
+"%SN raises her leg and begins to kick rapidly."
+"%SN raises her leg and begins to kick rapidly."
+""
+"%SN's leg reaches tremendous speeds and she kicks %T hundreds of times."
+"%SN shouts, 'Senretsu Kyaku!' as she dashes at %T kicking them 4%S2 times!!"
+0
+""
+"%SN's leg reaches tremendous speeds and she kicks %T hundreds of times!!"
+""
+"%SN watches her leg moving rapidly and gets dizzy."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+70
+2
+"Hazan Tenshou Kyaku"
+"htk"
+1
+"%SN dashes towards %T."
+"%SN dashes towards %T."
+""
+"%SN executes an upwards spinning kick on %T."
+"%SN shouts, 'Hazan Tenshou Kyaku!' as she unleashes an endless rising kick on %T!!"
+0
+""
+"%SN executes an upwards spinning kick on %T."
+""
+"%T pushes %SN away."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+80
+2
+"Shichisei Senkuu Kyaku"
+"ssk"
+0
+"%SN dashes through the air at high speeds."
+""
+""
+"%T falls into a state of suspended animation as %SN rips through their body!!"
+""
+0
+""
+"%T falls into a state of suspended animation as %SN rips through their body!!"
+""
+"Holy man %T dodges 'Shichisei Senkuu Kyaku.'"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+29
+150
+2
+"Heel Kick"
+"hk"
+0
+"%SN jumps into the air."
+""
+""
+"%SN heel kicks %T on their head."
+""
+0
+""
+"%SN heel kicks %T on their head, then kicks them in their face!!"
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Flip Kick"
+"fk"
+0
+"%SN does a handstand then flips towards %T."
+""
+""
+"%SN crashes her legs down on top of %T."
+""
+0
+""
+"%SN crashes down on top of %T!!"
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+45
+2
+"Throw 'Em"
+"throw"
+0
+"%SN grabs %T."
+""
+""
+"%SN throws %T down to the ground."
+""
+0
+""
+"%SN throws %T down to the ground then steps on them!!"
+""
+"%T gets away from %SN."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+50
+2
+"Triple Jump"
+"mia"
+0
+"%SN utilizes her skills in jumping."
+""
+""
+"%SN leaps up high into the sky."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+"Quick and Haste"
+"qah"
+0
+"%SN powers up."
+""
+""
+"%SN gets a burst of speed."
+""
+0
+""
+""
+""
+"%SN looses her charged power."
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+"Father's Bless"
+"fb"
+0
+"%SN prays to her father."
+""
+""
+"%SN's father appears above %T and showers her in unknown power."
+""
+0
+""
+""
+""
+"%SN fails to summon her father."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+8
+"Sh..."
+"~sr"
+0
+"%SN morphs into Shadow Lady and charges an electric field around her."
+""
+""
+"A shield of lightning crackles all around %SN."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+100
+0
+0
+0
+0
+0
+0
+0
+0
+3
+"Bad Boy/Girl"
+"bb"
+0
+"%SN runs upto %T."
+""
+""
+"%SN kicks %T in the shins and they loose all their cool stuff. Aww Nuts!"
+""
+0
+""
+""
+""
+"%T runs fast away from %SN."
+0
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+""
+0
+0
+-1
+-1
+0
+0
+0
+-1
+0
+-1
+-1
+0
+-1
+0
+0
+0
+0
+0
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

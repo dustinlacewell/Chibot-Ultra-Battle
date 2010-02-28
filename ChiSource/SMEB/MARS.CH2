@@ -1,0 +1,564 @@
+"SailorStar Mars"
+"mars"
+2422
+"mars"
+"%SN shouts, 'Mars Crystal Power, Make Up!'"
+"%SN arrives as SailorStar Mars."
+50
+50
+65
+55
+""
+"%SN meditates in her temple."
+"%SN forms a Fire Wall."
+"%T breaks through %SN's Fire Wall."
+"%SN cries, 'You're history, bub!'"
+"%SN says, 'Prepare to be roasted! Beware of my firebird!'"
+"%SN says, 'I've got hot hands!'"
+"%SN taunts, 'I'm Sailormars, and you're toast!'"
+""
+"sc"
+"%SN's tiara jewel shimmers with red light as she touches %T on the forehead."
+"%SN's flame energy causes %T to spontaneously combust!!"
+"Fire Soul"
+"fsoul"
+0
+"%SN unleashes a ball of fire into the sky."
+""
+""
+"A fire ball spirals and slams into %T."
+""
+0
+""
+"%T is scorched to a crisp!"
+""
+"%T is bombarded by fire. Luckily for them, they remembered to Stop, Drop, and Roll."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+80
+2
+"Fire Soul Bird"
+"fsb"
+0
+"%SN unleashes a flaming bird into the sky."
+""
+""
+"A flaming bird slams into %T, knocking them back."
+""
+0
+""
+"%T is burned alive by %SN's Fire Bird!"
+""
+"%T summons a Fire Cat. Fire Bird squawks and flies away, chased by Fire Cat."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+90
+2
+"Burning Mandala"
+"bm"
+1
+"%SN surrounds herself in a ring of fire."
+"%SN surrounds %T in a ring of fire."
+""
+"%SN releases multiple ringlets of fire at %T!"
+"The ring of fire closes in on %T! %T is roasted!!"
+0
+""
+"%SN releases dozens of fire rings at %T!!"
+""
+"%SN's fire rings fly past %T and blow up a tree!  Oops!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+100
+2
+"Mars Flame Sniper"
+"mfs"
+1
+"%SN makes a bow and arrow of fire."
+"%SN fires many flaming arrows at %T."
+""
+"%SN shoots %T with a fire arrow!"
+"%T is turned to charcoal by %SN's flaming arrows."
+0
+""
+"A fire arrow blasts right through %T's stomach!"
+""
+"%SN misses her shot at %T."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%SN misses her shot at %T."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+110
+2
+"Akuryou Taisan"
+"at"
+0
+"%SN holds a charm and begins to chant."
+""
+""
+"A charm lands on %T's forehead."
+""
+0
+""
+""
+""
+"%T knocks away the piece of paper like... well, a piece of paper."
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Flaming Arrow Rain"
+"far"
+0
+"%SN shoots an arrow into the air."
+""
+"The arrow explodes into many flaming arrows which rain down on the field."
+""
+""
+0
+""
+""
+""
+"Kamek gets hit with a flaming arrow."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+80
+5
+"Physical Attack"
+"att"
+0
+"%SN charges toward %T."
+""
+""
+"%SN punches %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+60
+2
+"Sacred Flames (Reveal)"
+"sf"
+0
+"%SN shouts, 'Sacred flames, give me guidance! Show me %T's weakness!'"
+""
+""
+"A raging fire forms and reveals %T's bio-information."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+23
+0
+2
+"Mars Snake Fire"
+"msf"
+0
+"%SN emits a snake of fire from the jewel in her tiara."
+""
+""
+"A fire snake wraps itself around %T's body and burns them deeply."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+130
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

@@ -1,0 +1,560 @@
+"Rutee Katrea"
+"Rutee"
+""
+"Rutee"
+"%SN grasps Atwight and is now Rutte Katrea"
+"%SN jumps into battle as Rutee Katrea"
+ 1 
+ 49 
+ 90 
+ 80 
+ 0 
+"%SN goes to rob some poor innocent soul"
+"%SN blocks with Atwight"
+"%T knocks Atwight away"
+""
+""
+""
+""
+""
+"Atwight"
+"Atwight glows blue"
+"Atwight summons a mermaid with a shotgun. *BOOM*. %T's head is blown to bits"
+"First Aid"
+"fa"
+ 0 
+"%SN raises Atwight"
+""
+"%SN raises Atwight"
+"%T feels much better after a shower of light heals them"
+""
+ 0 
+"%SN feels better after a shower of light heals them"
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 50 
+ 3 
+"Antidote"
+"antidote"
+ 0 
+"%SN raises Atwight"
+""
+""
+"Atwight removes the poison from %T's system"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Nurse"
+"Nurse"
+ 0 
+"%SN raises Atwight into the air"
+""
+"a team of nurses heals %SN's team!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 40 
+ 1 
+"Sharpness"
+"Sharpness"
+ 0 
+"%SN Raises Atwight"
+""
+""
+"Atwight increases the power of %T's attack!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Ice Tornado"
+"it"
+ 0 
+"%SN raises Atwight up to the sky"
+""
+"Chunks of ice encircle %T and thier team"
+""
+""
+ 0 
+""
+""
+""
+"%T dodges the attack"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 63 
+ 4 
+"Ice Needle"
+"in"
+ 1 
+"%SN raises Atwight high in the sky"
+"%SN raises Atwight high in the sky"
+""
+"Needles of ice surround and stab %T!"
+"%S2 needles of ice stab %T all over"
+ 0 
+""
+"giant needles of ice pierce through %T's body!"
+""
+"%T dodges the attack"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 80 
+ 2 
+"Ice Wall"
+"iw"
+ 0 
+"%SN raises Atwight into the sky"
+""
+""
+"a giant block of ice encases %T!"
+""
+ 0 
+""
+"a giant block of ice encases %T!!!"
+""
+"%T kicks Atwight out of %SN's hands!"
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 50 
+ 2 
+"Bloody Rose"
+"~br"
+ 1 
+"%SN jumps into the air with Atwight"
+"%SN jumps into the air with Atwight"
+""
+"%SN slices very fast at %T, makeing a rose shape wound across thier chest"
+"%SN slashes, hacks and peirces %T's throat til the juggular is cut!"
+ 0 
+""
+"Atwight flies from %SN's hand and into %T's throat"
+""
+"%T blocks the attack"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 28 
+ 80 
+ 2 
+"Heal"
+"heal"
+ 0 
+"%SN raises Atwight"
+""
+"%SN raises Atwight"
+"%T is engulfed in light and feels better"
+""
+ 0 
+"%T is engulfed in light and feels a whole lot better"
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 100 
+ 3 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

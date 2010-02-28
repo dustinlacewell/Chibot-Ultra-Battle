@@ -1,0 +1,6652 @@
+        _____   _____   _   _   _____   _    _   _____   _    _       
+       |  __ | |  _  | | | / / |  ___| | \  / | |  _  | | \  | |              
+       | |__|| | | | | | |/ /  | |_    |  \/  | | | | | |  \ | |       
+       |  ___| | | | | |   |   |  _|   | |\/| | | | | | |   \| |     
+       | |     | |_| | | |\ \  | |___  | |  | | | |_| | | |\   |          
+       |_|     |_____| |_| \_\ |_____| |_|  |_| |_____| |_| \__|
+                                                                                                                                                                                                   
+                 G O T T A   C A T C H   'E M   A L L!                                                                                        
+                                                                                               
+================================================================
+FAQ Version 6.2
+By: MetroidMoo (MetroidMoo@aol.com) 
+Date: 2/15/99
+The latest version of this FAQ can always be found at GameFAQs 
+(www.GameFAQs.com)
+================================================================
+ 
+Contents:
+1)Updates
+2)Playing Pokemon
+3)Important Info
+4)Pokemon Pikachu
+5)Ability List
+6)F.A.Q.
+7)Walkthrough 
+8)Pokemon List
+9)Items/Stores
+10)Codes/Tips
+11)Gameshark/Game Genie Codes
+12)Pokemon Rumors
+13)Future Pokemon Games
+14)Credits
+15)Contact
+
+===========
+1) UPDATES
+===========
+
+6.2 - Added a couple Pikachu's Actions
+      - Added "Future Pokemon Games" section
+
+6.0 - Added some useful Gameshark codes
+      - Added a F.A.Q. question 
+      - Added two sections to the "Pokemon Pikachu" section
+      - Added a warning note in the "Codes/Tips" section
+      - Created 4 "GIF." files for use with the FAQ
+
+5.8 - Added some corrections 
+      - Added more actions in the "Pokemon Pikachu" section
+      - Added two more F.A.Q. questions
+      - Fixed layout a bit
+
+5.6 - Added a new Mew rumor 
+      - Added two more awesome codes!
+      - Added some more info to the note after this
+
+5.4 - Added two more rumors for the "Pokemon Rumors" section
+      - Added an awesome code that actually works!
+
+5.2 - Added two codes to the "Codes/Tips" section
+      - Added more F.A.Q. questions
+      - Added more Store Codes in the Game Genie section
+      - Added more Pokemon locations in the "Fishing" section
+
+5.0 - Added "F.A.Q." section
+      - Added "Pokemon Rumors" section
+      - Added another Pokemon location in the "Fishing" section
+      - Re-added "Request List" at the end 
+
+4.8 - Re-removed "Get Mew #1" code (I thought I had removed it)
+
+4.6 - Added Game Genie codes
+      - Added LOTS of Gameshark codes
+      - Added Ability effects in the "Ability List" section
+      - Added "Cable Club" to the Important Info section
+      - Removed "Get Mew #1" code from the "Codes/Tips" section
+      - Added a note after this
+
+4.4 - Added an important note after this
+      - Added a code in the "Codes/Tips" section
+      - Added Pokedex information for all 151 Pokemon in                         
+the "Pokemon List" section
+
+4.2 - Added a code in the "Codes/Tips" section
+
+4.0 - Added a Game Genie code
+      - Added Abilities for all 151 Pokemon in the "Pokemon                 
+List" section
+
+3.8 - Removed "Get Any Pokemon" code from Codes/Tips section
+      - Minor changes to different sections
+      - Added three new parts to the "Pokemon Pikachu" section
+      - Added a very important note after this (The Mew Code)
+
+3.6 - Solution found for "Get Mew #1" code! (Codes/Tips section)
+      - Revised most of the FAQ
+      - Added "Ability List" section (Complete list)
+      - Small update to "Pokemon Pikachu" section
+
+3.4 - Added a code to the "Codes/Tips" section
+      - Added more Gameshark codes
+      - Added "Moon Stone Locations" to the Important Info         
+section
+      - Added "Pokemon Pikachu" section
+      - Updated "Request List"
+
+3.2 - Added a tip to the "Codes/Tips" section
+      - Added more Game Genie codes
+
+3.0 - Updated "Request List"
+      - Added a code to the "Codes" section
+      - Completed "Pokemon List" section
+
+2.8 - Walkthrough is completed!
+      - Updated "Item List"
+      - Added lots of Pokemon Info 
+      - Added Gameshark codes
+      - Added two codes to the "Codes" section
+
+2.6 - Added update to the Walkthrough (Almost complete!)
+      - Updated some Pokemon Info
+
+2.4 - Added "Game Genie" codes to the Gameshark section
+      - Updated Walkthrough 
+      - Added "TM List" to the Important Info section
+      - Corrections made to the "Elite Four" section
+      - Updated "Request List"
+
+2.2 - Added "Gameshark Codes" section
+      - Small update to the "Fishing" section
+      - Minor update to "Request List"
+
+2.0 - Updated Walkthrough
+      - Added LOTS of Pokemon Info
+      - Added "Codes" section with two codes
+      - Updated "Request List" in the Contact section
+
+1.8 - Added "Gary" to the Elite Four section
+      - Added "Fishing" to the Important Info section
+
+1.6 - Updated Walkthrough a little bit
+      - Added "Elite Four" section, thanks to MLW65128TX
+      - Added "Request List" at the end if you want to                  
+contribute
+      - Added info for Dragonite
+
+1.4 - Updated Walkthrough
+      - Added more Pokemon info
+
+1.2 - Made a minor update to Walkthrough
+      - Added "Credits" section
+      - Added info for Charizard, Raichu, and Sandshrew thanks         to 
+contributors
+      
+1.0 - FAQ Release
+      - Missing info in various sections
+
+*AUTHOR'S NOTE*
+Now the Pokemon FAQ is finally completed, but I'm still adding some more 
+things to it! And you will still need to ask me if you want to use the 
+FAQ on your website. Since I am getting some Pokemon questions and the 
+answers are right in the FAQ, I will ignore the question. It's starting 
+to tick me off that people can't even search for the answers when it's 
+right in front of their faces! But if you have a question whose answer is 
+not in the FAQ, e-mail me.
+
+===================
+2) PLAYING POKEMON
+===================
+This section explains on playing the game and gives some tips.
+
+What's the difference between the Red and Blue Versions?
+Everything is the same except it may have a Pokemon in one version but 
+not in the other. For example, you can find a Ekans in the Red Version, 
+but you can't find in the Blue. Instead, the Blue Version contains a 
+Sandshrew. So, you need to find a friend who has the other version to get 
+all 150. In order to trade, you need a Game Link Cable (Sold seperately). 
+When you find someone, you can trade Pokemon!
+
+How do I capture Pokemon?
+First off, you need to purchase some Poke Balls at a Poke Mart. Each kind 
+of ball can perform better or worse than others. Then visit a cave or an 
+area with grass. There are some another places, but you see those the 
+most. Walk around until you go into battle. Have your Pokemon fight the 
+enemy until the enemy's energy level is very low. Use your Poke Ball, and 
+you should be able to capture one. If not, keep trying! And remember you 
+cannot capture a trainer's Pokemon!
+
+I captured one, now what do I do?
+Now you can train your Pokemon to fight! Remember, to heal your Pokemon, 
+just visit a Pokemon Center. Also once you capture one, data is recorded 
+in your PokeDex. With that, you can find some info and where you can find 
+it. I won't go into much more detail because other parts of this section 
+explain them.
+
+How do my Pokemon learn moves?
+You can get them in one of two ways. Once Pokemon reach a certain level 
+they learn a move. Another way is to use a TM or HM on it. Moves use 
+Power Points (PP). So when you don't have any PP, the Pokemon can't use 
+the move until healed. Remember that your Pokemon can only have four 
+moves at a time!
+
+What do these "types" mean?
+Every Pokemon has one or two types out of fifteen. They tell how your 
+Pokemon will perform against other types. Look in your manual to find the 
+Battle Chart. For example, a Grass-type does great against a Water-type, 
+but it does poor against a Fire-type.
+
+How do I build levels?
+If you played an RPG before, you should understand know how it works. 
+First, find an area like I said about before for capturing, or you can 
+fight trainers. Go into battle, and if your Pokemon wins, it gains EXP. 
+Once it gets a certain amount of EXP, it goes up a level. With a level-
+up, its stats increases. To see how much is needed, check its stats. If 
+you switch Pokemon in battle, they both get EXP, but the amount is 
+reduced. That can also help when you want to build your low-level 
+Pokemon.
+
+What are the Technical Machines (TMs) and Hidden Machines (HMs) for?
+These items can teach your Pokemon new moves for battle, but they work a 
+bit differently. TMs can only be used once and only work in battle. HMs 
+can be used over and over, and the moves work on the Field Map and 
+battle. Most moves can only work with certain Pokemon, such as "Fly" only 
+works with Flying-type.
+
+How do my Pokemon evolve?
+Some Pokemon may evolve a couple times or some may not evolve at all! 
+When they evolve, the Pokemon's stats increase more than a level-up 
+would. Pokemon can in one of three ways:
+#1: Level-Up 
+This one is used more than the others. The Pokemon changes once it 
+reaches a certain level. For example, Kakuna evolves into Beedrill at 
+around Level 10.
+#2: Item
+Some Pokemon only evolve if you use a certain Stone. Most Stones can be 
+bought at Celadon City. For example, Staryu evolves into Starmie if you 
+use a Water Stone on it.
+#3: Trade
+These Pokemon only evolve if you trade with a friend who has another Game 
+Pak. This applies to four Pokemon. For example, Graveler evolves into 
+Golem when traded.
+
+How do I earn money?
+There are two ways to do this. You can fight a trainer and win or use the 
+"Pay Day" attack. You can get Pay Day from Meowth or from a TM on Route 
+12.
+
+A Few Tips:
+- Use strategy! Using it will make Pokemon MUCH easier!
+- Build levels whenever possible and try to build them evenly.
+- If you carry six Pokemon, capture another one and automatically goes to 
+the PC!
+- Trade often for new Pokemon!
+- When you use traded Pokemon, they gain about 1/2 more EXP than a 
+regular Pokemon!
+- When a Pokemon evolves, its stats increase more than a normal level-up 
+would. Also its type may change after evolving.
+- Fight trainers when you can to earn more money.
+- Search trees, rocks, etc. for some free items. You usually find them if 
+it is in a "strange" place such as being in the middle of nowhere.
+- If you use Poison-type Pokemon, you won't need to worry about being 
+poisoned!
+- In both Versions, there are five Pokemon (Snorlax, Zapdos, Articuno, 
+Moltres, and Mewtwo) that appear once (Snorlax appears twice). So 
+capturing them will be a good addition to your collection!
+
+==================
+3) IMPORTANT INFO
+==================
+This section includes info on HMs, TMs, Moon Stone Locations, Cable Club, 
+Exchange Corner, Fishing, Safari Zone, and the Elite Four/Gary!
+
+---------------
+Hidden Machines
+---------------
+
+HM 01 - Cut:
+In order for you to get the HM 01, you must first get the S.S. Ticket. Go 
+to Route 24 and 25 and visit Bill the Pokemanic. Bill had a bizarre 
+accident with a new experimental machine. Talk to him, and he goes into 
+the machine. Use the PC, and Bill will be changed back to normal. He will 
+give you the ticket as a reward. Visit Vermilion City and board the S.S. 
+Anne. Work your way around the ship until you fight Gary. Beat Gary and 
+go down the stairs to enter the captain's room. Talk to him and "rub" his 
+back to get the HM. The Cut ability allows you to cut down trees to 
+access other areas.
+
+HM 02 - Fly: 
+This one is not that hard to get. Go to Route 16 west of Celadon City. 
+Cut down the tree and follow the road into a building. Keep going west 
+and enter the house. The person inside will give you the HM. The Fly 
+ability allows you to visit cities you've been to. 
+
+HM 03 - Surf:
+This one is located in the Secret House in Safari Zone. I can't really 
+explain this well, so just try to make your way around. Once you reach 
+the house, the man inside gives you the HM as a prize. The Surf ability 
+allows you to move around on water. 
+
+HM 04 - Strength:
+The Warden in Fuchsia City will give you the HM if you give him his Gold 
+Teeth. The teeth are located in Safari Zone. It's in Area 3 near the 
+Secret House. Get them and give them to the Warden. Now that he can talk, 
+he'll hand over the Hidden Machine. The Strength ability allows you to 
+move heavy boulders.
+
+HM 05 - Flash:
+Enter Diglett's Cave east of Vermilion City. Go through to get near 
+Viridian Forest. The one house in that section is where one of Prof. 
+Oak's aides is. If you caught 10 or more kinds of Pokemon, he gives you 
+HM 05.
+
+------------------
+Technical Machines
+------------------
+(TM List submitted by: Pikachu RB)
+
+TM 01 - Mega Punch: Mt. Moon
+TM 02 - Razor Wind: Celadon Poke Mart
+TM 03 - Sword's Dance: Silph Co.
+TM 04 - Whirlwind: Route 4
+TM 05 - Mega Kick: Victory Road
+TM 06 - Toxic: Fuchsia City Gym
+TM 07 - Horn Drill: Celadon Poke Mart
+TM 08 - Body Slam: S.S. Anne
+TM 09 - Take Down: Saffron City
+TM 10 - Double Edge: Game Corner
+TM 11 - Bubble Beam: Cerulean City Gym
+TM 12 - Water Gun: Mt. Moon
+TM 13 - Ice Beam: Celadon Poke Mart
+TM 14 - Blizzard: Cinnabar Island
+TM 15 - Hyper Beam: Celadon City
+TM 16 - Pay Day: Route 12
+TM 17 - Submission: Victory Road
+TM 18 - Counter: Celadon Poke Mart
+TM 19 - Seismic Toss: Route 25
+TM 20 - Rage: Route 15
+TM 21 - Mega Drain: Celadon City Gym
+TM 22 - Solar Beam: Cinnabar Island
+TM 23 - Dragon Rage: Celadon City
+TM 24 - Thunderbolt: Vermilion City Gym
+TM 25 - Thunder: Power Plant
+TM 26 - Earthquake: Silph Co.
+TM 27 - Fissure: Viridian City
+TM 28 - Dig: Cerulean City
+TM 29 - Psychic: Saffron City
+TM 30 - Teleport: Route 9
+TM 31 - Mimic: Saffron City
+TM 32 - Double Team: Fuchsia City
+TM 33 - Reflect: Power Plant 
+TM 34 - Bide: Pewter City Gym
+TM 35 - Metronome: Cinnabar Island
+TM 36 - Self Destruct: Silph Co.
+TM 37 - Egg Bomb: Fuchsia City
+TM 38 - Fire Blast: Cinnabar Gym
+TM 39 - Swift: Route 12 Lookout
+TM 40 - Skull Bash: Safari Zone
+TM 41 - Soft Boiled: Celadon City
+TM 42 - Dream Eater: Viridian City
+TM 43 - Sky Attack: Victory Road
+TM 44 - Rest: S.S. Anne 
+TM 45 - Thunder Wave: Route 24
+TM 46 - Psywave: Saffron City Gym
+TM 47 - Explosion: Victory Road
+TM 48 - Rock Slide: Celadon Poke Mart Roof
+TM 49 - Tri Attack: Celadon Poke Mart Roof
+TM 50 - Substitute: Celadon Poke Mart
+
+--------------------
+Moon Stone Locations
+--------------------
+#1 - Found to the right of Viridian Forest. Reach it from Diglett's Cave.
+#2 - Found at Mt. Moon.
+#3 - Also at Mt. Moon. Go to the part right before the Fossils and go 
+right to a narrow section. Search the wall for the Stone.
+#4 - Found in the Game Corner Basement in Celadon City.
+#5 - (Found by: msms) Found in the Pokemon Mansion at Cinnabar Island. 
+Right when you enter the Mansion, they are boxes to the left and right of 
+you. Search around the fifth box on the right to find the Moon Stone. 
+
+----------
+Cable Club
+----------
+Here's some information for the Cable Club. This isn't a very big section 
+since there is not much to the Cable Club.
+
+- Intro -
+Incase if you have no idea what the Cable Club is, you can trade or fight 
+your Pokemon with a friend's. But in order to do so, you must purchase a 
+Game Link Cable (It's not very expensive). Once you have one, insert the 
+end of the Cable in the "EXT. CONNECTOR" slot on the Game Boys. Then 
+start your games up, and go to a Pokemon Center. Talk to the person at 
+the entrance of the Cable Club at the same time on both games. You can 
+then choose to go to the Colosseum or the Trade Center...   
+
+- Colosseum -
+Here you can fight your friend! Before you enter the Cable Club, make 
+sure you choose the Pokemon you want to fight with because you won't be 
+able switch in the Cable Club! With your Pokemon, turn the PC on to begin 
+the fight. Not that much to say about this, but remember that this battle 
+will take longer since you have to wait the data to transfer between the 
+two Game Boys.
+
+- Trade Center -  
+Here you can trade Pokemon between you and your friend! Remember that you 
+can only trade Pokemon, you can't just give them away (Though it would be 
+nice)! Here's how to trade. Turn on the PC and a screen will come up 
+showing you and your friend's current Pokemon. Both of you select the 
+Pokemon you want to trade. Then it will show the Pokemon being 
+transferred. Now the Pokemon that was traded will be able to get 
+"boosted" EXP. Here's something good that you can use to your advantage. 
+When you trade a Pokemon, your Pokedex will still count the Pokemon that 
+was traded as "caught". For example, if you trade a Scyther for a Pinsir, 
+your Pokedex will still count as you having a Scyther! That can be very 
+useful when going for all of the Pokemon.
+
+---------------
+Exchange Corner
+---------------
+At Exchange Corner in Celadon City, you trade Coins for some Pokemon and 
+TMs. In order to get the Coins, you win or buy them at Game Corner. But 
+you need a Coin Case to hold them. Near Exchange Corner, there is a 
+diner, and a man inside will give you the case. With that, go back to 
+Game Corner. Talk to the people inside for some Coins. Now you can play 
+the slots, or you can buy 50 Coins for $1000. Each slot machine has 
+different odds of winning, so if you find a good one, stick to it! What 
+you can get is a bit different in the Versions. Since the price varies, 
+the person with the cheaper Pokemon should get it. For example, it's a 
+good idea to have the person with the Blue Version to get Porygon rather 
+than Red because there is a 3,499 C difference! Here is what you can get:
+
+--------------------------                                                                                                 
+RED VERSION
+--------------------------                                                             
+NAME         PRICE (Coins)                                                           
+--------------------------                                                   
+Abra...........180                                                            
+Clefairy.......500                                                                
+Nidorina.....1,200                                                             
+Dratini......2,800                                                               
+Scyther......5,500                                                                
+Porygon......9,999                                                                
+TM 23........3,300                                                           
+TM 15........5,500                                                              
+TM 50........7,700                                                         
+--------------------------      
+
+
+--------------------------                                                                                                 
+BLUE VERSION                 
+--------------------------                                                             
+NAME         PRICE (Coins)                                                           
+ -------------------------                                                   
+Abra...........120                                                            
+Clefairy.......750                                                                
+Nidorino.....1,200                                                             
+Dratini......4,600                                                               
+Pinsir.......2,500                                                                
+Porygon......6,500                                                                
+TM 23........3,300                                                           
+TM 15........5,500                                                              
+TM 50........7,700                                                          
+--------------------------
+
+-------
+Fishing
+-------
+(This section was submitted by: MLW65128TX, additional Pokemon locations 
+by: DZY351378)
+
+Fishing is the way of catching Water-type Pokemon, but the rods seem to 
+catch different Pokemon, here's more:
+
+Old Rod - Don't expect much, just a Magikarp will bite it, but if you 
+train it to Level 20, it will turn into Gyarados, a dragon (NOT a Dragon-
+type) and a tough Pokemon.
+
+Good Rod - Can catch a Goldeen, Magikarp, and Poliwag but the only way to 
+catch the best is the Super Rod.
+
+Super Rod - The best rod and can catch ALL of the pokemon in the water.
+
+People usually don't know what Pokemon are in a piece of water when you 
+use the Super Rod. But here's what you can get:
+
+Pallet Town - Tentacool & Poliwag
+
+Viridian City - Tentacool & Poliwag
+
+Cerulean City - Goldeen, Psyduck, & Krabby
+
+Vermilion City - Krabby & Shellder
+
+Celadon City - Slowpoke & Poliwhirl
+
+Fuchsia City - Krabby, Goldeen, Magikarp, & Seaking 
+
+Route 22 - Poliwag & Goldeen
+
+Route 4, 24 & 25 - Same as Cerulean City
+
+Route 6 & 11 - Same as Vermilion City
+
+Route 10 - Same as Celadon City
+
+Routes 12, 13, 17, & 18 - Tentacool, Krabby, Goldeen, & Magikarp
+
+Route 19 - Shellder, Goldeen, Tentacool, Staryu, & Horsea
+
+Safari Zone - Psyduck, Krabby, Slowpoke, & Dratini
+                                                             
+--------------------------
+Safari Zone (Fuchsia City)
+--------------------------
+For a low price of $500, you can capture all the Pokemon you want! Here's 
+a rundown of how Safari Zone works. When you pay, you can 30 Safari Balls 
+and Bait. 30 Balls may seem a lot, but you'll end up using most of them. 
+You have four areas to explore, each may have a Pokemon that is not in 
+the other. You also have a timer, but it only decreases when you walk. 
+When you run out of time or Balls, the game is over. The battle system in 
+this mini-game works different than a regular battle. Instead of having 
+Pokemon fight, you fight...sort of. In otherwords, you can't cause ANY 
+damage to the enemy, that's why they give you 30 Balls! You have four 
+commands in battle: 
+
+Ball x(Amount of Balls) - Throws a Safari Ball. You usually have to throw 
+multiple times to capture a Pokemon.
+Bait - Throw some Bait. This makes it slightly easier to capture.
+Throw Rock - Throw a nearby rock. Makes it slightly easier to capture, 
+but the Pokemon tends to run away after you use this.
+Run - Ummm...pretty much self-explanatory... :)
+
+Here's a list of Pokemon you can capture in Safari Zone:
+
+#29 Nidoran (F)
+#30 Nidorina
+#32 Nidoran (M)
+#33 Nidorino
+#48 Venonat
+#49 Venomoth
+#54 Psyduck
+#79 Slowpoke
+#84 Doduo
+#98 Krabby
+#102 Exeggcute
+#111 Rhyhorn
+#113 Chansey
+#115 Kangaskhan
+#123 Scyther
+#127 Pinsir
+#128 Tauros
+#147 Dratini
+
+Here's a trick you can do to fight Pokemon in the Safari Zone outside of 
+it. Enter the Safari Zone, exit and go to the eastern side of Seafoam 
+Islands. Move up and down along the "shore" part to fight Pokemon from 
+the Safari Zone! This makes it easier to capture them. The bad part is 
+that there are some Pokemon that you won't find.
+
+---------------
+Elite Four/Gary
+---------------
+
+Elite Four:
+(This section was submitted by: MLW65128TX, corrections made by: RobertR)
+
+****************************************************************
+ROUND #1
+
+TRAINER: Lorelei
+POKEMON: Dewgong - L54, Cloyster - L53, Slowbro - L54, Jynx - L56, Lapras 
+- L56
+
+Lorelei is the Mistress of Ice Pokemon. This is the easiest one because 
+Fire, Fighting, and Electric are the ones that have advanteges. Ghost 
+Pokemon will have an advantage over Jynx.
+****************************************************************
+
+****************************************************************
+ROUND #2
+
+TRAINER: Bruno
+POKEMON: Onix - L53, Hitmonchan - L55, Hitmonlee - L55, Onix - L56, 
+Machamp - L58
+
+Bruno is a Fighting-type Pokemon master and also tougher. Flying, Ghost, 
+and Psychic Pokemon have the advantage on this one. 
+****************************************************************
+
+NOTE:At this point, if your pokemon are in good shape, go on but then 
+there's NO GOING BACK!
+
+****************************************************************
+ROUND #3
+
+TRAINER: Agatha
+POKEMON: Gengar - L56, Golbat - L56, Haunter - L55, Arbok - L58, Gengar - 
+L60
+
+Agatha is the master of Ghost-type pokemon and has a very sneaky way of 
+Fighting, but Water and Fire have a good chance. She is also a tad 
+weaker, so be relaxed. (My Note: Enough though Agatha may be weaker than 
+the others, few attacks will hit her Ghost Pokemon!)
+****************************************************************
+
+Now, make sure you heal your Pokemon with any type of Potions if you have 
+any. I miraculously beat the next guy, but here he is, the leader.
+
+****************************************************************
+ROUND #4
+
+TRAINER: Lance
+POKEMON: Gyarados - L58, Dragonair - L56, Dragonair - L56, Aerodactyl - 
+L60, Dragonite - L62
+
+Lance is the leader and the toughest fighter you have seen at all times, 
+he has Dragon-type pokemon. Ice, Psychic, Flying, and Ghost Pokemon have 
+an advantage. 
+****************************************************************
+
+If you beat him, you're a Pokemon Master now! Congrats! But you got 
+someone else to fight...
+
+Gary:
+(This section was submitted by: cfetters)
+
+You've beaten the Elite Four? All right! Now you are the Pok‚mon League 
+Champion! Or, at least you would be, but you have one more challenge 
+ahead. Gary is the real Pokemon League Champion!
+
+****************************************************************
+TRAINER: Gary
+POKEMON: Pidgeot, Alakazam, & Rhydon. His other Pokemon varies, so here 
+is what you may be up against...
+
+Chose Charmander: Exeggutor, Gyrados, & Charizard.
+Chose Squirtle: Exeggcutor, Arcanine, & Blastoise.
+Chose Bulbasaur: Arcanine, Gyrados, & Venusaur.
+
+Here's how to beat the Pokemon:
+
+Pigeot - Use any Electric-type Pokemon.
+
+Alakazam - Use Jolteon or a Psychic-type Pokemon.
+
+Rhydon - Use a Water-type or a Grass-type Pokemon.
+
+Exeggutor/Venusaur - Use a Fire-type Pokemon.
+
+Arcanine/Charizard - Use a Water-type. (My Note: A Rock-type Pokemon will 
+also do well against them.)
+
+Gyrados/Blastoise - Like Pidgeot, an Electric-type will defeat them 
+easily.
+****************************************************************
+
+Now with Gary out of the way, you can explore the cave near Cerulean 
+City!
+
+===================
+4) POKEMON PIKACHU
+===================
+
+- Introduction -
+If you've used a Giga Pet or Tamagotchi, you probably know how to take 
+care of virtual pets. The newly released Pokemon Pikachu is very 
+different from a Giga Pet. Pikachu doesn't rely on you to do everything 
+for him...you just play with him! When you play with him, you gain 
+points. The more you have, the more he likes you. You can gain points by 
+walking with him, shaking him, and giving him Watts. So what's really 
+nice about this is that Pikachu doesn't really require 24 hour care!
+
+- Starting Out -
+When you first get your Pokemon Pikachu, pull out the tab to start 
+Pikachu up. Then press the A button when the "Clock" symbol is 
+highlighted to set the time. Use Up or Down on the Control Pad to set the 
+hour. Press A to set the minutes. Press A again to start to care of your 
+pet.
+
+- Game Screens - 
+Here's some info on the Game Screens on Pokemon Pikachu. 
+
+Clock: Here you can set the Alarm. To set it, do the same thing for 
+setting the time. If you're wondering, this is not required to wake 
+Pikachu up.
+Present: Here you can give Pikachu Watts as gifts. You can give him only 
+up to 999 Watts at a time. 
+Coins: Here you can play the Slot Machine to win Watts. Check the 
+"Earning Watts" part for more information. 
+Friend-Status: Press the Select button to access this. It tells you how 
+Pikachu is doing with you along with his total Points.
+
+- Options Menu -
+Press Start to access this menu. Here's what you can do...
+
+Reset: This resets the Points on the Main Screen. This does not reset the 
+total amount of Points you've earned!
+Sound: Allows you to turn the sound on or off.
+Time Set: Allows you to change the time. See the "Starting Out" part to 
+see how to set the time.
+
+- Earning Points -  
+Like I mentioned before, points will build up your friendship with 
+Pikachu. Earning them is easy, but you'll need to do a good bit of work 
+to get tons of them! Here's how you can earn some points. When you shake 
+Pikachu, you can hear something moving inside. Each time you hear this 
+sound, Pikachu gains a point. You can also do that when you walk with 
+him. If you shake him long enough, he will start to walk while saying 
+"Pikachu". Shake him even longer and he will start to run or ride a 
+bicycle.
+
+- Earning Watts -
+Giving Watts to Pikachu as a gift will make him do something special. 
+There are two ways to gain Watts. If you shake or walk with him, you can 
+gain some Watts. You get about five Watts for every 100 points. You also 
+get some by playing the Mini-Game Slot Machine. Here, you bet five Watts 
+to gain some more. If you can learn the timing to this game, earning them 
+will be very easy. Here's what you can get:
+
+3 Sevens (7) - 500 Watts
+3 Cat Heads - 50 Watts
+3 Flowers - 30 Watts
+3 Fish - 30 Watts
+
+Once you earn over a 1,000 Watts, I would keep the 1,000 in reserve and 
+give Pikachu any over a thousand. Later on, you can increase the minimum 
+amount of Watts to keep.
+
+- Pikachu's Actions -
+Here's a small list of what Pikachu will do while you take care of him 
+and what happens when you shake him while he does an action.
+
+Brushing His Teeth - He brushes faster.
+Playing At The Beach - He shovels faster.
+Weight Lifting - He drops the weight.
+Building With Blocks - A block drops off his small building.
+Sleeping - He wakes up.
+Spinning Around - His ears "perk" up, and he'll start looking at you.
+Adding 9+2 - Has a question mark over his head.
+Licking ice cream cone -  He drops the cone on the floor
+Licking lollipop - He drops it on the floor.
+Watching TV - He jumps up and down.
+Taking a bath - He bobs his head back and forth.
+While he "Loves" you and is standing - He waves his arms in glee.
+Swims, hang-glides, plays a piano, plays a trumpet and balance on a ball.
+Rides a motorcycle.
+Rides a sports car when he "Loves" you.
+
+- Actions From Watts -
+Here is what Pikachu will do if you give him a certain number of Watts as 
+a Gift:
+
+999 Watts - Swims, hang-glides, plays a piano, plays a trumpet, and 
+balances on a ball.
+
+500 Watts - Executes a backflip.
+
+200- Watts - Yawns.
+
+- Pikachu Tips -
+
+Easy Watts
+By: FiveOne4Up (Michael Lucas)
+If you play the Slots after you get 10,000 Points, you will get 3 Seven 
+(7)'s no matter what (Unless you end up timing it horribly).  This will 
+almost double the points you get per Step.
+
+================
+5) ABILITY LIST
+================
+A list of abilities for Pokemon from Nintendo's Official Player's Guide!
+
+NOTE: All stat increasing and decreasing effects are temporary! Also, the 
+"basic" attacks will be simply classified as "Damages."
+
+Here's how it's listed:
+Name / Type / PP / Effect
+
+----------------------------------------------------------------
+*A*
+----------------------------------------------------------------
+Absorb / Grass / 20 / Pokemon absorbs HP equal to 1/2 the damage delt.
+Acid / Poison / 30 / Damages and may decrease enemy's Defense.
+Acid Armor / Poison / 40 / Increases Pokemon's Defense.
+Agility / Psychic / 30 / Greatly increases Speed.
+Amnesia / Psyhcic / 20 / Greatly increases Special.
+Aurora Beam / Ice / 20 / Damages, may Freeze enemy and/or decrease its 
+Attack.
+
+----------------------------------------------------------------
+*B*
+----------------------------------------------------------------
+Barrage / Normal / 20 / Pokemon attacks 2 to 5 times in a row.
+Barrier / Psychic / 30 / Greatly increases Defense.
+Bide / Normal / 10 / Pokemon loses 2 to 3 turns, then damages twice the 
+amount it received.
+Bind / Normal / 20 / Pokemon attacks 2 to 5 times in a row.
+Bite / Normal / 25 / Damages.
+Blizzard / Ice / 5 / Damages and may Freeze enemy.
+Body Slam / Normal / 15 / Damages and may Paralyze enemy.
+Bone Club / Ground / 20 / Damages.
+Bonemerang / Ground / 10 / Pokemon attacks 2 times.
+Bubble / Water / 30 / Damages and may decrease Speed.
+Bubblebeam / Water / 20 / Damages and may decrease Speed. 
+
+----------------------------------------------------------------
+*C*
+----------------------------------------------------------------
+Clamp / Water / 10 / Pokemon attacks 2 to 5 times in a row.
+Comet Punch / Normal / 15 / Pokemon attacks 2 to 5 times in a row.
+Confuse Ray / Ghost / 10 / Confuses enemy.
+Confusion / Psychic / 25 / Damages and may Confuse enemy.
+Constrict / Normal / 25 / Damages and decreases enemy's Speed.
+Conversion / Normal / 30 / Converts the Pokemon's type to enemy's.
+Counter / Fighting / 20 / Hits enemy for twice the damage taken.
+Crabhammer / Water / 10 / Good chance for getting critical hit.
+Cut / Normal / 30 / Damages.
+
+----------------------------------------------------------------
+*D*
+----------------------------------------------------------------
+Defense Curl / Normal / 40 / Increases Defense.
+Dig / Ground / 10 / Pokemon digs on the first turn, then attacks on the 
+second. (Doesn't effect Flying-type Pokemon)
+Disable / Normal / 20 / Disables a Pokemon's ability.
+Dizzy Punch / Normal / 10 / Damages.
+Double Kick / Fighting / 30 / Pokemon attacks twice.
+Double Team / Normal / 15 / Increases Pokemon's Evade.
+Double-Edge / Normal / 15 / Pokemon takes 1/4 the damage the enemy takes.
+Doubleslap / Normal / 10 / Pokemon attacks multiple times.
+Dragon Rage / Dragon / 10 / Pokemon causes 40 HP damage.
+Dream Eater / Psychic / 15 / While enemy Pokemon Sleeps, Pokemon absorbs 
+HP.
+Drill Peck / Flying / 20 / Damages.
+
+----------------------------------------------------------------
+*E*
+----------------------------------------------------------------
+Earthquake / Ground / 10 / Damages. (Doesn't effect Flying-type Pokemon)
+Egg Bomb / Normal / 10 / Damages.
+Ember / Fire / 25 / Damages and may Burn enemy.
+Explosion / Normal / 5 / Damages, but kills Pokemon.
+
+----------------------------------------------------------------
+*F*
+----------------------------------------------------------------
+Fire Blast / Fire / 5 / Damages and may Burn enemy.
+Fire Punch / Fire / 15 / Damages and may Burn enemy.
+Fire Spin / Fire / 15 / Pokemon attacks 2 to 5 times in a row.
+Fissure / Ground / 5 / May defeat enemy Pokemon in one hit. (Doesn't 
+effect Flying-type Pokemon)
+Flamethrower / Fire / 15 / Damages and may Burn enemy.
+Flash / Normal / 20 / Damages.
+Fly / Flying / 15 / Pokemon flies up on first turn, then attacks on the 
+second turn.
+Focus Energy / Normal / 30 / Increases chances of critical hits. 
+Fury Attack / Normal / 20 / Pokemon attacks 2 to 5 times in a row.
+Fury Swipes / Normal / 15 / Pokemon attacks 2 to 5 times in a row.
+
+----------------------------------------------------------------
+*G*
+----------------------------------------------------------------
+Glare / Normal / 30 / Paralyzes enemy.
+Growl / Normal / 40 / Decreases enemy's Attack.
+Growth / Normal / 40 / Increases Special.
+Guillotine / Normal / 5 / Can defeat enemy in one hit.
+Gust / Normal / 35 / Damages.
+
+----------------------------------------------------------------
+*H*
+----------------------------------------------------------------
+Harden / Normal / 30 / Increases Defense.
+Haze / Ice / 30 / Cures all Status effects on both Pokemon.
+Head Butt / Normal / 15 / Damages.
+Hi Jump Kick / Fighting / 20 / If Pokemon misses, it takes 1/8 the damage 
+it would have caused.
+Horn Attack / Normal / 25 / Damages.
+Horn Drill / Normal / 5 / Can defeat enemy in one hit.
+Hydro Pump / Water / 5 / Damages.
+Hyper Beam / Normal / 5 / Pokemon attacks on first turn, then recharges 
+on the second turn.
+Hyper Fang / Normal / 15 / Damages. 
+Hypnosis / Psychic / 20 / Puts enemy to Sleep.
+
+----------------------------------------------------------------
+*I*
+----------------------------------------------------------------
+Ice Beam / Ice / 10 / Damages and may Freeze enemy.
+Ice Punch / Ice / 15 / Damages and may Freeze enemy.
+
+----------------------------------------------------------------
+*J*
+----------------------------------------------------------------
+Jump Kick / Fighting / 25 / If Pokemon misses, it takes 1/8 the damage it 
+would have caused.
+
+----------------------------------------------------------------
+*K*
+----------------------------------------------------------------
+Karate Chop / Normal / 25 / Good chance of a critical hit.
+
+----------------------------------------------------------------
+*L*
+----------------------------------------------------------------
+Leech Life / Bug / 15 / Pokemon absorbs some of enemy's HP.
+Leech Seed / Grass / 10 / Pokemon absorbs some of enemy's HP each turn.
+Leer / Normal / 30 / Decreases enemy's Defense.
+Lick / Ghost / 30 / Damages and may Paralyze enemy.
+Light Screen / Psychic / 30 / Decreases damage from Special Attacks by 
+50%.
+Lovely Kiss / Normal / 10 / Puts enemy to sleep.
+Low Kick / Fighting / 20 / Damages.
+
+----------------------------------------------------------------*M*
+----------------------------------------------------------------
+Meditate / Psychic / 40 / Increases Attack.
+Mega Drain / Grass / 10 / Pokemon absorbs HP from enemy equal to 1/2 the 
+damage caused.
+Mega Kick / Normal / 5 / Damages. 
+Mega Punch / Normal / 20 / Damages.
+Metronome / Normal / 10 / Selects a random Ability to use.
+Mimic / Normal / 10 / Pokemon mimics enemy's last attack.
+Minimize / Normal / 20 / Increases Pokemon's Evade.
+Mirror Move / Flying / 20 / Pokemon mimics enemy's last attack.
+Mist / Ice / 30 / Immune to stat decreasing Attacks.
+
+----------------------------------------------------------------
+*N*
+----------------------------------------------------------------
+Night Shade / Ghost / 15 / Causes damage equal to EXP Level.
+
+----------------------------------------------------------------
+*P*
+----------------------------------------------------------------
+Pay Day / Normal / 20 / Damages and get money after battle. (Money 
+received: EXP Level x 2)
+Peck / Flying / 35 / Damages.
+Petal Dance / Grass / 20 / Damages, but Confuses Pokemon.
+Pin Missle / Bug / 20 / Pokemon attacks 2 to 5 times in a row.
+Poison Gas / Poison / 40 / Poisons enemy.
+Poison Sting / Poison / 35 / Damages and may Poison enemy.
+Poison Powder / Poison / 35 / Poisons enemy.
+Pound / Normal / 35 / Damages.
+Psybeam / Psychic / 20 / Damages and may Confuse enemy.
+Psychic / Psychic / 10 / Damages and may decrease enemy's Special.
+Psywave / Psychic / 15 / Damages cause is equal to 1.5 times Pokemon's 
+EXP Level.
+
+----------------------------------------------------------------
+*Q*
+----------------------------------------------------------------
+Quick Attack / Normal / 30 / Pokemon attacks first.
+
+----------------------------------------------------------------
+*R*
+----------------------------------------------------------------
+Rage / Normal / 20 / Damages and increases Attack when damaged until 
+battle is over.
+Razor Leaf / Grass / 25 / Damages and has good chance of a critical hit.
+Razor Wind / Normal / 10 / Pokemons builds power on the first turn, then 
+attacks on the second turn.
+Recover / Normal / 20 / Restores HP equal to 1/2 of Pokemon's max HP.
+Reflect / Psychic / 20 / Decreases damage from Physical Attacks by 50%.
+Rest / Psychic / 10 / Pokemon restores HP, but loses 2 turns.
+Roar / Normal / 20 / Makes wild enemy Pokemon run away.
+Rock Slide / Rock / 10 / Damages.
+Rock Throw / Rock / 15 / Damages.
+Rolling Kick / Fighting / 15 / Damages.
+
+----------------------------------------------------------------
+*S*
+----------------------------------------------------------------
+Sand-Attack / Normal / 15 / Decreases enemy's Accuracy.
+Scratch / Normal / 30 / Damages.
+Screech / Normal / 40 / Greatly decreases enemy's Defense.
+Seismic Toss / Fighting / 20 / Damage caused is equal to Pokemon's EXP 
+Level.
+Self Destruct / Normal / 5 / Damages, but kills Pokemon.
+Sharpen / Normal / 30 / Increases Attack. 
+Sing / Normal / 15 / Puts enemy to Sleep.
+Skull Bash / Normal / 15 / Pokemon lowers head on the first turn, then 
+attacks on the second.
+Sky Attack / Flying / 5 / Pokemon builds power on the first turn, then 
+attacks on the second turn.
+Slam / Normal / 20 / Damages.
+Slash / Normal / 20 / Damages and has a chance for a critical hit.
+Sleep Powder / Grass / 15 / Puts enemy to Sleep.
+Sludge / Poison / 20 / Damages and may Poison enemy.
+Smog / Poison / 20 / Damages and may Poison enemy.
+Smokescreen / Normal / 20 / Decreases enemy's Accuracy.
+Softboiled / Normal / 10 / Pokemon recovers HP. (Works only with Chansey 
+and Mew)
+Solar Beam / Grass / 10 / Pokemon absorbs sunlight on the first turn, 
+then attacks on the second turn.
+Sonicboom / Normal / 20 / Causes 20 HP damage.
+Spike Cannon / Normal / 15 / Pokemon attacks 2 to 5 times in a row.
+Splash / Normal / 40 / Damages.
+Spore / Grass / 15 / Puts enemy to Sleep.
+Stomp / Normal / 20 / Damages.
+Strength / Normal / 15 / Damages.
+String Shot / Bug / 40 / Decreases enemy's Speed.
+Struggle / Normal / 10 / Only used when Pokemon runs out of PP, but 
+Pokemon takes 1/4 the damage caused.
+Stun Spore / Grass / 30 / Paralyzes enemy.
+Submission / Fighting / 25 / Pokemon takes 1/4 the damage caused.
+Substitute / Normal / 10 / Pokemon creates a "doll" whichs fights for 
+itself. Breaks when takes too much damage.
+Super Fang / Normal / 10 / Decreases enemy's HP by 1/2.
+Supersonic / Normal / 20 / Confuses enemy.
+Surf / Water / 15 / Damages.
+Swift / Normal / 20 / Damages, and highly accurate.
+Swords Dance / Normal / 30 / Increases Attack.
+
+----------------------------------------------------------------
+*T*
+----------------------------------------------------------------
+Tackle / Normal / 35 / Damages.
+Tail Whip / Normal / 30 / Decreases enemy's Defense.
+Take Down / Normal / 20 / Pokemon takes 1/4 the damage caused.
+Teleport / Psychic / 20 / Escape from wild Pokemon battles.
+Thrash / Normal / 20 / Damages, but Confuses Pokemon.
+Thunder / Electric / 10 / Damages and may Paralyze enemy.
+Thunder Wave / Electric / 20 / Paralyzes enemy.
+Thunderbolt / Electric / 15 / Damages and may Paralyze enemy.
+Thunderpunch / Electric / 15 / Damages and may Paralyze enemy.
+Thundershock / Electric / 30 / Damages and may Paralyze enemy.
+Toxic / Poison / 10 / Poisons enemy, but damage increases each turn.
+Transform / Normal / 10 / Changes Pokemon into enemy Pokemon.
+Tri Attack / Normal / 10 / Damages.
+Twineedle / Bug / 20 / Pokemon attacks twice, and may Poison enemy.
+
+----------------------------------------------------------------
+*V*
+----------------------------------------------------------------
+Vicegrip / Normal / 30 / Damages.
+Vine Whip / Grass / 10 / Damages.
+
+----------------------------------------------------------------
+*W*
+----------------------------------------------------------------
+Water Gun / Water / 25 / Damages.
+Waterfall / Water / 15 / Damages.
+Whirlwind / Normal / 20 / Tosses wild Pokemon out of battle.
+Wing Attack / Flying / 35 / Damages.
+Withdraw / Water / 40 / Increases Defense.
+Wrap / Normal / 20 / Pokemon attacks 2 to 5 times in a row.
+
+============
+6) F. A. Q.
+============
+Before you e-mail me a Pokemon question, read this section to see if your 
+question will be already answered!
+
+Q: When is the Yellow Version of Pokemon coming to the U.S.?
+A: The Yellow Version is confirmed to be released in the States, but 
+there is no release date set. It might be here later this year. On 
+Nintendo's official site, Pokemon Yellow is listed as a "Future Game".
+
+Q: What's the most effective way to use the Vitamins?
+A: If you're desperate, use them as soon as possible, but if you want the 
+full effect, do this. Remember that a Pokemon can take about 10 Vitamins 
+before it work anymore on it. It seems that a Pokemon with a much higher 
+Level, gains more stat points if you use a Vitamin on it. For example, a 
+Pokemon at L10 will only gain 1 stat point for each Vitamin used which 
+would mean it would gain 10 points for 10 Vitamins. But if you use one on 
+a L100 Pokemon, it would gain a whopping 40 stat points! So my point here 
+is this, use the Vitamins on a Pokemon when you have trained as far as 
+you can.
+
+Q: What is the use of a PP Up?
+A: It's purpose is to increase the PP of an ability of a Pokemon. You can 
+use a maximum of three PP Ups per ability. But the PP increased will vary 
+so here's how it works. The ability that has a low max PP will not 
+increase very much, but an ability with a high max PP will. For example, 
+if you use 3 PP Up on Tackle, its max will become 56 from 35. If you use 
+it on Hyper Beam, its max will become 8 from 5.
+
+Q: Some of the Pokemon never evolve no matter what the Stones or the 
+Level, how do I evolve them? 
+A: They evolve by trading the Pokemon to another GamePak.
+
+Q: How do I stop my Pokemon from evolving?
+A:: Once it starts to evolve, simply press B to cancel the process. Once 
+the Pokemon gains another Level, it'll try to evolve again.
+
+Q: What's the difference between the Red Version and the Blue?
+A: The only difference is that they both contain Pokemon that cannot be 
+found in the other. Here's a list of the Pokemon (Note that some of these 
+can only be evolved by Stones!):
+
+Red Version: Ekans, Arbok, Electabuzz, Growlithe, Arcanine, Mankey, 
+Primeape, Oddish, Gloom, Vileplume, Scyther.
+
+Blue Version: Sandshrew, Sandslash, Magmar, Vulpix, Ninetales, Meowth, 
+Persian, Bellsprout, Weepinbell, Victreebell, Pinsir.
+
+Q: What does "Area Unknown" in the Pokedex mean?
+A: It means that that Pokemon can only be evolved from another Pokemon or 
+it can mean that the Pokemon can only be found in the other Version.
+
+Q: What's the difference between Boosted EXP and Regular EXP?
+A: Boosted EXP allows a Pokemon to gain about 1/2 more EXP than a Pokemon 
+with Regular EXP. The downside with Boosted EXP is that the Pokemon will 
+become weaker.: Why does my Pokemon not obey me?
+A: You must get the Badge that allows you to command a higher level 
+Pokemon!
+
+Q: What do you get for capturing all 150 Pokemon?
+A: A man in Celadon City will give you a Diploma in the U.S. Version. If 
+you do this with the Japanese Version, you'd get the Pokemon, Mew!
+
+Q: Where do I find the Poke Flute?
+A: Read the Walkthrough!
+
+Q: I've defeated [Insert Gym Leader here], and they say I can use [Insert 
+HM Ability here]. How do I use it?
+A: The Badge you get from winning only "allows" you to use the ability 
+once you have found the HM! For example, Lt. Surge says that you can use 
+"Fly", but you must first get HM 02 west of Celadon City. Then teach it 
+to a Pokemon.
+
+Q: I have the HM, but the ability won't work!
+A: You must earn the Badge that allows you to use it!
+
+Q: How many Masterballs are in the game?
+A: Only one, so use it on a one-time Pokemon like Mewtwo.
+
+Q: If I defeat the rare Pokemon (Articuno, Zapdos, Moltres, Snorlax, 
+Mewtwo) is there any other way to get them?
+A: No, so once you defeat one, it's gone for good! 
+
+Q: How can I earn some money?
+A: There's a couple ways for this. One way is to defeat Trainers, and 
+also fighting the Elite Four over and over makes getting money easy. Get 
+a Meowth and use its Pay Day attack. And finally, get TM 16 which is at 
+Route 12 and teach Pay Day to a Pokemon.
+
+Q: Is there any other way to get Mew without cheating?
+A: Yes, but there's only one way. You must enter Nintendo's contest from 
+the Nintendo Power magazine. 
+
+Q: How do I reach the Card Key in Silph. Co?
+A: To reach it, step on the Warp Tile near the Rocket guard. Then when 
+you reappear, step on it again. Now you can go past the guard to the Card 
+Key!
+
+Q: How can I move the truck near the S.S. Anne with Strength?
+A: You can't, I've tried it before!
+
+Q: I have read about [Insert rumor here]. Is the rumor true?
+A: There's a 99.9% chance that it's false. But if you want, e-mail me the 
+rumor, and I'll try it out and put it up on the FAQ.
+
+Q: I've heard that there are other Pokemon in the Red/Blue Versions of 
+the game, such as Topegy and Pikablu. Is this true?
+A: No, those Pokemon are in the Gold & Silver Versions. 
+
+Q: Is Gameboy Color's IR Connection compatible with Pokemon?
+A: No, so you have to buy a Game Link Cable in order to trade.
+
+Q: How long is your FAQ?
+A: About 100+ pages! I would print this after I make the FINAL update.
+
+===============
+7) WALKTHROUGH
+===============
+NOTE: This walkthrough may not contain every little secret, but tells the 
+basic things that you need to know to complete the game.
+
+When start a new game, Professor Oak will tell you about Pokemon. Then 
+you choose your name and your rival's name. I'll refer your rival as Gary 
+since that is really what his name is. Now on to the game...
+
+-----------
+Pallet Town
+-----------
+Pokemon:
+#1 Bulbasaur,
+#4 Charmander, or
+#7 Squirtle
+
+You appear in your house when you start. Go out of the house and try to 
+head north. Prof. Oak stops you and takes you back to his lab. When you 
+get there, you and Gary must choose one of his three Pokemon: Charmander, 
+Squirtle, or Bulbasaur. Since you can't get these anywhere else, you may 
+to get your friend with the other Version to get all three. If you don't 
+want to, just choose Bulbasaur. If you want all three here's the method 
+to do so:
+1. Have Gameboy A start a new game.
+2. Gameboy A chooses a Pokemon.
+3. Go to Viridian City, get Oak's Parcel and deliver it to him in Pallet 
+Town.
+4. Go back to Viridian City and go to the Cable Club.
+5. Gameboy A trades the Pokemon for one of Gameboy B's. Make sure that 
+Gameboy B chooses a Pokemon that he doesn't need because you'll lose it.
+6. Gameboy A starts a new game and chooses a Pokemon.
+7. Keep repeating until Gameboy B has two Charmanders, Squirtles, and 
+Bulbsaurs. Or just five since Gameboy B already has one.
+8. After all that, trade your Pokemon until Gameboy A and B both have a 
+Charmander, Squirtle, and Bulbasaur. 
+Once you have done that, Gary chooses one. Have you ever noticed that 
+whatever he chooses, it's in his favor? Anyway, he then challenges you to 
+a duel. It doesn't really matter if you win, you just get $175 for it. 
+Now head north to Route 1.
+
+-------
+Route 1
+-------
+Pokemon:
+#16 Pidgey
+#19 Rattata
+
+Not that much to do here. You might as well just build your levels by one 
+or two since you can't capture yet. Keep heading north to Viridian City. 
+
+-------------
+Viridian City
+-------------
+Items:
+Oak's Parcel
+Pokedex
+
+This is the first place with a Pokemon Center and a Poke Mart. When you 
+first enter, head to the Poke Mart. The clerk inside gives you Oak's 
+Parcel. Head back to Pallet Town and deliver it to Oak. Once you deliver 
+it, he gives Gary and you a Pokedex which records data on Pokemon you've 
+seen or captured. After that, head back to Viridian City and buy some 
+Poke Balls at the Poke Mart. Go to Route 1 and capture a Pidgey and 
+Rattata. If want to capture more Pokemon, buy some more Poke Balls. Go to 
+the west to Route 22 where you can fight Gary, but it's optional. You can 
+capture a Nidoran (M) or a Nidoran (F) here. If you want the Town Map, 
+head back to Pallet Town and get it from Gary's sister. Now head to Route 
+2, north of Viridian City. 
+
+-------
+Route 2
+-------
+Pokemon:
+#10 Caterpie
+#13 Weedle
+#16 Pidgey
+#19 Rattata
+
+Again, not a whole lot to do! You can find a Weedle in Red Version, but 
+the Caterpie in the Blue in this area. This shows that may find a Pokemon 
+in one Version, but not in the other. But it only applies to this area, 
+so you can find it in both Versions in other places. Anyway, capture one 
+and head north to Viridian Forest.
+
+---------------
+Viridian Forest
+---------------
+Pokemon:
+#10 Caterpie
+#11 Metapod
+#13 Weedle
+#14 Kakuna
+#25 Pikachu
+
+Items:
+Poke Ball
+Antidote 
+Potion
+
+They is actually a bit of things to do here. Now is a good time to build 
+your levels to around nine if you can. Here's how to navigate this place. 
+Note that this is from your perspective on the screen, not the 
+character's! From the start, go left, up, left to reach the Poke Ball. Go 
+back to the start and go right, up to reach the Antidote. You encounter 
+two Bug Catchers as you go up. From there, go left, down and follow the 
+path to the last trainer. From the trainer, go down, right, down to the 
+reach the Potion. Go back to where the trainer is and go up to Pewter 
+City. 
+
+-----------
+Pewter City
+-----------
+This city contains the first Pokemon League trainer, Brock. If you visit 
+the Museum for a cost of $50, you can see fossils of rare extinct 
+Pokemon. Later on in the game you'll be able to revive some of them, but 
+don't get too excited. You can't go to Route 3 to the east until you beat 
+Brock so now enter the Gym...
+
+****************************************************************
+TRAINER: Brock
+PRIZES: Boulder Badge & TM 34
+POKEMON: Geodude - L12, Onix - L14
+
+Before you fight Brock, there is another trainer, but you can avoid him 
+if you walk behind him. Talk to Brock at the end of the Gym to fight. 
+This guy is super easy as long as you have a Squirtle and/or a Bulbasaur 
+at about level 13. If you use Charmander, you will a tough time fighting. 
+For Squirtle, use Bubble, and for Bulbasaur, use Vine Whip. With those 
+techniques, you should be able to beat the Pokemon with a hit or two. 
+****************************************************************
+
+Once you've beaten him, you can now head to Route 3. 
+
+-------
+Route 3
+-------
+Pokemon:
+#16 Pidgey
+#19 Rattata
+#21 Spearow
+#39 Jigglypuff
+#129 Magikarp
+
+You can encounter several trainers here. The only new Pokemon to get is 
+Spearow and Jigglypuff. So capture them and keep going until you reach 
+the Pokemon Center. Here is a salesman who will sell you a $500 Magikarp. 
+You don't need to get him now since you fish for him later, but you can 
+if you want. Go right to get to the entrance to Mt. Moon.
+
+--------
+Mt. Moon
+--------
+Pokemon:
+#35 Clefairy
+#41 Zubat
+#46 Paras
+#74 Geodude
+
+Items:
+Potion x2
+Escape Rope
+Moon Stone
+HP Up
+Rare Candy
+TM 01
+TM 12
+
+As you can see, this place is loaded with Pokemon and items. A definite 
+catch is Geodude in my opinion since he works well when fighting mostly 
+any Pokemon. It's a good idea to explore and find all these items since 
+they can be very useful. If you just want to get out, here's how you do 
+it. From the start, go up, right, up, right, up, left, down (Avoid the 
+ladder!), left, up, and go down the ladder. Follow the path and go down 
+the ladder at the end. The rest of the way is pretty much straight-
+forward, so keep going and beat the Rocket guard. Go past him to fight 
+again. Defeat him, and he will let you choose a Dome or a Helix Fossil. 
+If you know someone with another Version, have that person get one Fossil 
+and you get the other. Later on, you can revive them and trade them. 
+After that, keep going until you get out at Route 4. 
+
+-------
+Route 4
+-------
+Pokemon:
+#16 Pidgey
+#19 Rattata
+#21 Spearow
+#23 Ekans (Red)
+#27 Sandshrew (Blue)
+
+Items:
+TM 04
+
+Get the Pokemon that's in your Version, get the TM and go east to 
+Cerulean City.
+
+-------------
+Cerulean City
+-------------
+For now, just rest and buy supplies since you are trapped in here. This 
+city contains the Bike Shop where you can buy...a bike! :) The cost? A 
+mere $1,000,000! Don't worry, you can get one for free a little bit 
+later. Now we can fight the Gym Leader, Misty...
+
+****************************************************************
+TRAINER: Misty
+PRIZES: Cascade Badge & TM 11
+POKEMON: Staryu - L18, Starmie - L21
+
+Another easy match! Use Bulbasaur (It probably evolved by now) or a 
+Pikachu with a level at about 17. Then just use Grass- or Electric-type 
+attacks on them. This battle shouldn't take very long...
+****************************************************************
+
+With Misty defeated you should now head north to the Nugget Bridge. Here, 
+you fight five Trainers to get a Nugget. Before you get a chance to fight 
+them, you must fight Gary... 
+
+****************************************************************
+TRAINER: Gary
+POKEMON: Pidgeotto - L18, Abra - L15, Rattata - L15, 
+Bulbasaur/Squirtle/Charmander - L17
+
+With the right Pokemon, he shouldn't be very hard. For Pidgetto, use 
+Pikachu at about level 18. Just pound him with Electric-type attacks to 
+defeat him. For Abra...this guy is a joke! All he knows how to do is 
+Teleport! So just use any Pokemon and you should be okay. For Rattata and 
+the rest, use your best ones.
+****************************************************************
+
+Now that Gary is out of the way, continue to fight the trainers on Nugget 
+Bridge. They aren't quite as hard as Gary, so you shouldn't have all that 
+much trouble. Defeat the five trainers and you'll get a Nugget. Then you 
+end up fighting a Rocket member. Defeat him to continue to Route 24 and 
+25. 
+
+-------------
+Route 24 & 25
+-------------
+Pokemon:
+#10 Caterpie 
+#11 Metapod
+#13 Weedle
+#14 Kakuna
+#16 Pidgey
+#43 Oddish (Red)
+#63 Abra
+#69 Bellsprout (Blue)
+
+Items:
+TM 19
+TM 45
+S.S. Ticket
+
+Abra is a good catch since he is the first Psychic-type Pokemon right 
+now. When you run into him, throw a Poke Ball. Doing that might be odd, 
+but does sometimes catch him! Once you get through the mass of trainers, 
+you can visit Bill the Pokemaniac! When you first meet him, you find out 
+he has been turned into a Pokemon. Check HM 01 in the "Important Info" 
+section to see how you solve this. He'll give you the S.S. Ticket in 
+return. Exit and go back inside and go on his PC. It contains pictures on 
+Eevee, Vaporeon, Jolteon, and Flareon. This will add pics on them to your 
+Pokedex. Now go back to Cerulean City.
+
+-------------
+Cerulean City
+-------------
+Items:
+TM 28
+
+The one house that was blocked by a guard is now open. Go inside to find 
+out that a TM was stolen. Go out the back and fight the Rocket member. 
+Beat him to get TM 28 which teaches a Pokemon "Dig". Keep going and head 
+south to Route 5.
+
+-------
+Route 5
+-------
+Pokemon:
+#16 Pidgey
+#43 Oddish (Red)
+#52 Meowth (Blue)
+#56 Mankey (Red)
+#69 Bellsprout (Blue)
+
+In this area, you can find the Pokemon Daycare Center. Here, the man 
+inside will take care of a Pokemon. While you are away, its levels build 
+up. The downside is that you don't get to choose what attacks it can use. 
+The new Pokemon to get is Mankey in the Red and Meowth in the Blue. Keep 
+going south and enter the Underground Path to reach Route 6.
+
+-------
+Route 6
+-------
+Pokemon:
+#16 Pidgey
+#43 Oddish (Red)
+#52 Meowth (Blue)
+#56 Mankey (Red)
+#69 Bellsprout (Blue)
+
+Now exactly anything to do... Go south to reach Vermilion City.
+
+--------------
+Vermilion City
+--------------
+Items:
+Old Rod
+Bike Voucher
+
+When you first get here, enter the house to the right of the Pokemon 
+Center to get the Old Rod from the Fishing Guru. Once get that, enter the 
+house that directly south the house you just went in. Here is where the 
+Pokemon Fan Club is located. Talk to the president and listen to his 
+stories to get a Bike Voucher (Good thing you get something for listening 
+to his ever so slighty boring stories :). With the Bike Voucher, you can 
+backtrack to Cerulean City to get a bike free. The bike will allow you to 
+travel faster on land. If you enter the house right by the Fan Club, you 
+can trade a Spearow for a Farfetch'd. Since you traded Pokemon, the 
+Farfetch'd will gain about 1/3 more EXP. Before boarding the S.S Anne, 
+you may want to pay a visit to Diglett's Cave and Route 11 to get new 
+Pokemon. Go farther down the walkthrough for info on them. Also before 
+boarding, build around four Pokemon to level 25 (There are lots of 
+trainers on board!). Until you get the HM 01 inside, the ship won't leave 
+the docks. Now let's take a tour...
+
+---------
+S.S. Anne
+---------
+Items:
+HM 01
+TM 08
+TM 44
+Great Ball
+Ether
+Max Ether
+Rare Candy
+
+If your Pokemon are tired and you didn't get HM 01 yet, you can leave and 
+visit the Pokemon Center. Now's a good time to build your levels since 
+there are loads of trainers on board. All the other items except the 
+Great Ball are on the ground, but the ball can be found in the galley's 
+trashcan. To reach Gary, go left from the start and go down the stairs. 
+Then follow the hall until you meet up with Gary...
+
+****************************************************************
+TRAINER: Gary
+POKEMON: Pidgeotto - L19, Raticate - L16, Kadabra - L18, 
+Ivysaur/Wartortle/Charmeleon - L20
+
+If you built up your levels, you should be fine. For Pidgetto, just use 
+Pikachu. For the others, use your best Pokemon on them. 
+****************************************************************
+
+With Gary out of the way, go down the stairs that are where Gary came to 
+the captain's room. To get the HM 01 from him, read the part on it in the 
+"Important Info" section. Once you've got that done, leave the ship. 
+Teach one of your Pokemon the Cut ability, and cut down the tree blocking 
+your path to the Gym. Enter the Gym for a puzzle. Two trashcans in the 
+room contain a switch. If you find a switch but the next can you looked 
+in didn't have one, you have to start over. Since the switchs appear in 
+random locations, I can't tell you where they are. What I would do is 
+this: search the cans by rows or columns to narrow down where the 
+switches are. Once you've found them, the door will open. Go through to 
+fight the Gym leader...
+
+****************************************************************
+TRAINER: Lt. Surge
+PRIZES: Thunder Badge & TM 24
+POKEMON: Voltorb - L21, Pikachu - L18, Raichu - L24
+
+If you have a Ground-type Pokemon, build its level to about 20 to make 
+this fight easy. Use attacks like Rock Throw and Dig and each Pokemon 
+will go down with about one hit. 
+****************************************************************
+
+Now with that done, head east and go into the cave.
+
+--------------
+Diglett's Cave
+--------------
+Pokemon:
+#50 Diglett
+#51 Dugtrio
+
+You might have already been here to get Diglett, so if you didn't, get 
+one. Go through this cave to reach an area near Viridian Forest.
+
+---------------
+Viridian Forest
+---------------
+Pokemon:
+#122 Mr. Mime
+ 
+Items:
+HM 05
+HP Up
+Moon Stone
+
+In the first house you find, you can trade an Abra for a Mr. Mime if you 
+want. Cut down the tree, and head south to the next house and talk to one 
+of Prof. Oak's aides. If you caught 10 or more kinds of Pokemon, he gives 
+you HM 05 which contains Flash. Continue south to get items. Once you've 
+got them, head back to Vermilion City. From there, go east to Route 11.
+
+--------
+Route 11
+--------
+Pokemon:
+#21 Spearow
+#23 Ekans (Red)
+#27 Sandshrew (Blue)
+#96 Drowzee
+
+Items:
+Itemfinder
+
+Nothing much to do here. At the end of the route, search the tree that's 
+by itself for an item. Enter the building, and upstairs is another one of 
+Prof. Oak's aides. If you caught 30 or more kinds of Pokemon, he gives 
+you an Itemfinder which allows you to find hidden items. Head to Cerulean 
+City and head east to Route 9.
+
+-------
+Route 9
+-------
+Pokemon:
+#19 Rattata
+#21 Spearow
+#23 Ekans (Red)
+#27 Sandshrew (Blue)
+#100 Voltorb
+
+Items:
+TM 30
+
+Just capture Voltorb, get the TM and save at the Pokemon Center. You can 
+teach one of your Pokemon Flash, but it's not required to get past Rock 
+Tunnel. Once you're ready, head into the cave.
+
+-----------
+Rock Tunnel
+-----------
+Pokemon:
+#41 Zubat
+#66 Machop
+#74 Geodude
+#95 Onix
+
+This cave is easy to go through if you use Flash! There is only one 
+ladder to go through in each part. Capture Onix and Machop and make your 
+way through the cave to come out at Route 10. At Route 10, search the 
+tree for a Max Ether. Continue south to Lavender Town.
+
+-------------
+Lavender Town
+-------------
+This place contains Pokemon Tower, the graveyard for Pokemon. One of the 
+town residents, Mr. Fuji, is missing, and ghosts are roaming around in 
+the tower. You can't do anything to help out yet, so head west to Route 
+8.
+
+-------
+Route 8
+-------
+Pokemon:
+#16 Pidgey
+#23 Ekans (Red)
+#27 Sandshrew (Blue)
+#37 Vulpix (Blue)
+#52 Meowth (Blue) 
+#56 Mankey (Red)
+#58 Growlithe (Red)
+
+The new Pokemon to get is Growlithe and Vulpix. Keep going west till you 
+see two buildings. Enter the smaller one and go through an underground 
+path that leads to Route 7.
+
+-------
+Route 7
+-------
+Pokemon:
+#16 Pidgey
+#23 Ekans (Red)
+#27 Sandshrew (Blue)
+#37 Vulpix (Blue)
+#52 Meowth (Blue) 
+#56 Mankey (Red)
+#58 Growlithe (Red)
+
+Just go west to Celadon City...
+
+------------
+Celadon City
+------------
+Pokemon:
+#133 Eevee
+
+This city contains the largest store in the game and Game Corner! To get 
+Eevee, enter the back of the mansion and go up the building to get it. 
+It's a good idea to buy some Stones at the store to evolve Pokemon and 
+expand your collection. Now head to Game Corner, and press A at the 
+poster at the back to find a hidden switch. The switch makes a secret 
+passage appear to your right. Enter it to reach the basement...
+
+--------------------
+Game Corner Basement
+--------------------
+Items:
+TM 02
+TM 07 
+TM 10
+Super Potion
+Hyper Potion
+Escape Rope
+Nugget
+Rare Candy
+HP Up
+Lift Key
+Silph Scope
+
+As you can see, this place is loaded with items! I'll just tell where to 
+go to get the Lift Key and Silph Scope. From where you entered, go down 
+the stairs. Continue and go north from the Rocket guard and go down those 
+stairs. Now you have to go through these moving tiles. This part is 
+pretty easy, so figure it out for yourself. Once you navigate through 
+them, go down the stairs. From there, go up and then left and fight the 
+Rocket guard. He drops the Lift Key, so pick it up. With that, go back 
+through the moving tiles room and go up the stairs. Now you have to go 
+through more moving tiles! Again, this is easy enough to figure out how 
+to get through. Once through that, go past the stairs and enter the 
+elevator. Go up to the control panel and go the 4th Basement Floor. Exit 
+the elevator and beat the Rocket guards near the door. Then go through to 
+fight Giovanni, the head of Team Rocket...
+
+****************************************************************
+TRAINER: Giovanni
+POKEMON: Onix - L25, Rhyhorn - L24, Kangaskhan - L29
+
+This guy is quite easy if you use a Water-type Pokemon at about L25. Onix 
+and Rhyhorn will go down with a couple Water-type attacks, but Kangaskhan 
+will be a bit harder. 
+****************************************************************
+
+Once you beat Giovanni, you get the Silph Scope! Now's the time to go 
+into the Celadon Gym to fight for another Badge...
+
+****************************************************************
+TRAINER: Erika
+PRIZES: Rainbow Badge & TM 21
+POKEMON: Victreebel - L29, Tangela - L24, Vileplume - L29
+
+For this fight, use a Fire-type Pokemon at about L26. Then just burn each 
+one out a couple Fire-type attacks.
+****************************************************************
+
+Now with that done, head to the Pokemon Tower in Lavender Town.
+
+-------------
+Pokemon Tower
+-------------
+Pokemon:
+#92 Gastly
+#93 Haunter
+#104 Cubone
+
+Items:
+Elixier
+Awakening
+Escape Rope
+Nugget
+Rare Candy
+HP Up
+X Accuracy
+Poke Flute
+
+With the Silph Scope in hand, you can identify the Ghosts inside! Make 
+sure you do capture a Ghost-type Pokemon because a good bit of attacks do 
+not hit them. Once on the 2nd Floor, you'll run into Gary...
+
+****************************************************************
+TRAINER: Gary
+POKEMON: Pidgeotto - L25, Growlithe - L23, Exeggcute - L22, Kadabra - 
+L20, Wartortle/Charmeleon/Ivysaur - 25
+
+Since you got the Rainbow Badge, build up about 4 Pokemons' levels to 
+about 25 for an easy fight. For Pidgetto, use the usual Electric-type 
+Pokemon. When fighting Growlithe, put out its fire with Water-type 
+attacks. For Exeggcute, burn it with Fire-type attacks. For the rest, 
+just use your best ones.
+****************************************************************
+
+Head to the 3rd and you'll find some people which evil spirits have 
+"taken" over them. You can free them of the evil spirits, but it's not 
+required to do so. Keep going up until you reach the 5th Floor. On that 
+floor, someone has made you a "healing tile" to heal your Pokemon. When 
+you try to go up the stairs on the 6th Floor, you will fight a L30 
+Marowak. When you beat Cubone's Mother, her spirit will lay to 
+rest...allowing you to go on. On the final floor, there will be some 
+Rocket guards around. Defeat them, and talk to Mr. Fuji. Then you will 
+appear back at house. Talk to him again to get the Poke Flute. Always 
+carry this with you, for it will wake up sleeping Pokemon. Head back to 
+Celadon City and visit the big Poke Mart. Go to the top floor with the 
+vending machines. Buy some Fresh Water. Remember those guards who said 
+that they were thirsty? Talk to the guard and give him the water. He then 
+shares with the other gaurds so you can pass through to Saffron City. But 
+before you want to go Saffron City, you may want to get HM 02 which 
+teaches Fly. Check the "Important Info" section to find out how.
+
+------------
+Saffron City
+------------
+Pokemon:
+#106 Hitmonlee or
+#107 Hitmonchan
+
+This is one of the more bigger places in the game. Before you enter Silph 
+Co., you can go to the Fighting Dojo Gym to get a Pokemon that can't be 
+found anywhere else. Enter the Gym and you can skip three of the Trainers 
+by going around them. Your Psychic-type Pokemon will be needed to easily 
+overcome the Fighting-type. To get the rare Pokemon, talk to the leader 
+at the back to enter a fight...
+
+****************************************************************
+TRAINER: Blackbelt
+POKEMON: Hitmonlee - L37, Hitmonchan - L37
+
+For an easy victory, use any Psychic-type Pokemon. Otherwise, just use 
+some normal attacks that do decent damage such as Slash and Scratch. The 
+leader also tends to use X Attack on his Pokemon.  
+****************************************************************
+
+Once you win, the Karate Master will allow to choose a Hitmonlee or a 
+Hitmonchan. Both are good fighters, so it doesn't really matter which one 
+you choose. With that done, head to Silph Co. 
+
+---------
+Silph Co.
+---------
+Pokemon:
+#131 Lapras
+
+Items:
+TM 03
+TM 09
+TM 36
+Card Key
+Hyper Potion
+Max Revive
+Full Heal
+Escape Rope
+Protein
+HP Up
+Calcium
+X Accuracy
+Master Ball
+
+This place is can be easily completed by doing the basic things. When you 
+enter, head to the elevator and go the 5th Floor. On this floor, you can 
+find the Card Key at the small hallway part with a Rocket guard. Get the 
+key and go to the 3rd Floor. From the room with the open door, go left 
+and open the first door. Step on the teleporter, and you'll appear and 
+enter the room with Gary...
+
+****************************************************************
+TRAINER: Gary
+POKEMON: Pidgeot - L37, Growlithe - L38, Exeggcute - L35, Alakazam - L35, 
+Blastoise/Charizard/Venusaur - L40
+
+If you're not prepared, this will be a tough fight. You know the drill 
+from the last fight with Gary. For Pidgeot, use the Electric-type and on 
+Growlithe, use the Water-type. Burn Exeggcute with the Fire-type. For the 
+rest, just battle it out with your best.
+****************************************************************
+
+Now that Gary is out of the way, talk to the Silph Co. worker to get 
+Lapras. Continue down and step on the teleporter. Now you'll appear on 
+the 11th Floor. Go down, beat the Rocket guard and open the door for a 
+fight with Giovanni...
+
+****************************************************************
+TRAINER: Giovanni
+POKEMON: Nidorino - L37, Kangaskhan - L35, Rhyhorn - L37, Nidoqueen - L41
+
+Like the last Giovanni fight, use any Water-type Pokemon. That's really 
+just about it...
+****************************************************************
+
+Once you defeat him, talk to the Silph Co. president to get the Master 
+Ball, a kind of Poke Ball that can catch any Pokemon regardless of its 
+HP! Now that you put Team Rocket out of the way, head to the Gym. This 
+one has yet another puzzle, but with using teleporters. Step on the first 
+teleporter, then go up to another teleporter. Then step on the lower-left 
+teleporter. Now go to the right and step on the teleporter. Now again, 
+step on the lower-left teleporter and you'll end up at Sabrina...
+
+****************************************************************
+TRAINER: Sabrina
+PRIZES: Marsh Badge & TM 46
+POKEMON: Kadabra - L38, Mr. Mime - L37, Venomoth - L38, Alakazam - L43
+
+Use you best Pokemon, they should be around L39, against them. Use 
+decent-damaging attacks such as Slash and Scratch.
+****************************************************************
+
+With all that done, now's a good time to start to expand your Pokemon 
+collection. But to fish all the good Pokemon you are going to need the 
+Super Rod at Route 12. Head south from Lavender Town or east from 
+Vermilion to reach it...
+
+--------
+Route 12
+--------
+Pokemon:
+#16 Pidgey
+#43 Oddish (Red)
+#44 Gloom (Red)
+#48 Venonat (Red)
+#69 Bellsprout (Blue)
+#70 Weepinbell (Blue)
+#143 Snorlax
+
+Items:   
+TM 16
+Super Rod
+
+When you encounter the sleeping Snorlax, use the Poke Flute to wake him 
+up. It will then attack you. Capturing the L30 Snorlax is a piece of cake 
+compared to getting the mythical birds! When he uses "Rest", wear 'em 
+down and toss Great Balls at him. Once that's done, keep going south to 
+reach a house. Go inside and talk to the Fishing Guru for a Super Rod. 
+Now you start catching loads of water Pokemon! Now it's time to head to 
+Fuchsia City, but there is two ways to reaching it: Routes 13, 14, & 15 
+or Routes 16, 17 & 18...
+
+-------------------
+Routes 13, 14, & 15
+-------------------
+Pokemon:
+#16 Pidgey
+#17 Pidgetto
+#43 Oddish
+#44 Gloom
+#48 Venonat
+#69 Bellsprout
+#70 Weepinbell
+#132 Ditto
+
+Items:
+TM 20
+EXP. All
+
+Ditto can a great Pokemon to use, as it allows you to change into the 
+enemy's Pokemon. But the problem is that you only get 5 PP for any and 
+every move! Ditto is also a hard Pokemon to catch. Keep going through 
+until you reach one of those towers. Inside is another of Prof. Oak's 
+Aides. If you've caught 50 or more Pokemon, he gives an EXP. All. Keep 
+going to reach Fuchsia City.
+
+-------------------
+Routes 16, 17, & 18
+-------------------
+Pokemon:
+#19 Ratta
+#20 Raticate
+#21 Spearow
+#22 Fearow
+#84 Doduo
+#143 Snorlax
+
+Items:
+HM 02
+
+This place also has Snorlax in it. Use the Poke Flute to wake him up, 
+then defeat or capture it. Since place is mainly a steep hill, use your 
+Bicycle to travel down easier. You can find HM 02 here, check the 
+Important Info to see how. Once you reach the end, go east to reach 
+Fuchsia City.
+
+------------
+Fuchsia City
+------------ 
+Items:
+Good Rod
+
+Here is where Safari Zone is located! You can also get HM 04 here if you 
+can find the Warden's Gold Teeth. Read the "Important Info" section to 
+see how. Visit the house beside the Warden's to see the Fishing Guru. 
+Talk to him to get the Good Rod. Enter the Gym where you can find Koga. 
+Before you can fight him, you must move around the Gym where there are 
+hidden walls. Along the way you'll end up runnning into Trainers. Go 
+through that, talk to Koga to enter the fight...
+
+****************************************************************
+TRAINER: Koga
+PRIZES: Soul Badge & TM 06
+POKEMON: Koffing - L37, Muk - L39, Koffing - L37, Weezing - L43
+
+This Gym Leader uses Poison-type Pokemon, so buy some Antidotes. Use 
+Ground-type Pokemon at about L40 for an easy win. If you use Poison-type 
+Pokemon, you won't have to worry about being poisoned!
+****************************************************************
+
+With that done, you can head to Safari Zone to increase your Pokemon 
+collection. Now the next stop is Cinnabar Island...
+
+---------------
+Cinnabar Island
+---------------
+To reach this place, you must first get HM 03 which has Surf. Then go to 
+Pallet Town, and Surf down until you reach it. Here at Cinnabar Island, 
+you can ressurect Pokemon with the Fossils. To do so, go to the Pokemon 
+Lab, enter the third room with give your Fossil to the scientist. Exit 
+the Lab, enter and talk to him to get the Pokemon. Here is what you can 
+get:
+
+Old Amber = #142 Aerodactyl
+Helix Fossil = #138 Omanyte
+Dome Fossil = #140 Kabuto
+
+If you try to enter the Cinnabar Gym, you'll find out that the door is 
+locked. You need to enter the Pokemon Mansion and find the Secret Key. 
+Before you enter, try to build up a couple Water- or Rock-type Pokemon to 
+about L38. Also bring along a Pokemon that has the Dig move. 
+
+---------------
+Pokemon Mansion
+---------------
+Pokemon:
+#37 Vulpix (Blue)
+#58 Growlithe (Red)
+#77 Ponyta
+#88 Grimer
+#89 Muk
+#109 Koffing
+#110 Weezing
+#126 Magmar (Blue)
+
+Items:
+TM 14
+TM 22
+Secret Key
+Max Potion
+Full Restore
+Escape Rope
+Rare Candy
+Iron 
+Carbos
+Calcium
+
+This is a bit confusing because of the switches. Around the building, you 
+can find notes that tell about the mansion and Pokemon. When you enter, 
+go up and enter the stairs. On the 2nd Floor, activate the switch nearby 
+on the statue. Then enter the room that's north of you. Then go up the 
+stairs. From there, there is another statue with a switch. Hit that and 
+go into the lower room. Leap off the lower-left ledge. You'll land on the 
+1st Floor. In that room, there is another flight of stairs. Go down them 
+to enter the basement. In the room to your left, activate the switch 
+there and enter the hallway north of the stairs you went up. Keep going 
+through to find the Secret Key at the end. Use Dig to exit the building. 
+
+With the key in hand, you can now open the Gym. In the Gym, you must beat 
+Trainers in order for the doors to open. At the end, talk to Blaine for 
+the fight...
+
+****************************************************************
+TRAINER: Blaine
+PRIZES: Volcano Badge & TM 38
+POKEMON: Growlithe - L42, Ponyta - L40, Rapidash - L42, Arcanine - L47
+
+Use L40+ Ground- or Water-type Pokemon to make this fight a sinch. 
+Attacks such as Bubblebeam, Earthquake, and Dig prove to be quite 
+effective against beating him.
+****************************************************************
+
+With Blaine out of the way, you have one more Gym Leader to beat. Surf or 
+Fly back to Pallet Town and go to Viridian City.
+
+-------------
+Viridian City
+------------- 
+Remember when you first went here and the Gym was locked? Now it's open! 
+Go inside and navigate through the moving tiles. Talk to the final Gym 
+Leader, Giovanni...
+
+****************************************************************
+TRAINER: Giovanni
+PRIZES: Earth Badge & TM 27
+POKEMON: Rhyhorn - L45, Dugtrio - L42, Nidoqueen - L44, Nidoking - L45, 
+Rhydon - L50
+
+Like the other couple fights with Giovanni, use Water-type Pokemon at 
+about L45. You should be able to take him out pretty easily with Water-
+type attacks.
+****************************************************************
+
+With all of the Gym Leaders defeated, you must now head to the Elite 
+Four. Go west of Viridian and you'll encounter Gary...
+
+****************************************************************
+TRAINER: Gary
+POKEMON: Pidgeot - L47, Rhyhorn - L45, Growlithe - L45, Exeggcute - L47, 
+Alakazam - L50, Blastoise/Charizard/Venusaur - L53
+
+This battle isn't much different from the last couple battles with Gary. 
+Use Electric on Pidgeot, Water will take down Rhyhorn and Growlithe 
+easily. For the rest, use your best!
+****************************************************************
+
+Continue on to enter the building that leads to the Pokemon League HQ...
+
+--------------
+Routes 22 & 23
+--------------
+Pokemon:
+#21 Spearow
+#22 Fearow
+#23 Ekans
+#24 Arbok
+#27 Sandshrew
+#28 Sandslash
+#132 Ditto
+
+In order to get past all the guards, you must collect all eight Badges. 
+You also need Surf to get past the water. Get through all this to enter 
+Victory Road.
+
+------------
+Victory Road
+------------ 
+Pokemon:
+#41 Zubat
+#42 Golbat
+#66 Machop
+#67 Machoke
+#74 Geodude
+#75 Graveler
+#95 Onix
+#105 Marowak
+#146 Moltres
+
+Items:
+TM 05
+TM 17
+TM 43
+TM 47
+Max Revive
+Full Heal
+Rare Candy
+Guard Spec.
+
+This place contains the mythical fire bird, Moltres. In order for you to 
+move through this place, you need Strength. The main to do is to move the 
+boulders onto the switches so you can reach another area. This place 
+isn't that confusing, but in one spot there is a hole in which you push 
+the boulder in it. It's kinda hard to see it on the Gameboy screen. 
+Moltres will be a difficult one to catch. Wear him down with Electric- or 
+Water-type attacks and put him to sleep. Then use Ultra Balls on him. 
+Once you reach the exit, head north to Indigo Plateau.
+
+--------------
+Inidgo Plateau
+--------------
+This place is just a Poke Mart and a Pokemon Center in one. Once you're 
+prepared for the Elite Four, go down the stairs. Check the "Elite Four" 
+part in the Important Info section on beating them. Once they're done 
+for, you can now enter the cave near Cerulean City, the Unknown Dungeon. 
+You can also collect the other Legendary Birds, but it's optional.
+
+-----------
+Power Plant
+-----------
+Pokemon:
+#25 Pikachu
+#26 Raichu (Blue)
+#81 Magnemite
+#82 Magneton#100 Voltorb
+#125 Electabuzz (Red)
+#145 Zapdos
+
+Items:
+TM 25
+TM 33
+Rare Candy
+Carbos
+HP Up
+
+To reach the Power Plant, go east of Cerulean City. When you see the 
+water near the entrance to Rock Tunnel, Surf down it and you'll end up by 
+it. Inside the plant, there are several Poke Balls that are actually 
+Voltorbs instead of items. At the end of this place is Zapdos. Get his 
+energy down as far as you can, put him to sleep and throw Ultra Balls at 
+him. With Zapdos captured, head to Seafoam Islands.
+
+---------------
+Seafoam Islands
+---------------
+Pokemon:
+#41 Zubat
+#42 Golbat
+#54 Psyduck
+#55 Golduck
+#79 Slowpoke
+#80 Slowbro
+#86 Seel
+#87 Dewgong
+#90 Shellder
+#98 Krabby
+#99 Kingler
+#116 Horsea
+#120 Staryu
+#144 Articuno
+
+To reach this place, Surf down from Fuchsia City. Continue on until you 
+reach the islands. Here you will you need to move more boulders, so you 
+need Strength. All you need to do is to move the boulders down the holes 
+until they land in the water. Then on the 3rd Basement Floor, push those 
+boulders there into the holes so they land in the water. Now you can 
+reach Articuno! Repeat the same thing that you did on Zapdos to get him. 
+Now head to Cerulean City. Go north and Surf down until you reach a cave 
+entrance.
+
+---------------
+Unknown Dungeon
+---------------
+Pokemon:
+#24 Arbok (Red)
+#26 Raichu
+#28 Sandslash (Blue)
+#40 Wigglytuff
+#42 Golbat
+#47 Parasect
+#49 Venomoth
+#64 Kadabra
+#82 Magneton
+#85 Dodrio
+#97 Hypno
+#101 Electrode
+#105 Marowak
+#112 Rhydon
+#113 Chansey
+#132 Ditto
+#150 Mewtwo
+
+Items:
+Max Revive
+Max Elixier
+Full Restore x2
+Ultra Ball x2
+PP Up
+Nugget
+
+Make sure you prepared for the Pokemon here, they are ALL at least L50! 
+Since these Pokemon have high levels, you can capture a good team to use. 
+This is also the best place to build up the levels of Pokemon since you 
+get about 1,000 EXP after each fight. This place isn't very confusing, so 
+finding Mewtwo isn't too hard. When you do, use the Master Ball. If you 
+did use it, repeat what you did to the others.
+
+Now you've completed Pokemon! Good luck on catching all 150!
+
+================
+8) POKEMON LIST 
+================
+The list with the Pokemon's name, Type, Evolution, and more!
+NOTE: Pokemon with a "*" around it are considered to be "rare".
+
+Here is how it's listed...
+
+# - Name
+Type: 1 or 2 of the 15 kinds.
+Evolution: What the Pokemon can evolve into.
+Location: Where you find the Pokemon.
+Height: Pokemon's height.
+Weight: Pokemon's weight.
+Abilities: The creature's moves and when they're learned (From Nintendo's 
+Pokemon Player's Guide) When a Pokemon evolves, it carries its abilities 
+to its next form.
+Pokedex: What the Pokedex says about the Pokemon.
+
+----------------------------------------------------------------
+
+#1 - Bulbasaur
+Type: Grass/Poison
+Evolution: Ivysaur - L16
+Location: Prof. Oak's Lab
+Height: 2' 4''
+Weight: 15 lbs.
+Abilities:
+Tackle: -
+Growl: -
+Leech Seed: L7
+Vine Whip: L13
+Poison Powder: L20
+Razor Leaf: L27
+Growth: L34
+Sleep Powder: L41
+Solar Beam: L48
+Pokedex: A strange seed was planted on its back at birth. The plant 
+sprouts and grows with this Pokemon.
+
+#2 - Ivysaur
+Type: Grass/Poison
+Evolution: Venusaur - L32
+Location: -
+Height: 3' 3''
+Weight: 29 lbs.
+Abilities:
+Tackle: - 
+Growl: -
+Leech Seed: - 
+Vine Whip: - 
+Poison Powder: L22
+Razor Leaf: L30
+Growth: L38
+Sleep Powder: L46
+Solar Beam: L54
+Pokedex: When the bulb on its back grows large, it appears to lose the 
+ability to stand on its hind legs.
+
+#3 - Venusaur
+Type: Grass/Poison
+Evolution: -
+Location: -
+Height: 6' 7''
+Weight: 221 lbs.
+Abilities:
+Tackle: -  
+Growl: - 
+Leech Seed: - 
+Vine Whip: - 
+Poison Powder: - 
+Razor Leaf: - 
+Growth: L43
+Sleep Powder: L55
+Solar Beam: L65
+Pokedex: The plant blooms when it is absorbing solar energy. It stays on 
+the move to seek sunlight.
+
+#4 - Charmander
+Type: Fire
+Evolution: Charmeleon - L16
+Location: Prof. Oak's Lab
+Height: 2' 0''
+Weight: 19 lbs.
+Abilities:
+Scratch: - : - 
+Ember: L9
+Leer: L15
+Rage: L22: L30
+Flamethrower: L38
+Fire Spin: L46
+Pokedex: Obviously prefers hot places. When it rains, steam is to spout 
+from the tip of its tail.
+
+#5 - Charmeleon
+Type: Fire
+Evolution: Charizard - L36
+Location: -
+Height: 3' 7''
+Weight: 42 lbs.
+Abilities:
+Scratch: - 
+Growl: - 
+Ember: - 
+Leer: - 
+Rage: L24
+Slash: L33
+Flamethrower: L42
+Fire Spin: L56
+Pokedex: When it swings its burning tail, it elevates the temperature ro 
+unbearably high levels.
+
+#6 - Charizard
+Type: Fire/Flying
+Evolution: -
+Location: -
+Height: 5' 7''
+Weight: 200 lbs.
+Abilities:
+Scratch: - 
+Growl: - 
+Ember: - 
+Leer: - 
+Rage: - 
+Slash:  L36
+Flamethrower: L46
+Fire Spin: L55
+Pokedex: Spits fire that is hot enough to melt boulders. Known to cause 
+forest fires unintentionally.
+
+#7 - Squirtle
+Type: Water
+Evolution: Wartortle - L16
+Location: Prof. Oak's Lab
+Height: 1' 8''
+Weight: 20 lbs.
+Abilities:
+Tackle: - 
+Tail Whip: - 
+Bubble: L8
+Water Gun: L15
+Bite: L22
+Withdraw: L28
+Skull Bash: L35
+Hydro Pump: L42
+Pokedex: After birth, its back swells and hardens into a shell. 
+Powerfully sprays foam from its mouth. 
+
+#8 - Wartortle
+Type: Water
+Evolution: Blastoise - L36
+Location: -
+Height: 3' 3'' 
+Weight: 50 lbs.
+Abilities:
+Tackle: - 
+Tail Whip: - 
+Bubble: - 
+Water Gun: -
+Bite: L24
+Withdraw: L31
+Skull Bash: L39
+Hydro Pump: L47
+Pokedex: Often hides in water to stalk unwary prey. For swimming fast, it 
+moves its ears to maintain balance.
+
+#9 - Blastoise
+Type: Water
+Evolution: -
+Location: -
+Height: 5' 3''
+Weight: 189 lbs.
+Abilities:
+Tackle: - 
+Tail Whip: - 
+Bubble: - 
+Water Gun: - 
+Bite: - 
+Withdraw: - 
+Skull Bash: L42
+Hydro Pump: L52
+Pokedex: A brutal Pokemon with pressurized water jets on its shell. They 
+are used for high speed tackles.
+
+#10 - Caterpie
+Type: Bug
+Evolution: Metapod - L7
+Location: Viridian Forest, Route 25
+Height: 1' 0''
+Weight: 6 lbs.
+Abilities:
+Tackle: - 
+String Shot: - 
+Pokedex: Its short feet are tipped with suction pads that enable it to 
+tirelessly climb slopes and walls.
+
+#11 - Metapod
+Type: Bug
+Evolution: Butterfree - L10
+Location: Go to Caterpie
+Height: 2' 4''
+Weight: 22 lbs.
+Abilities:
+Harden: - 
+Pokedex: This Pokemon is vulnerable to attack while its shell is soft, 
+exposing its weak and tender body.
+
+#12 - Butterfree
+Type: Bug/Flying
+Evolution: -
+Location: -
+Height: 3' 7''
+Weight: 71 lbs.
+Abilities:
+Confusion: L12
+Poison Powder: L15
+Stun Spore: L16
+Sleep Powder: L17
+Supersonic: L21
+Whirlwind: L26
+Psybeam: L32
+Pokedex: In battle, it flaps its wings at high speed to release highly 
+toxic dust in the air.
+
+#13 - Weedle
+Type: Bug/Poison
+Evolution: Kakuna - L7
+Location: Route 2, Viridian Forest, Route 25, Route 24
+Height: 1' 0''
+Weight: 7 lbs.
+Abilities:
+Poison Sting: - 
+String Shot: -
+Pokedex: Often found in forests, eating leaves. It has a sharp venomous 
+stinger on its head.
+
+#14 - Kakuna
+Type: Bug/Poison
+Evolution: Beedrill - L10
+Location: Go to Weedle
+Height: 2' 0''
+Weight: 22 lbs.
+Abilities:
+Harden: -
+Pokedex: Almost incapable of moving, this Pokemon can only harden its 
+shell to protect itself from predators.
+
+#15 - Beedrill
+Type: Bug/Poison
+Evolution: -
+Location: -
+Height: 3' 3''
+Weight: 65 lbs. 
+Abilities:
+Fury Attack: L12
+Focus Energy: L16
+Twineedle: L20
+Rage: L25
+Pin Missle: L30
+Agility: L35
+Pokedex: Flies at high speed and attacks using its large venomous 
+stingers on its forelegs and tail.
+
+#16 - Pidgey
+Type: Normal/Flying
+Evolution: Pidgeotto - L18
+Location: Lot of places (About 14)!
+Height: 1' 0''
+Weight: 4 lbs.
+Abilities:
+Gust: - 
+Sand-Attack: L5
+Quick Attack: L12
+Whirlwind: L19
+Wing Attack: L28
+Agility: L36
+Mirror Move: L44 
+Pokedex: A common sight in forests and woods. It flaps its wings at 
+ground level to kick up blinding sand.
+
+#17 - Pidgeotto
+Type: Normal/Flying
+Evolution: Pidgeot - L36
+Location: Sea Route 21, Route 14, Route 15 
+Height: 3' 7''
+Weight: 66 lbs.
+Abilities:
+Gust: - 
+Sand-Attack: - 
+Quick Attack: - 
+Whirlwind: L21
+Wing Attack: L31
+Agility: L40
+Mirror Move: L49 
+Pokedex: Very protective of its sprawling territorial area, this Pokemon 
+will fiercely peck at any intruder.
+
+#18 - Pidgeot
+Type: Normal/Flying
+Evolution: -
+Location: -
+Height: 4' 11''
+Weight: 87 lbs.
+Abilities:
+Gust: - 
+Sand-Attack: - 
+Quick Attack: - 
+Whirlwind: - 
+Wing Attack: - 
+Agility: L44
+Mirror Move: L54 
+Pokedex: When hunting, it skims the surface of water at high speed to 
+pick off unwary prey such as Magikarp.
+
+#19 - Rattata
+Type: Normal
+Evolution: Raticate - L20
+Location: Lots of places (About 7)!
+Height: 1' 0''
+Weight: 8 lbs.
+Abilities:
+Tackle: - 
+Tail Whip: - 
+Quick Attack: L7
+Hyper Fang: L14
+Focus Energy: L23
+Super Fang: L34
+Pokedex: Bites anything when it attacks. Small and very quick, it is a 
+common sight in many places.
+
+#20 - Raticate
+Type: Normal
+Evolution: -
+Location: Sea Route 21, Route 18, Route 17, Route 16
+Height: 2' 4''
+Weight: 41 lbs.
+Abilities:
+Tackle: - 
+Tail Whip: - 
+Quick Attack: - 
+Hyper Fang: - 
+Focus Energy: L27
+Super Fang: L41
+Pokedex: It uses its whiskers to maintain balance. It apparently slows 
+down if they are cut off.
+
+#21 - Spearow
+Type: Flying
+Evolution: Fearow - L20
+Location: Lots of places (About 11)!
+Height: 1' 0''
+Weight: 4 lbs.
+Abilities:
+Peck: - 
+Growl: - 
+Leer: L9
+Fury Attack: L15
+Mirror Move: L22
+Drill Peck: L29
+Agility: L36
+Pokedex: Eats bugs in grassy areas. It has to flap its short wings at 
+high speed to stay airborne.
+
+#22 - Fearow
+Type: Normal/Flying
+Evolution: -
+Location: Route 23, Route 18, Route 17
+Height: 3' 11''
+Weight: 84 lbs.
+Abilities:
+Peck: - 
+Growl: - 
+Leer: - 
+Fury Attack: - 
+Mirror Move: L25
+Drill Peck: L34
+Agility: L43
+Pokedex: With its huge and magnificent wings, it can keep aloft without 
+ever having to land for rest.
+
+#23 - Ekans (Red Version ONLY!)
+Type: Poison
+Evolution: Arbok - L22
+Location: Lots of places (About 6)!
+Height: 6' 7''
+Weight: 15 lbs.
+Abilities:
+Wrap: - 
+Leer: - 
+Poison Sting: L10
+Bite: L17
+Glare: L24
+Screech: L31
+Acid: L38
+Pokedex: Moves silently and stealthily. Eats the eggs of birds, such as 
+Pidgey and Spearow, whole.
+
+#24 - Arbok (Red Version ONLY!)
+Type: Poison
+Evolution: -
+Location: Route 23
+Height: 11' 6''
+Weight: 143 lbs.
+Abilities:
+Wrap: - 
+Leer: - 
+Poison Sting: - 
+Bite: - 
+Glare: L27
+Screech: L36
+Acid: L47
+Pokedex: It is rumored that the ferocious warning markings on its belly 
+differ from area to area.
+
+#25 - Pikachu
+Type: Electric
+Evolution: Raichu - Thunder Stone: Viridian Forest, Power Plant
+Height: 1' 4''
+Weight: 13 lbs.
+Abilities:
+Thundershock: - 
+Growl: - 
+Thunder Wave: L9
+Quick Attack: L16
+Swift: L26
+Agility: L33
+Thunder: L43
+Pokedex: When several of these Pokemon gather, their electricity could 
+build and cause lightning storms.
+
+#26 - Raichu
+Type: Electric
+Evolution: -
+Location: Unknown Dungeon, Power Plant (Blue Version)
+Height: 2' 7''
+Weight: 66 lbs.
+Abilities:
+Thundershock: - 
+Growl: - 
+Thunder Wave: - 
+Pokedex: Its long tail serves as a ground to protect itself from its own 
+high voltage power.
+
+#27 - Sandshrew (Blue Version ONLY!)
+Type: Ground
+Evolution: Sandslash - L22
+Location: Lots of places!
+Height: 2' 0''
+Weight: 26 lbs.
+Abilities:
+Scratch: - 
+Sand-Attack: L10
+Slash: L17
+Poison Sting: L24
+Swift: L31
+Fury Swipes: L38
+Pokedex: Burrows deep underground in arid locations far from water. It 
+only emerges to hunt for food.
+
+#28 - Sandslash (Blue Version ONLY!)
+Type: Ground
+Evolution: -
+Location: Victory Road Cave
+Height: 3' 3''
+Weight: 65 lbs.
+Abilities:
+Scratch: - 
+Sand-Attack: - 
+Slash: - 
+Poison Sting: L27
+Swift: L36
+Fury Swipes: L47
+Pokedex: Curls up into a spiny ball when threatened. It can roll while 
+curled up to attack or escape.
+
+#29 - Nidoran (Female)
+Type: Poison
+Evolution: Nidorina - L16
+Location: Safari Zone, Route 22
+Height: 1' 4''
+Weight: 15 lbs.
+Abilities:
+Growl: - 
+Tackle: - 
+Scratch: L8
+Poison Sting: L14
+Tail Whip: L21
+Bite: L29
+Fury Swipes: L36
+Double Kick: L43
+Pokedex: Although small, its venomous barbs render this Pokemon 
+dangerous. The female has smaller horns.
+
+#30 - Nidorina
+Type: Poison
+Evolution: Nidoqueen - Moon Stone
+Location: Safari Zone
+Height: 2' 7''
+Weight: 44 lbs.
+Abilities:
+Growl: - 
+Tackle: - 
+Scratch: - 
+Poison Sting: - 
+Tail Whip: L23
+Bite: L32
+Fury Swipes: L41
+Double Kick: L50
+Pokedex: The female's horns develops slowly. Prefers physical attacks 
+such as clawing and biting. 
+
+#31 - Nidoqueen
+Type: Poison/Ground
+Evolution: -
+Location: -
+Height: 4' 3''
+Weight: 132 lbs.
+Abilities:
+Tail Whip: - 
+Tackle: - 
+Scratch: - 
+Poison Sting: - 
+Body Slam: L23
+Pokedex: Its hard scales provide strong protection. It uses its hefty 
+bulk to execute powerful moves.
+
+#32 - Nidoran (Male)
+Type: Poison
+Evolution: Nidorino - L16
+Location: Route 22, Safari Zone
+Height: 1' 8''
+Weight: 20 lbs.
+Abilities:
+Leer: - 
+Tackle: - 
+Horn Attack: L8
+Poison Sting: L14
+Focus Energy: L21
+Fury Attack: L29
+Horn Drill: L36
+Double Kick: L43
+Pokedex: Stiffens its ears to sense danger. The larger its horns, the 
+more powerful its secreted venom.
+
+#33 - Nidorino
+Type: Poison
+Evolution: Nidoking - Moon Stone
+Location: Safari Zone
+Height: 2' 11''
+Weight: 43 lbs.
+Abilities:
+Leer: - 
+Tackle: - 
+Horn Attack: - 
+Poison Sting: - 
+Focus Energy: L23
+Fury Attack: L32
+Horn Drill: L41
+Double Kick: L50
+Pokedex: An aggressive Pokemon that is quick to attack. The horn on its 
+head secretes a powerful venom.
+
+#34 - Nidoking
+Type: Poison/Ground
+Evolution: -
+Location: -
+Height: 4' 7''
+Weight: 137 lbs.
+Abilities:
+Tackle: - 
+Horn Attack: - 
+Poison Sting: - 
+Thrash: L23
+Pokedex: It uses its powerful tail in battle to smash, constrict, then 
+break the prey's bones. 
+
+#35 - Clefairy
+Type: Normal
+Evolution: Clefable - Moon Stone
+Location: Mt. Moon, Exchange Corner (Celadon City)
+Height: 2' 0''
+Weight: 17 lbs.
+Abilities:
+Pound: - 
+Growl: - 
+Sing: L13
+Doubleslap: L18
+Minimize: L24
+Metronome: L31
+Defense Curl: L39
+Light Screen: L48
+Pokedex: Its magical and cute appeal has many admirers. It is rare and 
+found only in certain areas.
+
+#36 - Clefable
+Type: Normal
+Evolution: -
+Location: -
+Height: 4' 3''
+Weight: 88 lbs.
+Abilities:
+Sing: - 
+Doubleslap: - 
+Minimize: - 
+Metronome: - 
+Pokedex: A timid Pokemon that is rarely seen. It will run and hide the 
+moment it senses people.
+
+#37 - Vulpix (Blue Version ONLY!)
+Type: Fire
+Evolution: Ninetales - Fire Stone
+Location: Route 7, Route 8, Cinnabar Island: 
+Height: 2' 0''
+Weight: 22 lbs.
+Abilities:
+Ember: -
+Tail Whip: -
+Quick Attack: L16
+Roar: L21
+Confuse Ray: L28
+Flamethrower: L35
+Fire Spin: L42
+Pokedex: At the time of the birth, it has just one tail. The tail splits 
+from its tip as it grows older.
+
+#38 - Ninetales (Blue Version ONLY!)
+Type: Fire
+Evolution: -
+Location: -
+Height: 3' 7''
+Weight: 44 lbs.
+Abilities:
+Ember: -
+Tail Whip: -
+Quick Attack: -
+Roar: -
+Pokedex: Very smart and very vengeful. Grabbing one of its many tails 
+could result in a 1,000-year curse.
+
+#39 - Jigglypuff
+Type: Normal
+Evolution: Wigglytuff - Moon Stone
+Location: Route 3
+Height: 1' 8''
+Weight: 12 lbs.
+Abilities:
+Sing: -
+Pound: L9
+Disable: L14
+Defense Curl: L19
+Doubleslap: L24
+Rest: L29
+Body Slam: L34
+Double-Edge: L39
+Pokedex: When its huge eyes light up, it sings a mysteriously soothing 
+melody that lulls its enemies to sleep.
+
+#40 - Wigglytuff
+Type: Normal
+Evolution: -
+Location: Unknown Dungeon 
+Height: 3' 3''
+Weight: 26 lbs.
+Abilities:
+Sing: -
+Disable: -
+Defense Curl: -
+Doubleslap: -
+Pokedex: The body is soft and rubbery. When angered, it will suck in air 
+and inflate itself to an enormous size.
+
+#41 - Zubat
+Type: Poison/Flying
+Evolution: Golbat - L22
+Location: Mt. Moon, Rock Tunnel, Victory Road
+Height: 2' 7''
+Weight: 17 lbs.
+Abilities:
+Leech Life: -
+Supersonic: L10
+Bite: L15
+Confuse Ray: L21
+Wing Attack: L28
+Haze: L36
+Pokedex: Forms colonies in perpetually dark places. Uses ultrasonic waves 
+to identify and approach targets.
+
+#42 - Golbat
+Type: Poison/Flying
+Evolution: -: Seafoam Islands, Victory Road
+Height: 5' 3''
+Weight: 121 lbs.
+Abilities:
+Leech Life: -
+Supersonic: -
+Bite: -
+Confuse Ray: -
+Wing Attack: L32
+Haze: L43
+Pokedex: Once it strikes, it will not stop draining energy from its 
+victim even if it gets too heavy to fly.
+
+#43 - Oddish (Red Version ONLY!)
+Type: Grass/Poison
+Evolution: Gloom - L21
+Location: Lots of places (About 9)!
+Height: 1' 8''
+Weight: 12 lbs.
+Abilities:
+Absorb: -
+Poison Powder: L15
+Stun Spore: L17
+Sleep Powder: L19
+Acid: L24
+Petal Dance: L33
+Solar Beam: L46
+Pokedex: During the day, it keeps its face buried in the ground. At 
+night, it wanders around sowing its seeds.
+
+#44 - Gloom (Red Version ONLY!)
+Type: Grass/Poison
+Evolution: Vileplume - Leaf Stone
+Location: Route 15, Route 14, Route 13,Route 12
+Height: 2' 7''
+Weight: 19 lbs.
+Abilities:
+Absorb: -
+Poison Powder: -
+Stun Spore: -
+Sleep Powder: -
+Acid: L28
+Petal Dance: L38
+Solar Beam: L52
+Pokedex: The fluid that oozes from its isn't drool. It is a nectar that 
+is used to attract prey.
+
+#45 - Vileplume (Red Version ONLY!)
+Type: Grass/Poison
+Evolution: -
+Location: -
+Height: 3' 11''
+Weight: 41 lbs.
+Abilities:
+Poison Powder: -
+Stun Spore: -
+Sleep Powder: -
+Pokedex: The larger its petals, the more toxic pollen it contains. Its 
+big head is heavy and hard to hold up.
+
+#46 - Paras
+Type: Bug/Grass
+Evolution: Parasect - L24
+Location: Mt. Moon Safari Zone
+Height: 1' 0''
+Weight: 12 lbs.
+Abilities:
+Scratch: -
+Stun Spore: L13
+Leech Life: L20
+Spore: L27
+Slash: L34
+Growth: L41
+Pokedex: Burrows to suck tree roots. The mushrooms on its bac grow by 
+drawing in nutrients from the bug host.
+
+#47 - Parasect
+Type: Bug/Grass
+Evolution: -
+Location: Safari Zone
+Height: 3' 3''
+Weight: 65 lbs.
+Abilities:
+Scratch: -
+Stun Spore: -
+Leech Life: -
+Spore: L30
+Slash: L39
+Growth: L48
+Pokedex: A host-parasite pair in the which the parasite mushroom has 
+taken over the host bug. Prefers damp places.
+
+#48 - Venonat
+Type: Bug/Poison
+Evolution: Venomoth - L31 
+Location: Same as Gloom, Safari Zone
+Height: 3' 3''
+Weight: 66 lbs.
+Abilities:
+Tackle: -
+Disable: -
+Poison Powder: L24
+Leech Life: L27
+Stun Spore: L30
+Psybeam: L35
+Sleep Powder: L38
+Psychic: L43
+Pokedex: Lives in the shadows of tall trees where it eats insects. It is 
+attracted by light at night.
+
+#49 - Venomoth
+Type: Bug/Poison
+Evolution: -
+Location: Safari Zone, Victory Road
+Height: 4' 11''
+Weight: 28 lbs.
+Abilities:
+Tackle: -
+Disable: -
+Poison Powder: -
+Leech Life: -
+Stun Spore: -
+Psybeam: L38
+Sleep Powder: L43
+Psychic: L50
+Pokedex: The dust-like scales covering its wings are color coded to 
+indicate the kinds of poison it has.
+
+#50 - Diglett
+Type: Ground
+Evolution: Dugtrio - L26
+Location: Diglett's Cave
+Height: 0' 8''
+Weight: 2 lbs.
+Abilities:
+Scratch: -
+Growl: L15
+Dig: L19
+Sand-Attack: L24
+Slash: L31
+Earthquake: L40
+Pokedex: Lives about one yard underground where it feeds on plant roots. 
+It sometimes appears above ground.
+
+#51 - Dugtrio
+Type: Ground
+Evolution: -
+Location: Diglett's Cave
+Height: 2' 4''
+Weight: 72 lbs.
+Abilities:
+Scratch: -
+Growl: -
+Dig: -
+Sand-Attack: -
+Slash: L35
+Earthquake: L47
+Pokedex: A team of Diglett triplets. It triggers huge earthquakes by 
+burrowing 60 miles underground.
+
+#52 - Meowth (Blue Version ONLY!)
+Type: Normal
+Evolution: Persian - L28
+Location: Route 5, Route 7, Route 8, Vermilion City
+Height: 1' 4''
+Weight: 9 lbs.
+Abilities:
+Scratch: -
+Growl: -
+Bite: L12
+Pay Day: L17
+Screech: L24
+Fury Swipes: L33
+Slash: L44
+Pokedex: Adores circular objects. Wanders the streets on a nightly basis 
+to look for dropped loose change.
+
+#53 - Persian (Blue Version ONLY!)
+Type: Normal
+Evolution: -
+Location: -
+Height: 3' 3''
+Weight: 71 lbs.
+Abilities:
+Scratch: -
+Growl: -
+Bite: -
+Pay Day: -
+Screech: -
+Fury Swipes: L37
+Slash: L51
+Pokedex: Although its fur has many admirers, it is tough to raise as a 
+pet because of its fickle meanness.
+
+#54 - Psyduck
+Type: Water: Golduck - L33
+Location: Seafoam Islands, Safari Zone (Fish for him)
+Height: 2' 7''
+Weight: 43 lbs.
+Abilities:
+Scratch: -
+Tail Whip: L28
+Disable: L31
+Confusion: L36
+Fury Swipes: L43
+Hydro Pump: L52
+Pokedex: While lulling its enemies with its vacant look, this wily 
+Pokemon will use psychokinetic powers.
+
+#55 - Golduck
+Type: Water
+Evolution: -: -
+Height: 5' 7''
+Weight: 169 lbs.
+Abilities:
+Scratch: -
+Tail Whip: -
+Disable: -
+Confusion: L39
+Fury Swipes: L48
+Hydro Pump: L59
+Pokedex: Often seen swimming elegantly by lake shores. It is often 
+mistaken for the Japanese monster, Kappa.
+
+#56 - Mankey (Red Version ONLY!)
+Type: Fighting
+Evolution: Primeape - L28
+Location: Route 5, Route 6, Route 8, Route 7
+Height: 1' 8''
+Weight: 62 lbs.
+Abilities:
+Scratch: -
+Leer: -
+Karate Chop: L15
+Fury Attack: L21
+Focus Energy: L27
+Seismic Toss: L33
+Thrash: L39
+Pokedex: Extremely quick to anger. It could be docile one moment then 
+thrashing away the next instant.
+
+#57 - Primeape (Red Version ONLY!)
+Type: Fighting
+Evolution: -
+Location: -
+Height: 3' 3''
+Weight: 71 lbs.
+Abilities:
+Scratch: -
+Leer: -
+Karate Chop: -
+Fury Attack: -
+Focus Energy: -
+Seismic Toss: L37
+Thrash: L46
+Pokedex: Always furious and tenacious to boot. It will not abandon 
+chasing its quarry until it is caught.
+
+#58 - Growlithe (Red Version ONLY!)
+Type: Fire 
+Evolution: Arcanine - Fire Stone
+Location: Route 7, Route 8, Pokemon Mansion (Cinnabar Island)
+Height: 2' 4''
+Weight: 42 lbs.
+Abilities:
+Bite: -
+Roar: -
+Ember: L18
+Leer: L23
+Take Down: L30
+Agility: L39
+Flamethrower: L50
+Pokedex: Very protective of its territory. It will bark and bite to repel 
+intruders from its space.
+
+#59 - Arcanine (Red Version ONLY!)
+Type: Fire
+Evolution: -
+Location: -
+Height: 6' 3''
+Weight: 342 lbs.
+Abilities:
+Roar: -
+Ember: -
+Leer: -
+Take Down: -
+Pokedex: A Pokemon that has been admired since the past for its beauty. 
+It runs agilely as if on wings.
+
+#60 - Poliwag
+Type: Water
+Evolution: Poliwhirl - L25
+Location: Fish for him!
+Height: 2' 4''
+Weight: 27 lbs.
+Abilities:
+Bubble: -
+Hypnosis: L16
+Water Gun: L19
+Doubleslap: L25
+Body Slam: L31
+Amnesia: L38
+Hydro Pump: L45
+Pokedex: Its newly grown legs prevent it from running. It appears to 
+prefer swimming than trying to stand.
+
+#61 - Poliwhirl
+Type: Water
+Evolution: Poliwrath - Water Stone
+Location: Fish for him!
+Height: 3' 3''
+Weight: 44 lbs.
+Abilities:
+Bubble: -
+Hypnosis: -
+Water Gun: -
+Doubleslap: -
+Body Slam: L33
+Amnesia: L41
+Hydro Pump: L49
+Pokedex: Capable of living in or out of water. When out of water, it 
+sweats to keep its body slimy.
+
+#62 - Poliwrath
+Type: Water/Fighting
+Evolution: -
+Location: -
+Height: 4' 3''
+Weight: 119 lbs.
+Abilities:
+Hypnosis: -
+Water Gun: -
+Doubleslap: -
+Body Slam: -
+Pokedex: An adept swimming at both the front crawl and breast stroke. 
+Easily overtakes the best human swimmers.
+
+#63 - Abra
+Type: Psychic
+Evolution: Kadabra - L16
+Location: Route 24, Route 25
+Height: 2' 11'': 43 lbs.
+Abilities:
+Teleport: -
+Pokedex: Using its ability to read minds, it will identify impending 
+danger and Teleport to safety.
+
+#64 - Kadabra
+Type: Psychic
+Evolution: Alakazam - Trade Kadabra
+Location: Unknown Dungeon
+Height: 4' 3''
+Weight: 125 lbs.
+Abilities:
+Teleport: -
+Confusion: -
+Disable: L20
+Psybeam: L27
+Recover: L31
+Psychic: L38
+Reflect: L42
+Pokedex: It emits special alpha waves from its body that induce headaches 
+just by being close by.
+
+#65 - Alakazam
+Type: Psychic
+Evolution: -
+Location: -
+Height: 4' 11''
+Weight: 106 lbs.
+Abilities:
+Teleport: -
+Confusion: -
+Disable: L20
+Psybeam: L27
+Recover: L31
+Psychic: L38
+Reflect: L42
+Pokedex: Its brain can outperform a supercomputer. Its intelligence 
+quotient is said to be 5,000.
+
+#66 - Machop
+Type: Fighting
+Evolution: Machoke - L28
+Location: Rock Tunnel, Victory Road
+Height: 2' 7''
+Weight: 43 lbs.
+Abilities:
+Karate Chop: -
+Low Kick: L20
+Leer: L25
+Focus Energy: L32
+Seismic Toss: L39
+Submission: L46
+Pokedex: Loves to build muscles. It trains in all styles of martial arts 
+to become even stronger.
+
+#67 - Machoke
+Type: Fighting
+Evolution: Machamp - Trade Machoke
+Location: Victory Road
+Height: 4' 11''
+Weight: 155 lbs.
+Abilities:
+Karate Chop: -
+Low Kick: -
+Leer: -
+Focus Energy: L36
+Seismic Toss: L44
+Submission: L52
+Pokedex: Its muscular body is so powerful, it must wear a power save bely 
+to be able to regulate its motion.
+
+#68 - Machamp
+Type: Fighting
+Evolution: -
+Location: -
+Height: 5' 3''
+Weight: 287 lbs.
+Abilities:
+Karate Chop: -
+Low Kick: -
+Leer: -
+Focus Energy: L36
+Seismic Toss: L44
+Submission: L52
+Pokedex: Using its heavy muscles, it throws powerful punches that can 
+send a victim clear over the horizon.
+
+#69 - Bellsprout (Blue Version ONLY!)
+Type: Grass/Poison
+Evolution: Weepinbell - L21
+Location: Lots of places!
+Height: 2' 4''
+Weight: 9 lbs.
+Abilities:
+Vine Whip: -
+Growth: -
+Wrap: L13
+Poison Powder: L15
+Sleep Powder: L18
+Stun Spore: L21
+Acid: L26
+Razor Leaf: L33
+Slam: L42
+Pokedex: A carnivorous Pokemon that traps and eats bugs. It uses its root 
+feet to soak up needed moisture.
+
+#70 - Weepinbell (Blue Version ONLY!)
+Type: Grass/Poison
+Evolution: Victreebel - Leaf Stone
+Location: Route 12, Route 13, Route 14, Route 15
+Height: 3' 3''
+Weight: 14 lbs.
+Abilities:
+Vine Whip: -
+Growth: -
+Wrap: -Powder: -
+Sleep Powder: -
+Stun Spore: L23
+Acid: L29
+Razor Leaf: L38
+Slam: L49
+Pokedex: It spits out Poisonpowder to immobilize the enemy and then 
+finishes it with a spray of Acid.
+
+#71 - Victreebel (Blue Version ONLY!)
+Type: Grass/Poison
+Evolution: -
+Location: -
+Height: 5' 7''
+Weight: 34 lbs.
+Abilities:
+Wrap: -
+Poison Powder: -
+Sleep Powder: -
+Pokedex: Said to live in huge colonies deep in jungles, although no one 
+has returned from there.
+
+#72 - Tentacool
+Type: Water/Poison
+Evolution: Tentacruel - L30
+Location: Sea Route 21, Sea Route 20, Sea Route 19
+Height: 2' 11''
+Weight: 100 lbs. 
+Abilities:
+Acid: -
+Super Sonic: L7
+Wrap: L13
+Poison Sting: L18
+Water Gun: L22
+Constrict: L27
+Barrier: L33
+Screech: L40
+Hydro Pump: L48
+Pokedex: Drifts in shallow seas. Anglers who hook them by accident are 
+often punished by stinging acid.
+
+#73 - Tentacruel
+Type: Water/Poison
+Evolution: -
+Location: -
+Height: 5' 3''
+Weight: 121 lbs.
+Abilities:
+Acid: -
+Super Sonic: -
+Wrap: -
+Poison Sting: -
+Water Gun: -
+Constrict: -
+Barrier: L35
+Screech: L43
+Hydro Pump: L50
+Pokedex: The tentacles are normally cut short. On hunts, they are 
+extended to ensnare and immobilize prey.#74 - Geodude
+Type: Rock/Ground
+Evolution: Graveler - L25
+Location: Mt. Moon, Rock Tunnel, Victory Road 
+Height: 1' 4''
+Weight: 44 lbs.
+Abilities:
+Tackle: -
+Defense Curl: L11
+Rock Throw: L16
+Self Destruct: L21
+Harden: L26
+Earthquake: L31
+Explosion: L36
+Pokedex: Found in fields and mountains. Mistaking them for boulders, 
+people often step or trip on them.
+
+#75 - Graveler 
+Type: Rock/Ground
+Evolution: Golem - Trade Graveler
+Location: Victory Road
+Height: 3' 3''
+Weight: 232 lbs.
+Abilities:
+Tackle: -
+Defense Curl: -
+Rock Throw: -
+Self Destruct: -
+Harden: L29
+Earthquake: L36
+Explosion: L43
+Pokedex: Rolls down slopes to move. It rolls over any obstacle without 
+slowing or changing its direction.
+
+#76 - Golem
+Type: Rock/Ground
+Evolution: -
+Location: -
+Height: 4' 7''
+Weight: 662 lbs.
+Abilities:
+Tackle: -
+Defense Curl: -
+Rock Throw: -
+Self Destruct: -
+Harden: L29
+Earthquake: L36
+Explosion: L43
+Pokedex: Its boulder-like body is extremely hard. It can easily withstand 
+dynamite blasts without damage.
+
+#77 - Ponyta
+Type: Fire
+Evolution: Rapidash - L40
+Location: Pokemon Mansion (Cinnabar Island)
+Height: 3' 3''
+Weight: 66 lbs.
+Abilities:
+Ember: -
+Tail Whip: L30
+Stomp: L32
+Growl: L35
+Fire Spin: L39
+Take Down: L43
+Agility: L48
+Pokedex: Its hooves are 10 times harder than diamonds. It can trample 
+anything completely flat in little time.
+
+#78 - Rapidash
+Type: Fire
+Evolution: -
+Location: Unkown Dungeon
+Height: 5' 7''
+Weight: 209 lbs.
+Abilities:
+Ember: -
+Tail Whip: -
+Stomp: -
+Growl: -
+Fire Spin: -
+Take Down: L47
+Agility: L55
+Pokedex: Very competitive. this Pokemon will chase anything that moves 
+fast in the hopes of racing it.
+
+#79 - Slowpoke
+Type: Water/Psychic
+Evolution: Slowbro - L37
+Location: Seafoam Islands, Safari Zone (Fish for him)
+Height: 3' 11''
+Weight: 79 lbs.
+Abilities:
+Confusion: -
+Disable: L18
+Head Butt: L22
+Growl: L27
+Water Gun: L33
+Amnesia: L40
+Psychic: L48
+Pokedex: Incredibly slow and dopey. It takes 5 seconds for it to feel 
+pain when under attack.
+
+#80 - Slowbro
+Type: Water/Psychic
+Evolution: -
+Location: Route 22 & 23 (Fish), Seamfoam Islands, Unkown Dungeon
+Height: 5' 3''
+Weight: 173 lbs.
+Abilities:
+Confusion: -
+Disable: -
+Head Butt: -
+Growl: -
+Water Gun: -
+Amnesia: L44
+Psychic: L55
+Pokedex: The Shellder that is latched onto Slowpoke's tail is said to 
+feed on the host's left over scraps.
+
+#81 - Magnemite
+Type: Electric
+Evolution: Magneton - L30
+Location: Power Plant
+Height: 1' 0''
+Weight: 13 lbs. 
+Abilities:
+Tackle: -
+Sonic Boom: L21
+Thundershock: L25
+Supersonic: L29
+Thunder Wave: L35
+Swift: L41
+Sreech: L47
+Pokedex: Uses anti-gravity to stay suspended. Appears without warning and 
+uses Thunder Wave and similar moves.
+
+#82 - Magneton
+Type: Electric
+Evolution: -
+Location: Power Plant, Unkown Dungeon
+Height: 3' 3''
+Weight: 132 lbs.
+Abilities:
+Tackle: -
+Sonic Boom: -
+Thundershock: -
+Supersonic: -
+Thunder Wave: L38
+Swift: L46
+Sreech: L54
+Pokedex: Former by several Magnemites linked together. They frequently 
+appear when sunpots flare up.
+
+#83 - Farfetch'd
+Type: Normal/Flying
+Evolution: -
+Location: Trade a Spearow for this at Vermilion City
+Height: 2' 7''
+Weight: 33 lbs.
+Abilities:
+Peck: -
+Sand-Atack: -
+Leer: L7
+Fury Attack: L15
+Swords Dance: L23
+Agility: L31
+Slash: L39
+Pokedex: The sprig of green onions it holds is its weapon. It is used 
+much like a metal sword.
+
+#84 - Doduo
+Type: Normal/Flying
+Evolution: Dodrio - L31
+Location: Route 16, Route 17, Route 18, Safari Zone
+Height: 4' 7''
+Weight: 86 lbs.
+Abilities:
+Peck: -
+Growl: L20
+Fury Attack: L24
+Drill Peck: L30
+Rage: L36
+Tri Attack: L40
+Agility: L44
+Pokedex: A bird that makes up for its poor flying with its fast foot 
+speed. Leaves giant footprints.
+
+#85 - Dodrio
+Type: Normal/Flying
+Evolution: -
+Location: Unknown Dungeon
+Height: 5' 11''
+Weight: 188 lbs.:
+Peck: -
+Growl: -
+Fury Attack: -
+Drill Peck: -
+Rage: L39
+Tri Attack: L45
+Agility: L51
+Pokedex: Uses its three brains to execute complex plans. While two heads 
+sleep, one head stays awake. 
+
+#86 - Seel
+Type: Water
+Evolution: Dewgong - L34
+Location: Seafoam Islands
+Height: 3' 7''
+Weight: 198 lbs.
+Abilities:
+Head Butt: -
+Growl: L30
+Aurora Beam: L35
+Rest: L40
+Take Down: L45
+Ice Beam: L50
+Pokedex: The protruding horn on its head is very hard. It is used for 
+bashing through thick ice.
+
+#87 - Dewgong
+Type: Water/Ice
+Evolution: -
+Location: Seamfoam Islands
+Height: 5' 7''
+Weight: 265 lbs.
+Abilities:
+Head Butt: -
+Growl: -
+Aurora Beam: L35
+Rest: L44
+Take Down: L50
+Ice Beam: L56
+Pokedex: Stores thermal energy in its body. Swims at a steady 8 knots 
+even in intensely cold waters.
+
+#88 - Grimer
+Type: Poison
+Evolution: Muk - L38
+Location: Pokemon Mansion (Cinnabar Island)
+Height: 2' 11''
+Weight: 66 lbs.
+Abilities:
+Pound: -
+Disable: -
+Poison Gas: L30
+Minimize: L33
+Sludge: L37
+Harden: L42
+Screech: L48
+Acid Armor: L55
+Pokedex: Appears in filthy areas. Thrives by sucking up polluted sludge 
+that is pumped out of factories.
+
+#89 - Muk
+Type: Poison
+Evolution: -
+Location: Pokemon Mansion (Cinnabar Island), Unknown Dungeon
+Height: 3' 11'' 
+Weight: 66 lbs.
+Abilities:
+Pound: -
+Disable: -
+Poison Gas: -
+Minimize: -
+Sludge: -
+Harden: L45
+Screech: L53
+Acid Armor: L60
+Pokedex: Thickly covered with a filthy, vile sludge. It is so toxic, even 
+its footprints contain poison.
+
+#90 - Shellder
+Type: Water
+Evolution: Cloyster - Water Stone
+Location: Seafoam Islands
+Height: 1' 0''
+Weight: 9 lbs.
+Abilities:
+Tackle: -
+Withdraw: -
+Supersonic: L18
+Clamp: L23
+Aurora Beam: L30
+Leer: L39
+Ice Beam: L50
+Pokedex: Its hard shell repels any kind of attack. It is vulnerable only 
+when its shell is open. 
+
+#91 - Cloyster
+Type: Water/Ice
+Evolution: -
+Location: -
+Height: 4' 11''
+Weight: 292 lbs.
+Abilities:
+Withdraw: -
+Supersonic: -
+Clamp: -Beam: -
+Spike Cannon: L50
+Pokedex: When attacked, it lauches its horn in quick volleys. Its innards 
+have never been seen.
+
+#92 - Gastly
+Type: Ghost/Poison
+Evolution: Haunter - L25
+Location: Pokemon Tower (Lavender Town)
+Height: 4' 3''
+Weight: 0.2 lbs.
+Abilities:
+Lick: -
+Confuse Ray: -
+Night Shade: -
+Hypnosis: L27
+Dream Eater: L35
+Pokedex: Almost invisible, this gaseous Pokemon cloaks the target and 
+puts it to sleep without notice.
+
+#93 - Haunter
+Type: Ghost/Poison
+Evolution: Gengar - Trade Haunter
+Location: Pokemon Tower (Lavender Town)
+Height: 5' 3'': 0.2 lbs.
+Abilities:
+Lick: -
+Confuse Ray: -
+Night Shade: -
+Hypnosis: L29
+Dream Eater: L38
+Pokedex: Because of its ability to slip through block walls, it is said 
+to be from another dimension.
+
+#94 - Gengar
+Type: Ghost/Poison
+Evolution: -
+Location: -
+Height: 4' 11''
+Weight: 89 lbs.
+Abilities:
+Lick: -
+Confuse Ray: -
+Night Shade: -
+Hypnosis: L29
+Dream Eater: L38
+Pokedex: Under a full moon, this Pokemon likes to mimic the shadows of 
+people and laught at their fright.
+
+#95 - Onix
+Type: Rock/Ground
+Evolution: -
+Location: Rock Tunnel, Victory Road
+Height: 28' 10''
+Weight: 463 lbs.
+Abilities:
+Tackle: -
+Screech: -
+Bind: L15
+Rock Throw: L19
+Rage: L25
+Slam: L33
+Harden: L43
+Pokedex: As it grows, the stone portions of its body harden to become 
+similar to a diamond, but colored black. 
+
+#96 - Drowzee
+Type: Psychic
+Evolution: Hypno - L26
+Location: Route 11
+Height: 3' 3''
+Weight: 71 lbs.
+Abilities:
+Pound: -
+Hypnosis: -
+Disable: L12
+Confusion: L17
+Head Butt: L24
+Poison Gas: L29
+Psychic: L32
+Meditate: L37
+Pokedex: Puts enemies to sleep then eats their dreams. Occasionally gets 
+sick from eating bad dreams.
+#97 - Hypno
+Type: Psychic
+Evolution: -
+Location: Unknown Dungeon
+Height: 5' 3''
+Weight: 167 lbs.
+Abilities:
+Pound: -
+Hypnosis: -
+Disable: -
+Confusion: -
+Head Butt: -
+Poison Gas: L33
+Psychic: L37
+Meditate: L43
+Pokedex: When it locks eyes with the enemy, it will use a mix of Psi 
+moves such as Hypnosis and Confusion.
+
+#98 - Krabby
+Type: Water
+Evolution: Kingler - L28
+Location: Fish for him, Safari Zone (Fish for him)
+Height: 1' 4''
+Weight: 14 lbs.
+Abilities:
+Bubble: -: -
+Vice Grip: L20
+Guillotine: L25
+Stomp: L30
+Crab Hammer: L35
+Harden: L40
+Pokedex: Its pincers are not only powerful weapons, they are used for 
+balance when walking sideways. 
+
+#99 - Kingler
+Type: Water
+Evolution: -
+Location: Route 22 & 23 (Fish for him), Seafoam Islands, Unknown Dungeon
+Height: 4' 3''
+Weight: 132 lbs.
+Abilities:
+Bubble: -
+Leer: -
+Vice Grip: -
+Guillotine: -
+Stomp: L34
+Crab Hammer: L42
+Harden: L49 
+Pokedex: The large pincer has 10,000 HP of crushing power. Howeverm its 
+huge size makes it unwieldy to use.
+
+#100 - Voltorb
+Type: Electric
+Evolution: Electrode - L30
+Location: Route 10, Power Plant
+Height: 1' 8''
+Weight: 23 lbs.
+Abilities:
+Tackle: -
+Sreech: -
+Sonic Boom: L17
+Self Destruct: L22
+Light Screen: L29
+Swift: L36
+Explosion: L43
+Pokedex: Usually found in power plants. Easily mistaken for a Poke Ball, 
+they have zapped many people. 
+
+#101 - Electrode
+Type: Electric
+Evolution: -
+Location: Power Plant, Cinnabar Island, Cerulean City (?), Unknown 
+Dungeon
+Height: 3' 11''
+Weight: 147 lbs.
+Abilities:
+Tackle: -
+Sreech: -
+Sonic Boom: -
+Self Destruct: -
+Light Screen: -
+Swift: L40
+Explosion: L50
+Pokedex: It stores electric energy under very high pressure. It often 
+explodes with little or no provocation.
+
+#102 - Exeggcute
+Type: Grass
+Evolution: Exeggutor - Leaf Stone
+Location: Safari Zone
+Height: 1' 4''
+Weight: 6 lbs.
+Abilities:
+Barrage: -
+Hypnosis: -
+Reflect: L25
+Leech Seed: L28
+Stun Spore: L32
+Poison Powder: L37Beam: L42
+Sleep Powder: L48
+Pokedex: Often mistaken for eggs. When distrubed, they quickly gather and 
+attack in swarms. 
+
+#103 - Exeggutor
+Type: Grass/Psychic
+Evolution: -
+Location: -
+Height: 6' 7''
+Weight: 265 lbs.
+Abilities:
+Barrage: -
+Hypnosis: -
+Stomp: L28
+Pokedex: Legend has it that on rare occasions, one of its heads will drop 
+off and continue on as an Exeggcute.
+
+#104 - Cubone
+Type: Ground
+Evolution: Marowak - L28
+Location: Pokemon Tower (Lavender Town)
+Height: 1' 4''
+Weight: 14 lbs.
+Abilities:
+Bone Club: -
+Growl: -
+Leer: L25
+Focus Energy: L31
+Thrash: L38
+Bonemerang: L43
+Rage: L46
+Pokedex: Because it never removes its skull helmet, no one has ever seen 
+this Pokemon's real face.
+
+#105 - Marowak
+Type: Ground
+Evolution: -
+Location: Victory Road, Unknown Dungeon
+Height: 3' 3''
+Weight: 99 lbs.
+Abilities:
+Bone Club: -
+Growl: -
+Leer: -
+Focus Energy: L33
+Thrash: L41
+Bonemerang: L48
+Rage: L55 
+Pokedex: The bone it hold is its key weapon. It throws the bone 
+skillfully like a boomerang to KO targets.
+
+#106 - Hitmonlee
+Type: Fighting
+Evolution: -
+Location: Fighting Dojo Gym (Saffron City, choose this or a Hitmonchan)
+Height: 4' 11''
+Weight: 110 lbs.
+Abilities:
+Double Kick: -
+Meditate: -
+Rolling Kick: L33
+Jump Kick: L38
+Focus Enegry: L43
+Hi Jump Kick: L48
+Mega Kick: L53
+Pokedex: When in a hurry, its legs lengthen progressively. It runs 
+smoothly with extra long, loping strides.
+
+#107 - Hitmonchan
+Type: Fighting
+Evolution: -
+Location: Fighting Dojo Gym (Saffron City, choose this or a Hitmonlee)
+Height: 4' 7''
+Weight: 111 lbs.
+Abilities:
+Comet Punch: -
+Agility: -
+Fire Punch: L33
+Ice Punch: L38
+Thunder Punch: L43
+Mega Punch: L48
+Counter: L53
+Pokedex: While apparently doing nothing, it fires punches in lightning 
+fast volleys that are impossible to see.
+
+#108 - Lickitung
+Type: Normal
+Evolution: -
+Location: Trade a Slowbro for this at Route 18
+Height: 3' 11''
+Weight: 144 lbs.
+Abilities:
+Wrap: -
+Supersonic: -
+Stomp: L7
+Disable: L15
+Defense Curl: L23
+Slam: L31
+Screech: L39  
+Pokedex: Its tongue can be extended like a chameleon's. It leaves a 
+tingling sensation when it licks enemies.
+
+#109 - Koffing
+Type: Poison
+Evolution: Weezing - L35
+Location: Pokemon Mansion (Cinnabar Island)
+Height: 2' 0''
+Weight: 2 lbs.
+Abilities:
+Tackle: -
+Smog: -
+Sludge: L32
+Smoke Screen: L37
+Self Destruct: L40
+Haze: L45
+Explosion: L48
+Pokedex: Because it store several kinds of toxic gases in its body, it is 
+prone to exploding without warning.
+
+#110 - Weezing
+Type: Poison
+Evolution: -
+Location: Pokemon Mansion (Cinnabar Island)
+Height: 3' 11'': 21 lbs.
+Abilities:
+Tackle: -
+Smog: -
+Sludge: -
+Smoke Screen: L39
+Self Destruct: L43
+Haze: L49
+Explosion: L53
+Pokedex: Where two of poison gases meet, 2 Koffings can fuse into a 
+Weezing over many years.
+
+#111 - Rhyhorn
+Type: Ground/Rock
+Evolution: Rhydon - L42
+Location: Safari Zone
+Height: 3' 3''
+Weight: 254 lbs.
+Abilities:
+Horn Attack: -
+Stomp: L30
+Tail Whip: L35
+Fury Attack: L40
+Horn Drill: L45
+Leer: L50
+Take Down: L55
+Pokedex: It massive bones are 1,000 times harder than human bones. It can 
+easily knock a trailor flying.
+
+#112 - Rhydon
+Type: Ground/Rock
+Evolution: -
+Location: Unknown Dungeon
+Height: 6' 3''
+Weight: 265 lbs.
+Abilities:
+Stomp: -
+Tail Whip: -
+Fury Attack: -
+Horn Drill: L48
+Leer: L55
+Take Down: L64
+Pokedex: Protected by an armor-like hide, it is capable of living in 
+moltn lava of 3,600 degrees.
+
+#113 - Chansey
+Type: Normal
+Evolution: -
+Location: Safari Zone, Unknown Dugeon
+Height: 3' 7''
+Weight: 76 lbs.
+Abilities:
+Pound: -
+Doubleslap: -
+Sing: L24
+Growl: L30
+Minimize: L38
+Defense Curl: L44
+Light Screen: L48
+Double-Edge: L54
+Pokedex: A rare and elusive Pokemon that is said to bring happiness to 
+those who manage to get it.
+
+#114 - Tangela
+Type: Grass
+Evolution: - 
+Location: Sea Route 21 (Grass near Pallet Town)
+Height: 3' 3''
+Weight: 77 lbs.
+Abilities:
+Constrict: -
+Bind: -
+Absorb: L29
+Poison Powder: L32
+Stun Spore: L36
+Sleep Powder: L39
+Slam: L45
+Growth: L49
+Pokedex: The whole body is swathed with wide vines that are similar to 
+seaweed. Its vines shake as it walks.
+
+#115 - Kangaskhan 
+Type: Normal
+Evolution: -
+Location: Safari Zone
+Height: 7' 3''
+Weight: 176 lbs.
+Abilities:Punch: -
+Rage: -
+Bite: L26
+Tail Whip: L31
+Mega Punch: L36
+Leer: L41
+Dizzy Punch: L46
+Pokedex: The infant rarely ventures out of its mother's protective pouch 
+until it is 3 years old.
+
+#116 - Horsea
+Type: Water
+Evolution: Seadra - L32
+Location: Seafoam Islands
+Height: 1' 4''
+Weight: 18 lbs.
+Abilities:
+Bubble: -
+Smoke Screen: L19
+Leer: L24
+Water Gun: L30
+Agility: L37
+Hydro Pump: L45
+Pokedex: Known to shoot down flying bugs with precision blasts of ink 
+from the surface of the water.
+
+#117 - Seadra
+Type: Water
+Evolution: -
+Location: Fish for him! (At Victory Road) 
+Height: 3' 11''
+Weight: 55 lbs.
+Abilities:
+Bubble: -
+Smoke Screen: -
+Leer: -
+Water Gun: -
+Agility: L41
+Hydro Pump: L52
+Pokedex: Capable of swimming backwards by rapidly flapping its wing-like 
+pectoral fins and stout tail.
+
+#118 - Goldeen
+Type: Water
+Evolution: Seaking - L33
+Location: Fish for him!
+Height: 2' 0''
+Weight: 33 lbs.
+Abilities:
+Peck: -
+Tail Whip: -
+Supersonic: L19
+Horn Attack: L24
+Fury Attack: L30
+Waterfall: L37
+Horn Drill: L45
+Agility: L54
+Pokedex: Its tail fin billows like an elegant ballroom dress, giving it 
+the nickname of the Water Queen.
+
+#119 - Seaking
+Type: Water: -
+Location: Fish for him! (At Victory Road)
+Height: 4' 3''
+Weight: 86 lbs.
+Abilities:
+Peck: -
+Tail Whip: -
+Supersonic: -
+Horn Attack: -
+Fury Attack: -
+Waterfall: L39
+Horn Drill: L48
+Agility: L54
+Pokedex: In autumn spawning season, they can be seen swimming powerfully 
+up rivers and creeks.
+
+#120 - Staryu
+Type: Water
+Evolution: Starmie - Water Stone
+Location: Seafoam Islands
+Height: 2' 7''
+Weight: 76 lbs.
+Abilities:
+Tackle: -
+Water Gun: L17
+Harden: L22
+Recover: L27
+Swift: L32
+Minimize: L37
+Light Screen: L42
+Hydro Pump: L47
+Pokedex: An enigmatic Pokemon that can effortlessly regenerate any 
+appendage its loses in battle.
+
+#121 - Starmie
+Type: Water/Psychic
+Evolution: -
+Location: -
+Height: 3' 7''
+Weight: 176 lbs.
+Abilities:
+Tackle: -
+Water Gun: -
+Harden: -
+Pokedex: Its central core glows with the seven colors of the rainbow. 
+Some people value the core as a gem. 
+
+#122 - Mr. Mime
+Type: Psychic
+Evolution: -
+Location: Trade an Abra for this near Viridian Forest
+Height: 4' 3''
+Weight: 120 lbs.
+Abilities:
+Confusion: -
+Barrier: -
+Light Screen: L23
+Doubleslap: L31
+Meditate: L39
+Substitute: L47
+Pokedex: If interrupted while it is miming, it will slap around the 
+offender with its broad hands.
+
+#123 - Scyther (Red Version ONLY!)
+Type: Bug/Flying
+Evolution: -
+Location: Safari Zone
+Height: 4' 11''
+Weight: 123 lbs.
+Abilities:
+Quick Attack: -
+Leer: L17
+Focus Energy: L20
+Double Team: L24
+Slash: L29
+Swords Dance: L35
+Agility: L42
+Pokedex: With ninja-like agility and speed, in can create the illusion 
+that there is more than one.
+
+#124 - Jynx
+Type: Ice/Psychic
+Evolution: -
+Location: Trade a Poliwhirl for this at Cerulean City 
+Height: 4' 7''
+Weight: 90 lbs.
+Abilities:
+Pound: -
+Lovely Kiss: -
+Sing: L15
+Double Slap: L23
+Ice Punch: L31
+Meditate: L39
+Blizzard: L47
+Pokedex: It seductively wiggles its hips as it walks. It can cause people 
+to dance in unison with it.
+
+#125 - Electabuzz (Red Version ONLY!)
+Type: Electric
+Evolution: -
+Location: Power Plant
+Height: 3' 7''
+Weight: 66 lbs.
+Abilities:
+Quick Attack: -
+Leer: -
+Thundershock: L34
+Screech: L37
+Thunderpunch: L42
+Light Screen: L49
+Thunder: L54
+Pokedex: Normally found near power plants, they can wander away and cause 
+major blackouts in cities.
+
+#126 - Magmar (Blue Version ONLY!)
+Type: Fire
+Evolution: -
+Location: Cinnabar Island 
+Height: 4' 3''
+Weight: 98 lbs.
+Abilities:
+Ember: -
+Leer: L36
+Confuse Ray: L39
+Fire Punch: L43
+Smoke Screen: L48
+Smog: L52
+Flamethrower: L55
+Pokedex: Its body always burns with an orange glow that enables it to 
+hide perfectly among flames.
+
+#127 - Pinsir (Blue Version ONLY!)
+Type: Bug
+Evolution: -: Safari Zone
+Height: 4' 11''
+Weight: 121 lbs.
+Abilities:
+Vicegrip: -
+Seismic Toss: L25
+Guillotine: L30
+Focus Energy: L36
+Harden: L43
+Slash: L49
+Swords Dance: L54
+Pokedex: If it fails to crush the victim in its pincers, it will swing is 
+around and toss it hard.
+
+#128 - Tauros
+Type: Normal
+Evolution: -
+Location: Safari Zone
+Height: 4' 7'' 
+Weight: 195 lbs.
+Abilities:
+Tackle: -
+Stomp: L21
+Tail Whip: L28
+Leer: L35
+Rage: L44
+Take Down: L51
+Pokedex: When it targets an enemy, it charges furiously while whipping 
+its body with its long tails.
+
+#129 - Magikarp
+Type: Water
+Evolution: Gyrados - L20 
+Location: Buy it at Mt. Moon Pokemon Center, Fish for him!
+Height: 2' 11''
+Weight: 22 lbs.
+Abilities:
+Splash: -
+Tackle: L15
+Pokedex: In the distant past, it was somewhat stronger than the horribly 
+weak descendants that exist today. 
+
+#130 - Gyrados
+Type: Water/Flying
+Evolution: -
+Location: -
+Height: 21' 4''
+Weight: 518 lbs.
+Abilities:
+Bite: L20
+Dragon Rage: L25
+Leer: L32
+Hydro Pump: L41
+Hyper Beam: L52
+Pokedex: Rarely seen in the wild. Huge and vicious, it is capable of 
+destroying entire cities in a rage.
+
+#131 - Lapras
+Type: Water/Ice
+Evolution: -
+Location: Silph Co. (Saffron City)
+Height: 8' 2''
+Weight: 485 lbs.
+Abilities:
+Water Gun: -
+Growl: -
+Sing: L16
+Mist: L20
+Body Slam: L25
+Confuse Ray: L31
+Ice Beam: L38
+Hydro Pump: L46
+Pokedex: A Pokemon that has been overhunted almost to extinction. It can 
+ferry people across the water.
+
+#132 - Ditto
+Type: Normal
+Evolution: -
+Location: Route 13, Route 14, Route 15, Route 23
+Height: 1' 0''
+Weight: 9 lbs.
+Abilities:
+Transform: -
+Pokedex: Capable of copying an enemy's genetic code to instantly 
+transform itself into a duplicate of the enemy.
+
+#133 - Eevee
+Type: Normal
+Evolution: See chart below
+Location: Back of Pokemon Mansion (Celadon City)
+Height: 1' 0''
+Weight: 14 lbs.
+Abilities:
+Tackle: -
+Sand-Attack: -
+Quick Attack: L27
+Tail Whip: L31
+Bite: L37
+Take Down: L45
+Pokedex: Its genetic code is irregular. It may mutate if it is exposed to 
+radiation from element Stones.
+
+------------------------
+  *Eevee's Evolution*
+------------------------
+Water Stone > Vaporeon
+Thunder Stone > Jolteon
+Fire Stone > Flareon
+------------------------
+
+#134 - Vaporeon
+Type: Water: -
+Location: -
+Height: 3' 3''
+Weight: 64 lbs.
+Abilities:
+Tackle: -
+Sand-Attack: -
+Quick Attack: L27
+Water Gun: L31
+Tail Whip: L37
+Bite: L40
+Acid Armor: L42
+Haze: L44: L48
+Hydro Pump: L54
+Pokedex: Lives close to the water. Its long tail is ridged with a fin 
+which is often mistaken for a mermaid's.
+
+#135 - Jolteon
+Type: Electric
+Evolution: -
+Location: -
+Height: 2' 7''
+Weight: 54 lbs.
+Abilities:
+Tackle: -
+Sand-Attack: -
+Quick Attack: L27
+Thundershock: L31
+Tail Whip: L37
+Thunder Wave: L40
+Double Kick: L42
+Agility: L44
+Pin Missle: L48
+Thunder: L54
+Pokedex: It accumulates negative ions in the atmosphere to blast out 
+10,000-volt lightning bolts. 
+
+#136 - Flareon
+Type: Fire
+Evolution: -
+Location: -
+Height: 2' 11''
+Weight: 55 lbs.
+Abilities:
+Tackle: -
+Sand-Attack: -
+Quick Attack: L27
+Ember: L31
+Tail Whip: L37
+Bite: L40
+Leer: L42
+Fire Spin: L44
+Rage: L48
+Flamethrower: L54
+Pokedex: When storing thermal energy in its body, its temperature could 
+soar over 1,600 degrees.
+
+#137 - Porygon
+Type: Normal
+Evolution: -
+Location: Exchange Corner (Celadon City)
+Height: 2' 7''
+Weight: 80 lbs.
+Abilities:
+Tackle: -
+Sharpen: -
+Conversion: -
+Psybeam: L23
+Harden: L28
+Agility: L35
+Tri Attack: L42
+Pokedex: A Pokemon that consists entirely of programming code. Capable of 
+moving freely in cyberspace.
+
+#138 - Omanyte
+Type: Rock/Water
+Evolution: Omastar - L40
+Location: Revive with Helix Fossil at Cinnabar Island
+Height: 1' 4''
+Weight: 17 lbs.
+Abilities:
+Water Gun: -
+Withdraw: -
+Horn Attack: L34
+Leer: L39
+Spike Cannon: L44Pump: L49
+Pokedex: Although long extinct, in rare cases, it can be genetically 
+resurrected from fossils.
+
+#139 - Omastar
+Type: Rock/Water: -
+Location: -
+Height: 3' 3''
+Weight: 77 lbs.
+Abilities:
+Water Gun: -
+Withdraw: -
+Horn Attack: -
+Leer: -
+Spike Cannon: L46
+Hydro Pump: L53: A prehistoric Pokemon that died out when its heavy shell 
+made it impossible to catch prey.
+
+#140 - Kabuto
+Type: Rock/Water
+Evolution: Kabutops - L40
+Location: Revive with Dome Fossil at Cinnabar Island
+Height: 1' 8''
+Weight: 25 lbs.
+Abilities:
+Scratch: -: -
+Absorb: L34
+Slash: L39
+Leer: L44
+Hydro Pump: L49
+Pokedex: A Pokemon that was resurrected from a fossil found in what was 
+once the ocean floor eons ago.
+
+#141 - Kabutops
+Type: Rock/Water
+Evolution: -
+Location: -
+Height: 4' 3''
+Weight: 89 lbs.
+Abilities:
+Scratch: -
+Harden: -
+Absorb: -
+Slash: -
+Leer: L46
+Hydro Pump: L53
+Pokedex: Its sleek shape is perfect for swimming. It slashes prey with 
+its claws and drains the body fluids.
+
+#142 - Aerodactyl
+Type: Rock/Flying
+Evolution: - 
+Location: Revive with Old Amber at Cinnabar Island
+Height: 5' 11''
+Weight: 130 lbs.
+Abilities:
+Wing Attack: -
+Agility: -
+Supersonic: L33
+Bite: L38
+Take Down: L45
+Hyper Beam: L54
+Pokedex: A ferocious, prehistoric Pokemon that goes for the enemy's 
+throat with its serrated saw-like fangs.
+
+*#143 - Snorlax*
+Type: Normal
+Evolution: -
+Location: Use Poke Flute on him at Route 12 and Route 19
+Height: 6' 11''
+Weight: 1014 lbs.
+Abilities:
+Head Butt: -
+Amnesia: -
+Rest: -
+Body Slam: L35
+Harden: L41
+Double-Edge: L48
+Hyper Beam: L56
+Pokedex: Very lazy. Just eats and sleeps. As its rotund bulk builds, it 
+becomes steadily more slothful.
+
+*#144 - Articuno*
+Type: Ice/Flying
+Evolution: -
+Location: Seafoam Islands 
+Height: 5' 7''
+Weight: 122 lbs.
+Abilities:
+Peck: -
+Ice Beam: -
+Blizzard: L51
+Agility: L55
+Mist: L60
+Pokedex: A legendary bird Pokemon that is said to appear to doomed people 
+who are lost in icy mountains.
+
+*#145 - Zapdos*
+Type: Electric/Flying
+Evolution: -
+Location: Power Plant
+Height: 5' 3''
+Weight: 116 lbs.
+Abilities:
+Thundershock: -
+Drill Peck: -
+Thunder: L51
+Agility: L55
+Light Screen: L60
+Pokedex: A legendary bird Pokemon that is said to appear from clouds 
+while dropping enormous lightning bolts.
+
+*#146 - Moltres*
+Type: Fire/Flying
+Evolution: -
+Location: Victory Road Cave
+Height: 6' 7''
+Weight: 132 lbs.
+Abilities:
+Peck: -
+Fire Spin: -
+Leer: L51
+Agility: L55
+Sky Attack: L60
+Pokedex: Known as the legendary bird of fire. Every flap of its wings 
+creates a dazzling flash of flames. 
+
+#147 - Dratini
+Type: Dragon
+Evolution: Dragonair - L30
+Location: Safari Zone (Fish for him), Exchange Corner (Celadon City)
+Height: 5' 11''
+Weight: 7 lbs.
+Abilities:
+Wrap: -
+Leer: -
+Thunder Wave: L10
+Agility: L20
+Slam: L30
+Dragon Rage: L40
+Hyper Beam: L50
+Pokedex: Long considered a mythical Pokemon until recently when a small 
+colony was found living underwater.
+
+#148 - Dragonair
+Type: Dragon
+Evolution: Dragonite - L55
+Location: -
+Height: 13' 1''
+Weight: 36 lbs.
+Abilities:
+Wrap: -
+Leer: -
+Thunder Wave: -
+Agility: -
+Slam: L35
+Dragon Rage: L45
+Hyper Beam: L55
+Pokedex: A mystical Pokemon that exudes a gentle aura. Has the ability to 
+change climate conditions.
+
+#149 - Dragonite
+Type: Dragon/Flying
+Evolution: -
+Location: -
+Height: 7' 3''
+Weight: 463 lbs.
+Abilities:
+Wrap: -
+Leer: -
+Thunder Wave: -
+Agility: -
+Slam: -
+Dragon Rage: -
+Hyper Beam: -
+Pokedex: An extremely rarely seen marine Pokemon. Its intelligence is 
+said to match that of humans.
+
+*#150 - Mewtwo*
+Type: Psychic
+Evolution: -
+Location: Cave near Cerulean City
+Height: 6' 7''
+Weight: 269 lbs.
+Abilities:
+Swift: -
+Barrier: -
+Psychic: -
+Recover: -
+Mist: L75
+Amnesia: L81
+Pokedex: It was created by a scientist afters years of horrific gene 
+splicing and DNA engineering experiments.
+
+*#151 Mew* 
+Type: Psychic
+Evolution: -
+Location: See Codes or Game Genie Codes section 
+Height: 1' 4''
+Weight: 9 lbs.
+Abilities:
+Transform: -
+Pound: -
+Mega Punch: L20
+Metronome: L30
+Psychic: L40
+Pokedex: So rare that it is still said to be a mirage by many experts. 
+Only a few people have seen it worldwide.
+Note: Mew is compatible with EVERY TM and HM!
+
+==================
+9) ITEMS / STORES
+==================
+
+-----
+Items
+-----
+
+Balls:
+Poke Ball - Used to catch Pokemon.
+Great Ball - Catches better than a Poke Ball.
+Ultra Ball - Catches better than a Great Ball.
+Master Ball - Only one. Catches ANY Pokemon 100% of the time!
+Safari Ball - Used to catch Pokemon in "Safari Zone".
+
+Stones/Fossils:
+Fire Stone - Evolves certain Fire-type Pokemon.
+Thunder Stone - Evolves certain Electric-type Pokemon.
+Water Stone - Evolves certain Water-type Pokemon.
+Leaf Stone - Evolves certain Grass-type Pokemon.
+Moon Stone - Evolves some other types of Pokemon.
+Helix Fossil - Revive "Omanyte".
+Dome Fossil - Revive "Kabuto".
+Old Amber - Revive "Aerodactyl".
+
+Recovery:
+Antidote - Cures "Poison".
+Burn Heal - Cures "Burn".
+Ice Heal - Cures "Freeze".
+Awakening - Cures "Sleep".
+Parlyz Heal - Cures "Paralyze".
+Full Heal - Cures Poison, Burn, Freeze, Sleep, and Paralyze.
+Potion - Restores some HP.
+Super Potion - Restores more HP than a Potion.
+Hyper Potion - Restores more HP than a Super Potion.
+Max Potion - Restores all HP.
+Fresh Water - In battle, restores some HP.
+Soda Pop - Restores more HP than Fresh Water in battle.
+Lemonade - Restores more HP than Soda Pop in battle.
+Full Restore - Heals all conditions and HP.
+Revive - Revives a fainted Pokemon, restores 1/2 its HP.
+Max Revive - Revives a fainted Pokemon, restores all HP.
+Elixier - Recover 10 PP for all attacks.
+Max Elixier - Recover all PP for all attacks.
+Ether - Recover 10 PP for an attack.
+Max Ether - Recover all PP for an attack.
+
+Power-ups:
+Rare Candy - Raises a level for a Pokemon.
+HP Up - Increases HP.
+PP Up - Increases PP.
+Protein - Increases Attack.
+Iron - Increases Defense.
+Carbos - Increases Speed.
+Calcium - Increases Special.
+X Attack - In battle, increases Attack.
+X Defend - In battle, increases Defense.
+X Speed - In battle, increases Speed.
+X Special - In battle, increases Special.
+X Accuracy - In battle, increases chance of hitting.
+Guard Spec. - In battle, the enemy can't use special attack.
+Dire Hit - In battle, attacks become more effective.
+
+Field:
+Bicycle - Can be obtained for free with a Bike Voucher.
+Escape Rope - Moves you out of a cave.
+Repel - Decreases enemy ecounter rate for a period of time.
+Super Repel - Lasts longer than Repel.
+Max Repel - Lasts lomger than Super Repel.
+
+Special:
+PokeDex - Records data of Pokemon you have seen and caught.
+Town Map - This map shows you the areas in Pokemon.
+TM - See "Playing Pokemon".
+HM - See "Playing Pokemon".
+
+Badges:
+Boulder Badge (Brock: Pewter City) - Power increases a little, lets you 
+use Flash.
+Cascade Badge (Misty: Cerulean City) - Pokemon up to L30 will obey you, 
+lets you use Cut
+Thunder Badge (Lt. Surge: Vermilion City) - Speed increases a litte, lets 
+you use Fly
+Rainbow Badge (Erika: Celadon City) - Pokemon up to L50 will obey you, 
+lets you use Strength.
+Marsh Badge (Sabrina: Saffron City) - Pokemon up to L70 will obey you.
+Soul Badge (Koga: Fuchsia City) - Defense increases a little, lets you 
+use Surf.
+Volcano Badge (Blaine: Cinnabar Island) - Special abilities increase a 
+little.
+Earth Badge (Giovanni: Viridian City) - ALL Pokemon will obey you.
+
+Misc.:
+Nugget - Sells for $5,000! 
+Gold Teeth - Found in Safari Zone. Owned by the Warden in Fuchsia City.
+S.S. Ticket - A ticket for the S.S. Anne.
+Poke Doll - A doll that allows you to run away from battle.
+Silph Scope - Allows you to identify ghosts in Pokemon Tower.
+Poke Flute - Plays a tune that wakes up sleeping Pokemon.
+Old Rod - Use it to fish for water Pokemon.
+Good Rod - Can catch some water Pokemon that the Old Rod can't.
+Super Rod - Can catch water Pokemon that the other Rods can't.
+Itemfinder - Allows you to find items you can't see.
+EXP. All - Allows Pokemon who don't fight in battle get EXP.
+Coins - Win them at Game Corner to exchange for Pokemon.
+Coin Case - Save Coins in this.
+Bike Voucher - Get this in Vermilion City.
+Oak's Parcel - Deliver this package to Professor Oak.
+Card Key - Open doors in Silph Co. with this.
+Lift Key - Operate Game Corner Basement elevator.
+Secret Key - Open Cinnabar Gym with this.
+
+-------------------
+Stores (Poke Marts)
+-------------------
+
+Viridian City:
+--------------------
+Poke Ball.......$200
+Antidote........$100
+Paralyz Heal....$200
+Burn Heal.......$250
+
+Pewter City:
+--------------------
+Poke Ball.......$200
+Potion..........$300
+Escape Rope.....$550
+Antidote........$100
+Burn Heal.......$250
+Awakening.......$200
+Paralyz Heal....$200
+
+Cerulean City:
+--------------------
+Poke Ball.......$200
+Potion..........$300
+Repel...........$350
+Escape Rope.....$550
+Antidote........$100
+Burn Heal.......$250
+Awakening.......$200
+Paralyz Heal....$200
+
+Vermilion City:
+--------------------
+Poke Ball.......$200
+Super Potion....$700
+Repel...........$350
+Ice Heal........$250
+Awakening.......$200
+Paralyz Heal....$200
+
+Lavender Town:
+--------------------
+Great Ball......$600
+Super Potion....$700
+Super Repel.....$500
+Revive........$1,500
+Escape Rope.....$550
+Antidote........$100
+Burn Heal.......$250
+Ice Heal........$250
+Paralyz Heal....$200
+
+Celadon City:
+
+2nd Floor
+--------------------
+Great Ball......$600
+Super Potion....$700
+Revive........$1,500
+Super Repel.....$500
+Antidote........$100
+Burn Heal.......$250
+Ice Heal........$250
+Awakening.......$200
+Paralyz Heal....$200
+TM 32.........$1,000
+TM 33.........$1,000
+TM 02.........$2,000
+TM 07.........$2,000
+TM 37.........$2,000
+TM 01.........$3,000
+TM 05.........$3,000
+TM 09.........$3,000
+TM 17.........$3,000 
+
+4th Floor
+----------------------
+Poke Doll.......$1,000
+Fire Stone......$2,100
+Thunder Stone...$2,100
+Water Stone.....$2,100
+Leaf Stone......$2,100
+
+5th Floor
+------------------
+X Accuracy....$950
+Guard Spec....$700
+Dire Hit......$650
+X Attack......$500
+X Defend......$550
+X Speed.......$350
+X Special.....$350
+HP Up.......$9,800
+Protein.....$9,800
+Iron........$9,800
+Carbos......$9,800
+Calcium.....$9,800
+
+6th Floor
+------------------
+Fresh Water...$200
+Soda Pop......$300
+Lemonade......$350
+
+Saffron City:
+---------------------
+Great Ball.......$600
+Hyper Potion...$1,500
+Max Repel........$700
+Escape Rope......$550
+Full Heal........$600
+Revive.........$1,500
+
+Fuchsia City:
+-------------------
+Ultra Ball...$1,200
+Great Ball.....$600
+Super Potion...$700
+Revive.......$1,500
+Full Heal......$600
+Super Repel....$500
+
+Cinnabar Island:
+---------------------
+Ultra Ball.....$1,200
+Great Ball.......$600
+Hyper Potion...$1,500
+Max Repel........$700
+Escape Rope......$550
+Full Heal........$600
+Revive.........$1,500
+
+Indigo Plateau:
+---------------------
+Ultra Ball.....$1,200
+Great Ball.......$600
+Full Restore...$3,000
+Max Potion.....$2,500
+Full Heal........$600
+Revive.........$1,500
+Max Repel........$700
+
+================
+10) CODES / TIPS
+================
+WARNING NOTE: I must warn you about using the codes for Pokemon! Some of 
+the codes may screw up your saved game while others may mess up the 
+"Pokemon League Site" on the PC. So far, no has said to me that the codes 
+have screwed their Pokemon GamePak horribly. The side effects can be 
+fixed by starting a new saved game.
+
+Clone Pokemon
+By: bvpage (RHS Linux User)
+
+To begin, you must have two Gameboys linked. Gameboy A has the Pokemon to 
+be cloned (I cloned Mewtwo, but any one will work), and Gameboy B will 
+have the Pokemon to be erased because they will get the cloned Pokemon (a 
+weak Pokemon like Magikarp will do. They're easy to catch and worthless 
+unless evolved). Gameboy A will be the first to enter the Cable Club, and 
+the first to trade or this code will not work. Gameboy A will trade the 
+good Pokemon, and Gameboy B will trade the bad one. After Gameboy A gets 
+the bad Pokemon the screen will say "waiting". Gameboy A will turn off 
+the Gameboy the second "waiting" clears off the screen. Then Gameboy B's 
+screen will say "trade complete". The screen won't clear, so you'll have 
+to turn the Gameboy off. Then, restart the game and you'll have a cloned 
+Pokemon! The weak Pokemon will have disappeared because it never really 
+traded (or didn't finish trading).
+
+NOTE: This may cause your saved game to screw up!
+
+Fight Land Pokemon On Water
+
+To fight land Pokemon on water, go to the eastern side of Seafoam 
+Islands. Surf up and down along the eastern coat to do that. The Pokemon 
+that you fight are from the area you last visited. This even works with 
+Safari Zone!
+
+Catch Pokemon Better #1
+By: BfloPat
+
+To help increase your chances of catching a Pokemon, press B + Down when 
+you use a Poke Ball or press B + Up when you use an Ultra Ball. 
+
+Pokemon Daycare Experience
+By: RazzDude
+
+Here is much experience your Pokemon can earn when they are at the 
+Pokemon Daycare Center. For every step Ash takes, that Pokemon gets one 
+experience point.
+
+Get Mew - #1 
+By: SSJxVejito
+
+This code only works for the Japanese Version and is only a rumor and not 
+confirmed.
+Go to the Pokemon Mansion, and inside is a person who will give you #151 
+Mew. If you try to do it in the American version, you will not get it but 
+you'll get something else.
+
+Pokemon #000 - MissingNo
+By: dbayles (Daniel Bayles)
+
+I've finished the game, and just about had all 150 Pok‚mon. I was 
+wandering around Cinnabar Island, and went into the lab, where you get 
+your Kabuto/Omanyte, and/or Aerodactyl. Out of sheer boredom, I traded a 
+Ponyta for a Seel. Then I went outside, and surfed along the edge of the 
+island where the square is half land, half water. A random battle came 
+up. It took longer to load, and when it did, a random mess of hex code 
+was my opponent. "MISSINGNO" was his name, and was displayed as Pokemon 
+#000, and is at level 80. The only way to catch him is to put him to 
+sleep, and use a Pokemon with Agility to throw Ultra Balls, as any attack 
+kills it. When you catch him, it does not add new Pok‚dex info.  (DO NOT 
+SAVE THE GAME!) Take him into battle a few times if you wish, but DO NOT 
+SAVE! When your battle screen pops up, your character will be distorted. 
+MISSINGNO has 3 attacks, Water Gun, Sky Attack, and I didn't look at the 
+other one (My Note: I've heard that his third attack was Water Gun, he 
+has the move twice.). Once you've looked him over, turn off the GameBoy 
+without saving, as keeping him can result in erasing your save, and 
+possibly permanently screwing up your cartridge. He's actually a glitch, 
+so he doesn't count as a Pokemon! Be safe, don't save.
+
+Catch Pokemon Better #2
+By: DAW1230
+
+Here's another easy to catch Pokemon! When you throw any type of Poke 
+Ball, hold A and B for an easy catch.
+
+Get Mew - #2 (Unconfirmed)
+By: Specter (James Dixon)
+
+This code works on both Red and Blue Versions. After capturing Mewtwo you 
+can capture Mew in the same cave. He can be anywhere inside the Unknown 
+Dungeon. Mew will be disguised as another Pokemon.(Particuly another 
+Psychic-type Pokemon) You can tell if it is Mew or not by the name it 
+says on the top of the battle screen. The range of Level will vary, and 
+you only have ONE chance at capturing it. Be prepared for a long battle!
+
+Stat Evolution Tip
+By: lunatikk_1
+
+The earlier that you evolve a Pokemon, the higher the two of their four 
+stats will be when they gain a Level than when you don't evolve them. 
+Here is how that works, I'll use Exeggutor as an example (I'm not sure if 
+what I'm about to say about his 
+stats are completely true, but close enough). Say as an Exeggcute his 
+Attack goes up by 1 point for every Level-Up. Whereas Exeggutor's Attack 
+will go up 3 points per Level-Up. It accumulates more Attack points and 
+will make him stronger. I KNOW Exeggutor's Attack and Special develop 
+faster than Exeggcute's. It's a perfect pay off. If you keep Exeggcute 
+the way he is 
+he'll learn alot of moves, but evolve him early and you'll get really 
+high stats. What 2 areas develop faster differs Pokemon to Pokemon. I've 
+checked this out with others too (Arcanine, Starmie, Raichu), and it 
+stays consistent.
+
+Fight Pokemon At L100+
+
+Probably another glitch, but you can actually catch Pokemon that their 
+Level is higher than 100! Here's how to do it:
+1. Go to the Old Man, who blocked you off earlier in the game, in 
+Viridian City.
+2. Talk to him, and when he asks if you're in a hurry, say no.
+3. Once he's done talking to you, Fly to Cinnabar Island without going to 
+any places where you can fight Pokemon.
+4. Surf up and down the right edge of the island, and when you enter a 
+Pokemon fight, you can find a Pokemon whose Level is 100+! 
+
+But you may not always find Pokemon with 100+ Level because this trick 
+works sort of like the one at Seamfoam Islands. The stats of the Pokemon 
+are like they would be at that level. For Golduck, which was at L152, all 
+of his stats are 260+! 
+
+NOTE: The major downside of this trick is that if the Pokemon gets  any 
+EXP (Even 1 point), its Level will go back down to L100 which can be good 
+anyways. You can also find Missingno here, but he is even more glitched 
+when you try to get him than with other codes. This trick works best if 
+you use the Pokemon in the Cable Club since you can't gain any EXP when 
+you fight a friend. This can also mess up your Pokemon Hall of Fame on 
+the PC.
+
+Infinite Items/Money
+By: haashome
+
+When you go into a battle with a MissingNo., the 6th Item in your "ITEM" 
+menu will become maxed out. So, you can have 1 Master Ball in the 6th 
+Item Slot, go into a battle with a MissingNo., and then you have 100+ 
+Master Balls! You can do this unlimited times and sell the Items for 
+major money!
+NOTE: This code will work regardless if you catch MissingNo. or not.
+
+Raise Pokemons' Level after L100+
+By: haashome
+
+You have to use the "Fight Pokemon Over L100+" code first, then get into 
+a battle with a Pokemon over L100. Then once you have captured a Pokemon 
+thats over L100, use the "Infinite Items" cheat to get 100+ Rare Candies, 
+and then feed it TONS of Rare Candies! You should save the game often, 
+though, because after a certain Level (after L255 for my MissingNo.) It 
+will go all the way back to L0!
+
+=================================
+11) GAMESHARK / GAME GENIE CODES
+=================================
+
+----------------
+Gameshark Codes:
+----------------
+(This codes are from the official Gameshark website, www.gameshark.com)
+
+WARNING:
+DO NOT use theses codes if you have a saved game. These codes will erase 
+an already existing saved game!
+
+Infinite HP (Battle) = 01ff16d0
+No Random Battles = 01033cd1
+Infinite Money = 019947d3 + 019948d3 + 019949d3
+
+(The following codes were submitted by: Lord_Jordus)
+
+01XX1FD3 - Infinite amount of items the first slot. XX is any amount. If 
+you move an item to the first slot, you will have XX of the item you 
+replaced.
+0199A4D5 + 0199A5D5 = Infinite Coins
+01FF15D0 + 01FF16D0 = Highest infinite HP, but the HP bar will extend 
+around the screen.
+010116D0 = Best infinite HP (Even though you have only one HP.)
+016447DA = Infinite Safari Balls
+01F00ED7 = Infinite Safari Zone time
+01011ED3 = First item on your items list becomes the Master Ball! If you 
+switch the first item to something else, however, both items will become 
+Master Balls.
+01701FD0 = In battle, the skill on the bottom is Metronome! It makes your 
+Pokemon do a random move. Even the ones it doesn't know! This doesn't 
+affect your Pokemon in any way.
+
+Item Codes:
+Buy anything you want if you have the money. These codes work in any Poke 
+Mart. See list at end of what you can get.
+
+01XX7CCF = 1st Slot
+01XX7DCF = 2nd Slot
+01XX7ECF = 3rd Slot
+01XX7FCF = 4th Slot
+
+Replace "XX" with one of the following:
+
+01 = Master Ball
+02 = Ultra Ball
+03 = Great Ball
+04 = Poke Ball
+0A = Moon Stone
+0B = Antidote
+0C = Burn Heal
+0D = Ice Heal
+0E = Awakening
+0F = Parlyz Heal
+10 = Full Restore
+11 = Max Potion
+12 = Hyper Potion
+13 = Super Potion
+14 = Potion
+1D = Escape Rope
+1E = Repel
+20 = Fire Stone
+21 = Thunder Stone
+22 = Water Stone
+23 = HP Up
+24 = Protein
+25 = Iron
+26 = Carbos
+27 = Calcium
+28 = Rare Candy
+2E = X Accuracy
+2F = Leaf Stone
+31 = Nugget
+32 = PP Up
+33 = Poke Doll
+34 = Full Heal
+35 = Revive
+36 = Max Revive
+37 = Guard Spec.
+38 = Super Repel
+39 = Max Repel
+3A = Dire Hit
+3B = Coin
+3C = Fresh Water
+3D = Soda Pop
+3E = Lemonade
+41 = X Attack
+42 = X Defend
+43 = X Speed
+44 = X Special
+4B = Exp. All
+4F = PP Up
+50 = Ether
+51 = Max Ether
+52 = Elixier
+53 = Max Elixier
+
+Some numbers above 64 will crash the game if you try to use the items 
+that aren't really there. Missing numbers are items you could get early, 
+but won't always help you if you do. They might cause problems with the 
+game.
+
+Pick Any Pokemon Codes:
+01XX1ED1 - Pick your starting Pokemon with this code change the XX's to a 
+number from the list.
+
+Pick your starting Pokemon from the 3 Balls at the start of the
+game. Pick Pokemon from list. All Balls will have the same one.
+It will ask you if you want the type of Pokemon that is normally
+there but you will get what you picked. After you get the Pokemon make 
+sure you save the game and remove the code.
+Note: Some Pokemon will not be playable!
+
+01XXD8CF - Pick the Pokemon you want to fight and capture anytime. Change 
+the XX's to a number from the list. This code will cause you to always 
+fight the same Pokemon. Thus you will be able to capture it. Sometimes 
+the picture of the Pokemon will be messed up, but you can still get it 
+without problems later on. Use my store codes to get some Master Balls 
+from any Poke Mart. (Master Balls cost 0 and always catch even if you 
+don't weaken the Pokemon.)
+
+Replace "XX" with one of the following:
+
+99 = Bulbasaur
+09 = Ivysaur
+9A = Venusaur
+B0 = Charmander
+B2 = Charmeleon
+B4 = Charizard
+B1 = Squirtle
+B3 = Wartortle
+1C = Blastoise
+7B = Caterpie
+7C = Metapod
+7D = Butterfree
+70 = Weedle
+71 = Kakuna
+72 = Beedrill
+24 = Pidgey
+96 = Pidgeotto
+97 = Pidgeot
+A5 = Rattata
+A6 = Raticate
+05 = Spearow
+23 = Fearow
+6C = Ekans
+2D = Arbok
+54 = Pikachu
+55 = Raichu
+60 = Sandshrew
+61 = Sandslash
+0F = Nidoran (F)
+A8 = Nidorina
+10 = Nidoqueen
+03 = Nidoran (M)
+A7 = Nidorino
+07 = Nidoking
+04 = Clefairy
+8E = Clefable
+52 = Vulpix
+53 = Ninetales
+64 = Jigglypuff
+65 = Wigglytuff
+6B = Zubat
+82 = Golbat
+B9 = Oddish
+BA = Gloom
+BB = Vileplume
+6D = Paras
+2E = Parasect
+41 = Venonat
+77 = Venomoth
+3B = Diglett
+76 = Dugtrio
+4D = Meowth
+90 = Persian
+2F = Psyduck
+80 = Golduck
+34 = Mankey
+75 = Primeape
+21 = Growlithe
+14 = Arcanine
+47 = Poliwag
+6E = Poliwhirl
+6F = Poliwrath
+94 = Abra
+26 = Kadabra
+95 = Alakazam
+6A = Machop
+29 = Machoke
+7E = Machamp
+BC = Bellsprout
+BD = Weepinbell
+BE = Victreebell
+18 = Tentacool
+9B = Tentacruel
+A9 = Geodude
+27 = Graveler
+31 = Golem
+A3 = Ponyta
+A4 = Rapidash
+25 = Slowpoke
+08 = Slowbro
+AD = Magnemite
+36 = Magneton
+40 = Farfetch'd
+46 = Doduo
+74 = Dodrio
+3A = Seel
+78 = Dewgong
+0D = Grimer
+88 = Muk
+17 = Shellder
+8B = Cloyster
+19 = Gastly
+93 = Haunter
+0E = Gengar
+22 = Onix
+30 = Drowzee
+81 = Hypno
+4E = Krabby
+8A = Kingler
+06 = Voltorb
+8D = Electrode
+0C = Exeggcute
+0A = Exeggutor
+11 = Cubone
+91 = Marowak
+2B = Hitmonlee
+2C = Hitmonchan
+0B = Lickitung
+37 = Koffing
+8F = Weezing
+12 = Rhyhorn
+01 = Rhydon
+28 = Chansey
+1E = Tangela
+02 = Kangaskhan
+5C = Horsea
+5D = Seadra
+9D = Goldeen
+9E = Seaking
+1B = Staryu
+98 = Starmie
+2A = Mr. Mime
+1A = Scyther
+48 = Jynx
+35 = Electabuzz
+33 = Magmar
+1D = Pinsir
+3C = Tauros
+85 = Magikarp
+16 = Gyrados
+13 = Lapras
+4C = Ditto
+66 = Eevee
+69 = Vaporeon
+68 = Jolteon
+67 = Flareon
+AA = Porygon
+62 = Omanyte
+63 = Omastar
+5A = Kabuto
+5B = Kabutops
+AB = Aerodactyl
+84 = Snorlax
+4A = Articuno
+4B = Zapdos
+49 = Moltres
+58 = Dratini
+59 = Dragonair
+42 = Dragonite
+83 = Mewtwo
+15 = Mew
+
+(The following codes were submitted by: nwhitaker) 
+
+In Battle Codes:
+Infinite PP (1st Position) = 01282DD0 
+Infinite PP (2nd Position) = 01282ED0 
+Infinite PP (3rd Position) = 01282FD0 
+Infinite PP (4th Position) = 012830D0 
+
+Item Modifier Codes:
+Total Item Number Modifier = 01??1DD3
+Set this code to the number of items that you have
+on you item list in the game or you can't get the game
+to come on.
+
+Item Modifier 1st Position = 01??1ED3 
+Infinite Quantity 1st Position = 01631FD3 
+
+Item Modifier 2nd Position = 01??20D3 
+Infinite Quantity 2nd Position = 016321D3 
+
+Item Modifier 3rd Position = 01??22D3 
+Infinite Quantity 3rd Position = 016323D3 
+
+Item Modifier 4th Position = 01??24D3 
+Infinite Quantity 4th Position = 016325D3 
+
+Item Modifier 5th Position = 01??26D3 
+Infinite Quantity 5th Position = 016327D3 
+
+Item Modifier 6th Position = 01??28D3 
+Infinite Quantity 6th Position = 016329D3 
+
+Item Modifier 7th Position = 01??2AD3 
+Infinite Quantity 7th Position = 01632BD3 
+
+Item Modifier 8th Position = 01??2CD3 
+Infinite Quantity 8th Position = 01632DD3 
+
+Item Modifier 9th Position = 01??2ED3 
+Infinite Quantity 9th Position = 01632FD3 
+
+Item Modifier 10th Position = 01??30D3 
+Infinite Quantity 10th Position = 016331D3 
+  
+Digits for Item Modifier: 
+00 = ?????
+01 = Master Ball
+02 = Ultra Ball
+03 = Great Ball
+04 = Poke Ball
+05 = Town Map
+06 = Bicycle
+07 = Surf Without Pokemon
+08 = Safari Ball
+09 = PokeDex
+0A = Moon Stone
+0B = Antidote
+0C = Burn Heal
+0D = Ice Heal
+0E = Awakening
+0F = Parlyz Heal
+10 = Full Restore
+11 = Max Potion
+12 = Hyper Potion
+13 = Super Potion
+14 = Potion
+15 = Boulder Badge
+16 = Cacade Badge
+17 = Thunder Badge
+18 = Rainbow Badge
+19 = Soul Badge
+1A = Marsh Badge
+1B = Volcano Badge
+1C = Earth Badge
+1D = Escape Rope
+1E = Repel
+1F = Old Amber
+20 = Fire Stone
+21 = Thunder Stone
+22 = Water Stone
+23 = HP Up
+24 = Protein
+25 = Iron
+26 = Carbos
+27 = Calcium
+28 = Rare Candy
+29 = Dome Fossil
+2A = Helix Fossil
+2B = Secret Key
+2C = ?????
+2D = Bike Voucher
+2E = X Accuracy
+2F = Leaf Stone
+30 = Card Key
+31 = Nugget
+32 = PP Up
+33 = Poke Doll
+34 = Full Heal
+35 = Revive
+36 = Max Revive
+37 = Grand Special
+38 = Super Repel
+39 = Max Repel
+3A = Dire Hit
+3B = Coin
+3C = Fresh Water
+3D = Soda Pop
+3E = Lemonade
+3F = S.S. Ticket
+40 = Gold Teeth
+41 = X Attack
+42 = X Defend
+43 = X Speed
+44 = X Special
+45 = Coin Case
+46 = Oak's Parcel
+47 = Item Finder
+48 = Silph Scope
+49 = Poke Flute
+4A = Lift Key
+4B = Exp. All
+4C = Old Rod
+4D = Good Rod
+4E = Super Rod
+4F = PP Up
+50 = Ether
+51 = Max Ether
+52 = Elixer
+53 = Max Elixer 
+
+Always have $999,999:
+019947D3 +
+019948D3 +
+019949D3
+
+Choose Level of Pokemon You Fight:
+01XX27D1
+
+Replace "XX" with one of the following:  
+
+05 = L5 
+0A = L10 
+0F = L15 
+14 = L20
+1E = L30 
+28 = L40 
+32 = L50 
+4B = L75 
+63 = L99
+
+NOTE: Don't adjust the level too high because you won't be able to 
+command the Pokemon unless you have the correct Pokemon League Badge! 
+
+(This following codes were created by: Gameshark Code Creators Club, 
+www.cmgsccc.com)
+
+Skill Modifier (In Battle) Codes:
+
+01XX1CD0 = 1st Position  
+01XX1DD0 = 2nd Position 
+01XX1ED0 = 3rd Position 
+01XX1FD0 = 4th Position
+
+Skill Modifier (Out of Battle) Codes:
+
+01XX73D1 = 1st Position 
+01XX74D1 = 2nd Position
+01XX75D1 = 3rd Position
+01XX76D1 = 4th Position
+
+Replace "XX" with one of the following:
+
+00 = Nothing
+01 = Pound
+02 = Karate Chop
+03 = Double Slap
+04 = Comet Punch
+05 = Mega Punch
+06 = Pay Day
+07 = Fire Punch
+08 = Ice Punch
+09 = Thunder Punch
+0A = Scratch
+0B = Vice Grip
+0C = Guillotine
+0D = Razor Wind
+0E = Swords Dance
+0F = Cut
+10 = Gust
+11 = Wing Attack
+12 = Whirl Wind
+13 = Fly
+14 = Bind
+15 = Slam
+16 = Vine Whip
+17 = Stomp
+18 = Double Kick
+19 = Mega Kick
+1A = Jump Kick
+1B = Rolling Kick
+1C = Sand Attack
+1D = Head Butt
+1E = Horn Attack
+1F = Fury Attack
+20 = Horn Drill
+21 = Tackle
+22 = Body Slam
+23 = Wrap
+24 = Take Down
+25 = Thrash
+26 = Double Edge
+27 = Tail Whip
+28 = Poison Sting
+29 = Twin Needle
+2A = Pin Missile
+2B = Leer
+2C = Bite
+2D = Growl
+2E = Roar
+2F = Sing
+30 = Supersonic
+31 = Sonicboom
+32 = Disable
+33 = Acid
+34 = Ember
+35 = Flamethrower
+36 = Mist
+37 = Water Gun
+38 = Hydro Pump
+39 = Surf
+3A = Ice Beam
+3B = Blizzard
+3C = Psybeam
+3D = Bubblebeam
+3E = Aurora Beam
+3F = Hyper Beam
+40 = Peck
+41 = Drill Peck
+42 = Submission
+43 = Low Kick
+44 = Counter
+45 = Seismic Toss
+46 = Strength
+47 = Absorb
+48 = Mega Drain
+49 = Leech Seed
+4A = Growth
+4B = Razor Leaf
+4C = Solar Beam
+4D = Poisonpowder
+4E = Stun Spore
+4F = Sleep Powder
+50 = Petal Dance
+51 = String Shot
+52 = Dragon Rage
+53 = Fire Spin
+54 = Thundershock
+55 = Thunderbolt
+56 = Thunder Wave
+57 = Thunder
+58 = Rock Throw
+59 = Earthquake
+5A = Fissure
+5B = Dig
+5C = Toxic
+5D = Confusion
+5E = Psychic
+5F = Hypnosis
+60 = Meditate
+61 = Agility
+62 = Quick Attack
+63 = Rage
+64 = Teleport
+65 = Night Shade
+66 = Mimic
+67 = Screech
+68 = Double Team
+69 = Recover
+6A = Harden
+6B = Minimize
+6C = Smoke Screen
+6D = Confuse Ray
+6E = Withdraw
+6F = Defense Curl
+70 = Barrier
+71 = Light Screen
+72 = Haze
+73 = Reflect
+74 = Focus Energy
+75 = Hide
+76 = Metronome
+77 = Mirror Move
+78 = Selfdestruct
+79 = Egg Bomb
+7A = Lick
+7B = Smog
+7C = Sludge
+7D = Bone Club
+7E = Fire Blast
+7F = Waterfall
+80 = Clamp
+81 = Swift
+82 = Skull Bash
+83 = Spike Cannon
+84 = Constrict
+85 = Amnesia
+86 = Kinesis
+87 = Softboiled
+88 = Hi Jump Kick
+89 = Glare
+8A = Dream Eater
+8B = Poison Gas
+8C = Barrage
+8D = Leech Life
+8E = Lovely Kiss
+8F = Sky Attack
+90 = Transform
+91 = Bubble
+92 = Dizzy Punch
+93 = Spore
+94 = Flash
+95 = Psywave
+96 = Splash
+97 = Acid Armor
+98 = Crabhammer
+99 = Exposion
+9A = Fury Swipes
+9B = Bonemerang
+9C = Rest
+9D = Rock Slide
+9E = Hyper Fang
+9F = Sharpen
+A0 = Conversion
+A1 = Tri Attack
+A2 = Super Fang
+A3 = Slash
+A4 = Substitute
+A5 = Struggle
+
+HP Modifier Codes:
+
+HP (1st Position) = 01??6CD1 + 01??6DD1 
+HP (2nd Position) = 01??98D1 + 01??99D1 
+HP (3rd Position) = 01??C4D1 + 01??C5D1 
+HP (4th Position) = 01??F0D1 + 01??F1D1 
+HP (5th Position) = 01??1CD2 + 01??1DD2 
+HP (6th Position) = 01??48D2 + 01??49D2 
+
+Ability Modifier Codes:
+
+1st Ability (1st Position) = 01XX73D1 
+1st Ability (2nd Position) = 01XX9FD1 
+1st Ability (3rd Position) = 01XXCBD1 
+1st Ability (4th Position) = 01XXF7D1 
+1st Ability (5th Position) = 01XX23D2 
+1st Ability (6th Position) = 01XX4FD2 
+
+2nd Ability (1st Position) = 01XX74D1 
+2nd Ability (2nd Position) = 01XXA0D1 
+2nd Ability (3rd Position) = 01XXCCD1 
+2nd Ability (4th Position) = 01XXF8D1 
+2nd Ability (5th Position) = 01XX24D2 
+2nd Ability (6th Position) = 01XX50D2 
+
+3rd Ability (1st Position) = 01XX75D1 
+3rd Ability (2nd Position) = 01XXA1D1 
+3rd Ability (3rd Position) = 01XXCDD1 
+3rd Ability (4th Position) = 01XXF9D1 
+3rd Ability (5th Position) = 01XX25D2 
+3rd Ability (6th Position) = 01XX51D2 
+
+4th Ability (1st Position) = 01XX76D1 
+4th Ability (2nd Position) = 01XXA2D1 
+4th Ability (3rd Position) = 01XXCED1 
+4th Ability (4th Position) = 01XXFAD1 
+4th Ability (5th Position) = 01XX26D2 
+4th Ability (6th Position) = 01XX52D2 
+
+Replace "XX" with one of the following:
+
+01 = Pound
+02 = Karate Chop
+03 = Double Slap
+04 = Comet Punch
+05 = Mega Punch
+06 = Payday
+07 = Fire Punch
+08 = Ice Punch
+09 = Thunder Punch
+0A = Scratch
+0B = Vice Grip
+0C = Guillotine
+0D = Razor Wind
+0E = Swords Dance
+0F = Cut
+10 = Gust
+11 = Wing Attack
+12 = Whirlwind
+13 = Fly
+14 = Bind
+15 = Slam
+16 = Vine Whip
+17 = Stomp
+18 = Double Kick
+19 = Mega Kick
+1A = Jump Kick
+1B = Rolling Kick
+1C = Sand Attack
+1D = Headbutt
+1E = Horn Attack
+1F = Fury Attack
+20 = Horn Drill
+21 = Tackle
+22 = Body Slam
+23 = Wrap
+24 = Take Down
+25 = Thrash
+26 = Double Edge
+27 = Tail Whip
+28 = Poison Sting
+29 = Twin Needle
+2A = Pin Missile
+2B = Leer
+2C = Bite
+2D = Growl
+2E = Roar
+2F = Sing
+30 = Supersonic
+31 = Sonicboom
+32 = Disable
+33 = Acid
+34 = Ember
+35 = Flamethrower
+36 = Mist
+37 = Water Gun
+38 = Hydro Pump
+39 = Surf
+3A = Ice Beam
+3B = Blizzard
+3C = Psybeam
+3D = Bubblebeam
+3E = Aurora Beam
+3F = Hyper Beam
+40 = Peck
+41 = Drill Peck
+42 = Submission
+43 = Low Kick
+44 = Counter
+45 = Seismic Toss
+46 = Strength
+47 = Absorb
+48 = Mega Drain
+49 = Leech Seed
+4A = Growth
+4B = Razor Leaf
+4C = Solar Beam
+4D = Poisonpowder
+4E = Stun Spore
+4F = Sleep Powder
+50 = Petal Dance
+51 = String Shot
+52 = Dragon Rage
+53 = Fire Spin
+54 = Thundershock
+55 = Thunderbolt
+56 = Thunder Wave
+57 = Thunder
+58 = Rock Throw
+59 = Earthquake
+5A = Fissure
+5B = Dig
+5C = Toxic
+5D = Confusion
+5E = Psychic
+5F = Hypnosis
+60 = Meditate
+61 = Agility
+62 = Quick Attack
+63 = Rage
+64 = Teleport
+65 = Night Shade
+66 = Mimic
+67 = Screech
+68 = Double Team
+69 = Recover
+6A = Harden
+6B = Minimize
+6C = Smoke Screen
+6D = Confuse Ray
+6E = Withdraw
+6F = Defense Curl
+70 = Barrier
+71 = Light Screen
+72 = Haze
+73 = Reflect
+74 = Focus Energy
+75 = Bide
+76 = Metronome
+77 = Mirror Move
+78 = Selfdestruct
+79 = Egg Bomb
+7A = Lick
+7B = Smog
+7C = Sludge
+7D = Bone Club
+7E = Fire Blast
+7F = Waterfall
+80 = Clamp
+81 = Swift
+82 = Skull Bash
+83 = Spike Cannon
+84 = Constrict
+85 = Amnesia
+86 = Kinesis
+87 = Softboiled
+88 = Hi Jump Kick
+89 = Glare
+8A = Dream Eater
+8B = Poison Gas
+8C = Barrage
+8D = Leech Life
+8E = Lovely Kiss
+8F = Sky Attack
+90 = Transform
+91 = Bubble
+92 = Dizzy Punch
+93 = Spore
+94 = Flash
+95 = Psywave
+96 = Splash
+97 = Acid Armor
+98 = Crabhammer
+99 = Explosion
+9A = Fury Swipes
+9B = Bonemerang
+9C = Rest
+9D = Rock Slide
+9E = Hyper Fang
+9F = Sharpen
+A0 = Conversion
+A1 = Tri Attack
+A2 = Super Fang
+A3 = Slash
+A4 = Substitute
+A5 = Struggle
+
+Trainer ID# Modifier Codes:
+
+Trainer ID# (1st Position) = 01??77D1 + 01??78D1 
+Trainer ID# (2nd Position) = 01??A3D1 + 01??A4D1 
+Trainer ID# (3rd Position) = 01??CFD1 + 01??D0D1 
+Trainer ID# (4th Position) = 01??FBD1 + 01??FCD1 
+Trainer ID# (5th Position) = 01??27D2 + 01??28D2 
+Trainer ID# (6th Position) = 01??53D2 + 01??54D2 
+
+EXP Modifier Codes:
+
+EXP (1st Position) = 01??79D1 + 01??7AD1 + 01??7BD1 
+EXP (2nd Position) = 01??A5D1 + 01??A6D1 + 01??A7D1 
+EXP (3rd Position) = 01??D1D1 + 01??D2D1 + 01??D3D1 
+EXP (4th Position) = 01??FDD1 + 01??FED1 + 01??FFD1 
+EXP (5th Position) = 01??29D2 + 01??2AD2 + 01??2BD2 
+EXP (6th Position) = 01??55D2 + 01??56D2 + 01??57D2 
+
+PP Modifier Codes:
+
+1st Ability PP (1st Position) = 01??88D1 
+1st Ability PP (2nd Position) = 01??B4D1 
+1st Ability PP (3rd Position) = 01??E0D1 
+1st Ability PP (4th Position) = 01??0CD2 
+1st Ability PP (5th Position) = 01??38D2 
+1st Ability PP (6th Position) = 01??64D2 
+
+2nd Ability PP (1st Position) = 01??89D1 
+2nd Ability PP (2nd Position) = 01??B5D1 
+2nd Ability PP (3rd Position) = 01??E1D1 
+2nd Ability PP (4th Position) = 01??0DD2 
+2nd Ability PP (5th Position) = 01??39D2 
+2nd Ability PP (6th Position) = 01??65D2 
+
+3rd Ability PP (1st Position) = 01??8AD1 
+3rd Ability PP (2nd Position) = 01??B6D1 
+3rd Ability PP (3rd Position) = 01??E2D1 
+3rd Ability PP (4th Position) = 01??0ED2 
+3rd Ability PP (5th Position) = 01??3AD2 
+3rd Ability PP (6th Position) = 01??66D2 
+
+4th Ability PP (1st Position) = 01??8BD1 
+4th Ability PP (2nd Position) = 01??B7D1 
+4th Ability PP (3rd Position) = 01??E3D1 
+4th Ability PP (4th Position) = 01??0FD2 
+4th Ability PP (5th Position) = 01??3BD2 
+4th Ability PP (6th Position) = 01??67D2 
+
+Level Modifier Codes:
+
+Level (1st Position) = 01??8CD1 
+Level (2nd Position) = 01??B8D1 
+Level (3rd Position) = 01??E4D1 
+Level (4th Position) = 01??10D2 
+Level (5th Position) = 01??3CD2 
+Level (6th Position) = 01??68D2 
+
+Max HP Modifier Codes:
+
+Max HP (1st Position) = 01??8DD1 + 01??8ED1 
+Max HP (2nd Position) = 01??B9D1 + 01??BAD1 
+Max HP (3rd Position) = 01??E5D1 + 01??E6D1 
+Max HP (4th Position) = 01??11D2 + 01??12D2 
+Max HP (5th Position) = 01??3DD2 + 01??3ED2 
+Max HP (6th Position) = 01??69D2 + 01??6AD2 
+
+Attack Modifier Codes:
+
+Attack (1st Position) = 01??8FD1 + 01??90D1 
+Attack (2nd Position) = 01??BBD1 + 01??BCD1 
+Attack (3rd Position) = 01??E7D1 + 01??E8D1 
+Attack (4th Position) = 01??13D2 + 01??14D2 
+Attack (5th Position) = 01??3FD2 + 01??40D2 
+Attack (6th Position) = 01??6BD2 + 01??6CD2 
+
+Defense Modifier Codes:
+
+Defense (1st Position) = 01??91D1 + 01??92D1 
+Defense (2nd Position) = 01??BDD1 + 01??BED1 
+Defense (3rd Position) = 01??E8D1 + 01??EAD1 
+Defense (4th Position) = 01??15D2 + 01??16D2 
+Defense (5th Position) = 01??41D2 + 01??42D2 
+Defense (6th Position) = 01??6DD2 + 01??6ED2 
+
+Speed Modifier Codes:
+
+Speed (1st Position) = 01??93D1 + 01??94D1 
+Speed (2nd Position) = 01??BFD1 + 01??C0D1 
+Speed (3rd Position) = 01??EBD1 + 01??ECD1 
+Speed (4th Position) = 01??17D2 + 01??18D2 
+Speed (5th Position) = 01??43D2 + 01??44D2 
+Speed (6th Position) = 01??6FD2 + 01??70D2 
+
+Special Modifier Codes:
+
+Special (1st Position) = 01??95D1 + 01??96D1 
+Special (2nd Position) = 01??C1D1 + 01??C2D1 
+Special (3rd Position) = 01??EDD1 + 01??EED1 
+Special (4th Position) = 01??19D2 + 01??1AD2 
+Special (5th Position) = 01??45D2 + 01??46D2 
+Special (6th Position) = 01??71D2 + 01??72D2
+
+(The following codes were created by: mikerue)
+
+Saved Game Fixer Code:
+01B182CF - If you put in a code that erases your memory, don't save the 
+game! Instead, turn on the game with the Gameshark and put in the the 
+code. It will automatically bring the game back the way it was right 
+before the memory got erased or messed up!  
+
+Version Changer Code:
+B123D7CF - Here's a code that turns your Version into the other Version! 
+So if have the Blue Version, it will change all of the Pokemon that you 
+could only get in the Red Version into the Blue.
+
+-----------------
+Game Genie Codes:
+-----------------
+
+Get #151 Mew:
+151-91A-7FC +
+151-93A-F7E +
+B91-9BA-6EB
+
+Go west of Cerulean City and fight him in the patch of grass.
+
+(The following codes were created by: Antboba)
+*NOTE* HM's are free, TM's cost money! 
+
+The items appear in the 3rd slot in that store. 
+
+Viridian City = XX4-46D-D56
+Pewter City = XX4-4DD-91E
+Vermilion City = XX4-65D-D5E
+Cerulean City = XX4-57D-912
+Cinnibar Island = XX4-BDD-A22
+
+Replace "XX" with one of the following:
+
+FA = TM 50
+F9 = TM 49 
+F8 = TM 48
+F7 = TM 47
+F6 = TM 46
+F5 = TM 45
+F4 = TM 44
+F3 = TM 43
+F2 = TM 42 
+F1 = TM 41
+F0 = TM 40
+EF = TM 39
+EE = TM 38 
+ED = TM 37
+EC = TM 36
+EB = TM 35
+EA = TM 34
+E9 = TM 33
+E8 = TM 32
+E7 = TM 31
+E6 = TM 30
+E5 = TM 29
+E4 = TM 28
+E3 = TM 27 
+E2 = TM 26
+E1 = TM 25
+E0 = TM 24
+DF = TM 23
+DE = TM 22
+DD = TM 21
+DC = TM 20
+DB = TM 19
+DA = TM 18
+D9 = TM 17
+D8 = TM 16 
+D7 = TM 15
+D6 = TM 14
+D5 = TM 13
+D4 = TM 12
+D3 = TM 11
+D2 = TM 10
+D1 = TM 09
+D0 = TM 08
+CF = TM 07
+CE = TM 06
+CD = TM 05 
+CC = TM 04
+CB = TM 03
+CA = TM 02
+C9 = TM 01
+C8 = HM 05
+C7 = HM 04
+C6 = HM 03
+C5 = HM 02
+C4 = HM 01
+
+(The following codes, except the 1st and 2nd Slot codes, were created by: 
+KILLER3)
+These codes are similar to the codes above. Put in a Store Code and an 
+Item Code and you can buy that item in the 1st, 2nd, and/or 3rd Slot of 
+that Poke Mart.
+
+Store Codes:
+
+Viridian City 
+XX4-44D-F7A = 1st Slot 
+XX4-45D-C46 = 2nd Slot
+XX4-46D-D56 = 3rd Slot
+
+Pewter City
+XX4-4BD-F7A = 1st Slot
+XX4-4CD-B3A = 2nd Slot 
+XX4-4DD-91E = 3rd Slot
+
+Cerulean City
+XX4-55D-F7A = 1st Slot
+XX4-56D-B3A = 2nd Slot
+XX4-57D-912 = 3rd Slot
+
+Vermilion City
+XX4-63D-F7A = 1st Slot
+XX4-64D-A26 = 2nd Slot
+XX4-65D-D5E = 3rd Slot
+
+Cinnabar Island  
+XX4-BDD-A22 = 3rd Slot
+
+Item Codes:
+Replace "XX" with one of the following:
+
+01 = Master Ball - $0 
+02 = Ultra Ball - $1200
+03 = Great Ball - $600
+04 = Poke Ball - $200
+05 = Town Map - $0
+06 = Bicycle - $0
+07 = ????? - $0
+08 = Safari Ball - $1000
+09 = Pokedex - $0 
+0A = Moon Stone - $0
+0B = Antidote - $100
+0C = Burn Heal - $250
+0D = Ice Heal - $250
+0E = Awakening - $200
+0F = Paralyz Heal - $200
+10 = Full Restore - $3000
+11 = Max Potion - $2500
+12 = Hyper Potion - $1500 
+13 = Super Potion - $700
+14 = Potion - $300
+15 = Boulder Badge - $0 
+16 = Cascade Badge - $0
+17 = Thunder Badge - $0
+18 = Rainbow Badge - $0
+19 = Soul Badge - $0
+1A = Marsh Badge - $0
+1B = Volcano Badge - $0
+1C = Earth Badge - $0 
+1D = Escape Rope - $550
+1E = Repel - $350
+1F = Old Amber - $0 
+20 = Fire Stone - $2100
+21 = Thunder Stone - $2100
+22 = Water Stone - $2100
+23 = HP Up - $9800
+24 = Protein - $9800
+25 = Iron - $9800
+26 = Carbos - $9800
+27 = Calcuim - $9800
+28 = Rare Candy - $4800
+29 = Dome Fossil - $0
+2A = Helix Fossil - $0
+2B = Secret Key - $0
+2C = ????? - $0 
+2D = Bike Voucher - $0
+2E = X Accuracy - $950
+2F = Leaf Stone - $2100
+30 = Card Key - $0
+31 = Nugget - $10000
+32 = PP Up - $9800
+33 = Poke Doll - $1000
+34 = Full Heal - $600 
+35 = Revive - $1500
+36 = Max Revive - $4000
+37 = Guard Spec. - $700
+38 = Super Repel - $500
+39 = Max Repel - $700
+3A = Dire Hit - $650
+3B = Coin - $10
+3C = Fresh Water - $200 
+3D = Soda Pop - $300
+3E = Lemonade - $350
+3F = S.S Ticket - $0
+40 = Gold Teeth - $0
+41 = X Attack - $500
+42 = X Defend - $550
+43 = X Speed - $350
+44 = X Special - $350 
+45 = Coin Case - $0
+46 = Oak's Parcel - $0
+47 = Itemfinder - $0 
+48 = Silph Scope - $0
+49 = Poke Flute - $0
+4A = Lift Key - $0
+4B = EXP. All - $0
+4C = Old Rod - $0
+4D = Good Rod - $0
+4E = Super Rod - $0
+4F = PP Up - $0
+50 = Ether - $0
+51 = Max Ether - $0
+52 = Elixier - $0
+53 = Max Elixier - $0 
+54 - C3 = Nothing
+
+For example, you can buy unlimited Master Balls for free at Viridian City 
+with: 014-46D-D56.
+
+Easy Money:
+996-11B-E6A
+
+This code changes the value of Poke Balls to $990200. When you enter the 
+store, turn the code off and buy some Poke Balls. Then exit, enter and 
+turn the code on. Now you sell one for $495100! This makes it easy to buy 
+expensive items such as HP Up, Protein, Iron, etc.
+
+Fight Any Pokemon:
+Enter the code, and you will fight the Pokemon in the grass west of 
+Cerulean City. This is the only area the code works! 
+
+NOTE: You have to fight a little while before you fight the Pokemon you 
+want to!
+
+Red Version 
+XX1-91A-7FC +
+XX1-93A-F7E +
+XX1-9BA-5DB
+
+Blue Version
+XX1-91A-7FC +
+XX1-93A-F7E +
+XX1-9BA-6EB
+
+Pokemon Codes:
+Replace "XX" with one of the below:
+
+99 = Bulbasaur      
+09 = Ivysaur         
+9A = Venusaur 
+B0 = Charmander     
+B2 = Charmeleon      
+B4 = Charizard 
+B1 = Squirtle       
+B3 = Wartortle       
+1C = Blastoise  
+7B = Caterpie       
+7C = Metapod         
+7D = Butterfree 
+70 = Weedle         
+71 = Kakuna          
+72 = Beedrill 
+24 = Pidgey         
+96 = Pidgeotto       
+97 = Pidgeot  
+A5 = Rattata        
+A6 = Raticate        
+05 = Spearow  
+23 = Fearow         
+6C = Ekans           
+2D = Arbok 
+54 = Pikachu        
+55 = Raichu          
+60 = Sandshrew  
+61 = Sandslash      
+0F = Nidoran (F)     
+A8 = Nidorina  
+10 = Nidoqueen      
+03 = Nidoran (M)     
+A7 = Nidorino  
+07 = Nidoking       
+04 = Clefairy        
+8E = Clefable  
+52 = Vulpix         
+53 = Ninetales       
+64 = Jigglypuff  
+65 = Wigglytuff     
+6B = Zubat           
+82 = Golbat 
+B9 = Oddish         
+BA = Gloom           
+BB = Vileplume  
+6D = Paras          
+2E = Parasect        
+41 = Venonat  
+77 = Venomoth       
+3B = Diglett         
+76 = Dugtrio 
+4D = Meowth         
+90 = Persian         
+2F = Psyduck  
+80 = Golduck        
+39 = Mankey          
+75 = Primeape  
+21 = Growlithe      
+14 = Arcanine        
+47 = Poliwag  
+6E = Poliwhirl      
+6F = Poliwrath       
+94 = Abra 
+26 = Kadabra        
+95 = Alakazam        
+6A = Machop  
+29 = Machoke        
+7E = Machamp         
+BC = Bellsprout  
+BD = Weepinbell     
+BE = Victreebell     
+18 = Tentacool  
+9B = Tentacruel     
+A9 = Geodude         
+27 = Graveler  
+31 = Golem          
+A3 = Ponyta          
+A4 = Rapidash  
+25 = Slowpoke       
+08 = Slowbro         
+AD = Magnemite  
+36 = Magneton       
+40 = Farfetch'd      
+46 = Doduo  
+74 = Dodrio         
+3A = Seel            
+78 = Dewgong  
+0D = Grimer         
+88 = Muk             
+17 = Shellder  
+8B = Cloyster       
+19 = Gastly          
+93 = Haunter 
+0E = Gengar         
+22 = Onix            
+30 = Drowzee  
+81 = Hypno          
+4E = Krabby          
+8A = Kingler  
+06 = Voltorb        
+8D = Electrode       
+0C = Exeggcute 
+0A = Exeggutor      
+11 = Cubone          
+91 = Marowak 
+2B = Hitmonlee      
+2C = Hitmonchan      
+0B = Lickitung 
+37 = Koffing        
+8F = Weezing         
+12 = Rhyhorn 
+01 = Rhydon         
+28 = Chansey         
+1E = Tangela 
+02 = Kangaskhan     
+5C = Horsea          
+5D = Seadra 
+9D = Goldeen        
+9E = Seaking         
+1B = Staryu 
+98 = Starmie        
+2A = Mr. Mime        
+1A = Scyther 
+48 = Jynx           
+35 = Electabuzz      
+33 = Magmar 
+1D = Pinsir         
+3C = Tauros          
+85 = Magikarp 
+16 = Gyrados        
+13 = Lapras          
+4C = Ditto 
+66 = Eevee          
+69 = Vaporeon        
+68 = Jolteon 
+67 = Flareon        
+AA = Porygon         
+62 = Omanyte 
+63 = Omastar        
+5A = Kabuto          
+5B = Kabutops 
+AB = Aerodactyl     
+84 = Snorlax         
+4A = Articuno 
+4B = Zapdos         
+49 = Moltres         
+58 = Dratini  
+59 = Dragonair      
+42 = Dragonite       
+83 = Mewtwo  
+15 = Mew 
+
+===================
+12) POKEMON RUMORS
+===================
+Remember that these rumors are FALSE, so don't e-mail me saying they're 
+true! If you have any other Pokemon rumors, e-mail me!
+
+Hidden Pokemon - Mew #1:
+Probably the most well-known rumor in Pokemon! Before you get the HM 01, 
+you must trade with a friend for Pokemon with the Surf, Cut, and Strength 
+ability. Then use the Cut ability to go further into the game to get the 
+Badges so you can use the moves. Now go to the S.S. Anne and Surf to the 
+right to find a truck. Move the truck with Strength to find Mew in a Poke 
+Ball under it. 
+My Note: There is a truck by the S.S. Anne, but Strength does not move it 
+even if you have 150 Pokemon!
+
+Hidden Pokemon - Flareth:
+By: SMDR35
+First get all 150 pokemon, and then swim around the Unknown Dungeon. Keep 
+pressing A until you find a note and go to the girl who says I want a 
+drink, and talk to her 100 times.  She will then say leave me alone and 
+give you Flareth.
+
+Hidden Pokemon - Pikablu:
+By: ArchonWarp
+Here is how to get the Pokegod Pikablu that is going to be in the Gold 
+and Silver Versions in the Red and Blue Versions. Here goes: first you 
+have to get Eevee, Jolteon, Flareon, and Vaporeon and take them and only 
+them with you. Then you go to Bill's house (A.K.A Sea Cottage) and look 
+at his Pokemon on his PC at least 50 times each. When you next talk to 
+him he'll say,"Wow!" or something like that and give you the Pikablu.
+
+Hidden Pokemon - Mew #2:
+By: Spun101
+First, you need to get a Nidoking to L100. Then go to Celadon City and 
+find a Team Rocket member and talk to him. He will ask you if he could 
+have the Nidoking. If you give it to him he will give you a set of Keys. 
+You use the Keys to turn the truck by the S.S. Anne on and move it. A 
+Poke Ball should be there and that's where you get Mew. 
+
+=========================
+13) FUTURE POKEMON GAMES
+=========================
+This section will have more info as soon as I gather some info on the new 
+Pokemon games!
+
+NOTE: This info may change depending on how the development for the game 
+is going. Info with a "?" by it means that I'm not sure about it.
+
+----------------------
+Gold & Silver Versions
+----------------------
+Release Date: Later this year or next (?)
+System: Gameboy
+
+Description:
+
+--------------
+Pokemon Yellow
+--------------
+Release Date: Later this year or next (?)
+System: Gameboy
+
+Description:
+
+---------------
+Pokemon Pinball
+---------------
+Release Date: May 10, 1999
+System: Gameboy
+
+Description:
+
+---------------
+Pokemon Stadium
+---------------
+Release Date: Later this year (After Pokemon Snap)
+System: Nintendo 64
+
+Description:
+
+------------
+Pokemon Snap
+------------
+Release Date: June 28, 1999
+System: Nintendo 64
+
+Description:
+
+============
+14) CREDITS
+============
+
+JulieP38 - For Charizard's and Sandshrew's info and Raichu's Location.
+
+ZiPPo4554 - For Staryu's type.
+
+G10NOT - For info on several Pokemon.
+
+MLW65128TX - For info on the Elite Four and Fishing.
+
+monkey_flip (Phil winkel) - For Dragonite's info.
+
+cfetters (Lance the Dragon Trainer) - For info on Gary after the Elite 
+Four.
+
+bjr13 (Ben .) - For Types on several Pokemon and for finding out that the 
+"Get Any Pokemon" code didn't work.
+
+Pikachu RB - For info on several Pokemon, and the TM List.
+
+ALANBERCK (ALAN BERCK) - For pointing out that you can also catch a 
+Poliwag with the Good Rod.
+
+Antboba - For letting me put his Game Genie codes on my FAQ.
+
+RobertR (Robert Ruedisueli) - For corrections on beating the Elite Four.
+
+Lord_Jordus - For Pokemon Info and Gameshark codes.
+
+bvpage (RHS Linux User) - For the "Clone Pokemon" code.
+
+BfloPat - For Pidgeot's and Machoke's height and weight and "Catch 
+Pokemon Better" tip.
+
+RazzDude - For the "Pokemon Daycare Experience" tip.
+
+KILLER3 - For letting me use his Game Genie codes.
+
+SSJxVejito - For the "Get Mew #2" code.
+
+nwhitaker (Steven Whitaker) - For Gameshark codes.
+
+msms (Msansoni) - For a Moon Stone location.
+
+smay@mcn.net (Sharon May) - For pointing out something on the "Get Mew 
+#1" code.
+
+ZERO1220 - For the solution to get Mew.
+
+Nintendo's Official Pokemon Player's Guide - For the "Ability List" and 
+the Abilities for all Pokemon.
+
+deathmeister (Lee Funk) - For telling me that on the "Get Mew #1" code 
+that the truck doesn't move with Strength.
+
+dbayles (Daniel Bayles) - For the "Pokemon #000" code.
+
+DAW1230 - For the "Catch Pokemon Better #2" code.
+
+Cam Eigner - For the suggestion on the Pokedex info.
+
+DZY351378 - For telling me about the new GS codes at the Gameshark Code 
+Creators Club for Pokemon and for telling me more Pokemon locations in 
+the "Fishing" section.
+
+Gameshark Code Creators Club - For the Gameshark codes.
+
+Specter13 (James Dixon) - For the "Get Mew - #2" code.
+
+lunatikk_1 - For the "Stat Evolution Tip" code.
+
+SMDR35 - For the "Hidden Pokemon - Flareth" rumor.
+
+ArchonWarp - For the "Hidden Pokemon - Pikablu" rumor.
+
+Spun101 - For the "Hidden Pokemon - Mew #2" rumor.
+
+haashome - For the "Infinite Items/Money" & "Raise Pokemons' Level after 
+L100+" codes.
+
+ADDPS4CAT - For some of Pokemon Pikachu's actions and some corrections.
+
+mikerue - For the two useful Gameshark codes.
+
+FiveOne4Up (Michael Lucas) - For more Pokemon Pikachu's actions and a 
+tip. 
+
+Rbjones12 - For some of Pikachu's actions and the suggestions for the 
+section on the upcoming Pokemon games.
+
+============
+15) CONTACT
+============
+If you want to contribute, read the following list!
+
+Request List:
+More F.A.Q. Questions
+Any kind of Pokemon Rumors
+Any more suggestions on new sections
+
+E-mail Address: MetroidMoo@aol.com
+
+Copyright:   
+(c) Copyright 1999 MetroidMoo. If you want to use this FAQ on your site, 
+please contact me via e-mail or ICQ. Please do not change, steal, or sell 
+my FAQ for profit. And remember to add updates when they are made if you 
+use it on a site! Also, if you would like to contribute (You will get 
+credit), or if you have any questions, corrections, or comments please e-
+mail me. 

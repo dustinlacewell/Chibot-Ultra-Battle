@@ -1,0 +1,226 @@
+"Bulbasaur Pokéball"
+"bulba-ball"
+"%SN grabs a Pokéball containing Bulbasaur!"
+"A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon."
+""
+5
+"Vine Whip"
+"vine whip"
+0
+"%SN throws the Pokéball, ''Vine whip on %T, now!''"
+""
+""
+"Bulbasaur shoots vines at %T, trapping them!"
+""
+1
+""
+""
+""
+"Bulbasaur shoots vines but %T dodges them."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Leech Seed"
+"leech seed"
+0
+"%SN throws the Pokéball, ''Bulbasaur, leech seed on %T, now!''"
+""
+""
+"Bulbasaur shoots a leech seed at %T and drains their energy."
+""
+1
+""
+""
+""
+"Bulbasaur shoots a leech seed, but %T dodges the seed."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+150
+2
+"Razor Leaf"
+"Razor Leaf"
+0
+"%SN shouts, ''Bulbasaur, razor leaf! Cover the entire area!''"
+""
+"Bulbasaur comes out of the Pokéball and shoots razor leaves everywhere."
+""
+""
+1
+"The razor leaf rain stops and Bulbasaur returns to %SN's Pokéball."
+""
+""
+"%T dodges the razor leaf rain."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+27
+80
+5
+"Tackle"
+"tackle"
+0
+"%SN shouts, ''Bulbasaur, go! Tackle attack on %T!''"
+""
+""
+"Bulbasaur tackles %T, knocking them to the ground!"
+""
+1
+""
+""
+""
+"%T hides behind a tree and Bulbasaur rams into the tree!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Growl"
+"Growl"
+0
+"%SN calls out Bulbasaur to Growl at %T!"
+""
+""
+"Bulbasaur growls, scaring all the attack power out of %T."
+""
+1
+""
+""
+""
+"%T is unfazed by Bulbasaur's growl."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+2

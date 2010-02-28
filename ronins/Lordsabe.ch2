@@ -1,0 +1,564 @@
+"Saber Strike"
+"Lord Saber Strike"
+2420
+"sstrike"
+"%SN grabs the Fervor Swords and rides in on Black Blaze as Saber Strike!"
+"%SN leaps in with the Fervor Swords as Saber Strike."
+80
+28
+62
+50
+"%SN wards of %T's attack with his mighty blades."
+"%SN sits with Black Blaze in a forest and relaxes."
+"%SN throws up the Fervor Swords in a crossed position to block."
+"%T blasts through the blades and smacks %SN!"
+"%SN says, ''I am the only one who can use my mighty swords!''"
+"%SN says to %T, ''You weakling, you cannot defeat me alone.''"
+""
+""
+""
+"XStrike"
+"%SN raises the Fervor Swords..."
+"%SN jumps at %T and slashes in an X pattern with his swords. %T falls to the ground, in 4 pieces!"
+"Slash with Sword"
+"slash"
+0
+"%SN jumps at %T... "
+""
+""
+"%SN cuts %T across the chest!"
+""
+0
+""
+"%SN cuts %T across the face!"
+""
+"%SN misses."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+50
+2
+"Stab"
+"stab"
+1
+"%SN hops at %T with his sword out..."
+"%SN runs at %T with swords drawn..."
+""
+"%SN stabs %T in the leg!"
+"%SN stabs into %T's leg, then makes a backhand stab into %T's shoulder!"
+0
+""
+"%SN stabs %T in the chest!"
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+2
+"Winged Angel of Death"
+"WAoD"
+1
+"%SN leaps into the air appearing as a angel..."
+"%SN leaps high into the air and appears as a angel"
+""
+"%SN yells, ''WINGED ANGEL OF DEATH!!!'' and a tornado of ki descends on %T!"
+"%SN shouts, ''WINGED ANGEL OF DEATH!!!'' and %T is bombarded by wave after wave of giant ki storms!"
+0
+""
+"%SN yells, ''WINGED ANGEL OF DEATH!!!'' and a storm of ki bashes %T into the ground!"
+""
+"%SN misses by some stretch of the imagination!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%SN somehow manages to miss!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+29
+150
+2
+"Combination Attack"
+"combo"
+0
+"%SN rushes at %T."
+""
+""
+"%SN hacks and slashes into %T, hammers him down with the handle of the sword, and kicks him away!"
+""
+0
+""
+""
+""
+"%T steps away letting %T trip"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+90
+2
+"Assistance from Black Blaze"
+"bblaze"
+0
+"%SN calls on Black Blaze's assistance..."
+""
+""
+"Black Blaze jumps at %T, mauling him and scaring the crap out of him!"
+""
+0
+""
+""
+""
+"%T backhands the tiger away"
+0
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+""
+0
+0
+-1
+-1
+0
+0
+0
+-1
+0
+-1
+-1
+0
+-1
+0
+0
+0
+0
+1
+20
+2
+"Jet Slash"
+"jet"
+1
+"%SN forward flips at %T..."
+"%SN flips towards %T somersaulting twice..."
+""
+"%SN slashes %T in the air, then jets past him and slashes him again!"
+"%SN lands while slashing %T, jets to the left hacking into them, then jets to the right uppercutting them!"
+0
+""
+"%SN lands and stabs %T in the heart!"
+""
+"%T faded..."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T faded..."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+"Punching Combo"
+"punch"
+0
+"%SN runs at %T..."
+"%SN bum rushes %T..."
+""
+"%SN punches %T in the face, spins and uppercuts him!"
+"%SN punches %T, hammers him down, backhands him, and palms him away."
+0
+""
+"%SN punches %T in the balls and he falls over crying."
+""
+"%T blocks every last move..."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Power Up"
+"powerup"
+0
+"%SN calls on Black Blaze's help..."
+""
+""
+"Black Blaze helps him and heals him!"
+""
+0
+""
+""
+""
+"You can't miss a heal move, %SN you dolt..."
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+100
+100
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+2
+100
+8
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"%SN stabs his sword into the ground in an attempt to stand, but falls down in a pool of blood!"
+""
+""
+""
+""
+"%SN says, ''You stood no chance against my mighty Fervor Swords!''"
+"%SN points at %T with his swords and lets White Blaze devour him."
+""
+""
+""
+""
+""
+""
+""

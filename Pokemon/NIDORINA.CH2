@@ -1,0 +1,564 @@
+"Nidorina"
+"Nidorina"
+2573
+"Nidorina"
+"%SN is now Nidorina (#030)"
+"%SN joins in as a Nidorina (#030)"
+60
+50
+50
+50
+""
+"%SN recovers."
+"%SN blocks."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Growl"
+"Growl"
+0
+"%SN growls at %T!"
+""
+""
+"%T has their attack power scared out of them by %SN."
+""
+0
+""
+""
+""
+"%T doesn't notice %SN."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+2
+"Tackle"
+"tackle"
+1
+"%SN charges at %T."
+"%SN dashes at %T."
+""
+"%SN tackles %T!"
+"%SN smashes %T to the moon!"
+0
+""
+"%SN tackles %T so hard they slam into a tree!"
+""
+"%T dodges and %SN runs into a tree."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T dodges and %SN runs into a tree."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+"Scratch"
+"scratch"
+1
+"%SN charges at %T."
+"%SN charges at %T."
+""
+"%SN scratches %T!"
+"%SN scratches %T!"
+0
+""
+""
+""
+"%SN tried to scratch %T but missed."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%SN tried to scratch %T but missed."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Poison Sting"
+"Poison Sting"
+1
+"%SN moves toward %T."
+"%SN goes toward %T."
+""
+"%SN stings %T!"
+"%SN stings %T with poison!"
+0
+""
+""
+""
+"%T quickly evades %SN's sting."
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+"%T quickly evades %SN's sting."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+70
+90
+2
+"Tail Whip"
+"Tail Whip"
+0
+"%SN swings its tail around at %T."
+""
+""
+"%SN trips %T up with its tail!"
+""
+0
+""
+""
+""
+"%T jumps %SN's tail."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+2
+"Bite"
+"bite"
+0
+"%SN tries to take a bite out of %T."
+""
+""
+"<<CHOMP>> %SN bites %T!"
+""
+0
+""
+""
+""
+"%SN tried to bite %T, but %T leaps out of the way."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+2
+"Fury Swipes"
+"Fury Swipes"
+1
+"%SN gets mad at %T!"
+"%SN gets really P.O.'d at %T!!"
+""
+"%SN swipes %T four times!"
+"%SN swipes %T %S2 times!"
+0
+""
+"%SN swipes %T eight times!"
+""
+"All of %SN's swipes missed %T."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"All of %SN's swipes missed %T."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+"Double Kick"
+"Double Kick"
+1
+"%SN dashes at %T."
+"%SN charges at %T!"
+""
+"%SN kicks %T twice."
+"%SN beats the <TOS> outta %T!"
+0
+""
+"%SN kicks %T four times!"
+""
+"%T dodges %SN's kick."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+130
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"~Nidoqueen"
+"evolve"
+0
+"%SN glows with a bright white light."
+""
+""
+"%SN evolves into Nidoqueen! (morph)"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Type: Poison"
+"Height: 2' 7''"
+"Weight: 44 lb."
+"The female's horns develop slowly. Prefers physical attacks such as clawing and biting."

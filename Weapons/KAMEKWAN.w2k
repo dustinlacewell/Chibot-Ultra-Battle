@@ -1,0 +1,226 @@
+"Kamek's Magic Wand"
+"kamekwand"
+"%SN picks up Kamek's Magic Wand and feels a surge of power!"
+"Kamek's magic wand enables you to cast really POWERFUL spells."
+""
+5
+"Mega*Cure"
+"megacure"
+0
+"%SN points Kamek's wand at %T."
+""
+"%SN holds up Kamek's wand."
+"%T is cured by the power of Kamek's wand."
+""
+1
+"%SN is cured by the power of Kamek's wand."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+200
+3
+"Tub o' Troopa Summon"
+"tubotroopa"
+0
+"%SN points Kamek's magic wand at %T."
+""
+""
+"A Tub o' Troopa falls on %T, squashing them flat."
+""
+1
+""
+""
+""
+"%T sees the Tub o' Troopa's shadow and runs before it hits the ground, causing a minor earthquake."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+30
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+150
+2
+"Hyper Dispel"
+"H. Dispel"
+0
+"%SN raises Kamek's magic wand with the intent to get rid of good status!"
+""
+"Dark energy covers the arena..."
+""
+""
+1
+"Everyone loses their good status!"
+""
+""
+"%T is unaffected."
+0
+0
+0
+0
+0
+0
+0
+-1
+0
+"0"
+0
+0
+0
+-1
+-1
+0
+0
+0
+0
+0
+-1
+-1
+0
+-1
+0
+0
+0
+0
+0
+0
+5
+"Sky Troopa"
+"sky troopa"
+0
+"%SN points Kamek's magic wand at %T."
+""
+""
+"A Sky Troopa comes and whisks %T away!"
+""
+1
+""
+""
+""
+"A Sky Troopa comes at %T but %T hits the Troopa with a rock."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Dismemberment"
+"dismember"
+0
+"%SN sets Kamek's magic wand to full blast and points it at %T!"
+""
+""
+"A white globe descends from the heavens and explodes on %T in a super nova!"
+""
+3
+""
+""
+""
+"A white globe descends from the heavens but barely misses %T."
+0
+0
+0
+0
+0
+0
+1
+0
+1
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+300
+2

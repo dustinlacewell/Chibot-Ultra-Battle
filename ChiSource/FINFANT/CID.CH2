@@ -1,0 +1,560 @@
+"Cid Highwind"
+"cid"
+""
+"cid"
+"%SN spins the Venus Gospel in his hands as they become Cid Highwind."
+"%SN spins the Venus Gospel in his hands as they become Cid Highwind."
+ 80 
+ 70 
+ 30 
+ 40 
+ 0 
+"%SN takes a break to smoke a cigarette."
+"%SN blocks with the Venus Gospel."
+"%T knocks the Venus Gospel aside."
+"%SN takes a hit from his cigarette."
+"%SN says, 'You Wuss'"
+""
+""
+""
+"5s"
+"%SN lunges towards %T, with the Venus Gospels' blade glowing."
+"%SN makes several passes at %T, slicing them each time! %T falls to the floor in 5 pieces!!"
+"Boost Jump"
+"bj"
+ 0 
+"%SN leaps high into the air."
+""
+""
+"%SN delivers a crushing blow to %T's head."
+""
+ 0 
+""
+"%SN delivers a crushing blow to %T's head!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 2 
+"Dynamite"
+"db"
+ 0 
+"%SN lights the fuse of a stick of dynamite using his cigarette."
+""
+"%SN throws the stick of dynamite at %T's team! >>BOOM!!<<"
+""
+""
+ 0 
+""
+"%T is thrown into a wall!!"
+""
+"%T takes refuge from the large explosion."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 65 
+ 4 
+"Hyper Jump"
+"hj"
+ 0 
+"%SN slams the blade of the Venus Gospel into the ground."
+""
+""
+"%SN withdraws the blade from the ground and a column of energy engulfs %T."
+""
+ 0 
+""
+"%SN withdraws the blade from the ground and a column of energy engulfs %T!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 70 
+ 2 
+"Dragon"
+"dragon"
+ 0 
+"%SN summons a dragon."
+""
+""
+"A large dragon attacks %T, transfering their HP over to %SN."
+""
+ 0 
+""
+""
+""
+"%T dodges the large dragon."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 11 
+ 50 
+ 2 
+"Dragon Dive"
+"dd"
+ 0 
+"%SN leaps into the sky."
+""
+""
+"%SN lands, slaming the Venus Gospel into %T's chest!"
+""
+ 0 
+""
+"%SN lands, slaming the Venus Gospel into %T's chest!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 80 
+ 2 
+"Big Brawl"
+"bb"
+ 0 
+"%SN runs towards %T, in a state of rage."
+""
+""
+"%SN screams at %T! %T cowers in fear!"
+""
+ 0 
+""
+""
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Highwind"
+"hw"
+ 1 
+"%SN summons his airship, Highwind for heavy reinforcements."
+"%SN summons his airship, Highwind..."
+""
+"Highwind unleashes a storm of missles onto %T!"
+"%SN's ship, Highwind, unleashes a massive storm of atomic weapons, blasting %T unmercifully!!"
+ 0 
+""
+"Highwind unleashes a storm of bombs onto %T!"
+""
+"Sorry %SN, seems you forgot to refuel Highwind."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 100 
+ 2 
+"Summon Materia"
+"titan"
+ 0 
+"%SN begins to summon Titan."
+""
+""
+"Titan appears, lifting the ground under %T, and drops it on them!"
+""
+ 0 
+""
+"Titan appears, lifting the ground under %T, and drops it on them!"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 27 
+ 80 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

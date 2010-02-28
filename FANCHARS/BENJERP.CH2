@@ -1,0 +1,560 @@
+"Planetary BenJer"
+"BenJerP"
+""
+"~BeeGee"
+"BenJer clutches a Planetary Henshin Rod as Planetary BenJer!"
+"BenJer appears as Planetary BenJer!!"
+ 0 
+ 60 
+ 100 
+ 60 
+ 0 
+"BenJer aligns himself with the planets"
+"%SN blocks with the power of the planets."
+"The power of the planets escape BenJer!"
+"BenJer shouts, 'In The name of the Milky Way, you shall be defeated!'"
+""
+""
+""
+""
+"LetsAlignThePlanetsChildren"
+"BenJer becomes cosmicly intune with the planets, and harnesses the power of the sun."
+"BenJer omits a flaming ball of gas at %T, leaving nothing but a burnt skeleton!"
+"Henshin Yo (Morph)"
+"HenshinYo"
+ 0 
+"Benjer shouts, '%T Copycat Power, Make-Up!'"
+""
+""
+"BenJer comes out of the henshin sequence as %T!"
+""
+ 0 
+""
+""
+""
+"BenJer can't seem to transform into that person"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+ 0 
+ 2 
+"Mercury Crystal Power"
+"MercuryCrystalPower"
+ 0 
+"BenJer holds his Planetary Henshin Pen and shouts, 'Mercury Crystal Power, Make-Up!'"
+""
+""
+"BenJer's pen releases many ice hoops at %T!"
+""
+ 0 
+""
+"%T is frozen!"
+""
+"BenJer drops the pen"
+ 0 
+ 0 
+ 37 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 35 
+ 2 
+"Mars Crystal Power"
+"MarsCrystalPower"
+ 1 
+"BenJer aims carefully and shouts, 'Mars Crystal Power, Make-Up!'"
+"BenJer aims carefully and shouts, 'Mars Crystal Power, Make-Up!'"
+""
+"BenJer's Planetary Pen encircles %T's body with flaming rings!"
+"BenJer's Planetary Pen spews out masses of liquid hot MAGMA at %T!"
+ 0 
+""
+"%T is burnt!"
+""
+"BenJer drops the pen."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 55 
+ 2 
+"Jupiter Crystal Power"
+"JupiterCrystalPower"
+ 0 
+"BenJer shouts, 'Jupiter Crystal Power, Make-Up!' and his Planetary Henshin Rod glows at %T"
+""
+""
+"Suddenly, Lightning begins to hail onto %T!"
+""
+ 0 
+""
+"%T is shocked!"
+""
+"%T dodges the hailing lightning."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 90 
+ 2 
+"Venus Crystal Power"
+"VenusCrystalPower"
+ 0 
+"BenJer aims his pen and shouts, 'Venus Crystal Power, Make-Up!'"
+""
+""
+"Heart Ribbons travel across %T, slashing them to bits!"
+""
+ 0 
+""
+"%T is massacured!"
+""
+"%T eats the ribbons.... O_O"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 26 
+ 60 
+ 2 
+"Saturn Planet Power"
+"SaturnPlanetPower"
+ 0 
+"BenJer aims the pen and shouts, 'Saturn Planet Power, Make-Up!'"
+""
+""
+"Swarms of purple healing energy merge with %T!"
+""
+ 0 
+""
+""
+""
+"BenJer drops the pen."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 30 
+ 30 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 65 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 70 
+ 3 
+"Neptune Planet Power"
+"NeptunePlanetPower"
+ 0 
+"BenJer shouts, 'Neptune Planet Power, Make-Up!'"
+""
+""
+"A column of water swallows %T!"
+""
+ 0 
+""
+"%T is drowning!"
+""
+"%T escapes the water column,"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 70 
+ 2 
+"Uranus Planet Power"
+"UranusPlanetPower"
+ 0 
+"BenJer shouts, 'Uranus Planet Power, Make-Up!' and takes aim."
+""
+""
+"Streaks of Earth energy arise from the ground, and travel up %T's body!"
+""
+ 0 
+""
+"%T is wasted!"
+""
+"%T dodges the flying earth."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 27 
+ 80 
+ 2 
+"Pluto Planet Power"
+"PlutoPlanetPower"
+ 0 
+"BenJer shouts, 'Pluto Planet Power, Make-Up!'"
+""
+""
+"A space time continium covers %T... when they reappear, they are frozen in time!"
+""
+ 0 
+""
+""
+""
+"%T dives away from the continium."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Moon Kingdom Form"
+"MoonKingdom"
+ 1 
+"BenJer aligns himself with the Moon.  Princess and Queen Serenity then appear."
+"BenJer aligns himself with the Moon.  Princess and Queen Serenity then appear."
+""
+"The Two Royal members of the Moon release a moonbeam at %T."
+"The two Royal members of the Moon use the Silver Crystal and unleash a fury of Moon Energy on %T!"
+ 0 
+""
+"%T is totaled"
+""
+"The Moon Royalty dissappear."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 
+ 126 
+ 2 
+""
+"~SaturdayNightFever"
+ 0 
+"BenJer aims his pen and shouts, 'Moon Eternal Make Up!'"
+""
+""
+"Huge Wings choke %T to death!"
+""
+ 0 
+""
+"%T can not breathe!"
+""
+"%T dodges the Moon Wings."
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 
+ 350 
+ 2 
+"Silver Crystal Mimic"
+"SilverCrystalMimic"
+ 0 
+"Benjer points the Silver Crystal Mimic."
+""
+""
+"The Silver Crystal Grants %T life!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"BenJer collapses and his Planetary Henshin Pen rolls on the ground, then explodes"
+""
+""
+""
+""
+"BenJer's Planetary Henshin Rod sucks up %T's soul!"
+""
+""
+""
+""

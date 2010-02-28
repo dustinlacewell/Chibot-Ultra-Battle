@@ -1,0 +1,564 @@
+"Makoto"
+"Makoto"
+""
+"makoto"
+"%SN runs in as Makoto."
+"%SN charges in as Makoto."
+90
+90
+20
+20
+""
+"%SN goes to practice on a punching bag."
+"%SN plants herself firmly into the ground."
+"%SN is blasted backwards."
+"%SN screams, 'Your not getting away with this!'"
+""
+""
+""
+""
+"mlr"
+"%SN holds up a lightning rod."
+"%SN forces %T to hold the lightning rod as lightning strikes it frying %T/"
+"Rose Earring Throw"
+"et"
+1
+"%SN takes off her earring and throws it at %T."
+"%SN takes off her earring and throws it at %T."
+""
+"%T is hit by the earring right in the eye."
+"%T dodges the earring, but gets %SN's fist in their face!"
+0
+""
+"I think %T might be blind!"
+""
+"%T dodges the earring."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+30
+2
+"Throw"
+"throw"
+1
+"%SN graps %T."
+"%SN flings %T."
+""
+"%T finds themselves on the ground."
+"%T lands across the room."
+0
+""
+"%T is going to be waking up any time soon."
+""
+"%T breaks %SN's hold."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+50
+2
+"Punch"
+"att"
+0
+"%SN charges at %T."
+""
+""
+"%SN punches %T right in the nose."
+""
+0
+""
+"%T's nose is broken."
+""
+"%T teleports out of the way."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+40
+2
+"Cat Fight"
+"cf"
+0
+"%SN begins to claw and scratch %T."
+""
+""
+"%SN scratches %T's eye's out."
+""
+0
+""
+"That has GOT TO HURT!"
+""
+"%T scratches %SN back."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Uppercut"
+"uc"
+1
+"%SN ducks as %T charges at her."
+"%SN charges at %T."
+""
+"%SN does a perfect uppercut when %T gets close enough."
+"%SN lands a uppercut right on %T's jaw."
+0
+""
+"I hope %T's jaw is broken!"
+""
+"%T stops charging."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+"Spin Kick"
+"sk"
+0
+"%SN does a kick that makes her look like a ballerina."
+""
+""
+"%T is surprised on how graceful %SN really is."
+""
+0
+""
+""
+""
+"%T trips %SN."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Cook"
+"cook"
+0
+"%SN cooks some good food for %T."
+""
+"%SN cooks some food for herself."
+"%SN feeds %T, making them feel better."
+""
+0
+"%SN feels better after stuffing her own face."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+50
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+50
+0
+0
+0
+0
+2
+80
+3
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"The world lost the future Sailor Jupiter!"
+""
+""
+""
+""
+"%SN killed you.. NOW STAY DEAD!"
+""
+""
+""
+""
+""
+""
+""
+""

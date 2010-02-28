@@ -1,0 +1,560 @@
+"Relm Arrowny"
+"Relm"
+""
+"relm"
+"%SN appears as Relm, the pint-size artist!"
+"%SN is drawn into the battle as Relm by MogKUPO!"
+ 10 
+ 35 
+ 100 
+ 75 
+ 0 
+"%SN draws a bed and rest on it."
+"%SN blocks with her paintbrush."
+"%SN paintbrush is too small to block with!"
+"%SN taunts people by poking 'em with her brush."
+""
+""
+""
+""
+"starprism"
+"%SN paints a star."
+"%SN's star encloses %T in a prism and sucks them dry of the energy they have left..."
+"Sketch"
+"sketch"
+ 0 
+"%SN sketches %T. (morph)"
+""
+""
+"%SN successfully sketched %T!! The copy of %T is at %SN's command!  (morph)"
+""
+ 0 
+""
+""
+""
+"%SN sketched %T wrong."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+ 0 
+ 2 
+"Interceptor"
+"interceptor"
+ 0 
+"%SN draws a dog whistle and blows it."
+""
+""
+"Shadow's dog, Interceptor arrives and bites %T's leg!!"
+""
+ 0 
+""
+"Shadow's dog, Interceptor arrives and bites %T's leg!!"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 2 
+"ChocoSuit"
+"chocosuit"
+ 0 
+"%SN puts on a chocobo suit."
+""
+""
+"%SN pretends to be a chocobo! 'WARK!' %T is confused... (chaos)"
+""
+ 0 
+""
+""
+""
+"%SN put on the wrong suit!"
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Shield"
+"shield"
+ 0 
+"%SN dips her brush in some brick colored paint..."
+""
+"%SN starts to paints a brick wall around her party."
+"%SN's painting changes into a real brick wall that protects from enemy attacks!!"
+""
+ 0 
+""
+""
+""
+"%SN accidently dipped the paint in mustard. 'Whoops...' ^.^*"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+ 0 
+ 1 
+"Mushroom"
+"mushroom"
+ 0 
+"%SN starts to draw on %T."
+""
+""
+"%SN changed %T into a mushroom!!"
+""
+ 0 
+""
+"%SN changed %T into a mushroom!!"
+""
+"%SN changed %T into...themselves! 'Whoops...'"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Mom"
+"mom"
+ 0 
+"%SN starts to draw %T's mom."
+""
+""
+"%T's mom comes to life and nags %T!! (def. down)"
+""
+ 0 
+""
+"%T's mom comes to life and nags %T!! (def. down)"
+""
+"%SN accidently drew a picture of a moogle. 'Whoops...' 'KUPO!'"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Thunder Rod"
+"thunder"
+ 0 
+"%SN holds up a thunder rod."
+""
+""
+"%T is struck by bolts of lightning!!"
+""
+ 0 
+""
+"%T is struck by bolts of lightning!!"
+""
+"%SN accidently held up a banana rod and it starts raining bananas."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 90 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 50 
+ 2 
+"Fire Rod"
+"fire"
+ 0 
+"%SN holds up a fire rod."
+""
+""
+"%T is burnt to a crisp!!"
+""
+ 0 
+""
+"%T is burnt to a crisp!!"
+""
+"%SN accidently held up a credit card rod and it starts raining credit cards."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 90 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 50 
+ 2 
+"Ice Rod"
+"ice"
+ 0 
+"%SN holds up an ice rod."
+""
+""
+"%T hit frozen in ice!!"
+""
+ 0 
+""
+"%T hit frozen in ice!!"
+""
+"%SN accidently held up a moogle rod and it starts raining moogles."
+ 0 
+ 0 
+ 90 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 50 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"%SN lets out a small scream and dies."
+""
+"0"
+""
+""
+"%SN takes a winning pose."
+""
+""
+"0"
+""

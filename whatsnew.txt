@@ -1,0 +1,16 @@
+NEW SINCE BETA #1:
+
+* New easy installation! See the Revolution Readme and go down to "How to Install" to find out how to use the new install.
+* Eight new Runes! Survival, Thorns, Anti-Cheese, Desperation, Super Guard, SP Switch, Counter Guard, and Chibot Guard.
+* Rune of Luck disabled. Three new runes are in its place: Rabbit's Foot, Horseshoe, and Four-Leaf Clover.
+* Lots of minor glitches fixed.
+* Fixed problem with Chaosed, Berserked, or PMSed characters trying to use non-physical attacks while Mute.
+* A lot of CPU problems were fixed.
+* Changed the clone naming process. Clones are now designated "CLONE ####XXXX" where #### is a random four-digit number, and XXXX is the first four letters of the nick of the person you are cloning.
+* Added ability to erase records (Graveyard, top-ranked players, etc.)
+* Customizable window backgrounds are available, to customize, simply replace the appropriate GIF file in the IMAGES folder. For now, the file format must be GIF.
+* Made a big change with the way the game keeps track of time. Now, instead of Game Seconds, the game uses real time. The Lagometer now changes the speed of the characters and how long status changes last. 1000 was previously the norm. Now, I recommend at least 2500 if you want to keep up with the game. The default has been changed to 2500.
+* Fixed a bug where EZ-Teams in the Character Edit of ChUB would crash.
+* Changed some of the defaults for the option menu.
+* A lot of the Yoshi Help is outdated. Instead of disabling it (which might confuse some newbies), I've told Yoshi to direct you to the readme files for additional information.
+* Jukebox problem fixed!

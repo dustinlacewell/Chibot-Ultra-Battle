@@ -1,0 +1,564 @@
+"Haruka"
+"Haruka"
+0
+"haruka"
+"%SN drives in as the racer, Haruka."
+"%SN fights her way onto the battlefield as Haruka."
+90
+90
+20
+20
+""
+"%SN goes to practice her driving."
+"%SN throws her arms in front of her."
+"%SN is throw backwards."
+"%SN screams, 'I am the Sailor Senshi of the Sky!'"
+""
+""
+""
+""
+"hrc"
+"%SN hopes in her race car."
+"%SN drives over %T. %T is now a street pancake."
+"Bash"
+"bash"
+1
+"%SN runs into %T."
+"%SN charges at %T."
+""
+"%SN knocks %T to the ground."
+"%SN knocks %T clear across the city!"
+0
+""
+"I don't think %T should get up quickly."
+""
+"%T jumps out of the way."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+50
+2
+"Haruka-papa"
+"papa"
+0
+""
+""
+"%SN plays daddy to Hotaru."
+""
+""
+0
+"%SN gains power and wisedom from the experience."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+50
+0
+0
+""
+0
+0
+50
+0
+0
+0
+0
+0
+0
+50
+50
+0
+50
+0
+0
+0
+0
+0
+0
+8
+"Jaw Punch"
+"jp"
+1
+"%SN charges at %T."
+"%SN charges at %T."
+""
+"%SN plants a nice punch on %T's jaw."
+"%SN plants a powerful punch on %T's jaw."
+0
+""
+"%T should stay down!"
+""
+"%T dodges the punch."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Passive Attack"
+"pa"
+1
+"%SN lets %T attack her."
+"%SN lets %T come at her."
+""
+"%SN releases a powerful punch to %T's midsection."
+"%SN flings %T across the room!"
+0
+""
+"%T had the air knocked out of them!"
+""
+"%T stops dead."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+"Motorcycle race"
+"race"
+0
+"%SN jumps on her motorcycle."
+""
+""
+"%T gets in %SN's way so she runs them over."
+""
+0
+""
+"%T gets in %SN's way so she runs them over. %T is street pancake!"
+""
+"%T jumps out of the way of the motorcycle just in time."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+150
+2
+"Fling"
+"fling"
+0
+"%SN challenges %T to a fight."
+""
+""
+"%T attacks %SN and she flings %T across the room."
+""
+0
+""
+"%T attacks %SN and she flings %T across the room. %T complains that she is only a girl."
+""
+"%T declines the challenge."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+90
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Michiru wants revenge on %T!"
+""
+""
+""
+""
+"%SN pulls out her space sword and slices %T to peices."
+""
+""
+""
+""
+""
+""
+""
+""

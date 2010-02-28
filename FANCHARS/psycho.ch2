@@ -1,0 +1,560 @@
+"Neo-Psychoman"
+"Neo-Psychoman"
+""
+"Psychoman"
+"%SN takes command of Neo-Psychoman!"
+"%SN jumps into battle as Neo-Psychoman!"
+ 60 
+ 40 
+ 85 
+ 35 
+ 0 
+"%SN sits down and plays his Game Boy."
+"%SN puts up a block."
+"%SN failed to block %T's attack!"
+"%SN says, 'How dare you challenge me? I will crush you, %T!'"
+"%SN says, 'You're goin' down, T%!'"
+"%SN says, 'I wasn't named after PsYch0313, PsYch0313 was named after me!'"
+"%SN says 'Why am I playing ChUB? I need to host Kenkyaku!'"
+""
+"autoshotgun"
+"%SN pulls out an automatic shotgun."
+"%SN shoots %T in the head with the shotgun!"
+"Fire Blast"
+"fb"
+ 0 
+"%SN's hands begin to glow."
+"%SN's hands are glowing brightly."
+""
+"%SN throws a stream of fire at %T. %T is burning! "
+"%SN throws a huge stream of fire at %T and it blows him away! %T is burning!"
+ 0 
+""
+"%SN throws a stream of fire at %T and it hits him hard. %T is burning!"
+""
+"%SN throws a stream of fire at %T but misses."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 100 
+ 2 
+"Fire Shield"
+"fs"
+ 0 
+"%SN shoots fire at %T?"
+""
+"%SN surrounds himself with fire?"
+"%SN created a shield of fire around %T!"
+""
+ 0 
+"%SN creates a shield of fire around himself!"
+""
+""
+"%T says 'What are you, psycho, %SN?' and runs away from %SN's fire."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 100 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+ 0 
+ 3 
+"Fire Wall"
+"fw"
+ 1 
+"%SN charges up his energy..."
+""
+""
+"%SN created a wall of fire!"
+""
+ 0 
+""
+""
+""
+"%SN tried to create a wall of fire, but he couldn't."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+ 0 
+ 6 
+"Eight Maidens / Eight Golden Goblets"
+"8"
+ 1 
+"%SN concentrates on %T."
+"%SN stares at %T."
+""
+"%SN runs at %T and hits him 19 times!"
+"%SN dashes at %T and hits him %S2 times!"
+ 0 
+""
+"%SN runs at %T and hits him 32 times!"
+""
+"%SN runs at %T but %T sidesteps him."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 35 
+ 2 
+"Shoryuken"
+"uppercut"
+ 1 
+"%SN prepares to do an uppercut on %T."
+"%SN prepares to do a super uppercut on %T."
+""
+"%SN's uppercut hits %T."
+"%SN's super uppercut hits %T!"
+ 0 
+""
+"%SN's uppercut hits %T and %T is hurt bad!"
+""
+"%SN's uppercut was way off target!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 40 
+ 2 
+"Laser Pointer"
+"laserpointer"
+ 0 
+"%SN aims his laser pointer at %T."
+""
+""
+"%SN flashes %T in the eye with the laser, stopping his move!"
+""
+ 0 
+""
+"%SN flashes %T in the eye with the laser, stopping his move!"
+""
+"%SN misses!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 40 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 5 
+ 0 
+ 2 
+"Learn Opponent's Move"
+"learn"
+ 0 
+"%SN watches %T's fighting style."
+""
+""
+"%SN learned one of %T's moves!"
+""
+ 0 
+""
+""
+""
+"%SN failed to learn one of %T's moves."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 42 
+ 0 
+ 2 
+"Morph"
+"~morph"
+ 0 
+"What? %SN is changing shape!"
+""
+""
+"%SN morphed into %T!"
+""
+ 0 
+""
+""
+""
+"%SN tried to morph into %T but he couldn't."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+ 0 
+ 2 
+"Ultra Psychosis"
+"ultra psychosis"
+ 0 
+"%SN is using Ultra Psychosis!!!"
+""
+""
+"%SN is now completely Psycho!!!"
+""
+ 0 
+""
+""
+""
+"%SN regains some of his sanity."
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Heal one"
+"heal one"
+ 0 
+"%SN gets out extra-strength Tylenol."
+""
+"%SN gets out extra-strength Tylenol."
+"%SN heals %T."
+""
+ 0 
+"%SN healed himself."
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 50 
+ 3 
+"Heal team"
+"heal team"
+ 0 
+"%SN gets a jug of Tylenol."
+""
+""
+"%SN healed his team."
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 30 
+ 1 
+"Power Life3"
+"~Life3"
+ 0 
+"%SN casts Power Life3 on %T."
+""
+""
+"%T is protected by %SN's Power Life3 spell."
+""
+ 0 
+""
+""
+""
+"%SN's Power Life3 spell failed!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 50 
+ 3 
+"%SN says, 'You just kicked my a...' and drops dead."
+""
+"0"
+""
+""
+"%SN killed %T. Cool."
+"%SN continues attacking %T's dead body."
+""
+"0"
+""

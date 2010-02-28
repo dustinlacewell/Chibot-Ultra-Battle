@@ -1,0 +1,108 @@
+"Nuclear Power Plant"
+"Nuclear power is said to be one of the safest"
+"means of producing electricity. However, after"
+"being on the inside of this plant, you'll never"
+"want to be within 100 miles of a nuke power plant"
+"again."
+""
+""
+""
+""
+""
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+-2
+10
+3
+10
+0
+1
+"Rad Poisoning"
+3
+50
+"A radiation leak from the reactor poisons %T! [50]"
+"The reactor leaks radiation."
+0
+"Minor Explosion"
+2
+100
+"A panel near %T explodes, sending them flying! [100]"
+"A panel explodes! Luckily, nobody was hurt."
+0
+"Meltdown!!!!"
+1
+9999
+"The nuclear reactor melts down, killing everyone inside the plant! [9999]"
+"A nuclear meltdown is imminent, but is quickly dealt with (phew)"
+1
+""
+0
+0
+""
+""
+0
+""
+0
+0
+""
+""
+0
+""
+0
+0
+""
+""
+0
+""
+0
+0
+""
+""
+0
+""
+0
+0
+""
+""
+0
+""
+0
+0
+""
+""
+0
+""
+0
+0
+""
+""
+0

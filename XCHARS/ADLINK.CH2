@@ -1,0 +1,564 @@
+"Adult Link"
+"AdLink"
+3000
+"AdLink"
+"%SN grabs the Master Sword and becomes Adult Link! ('AdLink')"
+"%SN dashes into battle as Adult Link."
+60
+50
+50
+60
+"%T's attack bounces off %SN's Hylian Shield."
+"%SN relaxes at Kakariko Village."
+"%SN holds up his Hylian Shield to block."
+"%T sneaks up behind %SN and attacks!"
+""
+""
+""
+""
+""
+"chophead"
+"%SN swings the Master Sword at %T."
+"%SN slices %T's head clean off."
+"Biggoron's Sword Slash"
+"big"
+1
+"%SN pulls out the huge Biggoron's sword and rolls toward %T."
+"%SN pulls out the huge Biggoron's sword and runs toward %T."
+""
+"%SN slashes %T with the Biggoron's sword!"
+"%SN goes into a frenzy of slashes at %T!"
+0
+""
+"%SN double-cuts %T with the Biggoron's sword!"
+""
+"%T quickly dodges the sword slash."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+90
+2
+"Whirlcut"
+"whirl"
+0
+"%SN charges up his sword with energy."
+""
+"%SN swings his sword in a circle, releasing waves of energy."
+""
+""
+0
+""
+"%T is knocked over!"
+""
+"%T jumps out of the way of %SN's whirlwave."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+5
+"Din's Fire"
+"df"
+0
+"%SN charges up for a fire attack."
+""
+"%SN hits the ground and fire spreads throughout the room!"
+""
+""
+0
+""
+"%T is burnt to a crisp!"
+""
+"%T is wearing a Goron Vest and is unharmed by the fire."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+70
+5
+"Red Potion"
+"red"
+0
+"%SN tosses %T a bottle of Red Potion."
+""
+"%SN guzzles down some Red Potion."
+"%T guzzles down the potion and feels better."
+""
+0
+"%SN feels better after drinking the potion."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+300
+3
+"Farore's Wind"
+"fw"
+0
+"%SN starts using the magic of Farore."
+""
+""
+"%SN teleports himself out of the battle."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+"Nayru's Love"
+"nl"
+0
+"%SN uses the magic of Nayru to create a shield around his allies."
+""
+""
+"Nayru's barrier fades away."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+66
+0
+1
+"Longshot"
+"longshot"
+0
+"%SN points the Longshot at %T and fires."
+""
+""
+"%SN uses the longshot on %T ala Scorpion, ''Get over here!''"
+""
+0
+""
+""
+""
+"%T ducks the longshot."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Saria's Song"
+"Saria"
+0
+"%SN pulls out the Ocarina and plays Saria's Song."
+""
+""
+"Saria appears via the magic of the Ocarina and blesses %T."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+100
+0
+100
+0
+0
+0
+0
+0
+0
+3
+"Bottled Fairy"
+"bf"
+0
+"%SN goes fairy-hunting."
+""
+""
+"%SN traps a fairy in a bottle!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+"Bombchu"
+"chu"
+0
+"%SN lays down a Bombchu as it scurries toward %T."
+""
+""
+"<<BOOM>> The Bombchu explodes all over %T!"
+""
+0
+""
+""
+""
+"%T dodges the Bombchu."
+2
+2
+0
+0
+0
+5
+0
+-1
+0
+0
+""
+2
+10
+0
+0
+5
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+24
+40
+2
+"Lens of Truth"
+"lot"
+0
+"%SN peers into the Lens of Truth at %T."
+""
+""
+"%SN sees the truth about %T!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+23
+0
+2
+"Song of Time"
+"sot"
+0
+"%SN pulls out the Ocarina of Time and plays the Song of Time."
+""
+""
+"The magic of the Ocarina of Time speeds up %SN's allies."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Adult Link -- The adult form of Link from Legend of Zelda: Ocarina of Time."
+""
+""
+""

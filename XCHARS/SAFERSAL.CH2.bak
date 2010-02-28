@@ -1,0 +1,564 @@
+"Safer Sally"
+"SaferSally"
+2126
+"~SaferSally"
+"%SN gracefully walks in as the winged evil side of the programmer, Safer Sally!"
+"%SN flies in as Safer Sally."
+40
+50
+60
+70
+"%T bounces off %SN's energy shield."
+"%SN lies down on the ground to rest."
+"%SN gestures and creates a shield of energy."
+"%T breaks %SN's shield down :("
+"%SN yells out, ''Bow to me or you shall all perish!!''"
+"%SN says, ''Die Newbie!''"
+"%SN notes, ''It's not the newness which makes a newbie, but their stupidity.''"
+""
+""
+"choke"
+"%SN flies over to %T."
+"%SN strangles %T with her giant wings!"
+"Wing Attack"
+"att"
+1
+"%SN flies over to %T."
+"%SN makes a mad dash at %T."
+""
+"%SN slaps %T silly with her giant wings."
+"%SN grabs %T with her giant wings and throws them across the arena for a total of %S2 hits!"
+0
+""
+"%SN choke-slams %T with her giant wings."
+""
+"%T dodges %SN's winged attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+2
+"Sally Nova"
+"sn"
+0
+"%SN flies into the sky and vanishes."
+"%SN flies into the sky and prepares to put the smack down on %T."
+"Thousands of Poseable Sally Dolls rain down on the populace."
+""
+"%S2 Safer Sally dolls fall on %T."
+0
+""
+"A life-sized Safer Sally doll falls on %T."
+""
+"%T dodges the Sally Nova."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+5
+"Sally Guard"
+"sg"
+0
+"%SN puts her hands together and creates a barrier of energy around herself."
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+20
+0
+0
+0
+0
+0
+50
+50
+0
+20
+0
+0
+0
+0
+0
+0
+1
+"Good Angel"
+"ga"
+0
+"%SN summons a good angel to protect her."
+""
+""
+"The Angel bestows powers on %T."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+100
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+"Evil Angel"
+"ea"
+0
+"%SN summons an evil angel to attack %T."
+""
+""
+"The evil angel enters %T and takes away all their goodies!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+""
+0
+0
+-1
+-1
+0
+0
+0
+0
+0
+-1
+-1
+0
+-1
+0
+0
+0
+0
+0
+0
+2
+"InstaFix and Cure"
+"ifc"
+0
+"%SN glows with pink healing energy."
+""
+"%SN glows with pink healing energy."
+"%SN spreads the energy out to %T's team."
+""
+0
+"%SN spreads the energy out to her entire team."
+""
+""
+""
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+0
+""
+-1
+-1
+0
+0
+-1
+-1
+0
+0
+-1
+0
+0
+-1
+0
+0
+0
+0
+0
+2
+100
+1
+"Spank"
+"spank"
+0
+"%SN flies toward %T."
+""
+""
+"%SN spanks %T with her giant wings!"
+""
+0
+""
+"%SN PiMP-SLaPs %T with her giant wings!!"
+""
+"%T avoids getting spanked by %SN's wings."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+110
+2
+"Ice Shards"
+"is"
+1
+"%SN gestures and ice shards form underneath %T."
+"%SN's hands shoot ice at %T."
+""
+"Ice shards rise up out of the ground and stab %T brutally."
+"%T screams as they are frozen in a block of ice momentarily, causing mega damage!!"
+0
+""
+"Ten dozen ice shards rise up out of the ground, IMPALING %T!!"
+""
+"%T jumps off the ice shard patch."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+90
+2
+"Dark Bomb"
+"db"
+1
+"%SN shoves empty space and sends a dark pulse of energy rippling through the air towards %T."
+"%SN gestures and a large dark bomb forms above %T."
+""
+"%SN's dark energy hits %T and spirals into the sky."
+"%SN's dark bomb lands on %T and explodes, leaving a crater %S2 feet wide!"
+0
+""
+"The dark energy hits %T, expanding to form a dark dome."
+""
+"%T dodges the dark energy."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+110
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"%SN goto hell."
+"%SN screams, ''I'M MELTING! I'M MELTING! I'M--''"
+"%SN explodes violently before finally dying."
+"%SN loses her wings and becomes normal Sally."
+""
+"%T goto hell."
+"%SN entraps %T inside a PokeBall. ''MINE!''"
+"%SN grins evilly at her kill then proceeds to kill more newbies."
+"%SN jumps up and down with joy!"
+""
+"This looks like a pissed off version of Sally with wings."
+""
+""
+""

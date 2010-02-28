@@ -1,0 +1,564 @@
+"Akaishi"
+"akaishi"
+0
+"akaishi"
+"Red energy explodes around %SN, transforming them into Akaishi!"
+"Red energy surrounds %SN and transforms them into Akaishi!"
+0
+40
+100
+80
+"%T cannot penetrate %SN's shield!"
+"%SN sits down to rest as she glows a soft red."
+"%SN forms an orb of red energy around herself."
+"%T destroys %SN's shield!"
+"%SN laughs and says, ''I am the Red Death...''"
+""
+""
+""
+""
+"fb"
+"%SN unsheathes the Fire Blade and leaps at %T."
+"%SN swings her sword down and slices %T to small bits!"
+"Royal Bless"
+"rb"
+0
+"%SN waves her hand softly through the air and red mist surrounds %T..."
+""
+""
+"The red mist goes into %T's body, charging them with power!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+100
+100
+0
+0
+0
+100
+0
+100
+100
+0
+100
+0
+0
+0
+0
+0
+0
+3
+"Royal Healing"
+"rh"
+0
+"%SN holds %T's hand as red energy begins to flow into their body."
+""
+"%SN crosses her arms over her chest as a soft red glow surrounds her."
+"%SN's energy greatly heals %T!"
+""
+0
+"The strong energy greatly heals %SN!"
+""
+""
+""
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+0
+""
+-1
+-1
+0
+0
+-1
+-1
+-1
+0
+-1
+0
+0
+-1
+0
+0
+0
+0
+0
+2
+200
+3
+"Protect/Empower Allies"
+"pe"
+0
+"%SN spreads her arms out and a shield of light forms around her allies."
+""
+""
+"%SN charges her allies with energy before dropping her shield."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+100
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+66
+0
+1
+"Dispel Good"
+"dg"
+0
+"%SN hovers above the ground as energy flashes around her."
+""
+"Red beams of energy fill the arena, striking everyone!"
+""
+""
+0
+"The energy fades and the arena returns to normal color."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+""
+0
+0
+-1
+-1
+0
+0
+0
+-1
+0
+-1
+-1
+0
+-1
+0
+0
+0
+0
+0
+0
+5
+"Chaos Tempest"
+"ct"
+0
+"%SN begins to absorb energy into her body."
+""
+"%SN unleashes waves of energy that fill the arena!"
+""
+""
+0
+"%SN stops emitting energy waves."
+"A large beam of energy crushes the life out of %T!"
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+100
+5
+"Fire Aura Revolution"
+"far"
+1
+"%SN holds out her hand as it glows."
+"%SN raises her arms above her head as red energy gathers between her hands."
+""
+"A massive ball of fire engulfs %T, burning them alive!"
+"%SN unleashes a raging inferno on %T, incinerating them to ashes!"
+0
+""
+"A massive ball of fire engulfs %T, burning them alive!"
+""
+"%T dodges %SN's fireball."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T dodges %SN's super fireball?!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+120
+2
+"Morph"
+"morph"
+0
+"%SN glows with red energy."
+""
+""
+"%SN stops glowing, but... %SN is now %T!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+2
+"Recover Life"
+"rl"
+0
+"%SN kneels next to %T and shouts, ''Recover... LIFE!!''"
+""
+""
+"A column of red energy surrounds %T's dead body, bringing them back to life!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+100
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+0
+3
+"Soul Spark"
+"ss"
+0
+"%SN cups her hands and forms a small burst of energy."
+""
+""
+"The energy spark enters %T's chest and explodes!"
+""
+0
+""
+""
+""
+"%T avoids %SN's energy burst."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+19
+0
+2
+"Power Drain"
+"pd"
+0
+"%SN forms a small red butterfly in her hand and lets it fly."
+""
+""
+"The butterfly enters %T's chest and steals their SP!"
+""
+0
+""
+""
+""
+"%T blows %SN's butterfly away easily."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+92
+0
+2
+"Omega Destroyer"
+"od"
+1
+"The Greek sign of Omega appears on %SN's forehead and glows bright red."
+"The Greek sign of Omega appears on %SN's forehead and glows bright red."
+""
+"A maelstrom of energy flares up under %T, ripping the flesh from their bones!"
+"A maelstrom of energy flares up under %T, ripping every bit of flesh from their bones!"
+0
+""
+"A maelstrom of energy flares up under %T, ripping the flesh from their bones!"
+""
+"%T forms a barrier and is protected against %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T forms a barrier and is protected against %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+100
+2
+"Akai Inadzuma"
+"ai"
+0
+"%SN gestures and the sky fades to a red hue."
+""
+""
+"A bolt of brilliant scarlet lightning strikes %T, knocking them out cold! "
+""
+0
+""
+""
+""
+"A bolt of brilliant scarlet lightning strikes the ground next to %T. Shoot, it missed!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

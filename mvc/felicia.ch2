@@ -1,0 +1,560 @@
+"Felicia"
+"Felicia"
+""
+"Felicia"
+"A bolt of light strikes %SN turning them into Felicia, the catwoman."
+"A bolt of light strikes %SN turning them into Felicia, the catwoman."
+ 70 
+ 60 
+ 50 
+ 40 
+ 0 
+"%SN drinks some warm milk."
+"%SN curls into a ball and hides."
+"%T finds %SN hiding."
+"%SN kitty hisses."
+""
+""
+""
+""
+"hc"
+"%SN stabs her claws into %T's gut."
+"%SN spins around and around %T,  tearing them in two."
+"Delta Kick"
+"dk"
+ 0 
+"%SN leaps into the air."
+""
+""
+"%SN flies down from the sky, landing her paw on %T's face."
+""
+ 0 
+""
+"%SN flies down from the sky, landing her paw on %T's face."
+""
+"%SN misses %T, and crashes into the ground."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 45 
+ 2 
+"Cat Spike"
+"cs"
+ 0 
+"%SN jumps towards %T, brandishing her claws."
+""
+""
+"%SN whaps %T over the head with her oversized paws!"
+""
+ 0 
+""
+"%SN whaps %T over the head with her oversized paws!"
+""
+"%T throws catfood on the floor, distracting %SN."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 60 
+ 2 
+"Rolling Buckler"
+"rb"
+ 0 
+"%SN dashes across the floor."
+""
+""
+"%SN rolls into %T, slashing them, then delivers a huge uppercut."
+""
+ 0 
+""
+"%SN rolls into %T, slashing them, then delivers a huge uppercut."
+""
+"%T leaps over %SN."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 70 
+ 2 
+"Ball Throw"
+"bt"
+ 0 
+"%SN throws a ball into the air."
+""
+""
+"%SN spikes the ball into %T's head."
+""
+ 0 
+""
+""
+""
+"%T catches the ball and bounces it around."
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Please Help Me!"
+"help!"
+ 1 
+"%SN cries, 'ONEGAAAAAI!!' and a little kitten charges at %T."
+"%SN cries, 'ONEGAAAAAI!!' and a little kitten charges at %T."
+""
+"A huge pack of cats follow the little kitten and they beat the hell out of %T."
+"A huge pack of cats follow the little kitten and beat the Sh*t out of %T!!"
+ 0 
+""
+"A huge pack of cats follow the little kitten and they beat the hell out of %T!!"
+""
+"%T punts the little kitten back into %SN."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 100 
+ 2 
+"Dancing Flash"
+"flash"
+ 0 
+"%SN glows and rolls towards %T."
+""
+""
+"%SN punches, kicks, throws, uppercuts, and slashes %T multiple times."
+""
+ 0 
+""
+"%SN punches, kicks, throws, uppercuts, and slashes %T multiple times."
+""
+"%T leaps over %SN."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 85 
+ 2 
+"Dark Force"
+"df"
+ 0 
+"%SN purrs and a little kitten leaps out."
+""
+""
+"The kitten enhances %SN's attack."
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

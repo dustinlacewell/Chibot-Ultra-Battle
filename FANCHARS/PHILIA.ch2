@@ -1,0 +1,560 @@
+"Philia"
+"philia"
+""
+"philia"
+"%SN jumps out of the tales of destiny book as Philia Felice"
+"%SN jumps into battle as Philia"
+ 10 
+ 20 
+ 100 
+ 90 
+ 0 
+"%SN reads a bible"
+"%SN gaurds with clemente"
+"Clemente is knocked away"
+""
+""
+""
+""
+""
+"Clemente"
+"%SN raises Clemente and Clemente glows birght Yellow"
+"Clemente flies out of %SN's hands and cleaves himself into %T's skull!!"
+"Philia Bomb"
+"pb"
+ 0 
+"%SN throws a bomb at %T"
+""
+""
+"The bomb explodes and %T is charred"
+""
+ 0 
+""
+"The bomb explodes and %T is charred"
+""
+"%T dodges the bomb"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 20 
+ 2 
+"Twin Bomb"
+"twin"
+ 1 
+"%SN throws 2 bombs at %T"
+"%SN looks in her bag"
+""
+"2 bombs explode around %T charring them badly"
+"%SN pulls out %S2 bombs and they explode on %T"
+ 0 
+""
+"%T is flung into a wall by a giant explosion"
+""
+"%T dodges the bombs"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 40 
+ 2 
+"Bomb Rain"
+"br"
+ 0 
+"%SN throws bombs in the air"
+""
+"bombs suround %SN blowing up everyone"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 30 
+ 7 
+"Tractor Beam"
+"TBeam"
+ 0 
+"%SN holds clemente upto the sky"
+""
+"waves of rainbow light suround %T's team raiseing them and dropping them on thier heads."
+""
+""
+ 0 
+""
+""
+""
+"%T dodges the attack"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 28 
+ 50 
+ 4 
+"Thunder Blade"
+"TBlade"
+ 0 
+"%SN raises clemente into the sky"
+""
+""
+"a ball of lighting envelopes %T and sparks fly over thier team"
+""
+ 0 
+""
+""
+""
+"%T knocks clemente out of %SN's hand"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 63 
+ 4 
+"Flare Tornado"
+"FT"
+ 0 
+"%SN raises clemente up to the sky"
+""
+""
+"Fire spews from the ground around %T's team"
+""
+ 0 
+""
+""
+""
+"%T dodges the attack"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 63 
+ 4 
+"Ice Tornado"
+"it"
+ 0 
+"%SN raises Clemente up to the sky "
+""
+"Chunks of ice encircle %T and thier team"
+""
+""
+ 0 
+""
+""
+""
+"%T dodges the attack"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 63 
+ 4 
+"Holy Lance"
+"hl"
+ 1 
+"%SN raises Clemente up to the sky"
+"%SN raises Clemente up to the sky"
+""
+"6 shards of light stab %T all over"
+"%S2 shards of light slam into %T"
+ 0 
+""
+"12 shards of light stab %T all over"
+""
+"%T dodges the attack"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 100 
+ 2 
+"Stone Wall"
+"sw"
+ 1 
+"%SN raises clemente and points at %T"
+""
+""
+"A stone wall surrounds %T"
+""
+ 0 
+""
+"A stone wall encases %T and explodes"
+""
+"%T kicks %SN disrupting the spell"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 27 
+ 50 
+ 2 
+"Inspect"
+"inspect"
+ 0 
+"%SN looks at %T and prays"
+""
+""
+"Atanomi gives %SN guidence and punishes %T"
+""
+ 0 
+""
+""
+""
+"%T rasberries %SN and disrupts thier concentration"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 23 
+ 0 
+ 2 
+"Hidden attack!"
+"~stasis"
+ 0 
+"%SN does her hidden attack Stasis"
+""
+"Everyone is stopped in a time flux(cheap huh?)"
+""
+""
+ 0 
+""
+""
+""
+"%SN is unaffected"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 40 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 7 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

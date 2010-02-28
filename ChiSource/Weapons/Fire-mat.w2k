@@ -1,0 +1,226 @@
+"Fire Materia"
+"fire-mat"
+"%SN grabs the Fire Materia."
+"The Fire Materia enables you to cast Fire spells."
+""
+5
+"Fire 1"
+"Fire 1"
+0
+"%SN starts casting ''Fire'' on %T."
+""
+""
+"%SN casts ''Fire'' and a fireball hits %T."
+""
+1
+""
+""
+""
+"%T dodges %SN's Fire spell."
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+70
+2
+"Fire 2"
+"Fire 2"
+0
+"%SN begins to cast ''Fire 2'' on %T."
+""
+""
+"%SN casts ''Fire 2'' and flames cover %T!"
+""
+1
+""
+""
+""
+"%SN casts ''Fire 2'' but it has no effect on %T."
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+80
+2
+"Fire 3"
+"Fire 3"
+0
+"%SN begins to cast ''Fire 3'' on all enemies."
+""
+"%SN casts ''Fire 3'' and the arena is covered in flames."
+"%T is burned!"
+""
+1
+"The flames die down."
+"%T turns into charcoal!"
+""
+"%T is unharmed by the spell."
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+60
+5
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

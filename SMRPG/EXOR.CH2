@@ -1,0 +1,564 @@
+"Exor"
+"exor"
+0
+"exor"
+"A huge sword splits the sky and buries itself into the ground. %SN is now Exor!"
+"A huge sword splits the sky and buries itself into the ground. %SN is now Exor!"
+60
+50
+60
+50
+"%SN is unharmed by %T's attack!"
+"%SN rests."
+"The EYE is protecting %SN!!"
+"%SN's protection's gone!"
+"%SN says, 'This castle now belongs to us. Beat it!'"
+"%SN says, 'If it weren't for nosey characters like YOU, we'd practically OWN this world!'"
+""
+""
+""
+"massacre"
+"%SN rises up out of the ground and heads for %T."
+"%SN rips through %T, sending gore everywhere!"
+"Physical Attack / Right Eye"
+"att"
+1
+"%SN's right eye flinches."
+"%SN's right eye flinches."
+""
+"%SN's right eye hits %T!"
+"%SN's right eye hits %T %S2 times!"
+0
+""
+"%SN's right eye hits %T!"
+""
+"%T blocks the attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+120
+2
+"Flame Stone / Right Eye"
+"fs"
+1
+"%SN's Right Eye casts 'Flame Stone' on %T."
+"%SN's Right Eye casts 'Flame Stone' on %T."
+""
+"A flaming meteor crashes into %T!"
+"A GIANT flaming meteor crashes into %T!"
+0
+""
+"A flaming meteor crashes into %T!"
+""
+"%T blocks the Flame Stone attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+130
+2
+"Diamond Saw / Right Eye"
+"dsa"
+1
+"%SN's right eye flinches at %T."
+"%SN's right eye flinches at %T."
+""
+"Two saw blades slice %T!"
+"%S2 saw blades slice %T!"
+0
+""
+"Four saw blades slice %T!"
+""
+"%T blocks the Saw Blade."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+140
+2
+"Gunk Ball / Left Eye"
+"gb"
+0
+"%SN's Left Eye flinches and a gunk ball heads for %T."
+""
+""
+"The Gunk Ball splatters in %T's face."
+""
+0
+""
+""
+""
+"%T blocks the Gunk Ball."
+100
+0
+0
+0
+0
+25
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Bolt / Left Eye"
+"bolt"
+1
+"%SN's Left Eye flinches at %T."
+"%SN's Left Eye flinches at %T."
+""
+"A lightning bolt strikes %T!"
+"%T is struck by %S2 lightning bolts. Dang!!"
+0
+""
+"Several lightning bolts strike %T!"
+""
+"%T blocks the Lightning Bolt."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+130
+2
+"Dark Star / Left Eye"
+"dst"
+1
+"%SN's Left Eye flinches at %T."
+"%SN's Left Eye flinches at %T."
+""
+"A Dark Star lands on %T, then bounces away."
+"A Dark Star lands on %T, bounces on them %S2 times, then bounces away."
+0
+""
+"A Dark Star lands on %T, bounces on them twice, then bounces away."
+""
+"%T blocks the Dark Star."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+140
+2
+"Mega Drain / Left Eye"
+"md"
+0
+"%SN's Left Eye flinches at %T."
+""
+""
+"A laser beam emits from %SN's left eye and strikes %T!"
+""
+0
+""
+"A laser beam emits from %SN's left eye and strikes %T!"
+""
+"%T blocks the Mega Drain."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+140
+2
+"Carni-Kiss / NeoSquid"
+"ck"
+1
+"The Neosquid opens wide to bite %T!"
+""
+""
+"%SN bites %T!"
+"%SN bites %T %S2 times!"
+0
+""
+"%SN bites %T twice!"
+""
+"%T blocks the Carni-Kiss."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+170
+2
+"Water Blast"
+"wb"
+0
+"The Neosquid opens wide!"
+""
+"The water blast explodes!"
+""
+""
+0
+""
+""
+""
+"%T is unaffected."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+130
+5
+"Solidify / Neosquid"
+"solid"
+0
+"The Neosquid opens wide!"
+""
+"%SN casts 'Solidify'. The arena is frozen over!"
+""
+""
+0
+""
+""
+""
+"%T is unharmed."
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+125
+4
+"Aurora Flash / Sleep + Damage / Neosquid"
+"af"
+0
+"The Neosquid opens wide!"
+""
+"The Aurora Flash consumes the arena!"
+""
+""
+0
+""
+""
+""
+"%T is unharmed."
+0
+0
+0
+80
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+110
+5
+"Lulla-Bye / Neosquid"
+"lb"
+0
+"%SN's Neosquid opens wide and sings a lullaby."
+""
+""
+"%T feels at peace and falls asleep."
+""
+0
+""
+""
+""
+"%T is jamming with their Walkman and can't hear the lullaby."
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+"0"
+""
+""
+""
+""
+""

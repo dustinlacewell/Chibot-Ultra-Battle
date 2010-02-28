@@ -1,0 +1,564 @@
+"Neo-Kamek"
+"NeoKamek"
+""
+"NeoKamek"
+"%SN appears in a puff of smoke as Neo-Kamek!"
+"%SN joins in as the almighty Neo-Kamek."
+10
+10
+100
+100
+""
+"%SN goes to kill some poor defenseless Yoshis."
+"%SN creates a magic wall."
+"%SN's magic wall collapses!"
+"%SN says, 'You should all bow before me!'"
+""
+""
+""
+""
+"kenny"
+"%SN disguises %T as Kenny."
+"%T is shot, beaten, hung, decapitated, eaten by a big black monster, and smashed into a wall by Fonzie."
+"Bop 'em with Wand"
+"att"
+1
+"%SN teleports over to %T."
+"%SN teleports behind %T."
+""
+"%SN bops %T on the head with his wand!"
+"%SN superbops %T with his magic wand!"
+0
+""
+"%SN bops %T twice on the head!"
+""
+"%T laughs as %SN can't find his magic wand."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+20
+2
+"Dismemberment"
+"dis"
+1
+"%SN casts a spell that should be banned from this game, 'Dismemberment'."
+"%SN casts a spell that should be banned from this game, 'Super Dismemberment'."
+""
+"A small globe of energy impacts %T!"
+"%S2 small spheres rain from the heavens and strike %T!"
+0
+""
+"A small globe of energy impacts %T!"
+""
+"%T blocks the cheezy spell."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+100
+2
+"Lightning Bolt"
+"bolt"
+1
+"%SN points his magic wand at %T."
+"%SN points his magic wand at %T."
+""
+"%T is struck by lightning!"
+"%T is struck by lightning. Big whoop. But then %T gets zapped again!"
+0
+""
+"%T is struck by lightning!"
+""
+"A nearby telephone pole is struck by lightning."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+40
+2
+"HP Drain"
+"hpd"
+0
+"%SN casts 'HP Drain' on %T."
+""
+""
+"%T's HP now belongs to %SN!"
+""
+0
+""
+""
+""
+"%T blocks the HP Drain attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+100
+2
+"MP Drain"
+"mpd"
+0
+"%SN casts 'MP Drain' on %T."
+""
+""
+"%T's MP now belongs to %SN!"
+""
+0
+""
+""
+""
+"%T avoids the MP Drain attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+100
+2
+"Chant"
+"chant"
+0
+"%SN starts chanting, ''Hoo'kalaka%Tpua''."
+""
+""
+"%SN changes form and assumes the form of %T!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+2
+"Dreamless"
+"Dreamless"
+0
+"%SN casts 'Dreamless,' the ultimate magic attack (next to Dismemberment)."
+""
+"A white triangle of raw energy engulfs %T's team!"
+""
+""
+0
+""
+""
+""
+"%T manages to avoid the attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+50
+4
+"Hookbill the Koopa"
+"Hookbill"
+0
+"%SN summons Hookbill the Koopa to squash %T flat."
+""
+""
+"Hookbill the Koopa stomps on %T, squashing them!"
+""
+0
+""
+""
+""
+"%T gets away from Hookbill the Koopa."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Brick Wall"
+"brick wall"
+0
+"%SN casts a new spell and a sturdy brick wall appears before %T."
+""
+""
+"%T's Brick Wall disappears."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+66
+0
+3
+"Hyper Dispel"
+"hyper dispel"
+0
+"%SN starts casting ''Hyper Dispel''. (BLOCK!!!)"
+""
+"%SN casts ''Hyper Dispel'', ending everyone's good status!"
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+-1
+-1
+-1
+0
+0
+0
+0
+-1
+-1
+0
+0
+0
+0
+0
+-1
+-1
+0
+-1
+0
+0
+0
+0
+0
+0
+5
+"Mushroom Song"
+"Mushroom Song"
+0
+"%SN starts casting ''Mushroom Song'' on %T."
+""
+""
+"Spores cover %T as they are turned into a mushroom!"
+""
+0
+""
+""
+""
+"%SN casts ''Mushroom Song'' on %T but it misses."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Neo-Kamek, a slightly uncheezed version of the original KAMEK.CHR."
+""
+""
+""

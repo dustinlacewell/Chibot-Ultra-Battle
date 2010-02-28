@@ -1,0 +1,226 @@
+"Fairy Bow"
+"fbow"
+"%SN has chosen the Fairy Bow."
+"The Fairy Bow allows you to fire arrows of various types."
+""
+10
+"Arrow Attack"
+"arrow"
+0
+"%SN aims at %T."
+""
+""
+"%T is hit by %SN's arrow."
+""
+1
+""
+""
+""
+"%T dodged %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+50
+2
+"Fire Arrow"
+"farrow"
+0
+"%SN aims at %T."
+""
+""
+"%T is hit by %SN's fire arrow."
+""
+1
+""
+""
+""
+"%T dodged %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+75
+2
+"Ice Arrow"
+"iarrow"
+0
+"%SN aims at %T."
+""
+""
+"%T is frozen by %SN's ice arrow."
+""
+1
+""
+""
+""
+"%T dodged %SN's attack."
+0
+0
+100
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Light Arrow"
+"larrow"
+1
+"%SN aims at %T."
+"%SN aims at %T."
+""
+"%T gets nailed by %SN's light arrow."
+"%SN's light arrow explodes in a HUGE ball of light on %T."
+1
+""
+""
+""
+"%T dodged %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+30
+100
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"0"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

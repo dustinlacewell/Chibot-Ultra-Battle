@@ -1,0 +1,564 @@
+"Tuxedo Melvin"
+"melvin"
+2521
+"melvin"
+"%SN glows digitally and transforms into Tuxedo Melvin."
+"%SN beams in as Tuxedo Melvin."
+10
+20
+90
+60
+""
+"%SN hangs out on the Internet."
+"%SN grabs a Mac PowerBook and blocks with it."
+"%T rips through %SN's PowerBook. %SN decides not to trust Macs anymore..."
+"%SN says in a nerdy voice, 'I am Tuxedo Melvin! In the name of Micro$oft, I will punish you!'"
+"%SN says, 'Your mother used a TRS-80!'"
+"%SN says, 'PC's rule and Macs drool!'"
+""
+""
+"del"
+"%SN types in 'echo y|del %T.*', grinning evilly."
+"%SN hits the enter key and deletes %T!"
+"CD-ROM Throw"
+"CDROM"
+1
+"%SN selects a CD-ROM from his library."
+"%SN pulls out a buncha CD-ROMs."
+""
+"%T is hit with a CD-ROM disc."
+"%S2 CD-ROM discs rip through %T!"
+0
+""
+"A CD-ROM disc rips through %T!"
+""
+"%T gets hit with a CD-ROM and laughs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+130
+2
+"Laser Blaster"
+"Laser"
+1
+"%SN pulls out a laser gun."
+"%SN pulls out a laser gun and starts firing like crazy."
+""
+"%SN fires a laser at %T."
+"%SN shoots %T %S2 times with the laser!"
+0
+""
+"%SN fires a laser gun at %T!!"
+""
+"%T ducks %SN's laser blast and gets singed hair."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+120
+2
+"Virus Upload"
+"Virus"
+0
+"%SN attempts to upload a virus to %T."
+""
+""
+"%SN uploads a virus to %T, halving their HP!"
+""
+0
+""
+""
+""
+"%T quickly downloads McAfee VirusScan and extinguishes %SN's virus."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+19
+0
+2
+"HTTP"
+"HTTP"
+0
+"%SN surfs the Internet."
+""
+""
+"%SN pulls up a web page and hits %T with it!"
+""
+0
+""
+"%SN pulls up a web page and hits %T with it!"
+""
+"%T pulls %SN's T-line to the Internet before %SN can download any Web Pages."
+10
+10
+10
+0
+10
+0
+0
+0
+0
+0
+""
+10
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+90
+2
+"Win 95"
+"Win95"
+0
+"%SN prepares to upload Windows 95 to %T."
+""
+""
+"%SN uploads Win95 to %T!!!"
+""
+0
+""
+"%SN installs Win95 on %T's computer, IE and all."
+""
+"%T quickly erases Windows 95 before it can do any harm."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+150
+2
+"Spicy Shrimp Attack"
+"shrimp"
+0
+"%SN holds up several shrimp and tosses them at %T."
+""
+""
+"The spicy shrimp land in %T's eyes, causing them to stumble around blindly!"
+""
+0
+""
+""
+""
+"%T is totally unaffected by %SN's spicy shrimp."
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+20
+2
+"Robotic Clone"
+"rc"
+0
+"%SN shoves %T into a cloning device."
+""
+""
+"The cloning device creates a robotic clone of %T!"
+""
+0
+""
+""
+""
+"The cloning device sputters and dies. %T thwacks %SN with a nearby calculus book."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+253
+0
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

@@ -1,0 +1,560 @@
+"Stahn Aileron "
+"stahn"
+""
+"Stahn"
+"%SN raises Dymlos into the air"
+"%SN jumps into battle as Stahn Aileron "
+ 70 
+ 70 
+ 20 
+ 60 
+ 0 
+"%SN sleeps"
+"%SN holds up his shield"
+"%SN's shield is knocked away"
+""
+""
+""
+""
+""
+"Dymlos"
+"Dymlos glows red."
+"%SN moves around liek he was danceing, slices %T to ribbons with the sword"
+"Sword Charge"
+"att"
+ 0 
+"%SN charges at %T with dymlos"
+""
+""
+"%SN rams into %T and dymlos goes through thier stomach"
+""
+ 0 
+""
+"Symlos flies out of %SNs hands and slices %T to ribbons!!"
+""
+"%T kicks dymlos out of %SN's hands"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 30 
+ 2 
+"Hell Fire"
+"hf"
+ 1 
+"%SN raises Dymlos into the air"
+"%SN raises Dymlos to the sky"
+""
+"small pillars of flame erupt from the ground engulying %T!"
+"%S2 pillars of lava erupt on %T charring them!"
+ 0 
+""
+"a giant worm of fire forms from pillars of flame and ram %T!"
+""
+"%T kicks Dymlos out of %T's hand"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 88 
+ 2 
+"Vortex"
+"vortex"
+ 0 
+"%SN charges at %T"
+""
+""
+"a whirlwind aurounds %SN and he flies upward slashing %T!"
+""
+ 0 
+""
+"a whirlwind aurounds %SN and he flies upward slashing %T!"
+""
+"%SN knocks %T back"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 28 
+ 50 
+ 2 
+"Dragon Blade"
+"db"
+ 1 
+"%SN charges at %T"
+"%SN starts to power up"
+""
+"%SN slices %T 5 times "
+"%SN rams into %T slashing like a madman!! %T is shreaded to ribbons!"
+ 0 
+""
+"%SN slashes %T 5 times"
+""
+"%T knocks %SN back"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 2 
+"Flare Tornado"
+"ft"
+ 0 
+"%SN raises Dymlos up to the sky"
+""
+"Fire spews from the ground around %T's team"
+""
+""
+ 0 
+""
+""
+""
+"%T dodges the attack"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 40 
+ 4 
+"Fire Wall"
+"fw"
+ 0 
+"%SN raises Dymlos high up into the sky!"
+""
+""
+"a wall of fire engulfs %T and nearly burns thier eyes off!"
+""
+ 0 
+""
+"flames erupt from the ground and engulf %T!"
+""
+"%T dodges the spell"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 50 
+ 2 
+"ASSASIN"
+"~assasin"
+ 1 
+"%SN does his best attack, ASSASIN!"
+"%T, you better have a high physical defense."
+""
+"%SN slices %T many times doing an awesome sword dance!"
+"%SN throws Dymlos at %T, Dymlos slices %T 100%S2 times"
+ 0 
+""
+"%SN charges at %T, slices them 50 times and throws them to the ground."
+""
+"%T you lucked out!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 100 
+ 2 
+"Force"
+"force"
+ 1 
+"%SN charges %T"
+"%SN charges %T"
+""
+"%SN forces his shield into %T's gut and a small energy shoves them back"
+"a draogn flies out of %SN's shield and flies into %T!!!"
+ 0 
+""
+"%SN forces his shield into %T's gut and a small energy shoves them back"
+""
+"%T kicks %SN backwards"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

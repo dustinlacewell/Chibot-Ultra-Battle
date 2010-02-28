@@ -1,0 +1,560 @@
+"Callisto"
+"callisto"
+""
+"callisto"
+"A burst of flames singes everyones hair as %SN morphs into the Goddess Callisto!"
+"%SN teleports into battle as Callisto."
+ 0 
+ 60 
+ 100 
+ 60 
+ 0 
+"%SN burns some innocent bystanders."
+"%SN blocks with her sword."
+"%T kicks %SN's sword aside. HOW DARE YOU!"
+"%SN says, 'How've you been?...Any new husbands since the last on I killed?'"
+"%SN screams! {S callisto}"
+"%SN laughs and says, 'Ahh What a pretty day for a blood bath.'"
+""
+""
+"burn"
+"%SN flicks her finger and flames chase after %T."
+"Flames enter %T's body and cook them from the inside out!!"
+"Goddess Fire"
+"gf"
+ 1 
+"%SN extends her index finger."
+"Flames radiate from %SN's body as she shrieks! {S callisto}"
+""
+"A beam of flames emit from %SN's finger and engulf %T!"
+"%SN throws her arms forward and a  <B>HUGE</B> wave of flames blankets %T!!"
+ 0 
+""
+"A beam of flames emit from %SN's finger and engulf %T!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 100 
+ 2 
+"Goddess Lightning"
+"gl"
+ 0 
+"%SN raises her arms and thunder clouds gather overhead."
+""
+"Bolts of lightning rage downwards from the sky and strike %SN's opponents!"
+""
+""
+ 0 
+""
+"%T's hair is on fire!!"
+""
+"%T dodges the bolt of lightning."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 50 
+ 5 
+"Force Toss"
+"ft"
+ 0 
+"%SN flicks her finger in %T's direction."
+""
+""
+"A wave of power emits from %SN's finger and tosses %T into a nearby wall."
+""
+ 0 
+""
+"A wave of power emits from %SN's finger and tosses %T through a wall!!"
+""
+"%T withstands %SN's blast."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 60 
+ 2 
+"Ambrosia"
+"ah"
+ 0 
+"%SN creates some Ambrosia."
+""
+"%SN creates some Ambrosia."
+"%T eats the Ambrosia and it heals them greatly."
+""
+ 0 
+"%SN eats the Ambrosia and it heals them greatly."
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 150 
+ 3 
+"Goddess Bless"
+"gb"
+ 0 
+"%SN raises her arms and a storm of energy surrounds %T."
+""
+"%SN glows with power."
+"%T is showered in ultimate power."
+""
+ 0 
+"%SN is healed in ultimate power."
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 50 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 50 
+ 50 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Sword Slash"
+"ss"
+ 0 
+"%SN pulls out her sword and shrieks."
+""
+""
+"%SN slashes %T an uncounterable amount of times with her sword!"
+""
+ 0 
+""
+"%SN cuts of %T's arm and and presumes to beat them with it!!"
+""
+"%T kicks %SN's sword away."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 80 
+ 2 
+"Hide"
+"hide"
+ 0 
+"%SN raises her hands."
+""
+"%SN teleports away from battle in a burst of flames."
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"%T stabs %SN dead body with a dagger coated in Hindes Blood!"
+""
+""
+""
+""
+""
+""
+""
+""
+""

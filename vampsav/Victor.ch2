@@ -1,0 +1,560 @@
+"Victor Gerdenheim"
+"Victor"
+""
+"Victor"
+"A bolt of lightning strikes %SN, turning them into Victor Gerdenheim!"
+"%SN charges into battle as Victor Gerdenheim."
+ 100 
+ 100 
+ 0 
+ 20 
+ 0 
+"%SN recharges his body."
+"%SN flexes his muscles."
+"%T laughs at %SN's puny attempt to block."
+"%SN zaps everyone in the bum."
+""
+""
+""
+""
+"us"
+"%SN lifts %T up by the neck."
+"%SN shocks %T with hundreds of volts of power! %T head explodes!"
+"Giga Fist"
+"gf"
+ 1 
+"%SN leaps into the air."
+"%SN leaps into the air."
+""
+"%SN's arm grows to massive proportions and he slams it into %T!"
+"%SN's arm grows to massive proportions and he slams it into %T!! Scoring %S2 hits!!"
+ 0 
+""
+"%SN's arm grows to massive proportions and he slams it into %T!"
+""
+"%T jumps back avoiding %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 75 
+ 2 
+"Mega Stake"
+"ms"
+ 0 
+"%SN empowers his fist with lightning."
+""
+""
+"%SN springs forward and slams his fist into %T's chest!"
+""
+ 0 
+""
+"%SN springs forward and slams his fist into %T's chest!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 60 
+ 2 
+"Giga Burn"
+"gb"
+ 0 
+"%SN leaps towards %T."
+""
+""
+"%SN lands his knee in %T's jaw."
+""
+ 0 
+""
+"%SN lands his knee in %T's jaw. %T spits out a couple teeth!!"
+""
+"%T ducks under %SN."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 55 
+ 2 
+"Gyro Crush"
+"gc"
+ 0 
+"%SN spins around and around rapidly."
+""
+""
+"%SN clotheslines %T 5 times!"
+""
+ 0 
+""
+"%SN clotheslines %T over and over!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 60 
+ 2 
+"Thunder Break"
+"tb"
+ 0 
+"%SN leaps into the air."
+""
+""
+"%SN pounds his fists into the floor, sending a bolt of electricity into %T!"
+""
+ 0 
+""
+"%SN slams his fists into the ground, and an orb of electricity engulfs %T! EW EW BURNT HAIR!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 80 
+ 2 
+"Gerdenheim 3"
+"g3"
+ 0 
+"%SN grabs %T inbetween his butt cheeks."
+""
+""
+"%SN squeezes %T with his butt cheeks as a figure above them zaps %T into oblivion!"
+""
+ 0 
+""
+"%SN squeezes %T with his butt cheeks as a figure above them zaps %T into oblivion!"
+""
+"%T escapes from %SN's butt cheeks."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 95 
+ 2 
+"Dark Force"
+"df"
+ 0 
+"%SN looks above as Professor Gerdenheim appears above him."
+""
+""
+"Gerdenheim zaps %SN with a million volts of electricity empowering them greatly!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

@@ -1,0 +1,564 @@
+"Sailor Ceres"
+"Ceres"
+7124
+"ceres"
+"%SN shouts, 'Ceres Asteriod Power Make-up!'"
+"%SN walks in as the leader of the Asteriod Senshi, Sailor Ceres."
+20
+70
+60
+70
+""
+"%SN goes to water her flowers."
+"%SN hides behind a brick wall."
+"%T takes the wall down, brick by brick."
+"%SN screams, 'I am Sailor Ceres! See my flower power!'"
+""
+""
+""
+""
+"aja"
+"%SN summons the others from the Sailor Quartet."
+"The send a blast that rips %T apart."
+"Ceres Sailor Crystal Beam"
+"scb"
+1
+"%SN's sailor crystal glows brightly."
+"%SN's sailor crystal glows brightly."
+""
+"A flood of energy smashes into %T."
+"A massive bolt of energy floods through %T."
+0
+""
+"%T is sent flying into Chaos."
+""
+"%T dodges the attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+28
+120
+2
+"Herbal Healing"
+"hh"
+0
+"%SN takes out several herbs."
+""
+"%SN takes out several herbs."
+"%SN applies the herbs to %T's wounds, healing them."
+""
+0
+"%SN applies herbs to her wounds, healing them."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+50
+0
+0
+0
+0
+2
+80
+3
+"Petal Fury"
+"pf"
+0
+"%SN spins as flower petals spin around her."
+""
+""
+"A fury of petals engulf %T and sends them to the ground."
+""
+0
+""
+"%T is thrown into a deep hole in the ground."
+""
+"%T avoids the fury of petals."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+27
+100
+2
+"Vine Choke"
+"vc"
+0
+"%SN summons several vines."
+""
+""
+"The vines wrap around %T's neck choking them."
+""
+0
+""
+"%T's face turns blue."
+""
+"%T cuts the vines down."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+50
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+27
+60
+2
+"Wolfsbane Attack"
+"wb"
+0
+"%SN puts an ancient healing into %T's tea."
+""
+""
+"%T is poisoned when they realize that wolfsbane was in their drink."
+""
+0
+""
+"%T vomits up blood from the poison."
+""
+"%T refuses to drink the tea."
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"The Asteriod Senshi will never combo again!"
+""
+""
+""
+""
+"%SN summons a flower that eats %T's body."
+""
+""
+""
+""
+""
+""
+""
+""

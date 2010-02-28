@@ -1,0 +1,560 @@
+"Aulbath"
+"Aulbath"
+""
+"Aulbath"
+"%SN rides in on a giant wave as Aulbath, the Merman."
+"%SN rides in on a giant wave as Aulbath, the Merman."
+ 60 
+ 60 
+ 50 
+ 50 
+ 0 
+"%SN rests in a pond of water."
+"%SN expands like a blowfish."
+"%T pops %SN."
+"%SN does Flipper calls."
+""
+""
+""
+""
+"se"
+"%SN throws forth a wave that sweeps %T into the ocean."
+"A giant shark rises up from the deep ocean and eats %T whole!"
+"Sonic Wave"
+"sw"
+ 0 
+"%SN screams, sending an echo of sonic waves towards %T."
+""
+""
+"Sonic waves slam into %T, stunning them!"
+""
+ 0 
+""
+""
+""
+"%T ducks behind a tree."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Poison Cloud"
+"pc"
+ 0 
+"%SN bends backwards and opens his gills."
+""
+""
+"%SN fires off a cloud of poison, completely engulfing %T."
+""
+ 0 
+""
+""
+""
+"%T puts on a gas mask."
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 2 
+"Trick Fish"
+"tf"
+ 0 
+"%SN leaps backwards, as if hiding."
+""
+""
+"%SN quickly spins forward and dashes into %T."
+""
+ 0 
+""
+"%SN quickly spins forward and dashes into %T!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 2 
+"Water Jail"
+"wj"
+ 0 
+"%SN raises his hands, surrounding himself in a cell of water."
+""
+""
+"%SN pushes the Water Jail into %T, which washes away their enhancers."
+""
+ 0 
+""
+""
+""
+"%T dodges %SN's Water Jail."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+-1 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Aquatic Spread"
+"as"
+ 0 
+"%SN's arms morph into several tentacles as he springs them forward."
+""
+""
+"A huge column of water spits up from the ground and engulfs %T."
+""
+ 0 
+""
+"A huge column of water spits up from the ground and engulfs %T!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 70 
+ 2 
+"Sea Rage"
+"sr"
+ 1 
+"%SN throws his arms forward as waves begin to crash."
+"%SN throws his arms forward as waves begin to crash."
+""
+"Tremendous tidal waves crash into %T at %SN's command."
+"A <B>HUGE</B> wave of water crashes down onto %T, sweeping them away!!"
+ 0 
+""
+"Tremendous tidal waves crash into %T at %SN's command! %T is SOAKED!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 100 
+ 2 
+"Dark Force"
+"df"
+ 0 
+"%SN raises his arms as darkness forms around him."
+""
+""
+"Tidal waves rise up and %SN rides atop a Sting Ray, increasing his speed."
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

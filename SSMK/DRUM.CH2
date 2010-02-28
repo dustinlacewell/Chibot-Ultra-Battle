@@ -1,0 +1,564 @@
+"Nega Sailor Drum Major"
+"drum"
+30
+"nega drum major"
+"%SN shouts, 'Drum Major Extreme Power!' and transforms into Nega-Sailor Drum Major! ('Major')"
+"%SN and her band were a bit late to the football game."
+60
+40
+60
+40
+""
+"%SN studies the video of the marching show again."
+"%SN blocks with her cape."
+"%T laughs at %SN's attempt to block."
+"%SN says, 'I am the Drum Major and you WILL stand at attention when fighting me!'"
+"%SN says, 'Don't make me give you demerits!'"
+"%SN shouts, 'Come over HERE and say that!'"
+"%SN orders the band to play their worst sound EVER!"
+""
+"m2d"
+"%SN hypnotizes %T and orders them to march."
+"%T marches off a cliff!!"
+"Drum Major Blast"
+"dmb"
+0
+"%SN salutes %T. %T is confuzzled."
+""
+""
+"%T is knocked off their feet by an invisible explosion!"
+""
+0
+""
+"%T is knocked off their feet by an invisible explosion!"
+""
+"%T avoids %SN's blast."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+90
+2
+"Baton Beam"
+"bb"
+0
+"%SN waves her baton toward %T."
+""
+""
+"A white beam emits from %SN's baton and strikes %T!"
+""
+0
+""
+"A white beam emits from %SN's baton and strikes %T!"
+""
+"%SN's baton spurts sparks, but does nothing else."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+100
+2
+"Fight Song"
+"fs"
+1
+"%SN strikes up the band and directs the fight song."
+"%SN strikes up the band and directs the fight song."
+""
+"The football team tramples over %T."
+"The entire football team (%S2 players) trample %T!!"
+0
+""
+"The football team tramples over %T. %T gets a football spiked on them!"
+""
+"The crowd cheers as the football team scores another touchdown!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+120
+2
+"Tune"
+"Tune"
+0
+"%SN orders the band to play a Concert F pitch."
+""
+""
+"The band is incredibly out of tune. %T covers their ears in agony!"
+""
+0
+""
+"The band is WAY out of tune. %T covers their ears in agony!"
+""
+"For once, the band is in tune! %SN curses out loud."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+30
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+90
+2
+"Tuba Drop"
+"Tuba"
+0
+"One of the Tuba Players left their horn on the ground... %SN gets an idea."
+""
+""
+"%SN drops a Tuba on %T from far above!!"
+""
+0
+""
+"%SN drops a Tuba on %T from far above! <SQUISH>"
+""
+"%T steps to the side just as a tuba falls from the sky."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+"Alma Mater"
+"alma"
+0
+"%SN starts to direct the School Song (Alma Mater)."
+""
+"%SN starts to direct the School Song (Alma Mater)."
+"The band plays the Alma Mater and heals %T."
+""
+0
+"The band plays the Alma Mater and heals %SN."
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+175
+3
+"Conduct Faster"
+"cf"
+0
+"%SN starts conducting faster."
+""
+"%SN's fast conducting causes everyone to move faster."
+""
+""
+0
+""
+""
+""
+"%T is going their own speed and pays no attention to %SN."
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+"Conduct Slower"
+"cs"
+0
+"%SN starts conducting slower."
+""
+"%SN's conducting causes everyone to slow down."
+""
+""
+0
+""
+""
+""
+"%T goes their own speed and ignores %SN."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+"D.M. Stand"
+"stand"
+0
+"%SN hides behind the Drum Major Stand."
+""
+""
+"%SN comes out of hiding."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+66
+0
+8
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+"0"
+""
+""
+""
+""
+""
+"0"
+""
+"It's a Drum Major, hypnotized by Kamek."
+""
+""
+""

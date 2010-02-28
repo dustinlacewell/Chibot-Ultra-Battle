@@ -1,0 +1,560 @@
+"Sheikah "
+"Sheikah"
+""
+"~sheikah"
+"A shadow portal opens and %sn somersaults out as a Sheikah; ' The ones from the shadows '"
+"%sn falls from the heavens as a Sheikah survivor"
+ 0 
+ 60 
+ 100 
+ 60 
+ 0 
+"%sn leaps back into the shadow realm for rest"
+"%sn raises a curtain of shadows for defense"
+"%sn's shield is disrupted by light..shields down.."
+"%sn says nothing.."
+""
+""
+""
+""
+"shadows"
+"%sn snaps his fingers, and a horde of shadow reapers come forth"
+"%sn points at %t and the shadow reapers drag %t into the realm of DEATH!! Bwahaha!! [cough, hack]"
+"Sheikah Bandage Wrap"
+"sbw"
+ 0 
+"%sn unrolls a long strand of mystik Sheikah bandage and throws it into the air"
+""
+""
+"The bandages glow yellow and slithers around %t, branding him a Neo-Sheikah!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 100 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Sheikah Life Empowerment"
+"life"
+ 0 
+"%sn raises his hands, and a portal of shadow opens in the ground"
+""
+""
+"%sn snaps his fingers, and %t's soul pops out of the shadow, and re-renters %t!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 17 
+ 0 
+ 3 
+"Sheikah Shadow Blade"
+"ssb"
+ 1 
+"%sn snaps, and a swirl of shadows form around his arm, shaping a sword"
+"%sn whistles, and a heavy swirl of shadows form a crude axe on his arm"
+""
+"%sn sprints and slices %t with his shadow blade!"
+"%sn teleports 20 feet above %t and falls axe first in a vertical death slash!"
+ 0 
+""
+"%sn sprints and slices %t with his shadow blade repeatedly!"
+""
+"%sn takes a running slice at %t but misses narrowly"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 90 
+ 2 
+"Sheikah Split Attack"
+"ssa"
+ 0 
+"%sn summons a flock of shadow demons, and commands them to attack his enemies"
+""
+""
+"A shadow demon swoops down and gorges on %t!"
+""
+ 0 
+""
+"A shadow demon swoops down and gorges on %t!"
+""
+"A demon swoops down but misses %t!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 19 
+ 0 
+ 2 
+"Sheikah Third Eye"
+"ste"
+ 0 
+"%sn closes his eyes, and a third eye opens in his forehead!"
+""
+""
+"With the power of truth, %sn decodes %t's secrets...use his weaknesses against him!"
+""
+ 0 
+""
+""
+""
+"%sn attempts to find %t's weaknesses, but %t seems...invincible?? Nah, it just missed ^_^"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 23 
+ 0 
+ 2 
+"Sheikah Hyper Beam"
+"shb"
+ 1 
+"%sn holds out an open palm, and lines of building energy radiate from it"
+"%sn somersaults in the air, and holds both of his hands out, slowly gathering energy"
+""
+"%sn jams his hand out in front of him, and a beam of energy blasts %t!"
+"%sn strikes both of his hands together forming a cataclysmic force beam that grazes %t!"
+ 0 
+""
+"%sn jams BOTH of his arms in front of him and blasts %t away with a double energy beam!"
+""
+"%sn fires a beam at %t but he/she dodges it quickly. (nuts..)"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 90 
+ 2 
+"Sheikah Shadow Hold"
+"ssh"
+ 0 
+"%sn shouts, and a large shadow portal opens"
+""
+""
+"%sn clenches his fist, and a large shadow hand leaps out of the ground and holds %t tight!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Sheikah Heal Spell"
+"shs"
+ 0 
+"%sn clasps his hands, and a blue wind starts circling the arena"
+""
+"%sn raises his hands and chants a heal spell"
+"%t is circled by blue winds and feels refreshed!"
+""
+ 0 
+"%t feels refreshed!"
+"%t is circled by blue winds and feels invigorated!"
+""
+"The blue wind however misses %t"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 220 
+ 1 
+"Sheikah Banish Spell"
+"sbs"
+ 0 
+"%sn puts his hands together, and charges up Shadow Ki"
+""
+""
+"%sn spreads his hands apart and a large shadow portal sucks %t in!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 99 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Sheikah Dark Shield"
+"sds"
+ 0 
+"%sn lifts his arms and raises a black dome around himself"
+""
+""
+"%sn's shadow barrier flickers, and disappears"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 66 
+ 0 
+ 8 
+"Sheikah Strike Illusion"
+"ssi"
+ 1 
+"%sn squints his eyes, and illusionary shadow doubles of him surround the arena!"
+"%sn squints his eyes, and illusionary shadow doubles of him surround the arena!"
+"%sn's shadow clone leaps and jump kicks %t!"
+"%sn's shadow clone leaps and jump kicks %t!"
+"%sn's shadow clone initiates a mega combo on %t!"
+ 0 
+""
+"%sn's shadow clone blasts %t with an energy blast!"
+""
+"%t dodges and kills %sn's shadow clone!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 70 
+ 4 
+"Sheikah Silence Mute"
+"ssm"
+ 0 
+"%sn opens a small hovering magic portal in the air"
+""
+""
+"%sn snaps, and the magic portal sucks in %t's magic powers!"
+""
+ 0 
+""
+"%sn snaps, and the magic portal sucks in %t's magic powers!"
+""
+"%sn attempted to suck %t's magic powers..but failed!"
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"%sn laughs, and vanishes. Heh..%t only beat %sn's shadow..."
+""
+""
+""
+""
+"%sn drags %t into a shadow void, as to conserve space in the living world.."
+""
+""
+""
+""

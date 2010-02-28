@@ -1,0 +1,560 @@
+"Sailor Musica"
+"Musica"
+""
+"Musica"
+"%SN holds up the Music Crystal and whispers ''Power of the note change me into Sailor Musica!''"
+"A soft tune plays as %SN turns into Sailor Musica"
+ 17 
+ 20 
+ 83 
+ 100 
+ 0 
+"%SN goes to compose a lovely song"
+"%SN sings, transfixing %T"
+"%SN ignores the singing"
+"%SN chants ''You shall succumb to the power of the Music Crystal''"
+""
+""
+""
+""
+"vibrations"
+"%SN sings softly and the ground shakes"
+"The groud rips open under %T and %T falls in screaming"
+"Lightning Strike Sonata"
+"lss"
+ 1 
+"%SN sings a soft melody and the clouds thicken"
+"%SN hums a tune and the clouds blacken"
+""
+"%T is struck with a bolt of lightning"
+"the clouds open and a shaft of lightning sears %T"
+ 0 
+""
+"%T is hit with many lightning bolts"
+""
+"the skies calm"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 90 
+ 2 
+"Sweet Concerto"
+"sc"
+ 0 
+"%SN sings a melodious tune"
+""
+""
+"The tune lulls %T to sleep"
+""
+ 0 
+""
+""
+""
+"%T puts in earplugs"
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 29 
+ 100 
+ 2 
+"Soundwave Flare"
+"sf"
+ 0 
+"%SN sings and a fire springs up"
+""
+""
+"%T is burnt by the flame"
+""
+ 0 
+""
+"%T is consumed in flame"
+""
+"%T is protected from the fires"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 70 
+ 2 
+"Song of Serenity"
+"sos"
+ 0 
+"%SN sings a beautiful melody"
+""
+""
+"%SN's song grants her life beyond death"
+""
+ 0 
+""
+""
+""
+"%SN's voice goes out"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Sweet Music Bless"
+"smb"
+ 0 
+"%SN sings a gentle song"
+""
+""
+"%SN feels invigorated by the song and is blessed"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Whirl Wind Tune"
+"wwt"
+ 0 
+"%SN sings a song of the winds"
+""
+""
+"A whirlwind springs up and smacks %T"
+""
+ 0 
+""
+"%T is taken by the wind and never seen again"
+""
+"The winds fail to heed the song"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 28 
+ 150 
+ 2 
+"Ocean Concerto"
+"oc"
+ 0 
+"%SN sings a faint melody"
+""
+""
+"Waves of water washes over %T"
+""
+ 0 
+""
+"Water rips through %T"
+""
+"The waters calm"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 150 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+"%SN whispers ''I will live on in my music''"
+""
+""
+""
+""
+"%SN closes her eyes ''another wasted life...''"
+""
+""
+""
+""

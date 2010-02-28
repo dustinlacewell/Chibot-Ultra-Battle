@@ -1,0 +1,84 @@
+[Setup Wizard Template]
+TemplateDate=06/19/1999 15:08:43
+
+[Select Project and Options]
+txtProjFile=C:\WINDOWS\Desktop\ChUB\Chibot Source\Chub.vbp
+chkProjRebuild=0
+optBldSetup=True
+chkIncludeDEP=0
+optInternet=False
+optDEPOnly=False
+
+[Distribution Method]
+optFloppyTarg=False
+optSingleDirTarg=True
+optMultDirTarg=False
+
+[Single Directory]
+cboFloppyDrives=0
+cboFloppyDriveSize=0
+txtDirTarget=C:\WINDOWS\Desktop\ChUB\SESetup\
+
+[Internet Package]
+optRemoteSite=True
+optLocalSite=False
+txtLocalSite=
+
+[Data Access]
+chkUseJet=1
+chkUseODBC=0
+Isam0=
+
+[ActiveX Server Components]
+File1=
+
+[Confirm Dependencies]
+File1="C:\WINDOWS\SYSTEM\COMDLG32.OCX",True,32764
+File2="C:\WINDOWS\Desktop\ChUB\Chibot Source\311.DLL",True,32762
+File3="C:\WINDOWS\SYSTEM\MSWINSCK.OCX",True,32764
+File4="C:\WINDOWS\SYSTEM\COMCT232.OCX",True,32764
+File5="C:\WINDOWS\SYSTEM\RICHTX32.OCX",True,32764
+File6="C:\WINDOWS\SYSTEM\SYSINFO.OCX",True,32764
+File7="C:\WINDOWS\SYSTEM\RMOC3260.DLL",True,32764
+File8="C:\WINDOWS\DESKTOP\CHUB\CHIBOT SOURCE\COMCTL32.OCX",True,32764
+File9=
+
+[Shared ActiveX Application]
+optDeployApplication=True
+optDeployShared=False
+optRemoteServer1=True
+optRemoteServer0=False
+
+[File Summary]
+File1="C:\WINDOWS\SYSTEM\MSVBVM50.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File2="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\StdOle2.tlb",True,"$(WinSysPathSysFile)",$(TLBRegister),False
+File3="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OleAut32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File4="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OlePro32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File5="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\AsycFilt.dll",True,"$(WinSysPathSysFile)",,False
+File6="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\Ctl3d32.dll",True,"$(WinSysPathSysFile)",,False
+File7="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\ComCat.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File8="C:\WINDOWS\SYSTEM\COMDLG32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File9="C:\WINDOWS\Desktop\ChUB\Chibot Source\311.DLL",True,"$(WinSysPath)",,True
+File10="C:\WINDOWS\SYSTEM\MSWINSCK.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File11="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\AXDist.exe",True,"$(WinSysPath)",,True
+File12="C:\WINDOWS\SYSTEM\COMCT232.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File13="C:\WINDOWS\SYSTEM\RICHTX32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File14="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\RichEd32.dll",True,"$(WinSysPathSysFile)",,False
+File15="C:\WINDOWS\SYSTEM\SYSINFO.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File16="C:\WINDOWS\SYSTEM\RMOC3260.DLL",True,"$(WinSysPath)",,True
+File17="C:\WINDOWS\DESKTOP\CHUB\CHIBOT SOURCE\COMCTL32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File18="C:\WINDOWS\Desktop\ChUB\Chibot Source\ChUBSE.exe",True,"$(AppPath)",,False
+File19="C:\WINDOWS\Desktop\ChUB\Add_C2KSE_Sounds.exe",True,"$(AppPath)",,False
+File20="C:\WINDOWS\Desktop\ChUB\Add_MIDI_Music.exe",True,"$(AppPath)",,False
+File21="C:\WINDOWS\Desktop\ChUB\ArenaEd.exe",True,"$(AppPath)",,False
+File22="C:\WINDOWS\Desktop\ChUB\CharEdit.exe",True,"$(AppPath)",,False
+File23="C:\WINDOWS\Desktop\ChUB\Beta 2 -- READ THIS FIRST, HOSERS!.txt",True,"$(AppPath)",,False
+File24="C:\WINDOWS\Desktop\ChUB\C2KData.txt",True,"$(AppPath)",,False
+File25="C:\WINDOWS\Desktop\ChUB\C2KPlay.txt",True,"$(AppPath)",,False
+File26="C:\WINDOWS\Desktop\ChUB\C2KSEHost.txt",True,"$(AppPath)",,False
+File27="C:\WINDOWS\Desktop\ChUB\Data.exe",True,"$(AppPath)",,False
+File28="C:\WINDOWS\Desktop\ChUB\ItemEdit.exe",True,"$(AppPath)",,False
+File29="C:\WINDOWS\Desktop\ChUB\MovEdit.exe",True,"$(AppPath)",,False
+File30="C:\WINDOWS\Desktop\ChUB\WpnEdit.exe",True,"$(AppPath)",,False
+File31="C:\WINDOWS\SYSTEM\Vbrun300.dll",True,"$(WinSysPath)",,True
+File32="C:\WINDOWS\Desktop\ChUB\Chibot Source\ChUBSE Alternate.exe",True,"$(AppPath)",,False

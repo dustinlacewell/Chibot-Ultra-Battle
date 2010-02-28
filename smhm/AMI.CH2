@@ -1,0 +1,564 @@
+"Ami"
+"Ami"
+0
+"ami"
+"%SN walks in as the wanna be brianiac, Ami."
+"%SN appears as the would be Mercury, Ami."
+20
+50
+60
+90
+""
+"%SN studies for her math final."
+"%SN hides behind a tree."
+"The tree is blasted to smithereens."
+"%SN screams, 'I won't let you down my friends.'"
+""
+""
+""
+""
+"acl"
+"%SN accidently hits the wrong button on her computer."
+"The computer fires a laser beam that vamporises %T."
+"Spinning Mercury Kick"
+"smk"
+1
+"%SN does a hand stand."
+"%SN does a hand stand."
+""
+"%SN spins around and knocks %T backwards."
+"%SN spinds knocking %T threw a window."
+0
+""
+"%T goes flying!"
+""
+"%SN gets dizzy and stops spinning."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+40
+2
+"Computer Analyze"
+"analyze"
+0
+"%SN pulls out her computer and tries to find all of %T's weaknesses."
+""
+""
+"The computer reveals all the weaknesses."
+""
+0
+""
+""
+""
+"%SN finds nothing."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+23
+0
+2
+"Ice Ribbons Trap"
+"irt"
+0
+"%SN cries, 'Mercury Power!'"
+""
+""
+"%SN's icey ribbons wrap around %T."
+""
+0
+""
+"The ribbons strangle %T."
+""
+"%T burns the ribbons."
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Mercury Power"
+"mp"
+1
+"%SN prays to the powers of Mercury."
+"%SN prays to Mercury."
+""
+"The powers of Mercury blast %T."
+"The powers of Mercury beam down on %T."
+0
+""
+"%T is a stiff."
+""
+"%T kicks %SN before she can finish praying."
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+28
+80
+2
+"Mercury Power Protection"
+"protection"
+0
+""
+""
+"%SN calls to Mercury to protect her friends."
+""
+""
+0
+"%SN's energy heals her and her friends."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+100
+0
+0
+0
+0
+0
+0
+2
+50
+1
+"Slap"
+"slap"
+1
+"%SN tries to slap %T."
+"%SN tries to slap %T."
+""
+"%SN slaps %T across the face!"
+"%SN slaps %T across the face until they are bleeding."
+0
+""
+"%T's face is red!"
+""
+"%T runs from the angry %SN."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+20
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+2
+"Doubt"
+"doubt"
+0
+"%SN starts doubting herself."
+""
+""
+"%SN's doubt spreads to %T and it's so strong it causes them to lose their powers!"
+""
+0
+""
+"%SN's doubt spreads to %T and it's so strong it causes them to lose their powers!"
+""
+"%T lifts %SN's cofidence back up."
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Bonne Attack"
+"~ba"
+1
+"%SN accidently summons the genius loci, Bonne!"
+""
+""
+"Bonne see's %T and slices them to peices with paper cuts!"
+""
+0
+""
+"Bonne see's %T and slices them to peices with paper cuts!"
+""
+"%T runs away from Bonne in terror."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+150
+2
+"Love Letter Scream"
+"lls"
+1
+"%SN gets a love letter."
+"A love letter magically appears in %SN's locker."
+""
+"%SN turns bright red and releases a horrible wail that knocks %T backwards."
+"%SN holds up the love letter and releases a school leveling scream and %T gets caught in the school debris!"
+0
+""
+"%SN releases a wail like a banshee that sends %T flying!"
+""
+"%T rips up the love letter so that %SN won't scream."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+100
+2
+"Setsuna Help"
+"sh"
+0
+"%SN can't henshin and thinks about Setsuna."
+""
+""
+"The thought of Setsuna gives %SN the strength to henshin again."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+50
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+50
+0
+0
+0
+0
+0
+0
+8
+""
+""
+0
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+0
+""
+""
+""
+"%T runs."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"%SN let her friends down AGAIN."
+""
+""
+""
+""
+"%SN killed someone? HOW?"
+""
+""
+""
+""
+""
+""
+""
+""

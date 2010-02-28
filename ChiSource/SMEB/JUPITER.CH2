@@ -1,0 +1,564 @@
+"SailorStar Jupiter"
+"jupiter"
+2527
+"jupiter"
+"%SN shouts, 'Jupiter Crystal Power, Make Up!'"
+"%SN arrives as SailorStar Jupiter!"
+80
+75
+40
+25
+""
+"%SN practices new recipes from her new cookbook."
+"%SN plants her feet firmly into the ground and braces herself for an attack."
+"%T laughs at %SN's pathetic attempt to block."
+"%SN says, 'You're ancient history, creep!'"
+"%SN jumps forward and says, 'Pick on someone your own size! Like me!'"
+"%SN says, 'You're looking for trouble? My middle name is trouble. I am Sailorjupiter!'"
+""
+""
+"mes"
+"%SN raises her hands and summons masses of lightning."
+"%T is struck by a massive bolt of lightning that explodes their head!!"
+"Supreme Thunder"
+"stc"
+0
+"%SN gathers lightning from the sky."
+""
+""
+"%SN shoots lightning at %T."
+""
+0
+""
+"%T is electrocuted by %SN's lightning!"
+""
+"%T blocks %SN's lightning."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+70
+2
+"Super Supreme Thunder"
+"sst"
+0
+"%SN's transformation wand sparkles with energy as she shouts, 'Super Supreme Thunder!'"
+""
+""
+"%T is blasted by %SN's Super Thunder!"
+""
+0
+""
+"%T is zapped by %SN's lightning!!"
+""
+"%T blocks %SN's lightning."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+90
+2
+"Supreme Thunder Dragon"
+"std"
+0
+"%SN forms a Dragon out of lightning."
+""
+""
+"A Thunder Dragon crashes down onto %T."
+""
+0
+""
+"%SN's Thunder Dragon strikes and knocks %T down!"
+""
+"%T steps to the side as %SN's Dragon crashes into the earth harmlessly."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+80
+2
+"Sparkling Wide Pressure"
+"swp"
+0
+"%SN claps her hands together and forms a ball of lightning."
+""
+""
+"%SN hurls the ball of Lightning at %T!"
+""
+0
+""
+"%SN throws the lightning ball and knocks %T over like a bowling pin!"
+""
+"%SN was never a good pitcher. Her lightning missed by a mile!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+100
+2
+"Jupiter Oak Evolution"
+"joe"
+1
+"%SN begins to twirl."
+"%SN spins around and around."
+""
+"%SN twirls rapidly, shooting balls of lightning at %T."
+"%SN releases balls of lightning at %T. Yeow!!!"
+0
+""
+"%SN shoots balls of lightning at %T! Ouch that hurts!"
+""
+"%T trips %SN in mid-twirl."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T trips %SN and %SN falls down like Usagi."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+125
+2
+"Throw 'em"
+"Throw"
+1
+"%SN runs up to %T."
+"%SN runs up to %T."
+""
+"%SN picks up %T and hurls them across the room!"
+"%SN performs an awesome-looking sequence of physical moves on %T."
+0
+""
+"%SN picks up %T and throws them into a wall!"
+""
+"%T knocks %SN away."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Flower Hurricane"
+"fh"
+0
+"%SN spins around and flowers begin to encircle her."
+""
+""
+"%SN unleashes a hurricane of flowers onto %T."
+""
+0
+""
+"%SN unleashes a hurricane of flowers onto %T!"
+""
+"%T grabs a flower and smells its sweet aroma."
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+50
+2
+"Jupiter Thunder Wave"
+"jtw"
+0
+"%SN's tiara crackles with lightning."
+""
+"%SN emits waves of lightning around her, sweeping the entire room."
+""
+""
+0
+""
+""
+""
+"%T sidesteps %SN's thunder waves."
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+70
+5
+"Physical Attack"
+"att"
+0
+"%SN jumps toward %T."
+""
+""
+"%SN executes a flying kick on %T!"
+""
+0
+""
+"%SN air-punches %T and follows up with a roundhouse kick!"
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Jupiter Coconut Cyclone"
+"jcc"
+0
+"The antenna in %SN's tiara extends and grows brightly with energy."
+""
+""
+"%SN shouts, 'Jupiter Coconut Cyclone' and fires a cyclone of lightning at %T."
+""
+0
+""
+"%SN shouts, 'Jupiter Coconut Cyclone!' and a Palm Tree falls on top of %T!"
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+120
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

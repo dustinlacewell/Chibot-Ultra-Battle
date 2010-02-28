@@ -1,0 +1,564 @@
+"Ash Ketchum"
+"Ash"
+""
+"Ash"
+"%SN is now Ash Ketchum, Pokémon Trainer."
+"%SN joins in as Ash Ketchum."
+50
+60
+50
+60
+"Bulbasaur shoots razor leaves at %T, knocking them away."
+"%SN rests at a Pokémon Center."
+"%SN shouts, ''Bulbasaur, go! Razor Leaf on %T, now!''"
+"%T dodges Bulbasaur's razor leaves."
+"%SN shouts, ''I am Ash Ketchum, and I am destined to be the world's greatest Pokémon master!''"
+""
+""
+""
+""
+"pokeball"
+"%SN shouts, ''Pokéball, go!'' and throws it at %T!"
+"The Pokéball opens up and traps %T inside. ''I did it!'' yells %SN."
+"Pikachu: Thundershock"
+"pika ts"
+0
+"''Pikachu, thundershock, now!'' shouts %SN."
+""
+"''Piiikaaaachuuu!!'' cries Pikachu as it shoots thunder throughout the arena."
+""
+""
+0
+""
+"%T is electrified!!"
+""
+"%T wears rubber boots and ignores the thundershock."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+70
+5
+"Pikachu: Thunderbolt"
+"pika tb"
+1
+"%SN points at %T and shouts, ''Pikachu, thunderbolt!''"
+"%SN shouts, ''Pikachu, give %T a thunderbolt! Hit it with your best shock!''"
+""
+"''Piiikaaachhuuu!!!!'' %T is zapped!"
+"Pikachu emits masses of electricity, electrocuting %T into dust."
+0
+""
+"''PIKACHUUUUU!!!'' %T is electrocuted!"
+""
+"%T wears rubber boots and ignores the thunderbolt."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+90
+2
+"Charmander: Flame Thrower"
+"char ft"
+1
+"%SN shouts, ''Charmander, flame thrower!'' and throws a Pokéball at %T."
+"%SN shouts, ''Charmander, rage attack, now!'' Charmander dashes at %T in a rage."
+""
+"Charmander comes out of the Pokéball and burns %T up with Flame Thrower!"
+"Charmander beats the @#$^ out of %T and burns them with its fire breath."
+0
+""
+""
+""
+"Charmander comes out of the Pokéball, but %T hoses it down with a Water Hoser."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+90
+2
+"Bulbasaur: Vine Whip"
+"bulba vw"
+0
+"%SN shouts, ''Bulbasaur, vine whip!'' and throws a Pokéball at %T."
+""
+""
+"Bulbasaur comes out of the Pokéball and wraps %T up in its vine whip."
+""
+0
+""
+""
+""
+"Bulbasaur comes out of the Pokéball and shoots its vine whips at %T, but %T quickly gets out of the way."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+50
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+71
+50
+2
+"Bulbasaur: Razor Leaf"
+"bulba rl"
+0
+"%SN calls out Bulbasaur, ''Razor leaf, now!''"
+""
+"''Bulbasaur!'' Bulbasaur covers the area with sharp razorlike leaves."
+""
+""
+0
+"Bulbasaur returns to its Pokéball."
+"%T is pricked by a razor leaf!"
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+71
+80
+5
+"Pidgeotto: Gust"
+"pidge gust"
+1
+"%SN shouts, ''Pidgeotto, go! Gust attack!''"
+"%SN calls out Pidgeotto. ''Go, Pidgeotto! Powerful gust! Hit %T with your best flap!''"
+""
+"Pidgeotto flaps its wings and sends %T into a spinning cyclone!"
+"Pidgeotto flaps its wings so fast that a whirlwind carries %T away to oblivion!"
+0
+""
+""
+""
+"%T fires a SAM, knocking Pidgeotto out of the air."
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+28
+90
+2
+"Butterfree: Stun Spore"
+"butter ss"
+0
+"%SN sends out Butterfree. ''Stun Spore attack, now!''"
+""
+"Butterfree flies over the arena, spreading stun spores."
+""
+""
+0
+"Butterfree returns to its Pokéball."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+40
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+"Butterfree: Sleep Powder"
+"butter sp"
+0
+"%SN sends out Butterfree. ''Go, Butterfree, sleep powder!''"
+""
+"Butterfree flies over the arena and releases sleep powder."
+""
+""
+0
+"Butterfree returns to its Pokéball."
+""
+""
+""
+0
+0
+0
+40
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%SN sees Pikachu is getting its ass whooped and forfeits."
+""
+""
+""
+""
+"%SN cries, ''Yes! I have defeated %T!''"
+""
+""
+""
+""
+"Ash Ketchum is a young boy from Pallet Town."
+"His dream is to become the world's greatest Pokémon master."
+""
+""

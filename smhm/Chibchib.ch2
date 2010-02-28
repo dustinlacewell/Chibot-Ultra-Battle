@@ -1,0 +1,560 @@
+"ChibChib"
+"ChibChib"
+""
+"chibi-chibi"
+"%SN says, 'ChibiChibi?'"
+"%SN steps out as the cute little Sailor Senshi, ChibiChibi."
+ 30 
+ 50 
+ 50 
+ 90 
+ 0 
+"%SN giggles and grins."
+"%SN opens an umbrella and lowers it infront of her."
+"%T snaps the umbrella in two."
+""
+""
+""
+""
+""
+"cs"
+"%SN walks across the street without looking."
+"%SN doesn't look and %T runs out after her and gets hit by a car."
+"ChibiChibi Fall"
+"ccf"
+ 0 
+"%SN walks on a wall above %T."
+""
+""
+"%SN falls down and %T stops what they are doing and runs to catch %SN."
+""
+ 0 
+""
+""
+""
+"%T ignores %SN."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"ChibiChibi Poison Candy"
+"pc"
+ 0 
+"%SN gives %T a piece of candy."
+""
+""
+"%T gobbles down the candy and their face turns green."
+""
+ 0 
+""
+""
+""
+"%T doesn't eat the candy."
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"ChibiChibi Doughnut"
+"doughnut"
+ 0 
+"%SN gives %T a doughnut."
+""
+"%SN gobbles down a doughnut."
+"%T feels better from the doughnut."
+""
+ 0 
+"%SN giggles and is healed from the doughnut."
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 50 
+ 3 
+"Candy Give"
+"cg"
+ 0 
+""
+""
+"%SN gives candy to everyone on her team."
+""
+""
+ 0 
+"Everyone eats the candy and feels better."
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 50 
+ 3 
+"ChibiChibi Power up"
+"pu"
+ 0 
+"%SN flies towards %T."
+""
+"%SN glows pink."
+"%T and %SN's hands meet and %SN gives them a new power."
+""
+ 0 
+"%SN gains new strength from the energy."
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"ChibiChibi Sword"
+"ccs"
+ 1 
+"%SN turns into a sword for Sailor Moon to wheild."
+"%SN turns into a HUGE sword for Sailor Moon."
+""
+"Sailor Moon rams the sword through %T."
+"Sailor Moon slices through %T with the sword."
+ 0 
+""
+"%T coughs up blood."
+""
+"%T catches the sword and breaks it in two."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 
+ 100 
+ 2 
+"Chibichibi revive"
+"ccr"
+ 0 
+"%SN appears to the dead %T."
+""
+""
+"%T returns to the world of the living."
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 17 
+ 0 
+ 3 
+"Legendary Chalice Blast"
+"lcb"
+ 1 
+"Usagi fants before she can henshin leaving her chalice with %SN."
+"Galaxia appears and knockes Usagi over leaving %SN with the legendary chalice."
+""
+"%SN gets angry at %T and blast them with the power of the chalice."
+"The power of the chalice rips through %T as %SN holds it aloft."
+ 0 
+""
+"%SN gets angry at %T and blast them with the power of the chalice."
+""
+"Usagi wakes up and henshins."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 
+ 150 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

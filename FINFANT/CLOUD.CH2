@@ -1,0 +1,564 @@
+"Cloud Strife"
+"cloud"
+""
+"cloud"
+"The Ultima Weapon materializes into %SN's hands as they become Cloud Strife."
+"%SN joins the battle as Cloud Strife."
+50
+60
+50
+60
+""
+"%SN returns to Nibelheim to rest."
+"%SN blocks with the Ultima Weapon."
+"%SN clumsily drops his sword."
+"%SN shrugs."
+""
+""
+""
+""
+"ch"
+"%SN begins to initiate 'Climhazzard'"
+"%SN stabs his sword into %T's gut then leaps into the air, ripping %T into two parts!!"
+"Braver"
+"braver"
+0
+"%SN focuses his energy into his sword."
+""
+""
+"%SN swipes his massive sword across %T's chest."
+""
+0
+""
+"%SN swipes his massive sword across %T's chest! Blood spurts everywhere!!"
+""
+"%T dodges %SN's blade swipe."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+65
+2
+"Cross Slash"
+"cs"
+0
+"%SN swipes his sword across %T's body, creating many bands of energy."
+""
+""
+"The bands of energy enclose on %T, holding them tight."
+""
+0
+""
+""
+""
+"%T dodges %SN's Cross Slash."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Blade Beam"
+"bb"
+0
+"%SN swings his sword, releasing a massive beam of energy."
+""
+"A beam of energy rips through %T, then splits into many and strikes %T's teammates!"
+""
+""
+0
+""
+"%T screams in agony!!"
+""
+"%T dodges the blade beam."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+30
+50
+4
+"Attack"
+"att"
+0
+"%SN charges at %T."
+""
+""
+"%SN smacks %T in the head with the butt of his sword."
+""
+0
+""
+"%SN smacks %T in the head with the butt of his sword!"
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+20
+2
+"Meteorain"
+"mr"
+0
+"%SN leaps into the air, and swings his sword downward."
+""
+""
+"Massive meteors rain down onto %T, at %SN's command."
+""
+0
+""
+"Massive meteors slam into %T in rapid succession!!"
+""
+"%T dodges the barrage of raining comets."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+27
+70
+2
+"Finishing Touch"
+"ft"
+0
+"A high pitched chime is heard as %SN charges his sword with power."
+""
+""
+"%SN swings his sword forward and a huge typhoon sweeps %T high into the sky."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Omnislash"
+"os"
+1
+"%SN begins to initiate his limit break, 'Omnislash'"
+"%SN begins to initiate his limit break, 'Omnislash'"
+""
+"%SN unleashes a horrendous frenzy of slashes and cuts on %T!"
+"%SN goes into a slashing frenzy, hacking at %T 2%S2 times!!"
+0
+""
+"%SN unleashes a horrendous frenzy of slashes and cuts on %T!"
+""
+"Eh...%SN you didn't learn 'Omnislash' yet, go back to Gold Saucer!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+100
+2
+"Restore Materia"
+"cure"
+0
+"%SN equips Restore Materia, and begins to cast 'Cure3'"
+""
+"%SN equips Restore Materia, and begins to cast 'Cure3'"
+"Brilliant sparkles of multi-colored light surround %T."
+""
+0
+"Brilliant sparkles of multi-colored light surround %SN."
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+100
+3
+"Destruct Materia"
+"destruct"
+0
+"%SN equips Destruct Materia, and begins to cast 'DeBarrier'"
+""
+""
+"%SN destroys %T's protective barriers."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-1
+-1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Restore Materia"
+"regen"
+0
+"%SN equips Restore Materia and begins to cast 'Regen'"
+""
+""
+"%SN casts, 'Regen' on %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+"Summon Materia I"
+"shiva"
+0
+"%SN begins to summon Shiva."
+""
+""
+"Shiva floats down from the sky and casts, 'Diamond Dust' on %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Summon Materia II"
+"~kotr"
+0
+"%SN begins to cast the all powerful summon spell, 'Knights of the Round'"
+""
+""
+"The Knights of the Round appear in a huge lynch mob and beat the F<tos> out of %T!!"
+""
+0
+""
+"The Knights of the Round appear in a huge lynch mob and beat the F<tos> out of %T!!"
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+200
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Whoever made this character screwed up!"
+"It's 'Climhazzard' not 'Climb Hazzard' ~_~"
+""
+""

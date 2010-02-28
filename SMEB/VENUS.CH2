@@ -1,0 +1,564 @@
+"SailorStar Venus"
+"venus"
+2621
+"venus"
+"%SN shouts, 'Venus Crystal Power, Make Up!'"
+"%SN arrives as SailorStar Venus!"
+60
+50
+60
+50
+""
+"%SN catches the latest Sailor V flick."
+"%SN blocks with a giant heart shield."
+"%T rips through %SN's heart shield."
+"%SN says, 'I am the goddess of love, Sailorvenus! I will punish you in the name of love!'"
+"%SN says with a smile, 'All's fair in love and war!'"
+""
+""
+""
+"vsm"
+"%SN pulls out the Stone Sword and charges at %T."
+"%SN hacks and slashes at %T!! %T is nothing but a pile of flesh!!"
+"Crescent Beam"
+"cbeam"
+0
+"%SN emits a beam from her finger."
+""
+""
+"A beam of light smashes into %T!"
+""
+0
+""
+"A beam of light smashes into %T!"
+""
+"%T ducks %SN's crescent beam."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+80
+2
+"Crescent Beam Shower"
+"cbs"
+0
+"%SN emits a beam from her finger."
+""
+""
+"%SN's beam splits into many and shower down onto %T!"
+""
+0
+""
+"%SN's beam splits into many and pour down onto %T!!"
+""
+"%T dives out of the way of %SN's crescent beam shower."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+90
+2
+"Venus Wink Chain Sword"
+"vwcs"
+0
+"%SN strikes the ground in front of %T with a love chain."
+""
+""
+"A column of yellow energy rises up and engulfs %T."
+""
+0
+""
+"%SN smacks %T with the love chain and a column of energy erupts in their body!"
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+95
+2
+"Venus Love Me Chain"
+"vlmc"
+1
+"%SN becomes surrounded in a column of light as a love chain rises up around her."
+"%SN forms an incredibly long chain of hearts."
+""
+"%SN wraps her Love Chain around %T and squeezes them tightly."
+"%SN's Super Love Chain wraps around %T and nearly squeezes the life out of them!!"
+0
+""
+"%SN wraps her Love Chain around %T and squeezes them tightly!!"
+""
+"%SN's Love Chain hits %T with no damage done!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+100
+2
+"Venus Love And Beauty Shock"
+"vlabs"
+1
+"%SN blows a kiss and hearts begin to chase around her."
+"%SN blows a kiss and hearts begin to chase around her."
+""
+"A heart blasts through %T's chest."
+"%S2 glowing hearts blast through %T's body!! %T lets out a scream of pain!"
+0
+""
+"A heart blasts through %T's chest! %SN's shock overwhelms %T!!"
+""
+"%T laughs and sidesteps %SN's shock."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+110
+2
+"Rolling Heart Vibration"
+"rhv"
+1
+"%SN creates a giant heart inbetween her hands."
+"%SN creates an enormous Heart."
+""
+"%SN sends a giant heart spiraling into %T."
+"%T is flattened into a pancake by the giant heart!"
+0
+""
+"%SN sends a giant heart spiraling into %T!"
+""
+"%SN rolls a giant heart downhill. %T jumps over it. The heart smashes Kamek flat."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+50
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+80
+2
+"Sailor V Kick"
+"svk"
+0
+"%SN goes toward %T."
+""
+""
+"%SN makes a clean kick on %T!"
+""
+0
+""
+"%T has a huge scar from %SN's kick!"
+""
+"%T blocks %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Random Crescent Beam"
+"rcb"
+0
+"%SN holds her hand above her head and a light emits."
+""
+"%SN throws her hand forward, releasing Crescent Beams at everyone!"
+""
+""
+0
+""
+"%T lets out a shriek of pain!"
+""
+"%T dodges the barrage of crescent beams."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+70
+5
+"Love Me Moon Chain"
+"lmmc"
+0
+"%SN disguises herself as Sailormoon and shouts, 'Love Me Moon Chain!!'"
+""
+""
+"The Love Chain flows into %SN's hand and she cracks it on %T loudly!"
+""
+0
+""
+"The Love Chain flows into %SN's hand and she cracks it on %T painfully!"
+""
+"%T shouts at %SN, 'That's not a move!!' and %SN pouts."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+110
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

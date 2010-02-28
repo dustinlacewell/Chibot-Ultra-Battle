@@ -1,0 +1,560 @@
+"Archer <BY MOG>"
+"Archer"
+""
+"arch"
+"%SN dons a perseus bow and becomes an Archer! <By Moogle>"
+"%SN grabs a bow and is an archer!"
+ 70 
+ 52 
+ 30 
+ 68 
+ 0 
+"%SN sits down and rests"
+"%SN fires an arrow to stop the attack(s)"
+"%SN's arrow falls short "
+""
+""
+""
+""
+""
+"burn"
+"%SN lights a gas-soaked arrow and aims at %T"
+"%T 's heart bursts into flames as %SN 's arrow hits it"
+"Charge +5"
+"5"
+ 0 
+"%SN sets an arrow on his bow and charges"
+""
+"%SN sets an arrow on his bow and charges"
+""
+""
+ 0 
+"%SN feels new strength in his bow!"
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Time mage helper"
+"haste"
+ 0 
+"%SN taps his Time Mage friend and asks for a favor"
+""
+""
+"%SN 's friend hastes %T"
+""
+ 0 
+""
+""
+""
+"The spell misses %T"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"One arrow fire"
+"1arrow"
+ 1 
+"%SN sets one arrow on his bow and fires it at %T"
+"%SN fires arrow after arrow at %T in a rage"
+""
+"%T is nailed in the chest with %SN 's arrow"
+"%T is tacked up to the wall by all the arrows"
+ 0 
+""
+"%T is nailed in the eye with %SN 's arrow"
+""
+"%SN 's arrow flies wide"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 125 
+ 2 
+"Physical whack"
+"umph"
+ 1 
+"%SN throws down his bow and fights man-to-man"
+"%SN throws down his bow and dives at %T"
+""
+"%SN punches %T right in the liver"
+"%SN repeatedly blasts %T with body-shots"
+ 0 
+""
+"%SN punches %T right in the kidney"
+""
+"%SN trips and makes an idiot of himself"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 15 
+ 2 
+"Cross vial"
+"cross"
+ 0 
+""
+""
+"%SN takes out a cross-shaped vial"
+""
+""
+ 0 
+"%SN pours it's healing potion on %T, healing them"
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 100 
+ 3 
+"Status arrow"
+"sick"
+ 0 
+"%SN pours a vial black sludge on his arrow and aims at %T"
+""
+""
+"%T convulses as the arrow fired by %SN hits him"
+""
+ 0 
+""
+"%T didn't like the arrow getting jammed in his eye"
+""
+"The arrow dissolves before hitting %T"
+ 50 
+ 0 
+ 0 
+ 50 
+ 50 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Zodiac Stone Scorpio"
+"scorp"
+ 0 
+"%SN holds up the scorpio stone and glows"
+""
+""
+"%T becomes the impure king, Queklain!"
+""
+ 0 
+""
+""
+""
+"%T rejected the host"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 75 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Behemoth smash"
+"besm"
+ 0 
+"%SN throws a rock at a behemoth and points at %T"
+"%SN throws rocks at a herd of behemoths and hides"
+""
+"The behemoth stomps.smashes, and gores %T"
+"%T is thrown around like a doll between the beasts"
+ 0 
+""
+"The behemoth maims, slaughters, and kills %T"
+""
+"The behemoth kills some farmer instead"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 100 
+ 2 
+"Arrow taunt"
+"laugh"
+ 0 
+"%T takes out an arrow filled with vinegar"
+""
+""
+"%SN shoots the arrow at %T and gets him all stinky"
+""
+ 0 
+""
+"%SN shoots the arrow at %T and gets him very stinky"
+""
+"The arrow falls short"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Leg arrow"
+"leg"
+ 0 
+"%T fires a dozen arrow at %T 's legs to slow him"
+""
+""
+"The arrows smash into %T 's knees, stopping him"
+""
+ 0 
+""
+"The arrows nail %T in the gut too"
+""
+"%T jumps over the arrows"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 25 
+ 2 
+"Arm arrows"
+"arm"
+ 0 
+"%SN fires a dozen darts at %T 's arms"
+""
+""
+"%T can't attack well with all those arrows in his arms!"
+""
+ 0 
+""
+"%T Can't attack well with all those arrows in his groin!"
+""
+"%T ducks the arrows"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 25 
+ 2 
+"Lightning Zap"
+"zap"
+ 1 
+"%SN fires a heavy metal arrow at %T"
+"%SN fires a flare arrow and a heavy metal arrow at %T"
+""
+"The arrrow draws the lightning from nearby wizards! ZAP!"
+"%T gets nailed by a dozen bolt 4's from %SN 's arrow!"
+ 0 
+""
+"ZAP ZAP ZAP ZAP goes %T"
+""
+"The arrow goes wide"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 50 
+ 2 
+"%SN screams and falls..........dead"
+""
+""
+""
+""
+"%SN steps on %T's body and laughs at them"
+""
+""
+""
+""

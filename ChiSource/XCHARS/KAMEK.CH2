@@ -1,0 +1,564 @@
+"Kamek"
+"Kamek"
+2130
+"KamekSally"
+"%SN is now Kamek, the programmer of ChUB."
+"%SN joins in as Kamek the programmer."
+0
+70
+80
+70
+"%T is hit by the fireball!"
+"%SN blows up stuff and feels better."
+"%SN fires off a fireball at %T."
+"%T dodges the fireball."
+"%SN says, ''My name is Kamek, this is no joke! Surrender now, or abandon all hope.''"
+"''Pathetic fools,'' mutters %SN. ''You shall all perish.''"
+"''To make people cower with the wave of a hand... To spread terror throughout the land...''"
+""
+""
+"heresareallylongfatalitystringforya"
+"%SN grabs %T and kicks them where the sun don't shine!"
+"%SN throws %T to the lions. ''Oh my God, they killed %T! You bastard!''"
+"Be Prepared"
+"bp"
+0
+"%SN remembers the old Boy Scout rule, be prepared."
+""
+""
+"%SN pulls out a glowing orb and holds it against %T's body. %T is charged up!"
+""
+0
+"%SN pulls out a glowing orb and holds it against himself. %SN is charged up!"
+""
+""
+"%SN was unable to charge %T."
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+100
+100
+0
+0
+0
+0
+0
+100
+100
+0
+100
+0
+0
+0
+0
+0
+0
+3
+"Really Really Powerful Shield"
+"rrps"
+0
+"%SN waves his hand and a really really powerful shield raises around his allies."
+""
+""
+"The shield wears off."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+1
+"Hexing is bad"
+"HiB"
+0
+"%SN says to %T, ''Hexing is bad, mmkay?''"
+""
+"%SN says to himself, ''Hexing is bad, mmkay?''"
+"%T is healed by %SN's words of wisdom!"
+""
+0
+"%SN heals himself with his own wisdom!"
+""
+""
+"%SN was unable to heal %T."
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+0
+""
+-1
+-1
+0
+0
+-1
+-1
+-1
+0
+-1
+0
+0
+-1
+0
+0
+0
+0
+0
+2
+250
+3
+"That's A Cheap Shot!"
+"tacs"
+0
+"%T whines about how cheap %SN is. ''Cheap? You haven't seen ANYTHING yet.''"
+""
+""
+"%SN lightly taps %T with a feather."
+""
+0
+""
+""
+""
+"%SN lightly taps %T with a feather."
+0
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+""
+0
+0
+0
+-1
+0
+0
+0
+-1
+0
+-1
+-1
+0
+-1
+0
+0
+0
+0
+0
+0
+2
+"Water Hoser"
+"WH"
+0
+"%SN pulls out a Water Hoser."
+""
+"%SN twists the nozzle and everyone gets wet from the Hoser!"
+""
+""
+0
+"%SN shuts off the Water Hoser."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+80
+5
+"Secret Morph"
+"morph"
+1
+"%SN goes into ChUB and changes his character ID."
+""
+""
+"%SN changes his character ID to %T!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+100
+5
+0
+0
+0
+0
+0
+0
+0
+0
+3
+80
+2
+"Trio 4"
+"trio4"
+1
+"%SN starts casting ''Trio 4'' on %T."
+"%SN starts casting ''Trilogy 42'' on %T."
+""
+"Bombardments of fire, ice, and lightning crash down upon %T from the skies."
+"Large masses of fire, ice, and lightning obliterate %T into oblivion."
+0
+""
+""
+""
+"%T is unharmed by %SN's Trio 4 spell."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+120
+2
+"Love Sonnet #14"
+"ls#14"
+1
+"%SN starts writing Love Sonnet #14 to %T."
+"%SN starts writing Love Sonnet #44 to %T."
+""
+"%T opens the love sonnet and sees it is actually a satire about %T's personality!"
+"%T opens the love sonnet... IT'S FROM KRUZZ AND IT SAYS %T IS A ASS-RAMMIN HOECAKE!!!"
+0
+""
+""
+""
+"%T burns %SN's Love Sonnet."
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+70
+2
+"Ki Blast"
+"ki"
+1
+"%SN charges up a ball of energy in his hands."
+"%SN charges up a REALLY BIG ball of energy."
+""
+"%SN unleashes the ki power into a gigantic fireball which consumes %T's entire body."
+"%SN shoots %S2 Ki Blasts at %T!"
+0
+""
+""
+""
+"%SN shoots a Ki Blast but %T blocks it."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+29
+80
+2
+"Solar Beams"
+"sb"
+0
+"%SN absorbs the sun's rays."
+""
+"%SN starts emitting bright solar beams!"
+""
+""
+0
+"%SN stops emitting solar beams."
+"%T cannot see a thing."
+""
+""
+0
+0
+-1
+0
+0
+25
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+30
+90
+5
+"The Stare"
+"stare"
+0
+"%SN glares at %T."
+""
+""
+"%T's eyes meet %SN's and %T suddenly cannot move!"
+""
+0
+""
+""
+""
+"%T doesn't look at %SN."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Anti-Mute"
+"antimute"
+0
+"%SN prepares to unmute herself."
+""
+""
+"%SN slaps herself on the wrist!"
+""
+0
+""
+""
+""
+"%SN was unable to unmute herself. Nuts."
+-1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+8
+"%SN explodes into gore and limbs."
+"%SN pulls %T's pants down before dying."
+"%SN says, ''You may have won this battle, but the war is far from over.''"
+""
+""
+"%SN spits on %T's body."
+"%SN goes over to %T and shouts, ''YOU LOSE!!!''"
+"%SN says, ''That's what happens when you mess with Kamek.''"
+"%SN sighs. ''Next time, bow to me and this won't happen.''"
+""
+"The almighty Kamek, programmer of ChUB."
+""
+""
+""

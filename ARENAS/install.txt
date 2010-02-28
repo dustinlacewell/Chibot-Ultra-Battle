@@ -1,0 +1,5 @@
+To install these Extra Arenas, make a new folder in your ChUB folder called ARENAS and move them all there. Then, open up the INI file of the dataset you wish to add these to, and simply add this line to the end of the file:
+
+ARENAS\*.*
+
+Then load the new dataset and you now have these extra arenas!

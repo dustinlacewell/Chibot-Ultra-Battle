@@ -1,0 +1,564 @@
+"Tsukikage no Knight"
+"knight"
+2000
+"knight"
+"The wind ripples, and %SN appears as Tsukikage no Knight!"
+"A white rose sticks into the ground, %SN arrives as Tsukikage no Knight!"
+90
+80
+20
+30
+""
+"%SN finds an oasis and rests."
+"%SN holds up his scimitar in a defensive manner."
+"%T breaks through %SN's defenses."
+"%SN's turban ripples in the wind. 'I'm NOT a turban boy!' he says with confidence."
+"%SN says, 'Like a hot, dry wind blowing off the desert sands, I am the Moonlight Knight!'"
+"%SN brandishes his scimitar."
+""
+""
+"ksi"
+"%SN dives at %T with their sword."
+"%SN runs the sword through %T and impales them."
+"Moonlight Beam"
+"mlb"
+0
+"%SN emits a white beam from his body at %T."
+""
+""
+"%SN's moonlight beam strikes %T."
+""
+0
+""
+"%SN's moonlight beam strikes %T. %T can see nothing but white!"
+""
+"%T dives away from %SN's beam."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+80
+2
+"Sword Slash"
+"slash"
+0
+"%SN slashes his sword in midair."
+""
+""
+"A white wave of energy whizzes through the air and slashes through %T."
+""
+0
+""
+"A white wave of energy whizzes through the air and slashes through %T!"
+""
+"A white wave of enery whizzes through the air. %T ducks and gets a nice haircut."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+90
+2
+"Sword Attack"
+"sword"
+1
+"%SN dives at %T with his sword."
+"%SN dives at %T with his sword."
+""
+"%SN slashes %T with his sword."
+"%SN slashes %T and it feels like %S2 slashes instead of just one!"
+0
+""
+"%SN slashes %T hard with his sword!"
+""
+"%SN slashes at %T but misses."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+110
+2
+"Camel Attack"
+"camel"
+0
+"%SN looks off to the side, as if waiting for something."
+"%SN looks off to the side, as if waiting for something."
+"With a weird roar, an uncountable number of camels stampede the area!"
+""
+"%S2 camels stampede over %T."
+0
+"The camels stampede away, leaving destruction in their wake."
+"%T are trampled."
+""
+"%SN gets bored waiting and returns to the battle."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+5
+"White Rose"
+"rose"
+0
+"%SN pulls out a white rose."
+""
+""
+"%SN throws a white rose at %T."
+""
+0
+""
+"%SN throws a white rose at %T. %T is pricked by a thorn!"
+""
+"%SN throws a white rose at %T but misses."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+120
+2
+"Desert Sun"
+"ds"
+0
+"%SN makes a weird gesture at %T."
+""
+""
+"%T is exposed to the hot desert sun."
+""
+0
+""
+"%T is exposed to the hot desert sun. %T is swelteringly hot!"
+""
+"%SN's attack on %T fails."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+100
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+"%SN does an attack."
+""
+""
+"%SN's attack hits %T."
+""
+0
+""
+""
+""
+"%T dodges %SN's attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

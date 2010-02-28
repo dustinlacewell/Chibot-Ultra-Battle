@@ -1,0 +1,560 @@
+"Tekkaman Dead"
+"Dead-end"
+""
+"dead"
+"%SN hurtles thru the sky as Tekkaman Dead!"
+"%SN screams TEK SETTER!!! And becomes Dead!"
+ 35 
+ 90 
+ 13 
+ 82 
+ 0 
+"%SN goes and jumps some punks..."
+"%SN blocks with his lance....."
+"%SN's lance is broken!"
+"You're the only one who can defeat me...."
+"KILL ME!!!"
+"I am going to destroy all that you love!"
+""
+""
+"Voltekker"
+"%SN screams and his arm-mounted voltekker glows...."
+"%T is vaporized by the beam!"
+"Slice"
+"Slice"
+ 1 
+"%SN raises his sword high above his head...."
+"%SN holds his sword at his side...."
+""
+"%SN cleaves into %T's side!"
+"%SN spins and slits %T's gut!"
+ 0 
+""
+"%SN cleaves into %T's throat!"
+""
+"%SN puts his sword away."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 145 
+ 2 
+"Soar"
+"Soar"
+ 0 
+"%SN is surrounded in flames...."
+""
+""
+"%SN flies through %T!!!"
+""
+ 0 
+""
+"%SN does a flying slash into %T!"
+""
+"%SN glows like a light bulb."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 100 
+ 2 
+"Recharge"
+"charge"
+ 0 
+""
+""
+"%SN glows dimly...."
+""
+""
+ 0 
+"%SN is recharged!!"
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 70 
+ 8 
+"Glorius Death"
+"Suicide"
+ 0 
+""
+""
+"%SN screams and starts to burn up...."
+""
+""
+ 0 
+"%SN healed their team!!!"
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 7 
+ 0 
+ 8 
+"Emotional State"
+"State"
+ 0 
+"%SN tells %T he's gonna kill the one they love..."
+""
+""
+"%T screams: DEAD NO!!! And starts to flip out"
+""
+ 0 
+""
+"%T screams: DEAD NO!!! And starts to flip out"
+""
+"%T doesn't believe %SN...."
+ 50 
+ 0 
+ 50 
+ 50 
+ 50 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Stab"
+"Stab"
+ 1 
+"%SN thrusts his sword/lance forward..."
+"%SN thrusts his sword/lance forward..."
+""
+"The blade shred's into %T's chest!!"
+"The blade impales %T!!!"
+ 0 
+""
+"The edge severs %T's arm!!"
+""
+"The blade misses..."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 100 
+ 2 
+"Cord Tangle"
+"cord"
+ 0 
+"%SN fires a cord at %T....."
+""
+""
+"The cord wraps around %T's arm, stopping him!"
+""
+ 0 
+""
+"The cord wraps around %T's arm, stopping him!"
+""
+"The cord flies past %T...."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Status change"
+"cancelstat"
+ 0 
+""
+""
+"%SN pours a potion on their wounds....."
+""
+""
+ 0 
+"%SN feels better!!"
+""
+""
+""
+-1 
+-1 
+-1 
+-1 
+-1 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 50 
+ 3 
+"Rocket Kick"
+"kick"
+ 0 
+"%SN boosts forward at full speed...."
+""
+""
+"And places a power kick into %T's jaw!"
+""
+ 0 
+""
+"And places a power kick into %T's gut!"
+""
+"%SN decides to taunt %T instead."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 150 
+ 2 
+"Voltekker"
+"tekker"
+ 0 
+"%SN charges up his voltekker..."
+""
+""
+"%SN nails his enemies with a blast!"
+""
+ 0 
+""
+"%SN nails his enemies with a blast!"
+""
+"The  blast dissipates in the air..."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 120 
+ 4 
+"Concentrated Blast"
+"blast"
+ 0 
+"%SN focuses a blast at %T...(DEMI ATT!!!)"
+""
+""
+"%T is smacked head on by the attack!"
+""
+ 0 
+""
+"%T is smacked head on by the attack!"
+""
+"%SN's blast wasn't focused enough..."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 19 
+ 0 
+ 2 
+"Toss"
+"toss"
+ 1 
+"With a scream %SN throws his sword at %T...."
+"With a scream %SN throws his sword at %T...."
+""
+"The sword flies thru %T!"
+"The sword flies thru %T!"
+ 0 
+""
+"The sword flies thru %T!"
+""
+"The sword misses %T."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 26 
+ 120 
+ 2 
+"I'm going to revenge myself on the red tekkaman!"
+""
+""
+""
+""
+"Your soul has returned to Prague!"
+"It is the end of you, loser!"
+""
+""
+""

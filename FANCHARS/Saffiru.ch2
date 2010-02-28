@@ -1,0 +1,560 @@
+"Saffiru"
+"Saffiru"
+""
+"~princedimando'sbrother,saffiru"
+"%SN rises from the Dark Moon as Saffiru!"
+"%SN teleports onto the battlefield."
+ 50 
+ 50 
+ 60 
+ 60 
+ 0 
+"%SN lies in Petz's bed."
+"%SN throws his hands up to protect himself."
+"%SN is blasted backwards."
+"%SN screams, 'Dimando don't listen to Wiseman!'"
+""
+""
+""
+""
+"uda"
+"%SN summons thousands of droids."
+"All of the droids focus their powers down on %T. %T explodes into several peices."
+"Lightning Puch Attack"
+"~lpa"
+ 1 
+"%SN charges at %T."
+"%SN charges at %T."
+""
+"%SN beats %T t'ill they are bloody."
+"%SN pummels %T into unconcousness."
+ 0 
+""
+"%T lost all their teeth!"
+""
+"%SN never hits."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 2 
+"Dark Energy Toss"
+"~det"
+ 1 
+"%SN flings dark energy at %T."
+"%SN flings massive amouts of energy at %T."
+""
+"%T is thrown backwards by the dark energy."
+"%SN knocks %T back a few miles with the energy."
+ 0 
+""
+"%SN is thrown through a wall!"
+""
+"%T avoids the energy."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 70 
+ 2 
+"Dark Crecent Moon Beam"
+"~dcmb"
+ 0 
+"%SN's crescent moon glows with energy."
+""
+""
+"%SN sends a crescent moon shaped beam crashing into %T."
+""
+ 0 
+""
+"%T has blacked out!"
+""
+"%T avoids the beam."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 80 
+ 2 
+"Petz Heal"
+"~ph"
+ 0 
+"Petz appears on the battlefield to patch %T up."
+""
+"Petz applies her loving touch to %SN."
+"%T feels better after Petz bandages their wounds."
+""
+ 0 
+"Petz bandages %SN wounds then kisses them to make them better."
+""
+""
+"Petz is hit while trying to bandage %T up!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 60 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 90 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 80 
+ 3 
+"Saffiru Teleport"
+"~st"
+ 0 
+"%SN teleports before Wiseman's energy can hit him."
+""
+""
+"%SN gets another chance at life!"
+""
+ 0 
+""
+""
+""
+"%SN doesn't teleport soon enough."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+"Kurozuishou Chip Steal"
+"~kcs"
+ 1 
+"%SN steals the chip that controls the kurozuishou."
+"%SN steals the chip that controls the kurozuishou and charges the kurozuishou."
+""
+"%SN forces the kurozuishou to blast %T."
+"%SN releases the energies of the kurozuishou down on %T."
+ 0 
+""
+"%T is blasted into oblivion."
+""
+"%T swipes the chip back."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 80 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 100 
+ 2 
+"Angry Dimando"
+"~ad"
+ 0 
+"%SN angers Dimando."
+""
+""
+"Dimando blasts at %SN, but he misses and blasts %T."
+""
+ 0 
+""
+"Ouch! %T will feel that when they get married!"
+""
+"%T runs like h-e-double hockey sticks!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 80 
+ 2 
+""
+""
+ 0 
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+ 0 
+""
+"Ouchie."
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+ 0 
+""
+"Ouchie."
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+ 0 
+""
+"Ouchie."
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+"%SN does an attack."
+""
+""
+"%T is hurt."
+""
+ 0 
+""
+"Ouchie."
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+ 0 
+""
+"Ouchie."
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Petz just lost all that she held dear."
+""
+""
+""
+""
+"%SN is learning quickly the ways of the Dark Moon Family."
+"Hahahah %T got killed by the guy who only died!"
+""
+""
+""

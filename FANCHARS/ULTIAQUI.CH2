@@ -1,0 +1,560 @@
+"Ultimate(?) Aquila"
+"ultiaquila"
+""
+"~ultiaquila"
+"%SN appears encircled by flame and ice!"
+"%SN appears encircled by flame and ice!"
+ 0 
+ 60 
+ 100 
+ 60 
+ 0 
+"%SN sleeps."
+"%SN holds his sword up in defense."
+"%SN's sword falls."
+"%SN laughs!"
+""
+""
+""
+""
+"sad"
+"%SN pulls out his sword. "
+"%SN slices and dices %T!"
+"Homing shock"
+"hs"
+ 1 
+"%SN raises his hand."
+"%SN raises his hand."
+""
+"%SN thrusts his hand forward releasing a massive blast of energy!"
+"%S2 blasts of light race out and blast %T."
+ 0 
+""
+"%T's eyes bug out as they fall over."
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 100 
+ 2 
+"3 stooges *eye gouge??!*"
+"3seg"
+ 0 
+"%SN screams 'NYUK NYUK NYUK!' and charges at %T!"
+""
+""
+"%SN extends two fingers and pokes %T in the eyes!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Speed!"
+"speed"
+ 0 
+"%SN raises his hand as energy radiates from it!"
+""
+"A wave of energy engulfs all!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 7 
+"Mushroom farm"
+"mfarm"
+ 0 
+"%SN puts on a farmer's outfit and says 'I farm mushrooms!'"
+""
+"Spores radiate from the ground and engulf everyone!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 6 
+"Quick"
+"quick"
+ 0 
+"%SN raises his hand as energy engulfs his team!"
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+"Quake"
+"quake"
+ 0 
+"%SN snaps his fingers."
+""
+"The earth shakes beneath %T's team!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 27 
+ 50 
+ 4 
+"Fireball"
+"fb"
+ 1 
+"%SN forms a sphere of fire above his head."
+"%SN forms a radiant sphere of fire above his head."
+""
+"%SN flings the flames at %T!"
+"%SN flings the raging inferno upon %T!"
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 175 
+ 2 
+"Ice cube"
+"ic"
+ 1 
+"%SN begins to cast 'Ice Cube' on %T!"
+"%SN raises his hand as it glows a brilliant blue!"
+""
+"Ice entraps %T!"
+"Giant icicles shoot up and rip %T to shreds!"
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 75 
+ 2 
+"Shake that apple tree!"
+"stat"
+ 0 
+"%SN shakes an apple tree......"
+""
+"Apples fall on everyone!"
+""
+""
+ 0 
+""
+"%T yelps and then collapses!"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 25 
+ 7 
+"Time shift!"
+"ts"
+ 0 
+"%SN raises a red orb as it begins to flash rapidly."
+""
+"The orb radiates energy from itself!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 6 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+"%SN explodes as everyone laughs! Point and laugh! Point and laugh!"
+""
+""
+""
+""
+"%SN laughs heartily!"
+""
+""
+""
+""

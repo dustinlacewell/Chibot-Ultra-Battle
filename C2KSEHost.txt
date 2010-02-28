@@ -1,0 +1,255 @@
+** CHUB 2000 SPECIAL EDITION **
+** BETA #2 **
+** HOST'S GUIDE **
+(or, how to avoid being HostBooted!)
+
+	This guide can be read by itself, but in order to get the fullest understanding of ChUB, it is best that you read all three guides.
+
+	THE LEGAL CRAP:
+
+    Here's all the Legal Jargon. In most cases you can ignore this and be okay... but read it anyway, because by using ChUB you hereby agree to the following:
+
+    THIS PROGRAM IS NOT WARRANTED. BY USING THE PROGRAM, YOU AGREE NOT TO HOLD THE AUTHOR LIABLE FOR ANY DAMAGES DONE. THE AUTHOR PROVIDES THIS PROGRAM TO YOU "AS IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE, AND ANY DAMAGE OR INJURY THAT MAY RESULT FROM THE PROGRAM'S USE, IMPROPER OR OTHERWISE.
+
+    THIS PROGRAM IS FREEWARE. YOU MAY NOT CHARGE ANYTHING FOR THIS PROGRAM BEYOND A REASONABLE FEE FOR COPYING IT TO A DISK. COMMERCIAL USE OF THIS PROGRAM IS EXPRESSLY FORBIDDEN WITHOUT WRITTEN AND SIGNED APPROVAL BY THE AUTHOR. COMMERCIAL USE INVOLVES ANY USE OF THIS PROGRAM IN WHICH MONEY OR OTHER
+CONSENT IS INVOLVED.
+
+    THIS PROGRAM IS PROTECTED UNDER U.S. AND INTERNATIONAL COPYRIGHT LAWS. YOU AGREE NOT TO MODIFY THIS PROGRAM IN ANY WAY. YOU MAY NOT DISASSEMBLE IT IN ANY WAY. DOING SO IS CONSIDERED AN INFRINGEMENT OF COPYRIGHT AND IS ILLEGAL.
+
+    In layman's terms, that basically means: you can't blame me if this program blows out your motherboard, you can't hex-edit or decompile this program, and you can't charge money to people for playing it.
+
+    In Jive Speak: Yo dude, you best not be messin' wit' ma' stuff or I be whoopin' up on yo a$$! Ain't my fault if it screws yo' comp, and you best not be takin' no money for this thang!
+
+    In Pig Latin: on't-Day ecompile-day is-thay orgram-pay or-lay arge-chay oney-may or-fay is-thay orgram-pay. Also-lay, it's-lay ot-nay my-lay ault-fay if-lay it-lay crews-say your-lay omputer-cay.
+
+    In Morse Code: .--... .-. --.... okay, I don't really know Morse Code. But the point has been made. Don't mess with ChUB, because we both know you'll be punished by God if you do. Why risk Eternal Damnation?
+
+    If you don't agree to these terms, then please don't use my bot. It's as simple as that.
+
+
+	SYSTEM REQUIREMENTS!
+	
+	You'll need the following to host ChUB SE properly.
+
+	1. Windows 95. This is a 32-bit program and will NOT run under Windows 3.1. Sorry!
+
+	2. 16 Megs of RAM. I recommend at least 32, because if you only have 16, you're barely functioning. It would be awesome to have even more, though. I run the program fine and I have 48.
+
+	3. A fast Processor. The game runs on slower, older processors (90 mHz, 133 mHz) but I don't recommend it -- I have personally tested the game under a 90 mHz machine (which is mine) and it runs quite slow.
+
+	4. America Online, Version 4.0. Sorry, the game will not run under 3.0 any longer. You do not need AOL if you plan to run ChUB in Offline Mode.
+
+	5. 640x480 monitor. 16-bit color recommended.
+
+	6. A brain. Common Sense recommended.
+
+	7. Mouse recommended. If you don't have a mouse, then I can't see how you're running Windows 95, I mean, all computers come with mice nowadays, and if you don't have one, you were gypped! Seriously!
+
+	8. Keyboard recommended. Duh. Like, you can't have a computer without a keyboard. Well, you could, but it would be very difficult to use. So I recommend a keyboard. If you don't have one, go buy one, they're inexpensive. (Note: You were gypped if you bought a computer without a keyboard!! Seriously!!!)
+
+
+	PART 1: INSTALLING THE GAME
+
+	If you got this far, then you already installed the game successfully. I don't need to tell you how.
+
+
+	PART 2: YOSHI
+
+	"AAAGGGHHH! I DOUBLE-CLICKED THE KAMEK ICON AND THIS FREAKY GREEN THING IN A BROKEN EGG SHELL APPEARED!!"
+
+	Don't sweat it. His name is Yoshi. If you've ever played any Mario games, then you probably know him already. After whooping up the Master Hand in Super Smash Bros., Yoshi has been out of work, so I hired him to help you out in ChUB 2000 SE. Everything that Yoshi knows is in this document, so you will get a better understanding of ChUB SE if you read this file. However, you can ignore the rest of this document and just go by Yoshi, if you want. To do that, just remember that to call Yoshi, simply hold SHIFT and right-click on the item you need help with. If Yoshi doesn't come, try holding SHIFT and just plain left-clicking. If Yoshi still doesn't come, then he's either fed up with you, or the feature is just so obvious that he thinks you're stupid if you need help.
+
+	Under the Help menu in the main ChUB window, there are two options relating to Yoshi. The first one is "New User Tips". If this is checked, then Yoshi will explain what a window does when it pops up. Some windows are self-explanatory and Yoshi will not show himself. The second one is "Tip of the Day". If this is enabled, then each time you start up ChUB SE, Yoshi will give you a tip for playing or hosting ChUB. Yoshi is a very good ChUB player, so listen to his advice, or you can turn either of these features off, simply by choosing it in the Help menu. Yoshi will come up and tell you what you have changed.
+
+	
+	PART 3: LOADING A DATASET
+
+	"What's a dataset?"
+
+	A dataset is a collection of files that ChUB needs to run. Usually, these files are characters, items, weapons, and arenas. A dataset also consists of a set of messages displayed throughout the game -- these messages are contained in a Dataset Initialization File (.INI).
+
+	.INI files are explained in detail in the ChUB SE Dataset Documentation. To load one into SE, simply choose File, then Open Dataset, OR click on the diskette on the toolbar. You'll get a blue window inside the ChUB Main Window with a list of INIs. Click an INI file to see what dataset it is. Click on either "Load" to load it, or "Load and Sort" to sort it.
+
+	"What does sorting do?"
+
+	Sorting is totally optional. It re-arranges the characters into alphabetical order for clarity when listing the characters. It takes longer to sort larger datasets, so if you have a slow computer, you might not want to use Load and Sort.
+
+	"What is dupe-testing?"
+
+	When loading a dataset, it will say "Dupe-testing". This simply means that it looks for characters that cannot be accessed due to selection string conflicts. This happens when you have two different manifestations of the same character. For example, suppose you made some Super Smash Bros. characters and merged them with the Simple Dataset. Since Ness is already a character in the Simple Dataset, you probably won't be able to pick one of them. Dupe-testing will change the selection strings of one of the characters, so to get one Ness you would do /Ness, and to get the other you would do something like /Nes0. You USUALLY won't have to worry about that, though.
+
+
+	PART 4: HOST COMMANDS
+
+	Allow me to explain Host Commands really quick. These are commands you can do from the ChUB 2000 Chat Line which will really speed up the game. Instead of going through the menus, you can type a simple command, and the battle will pause, for example. These are not /-commands, but you will have to type a tilde ~ to use them. For example, you can type ~COMMANDS to see all the host commands.
+
+	~COMMANDS: This lists all the host commands!
+	~EXIT: This shuts down the bot after confirmation.
+	~PAUSE: Pauses or unpauses the battle.
+	~SELECT: Begins or ends the selection.
+	~VOTE: Begins or ends the vote.
+	~CLEAR: Clears away the characters.
+	~OPTIONS: Brings up the Options window.
+	~AVAILABLE: Shows a list of available characters. Don't do during battle.
+	~RUNES: Displays available Runes.
+	~WEAPONS: Displays available Weapons.
+	~BEGIN: Begins or ends the battle.
+	~END: Same as ~BEGIN.
+	~TEAMS: List the characters by what team they're on.
+	~CHARS: Full character listing.
+	~MOVES: Brings up the Moves window.
+	~VOID: Removes a player from battle. NOTE: THEY CAN REJOIN AFTER BEING VOIDED. To keep certain people from joining your game, use the Twit List (explained later).
+	~IGNORE: Ignores or unignores a person. This will automatically click them so you don't have to. Doesn't always work. Displays "::click:: <person> ignored!"
+	~UNIGNORE: Same as ~IGNORE but says the person was unignored.
+	~TESTSPEED: Returns a number expressing how fast ChUB can run in this configuration. A good score is at least 15,000. Four-digit scores means that you should probably limit the number of people who can play in your game. Any score lower than 1000: Horrible! Any score higher than 50,000: I wish I had your computer!
+
+
+	PART 5: SELECTION
+
+	Selection is the phase of the game where those wanting to battle select their character, rune, and weapon (if enabled). To begin the selection, either click on the pencil (NOT the pencil with the eraser upended) or choose "Open" from the Selection menu.
+
+	During selection, you may list the Runes by clicking the nuclear symbol, and Weapons by clicking the dart. You may also show them by selecting their respective menu options in the Selection menu.
+
+	If Runes and/or Weapons are disabled, they will not be pickable.
+
+	This is the part of the documentation where the special runes are revealed. In order to get them, go to the character editor by clicking the notepad with the hand writing in it, or selecting Edit Chars from the Selection menu. (It's best to do this before opening the selection.) Go to a blank character slot and put in "XRunes" for the Screen Name. Under "Team", put a "Q". The "Good Guys" text will disappear, put "morerunes" in its place (All of these are WITHOUT quotes!!) Click on "(empty slot)", and pick the seventh character in the list (excluding the Empty Slot). After you've done all this, click the stick of TNT. The special runes will be activated.
+
+	After you are done gathering players for the battle, click on the pencil again, or choose "Close" from the Selection menu.
+
+
+	PART 6: VOTING
+
+	If you wish, you may utilize a special voting bot which allows the players to have a say in what kind of battle will be held. Simply click the checkmark or pick "Vote" from the Selection Menu.
+
+	In order to vote, you must choose an option out of three categories:
+	1: Teams or FFA.
+	2: Normal or respawn.
+	3: Defects or no defects.
+
+	Or, you may vote for Capture the Flag, which is a teams respawn battle without defects to find the person holding the flag. I will explain that later.
+
+	To end the vote and display the results, click the checkmark again, or push End Vote from the vote menu.
+
+
+	PART 7: OPTIONS
+
+	Here is where you choose game options. The game options define how the game works. For most options you can ask Yoshi and he will explain it, but I will explain them here.
+
+	Note: One G.S. is one game second. It is defined in real seconds as the value of the Lagometer divided by 1000. So if you set the Lagometer to 1000, the game will run in real time, but this is usually not recommended because it is too fast for most humans (myself included).
+
+	PART 7.1: BATTLE
+
+	In the Battle tab, you have the following options.
+
+	Allow Duplicate Characters: This simply toggles whether or not two people can join as the same character. For example, if I join in as Neo-Kamek, nobody else can join in as Neo-Kamek if this option is enabled. However, if two people are already Neo-Kamek and this option is turned on, those two people can remain as they are. But if one of them does /oops, they will not be able to re-pick Neo-Kamek.
+
+	Enable Weapons: Turns weapons on or off.
+
+	Enable Runes: Turns runes on or off. Turn both of these off for Oldschool Battle mode.
+
+	Respawn: If this is on, then people will come back to life after dying. 30 G.S. after they die, they will respawn with full health and a zeroed out cheese meter, but any Super Points they had are retained! So if they are killed with a Level 4 Super, they can come back and immediately be able to do at least a Level 2 super on someone.
+
+	Capture the Flag: Ask Yoshi. I don't feel like explaining it.
+
+	Allow Moves that Hit More Than One Target: Some characters have "All-Team", "All-Foe", or "All-But-Self" moves that hit more than one person. If this is disabled, those moves will be sealed.
+
+	Keep Main Window On Top: I find it annoying, so I disable this option, but if you like having the main window on top, then keep it on top. The Chat Line will ALWAYS stay on top.
+
+	Allow Level 4, 5 Super Attacks: Some people think that Level 4 and Level 5 attacks are too cheezy, so they can be disabled here.
+
+	Status: I recommend you leave this on. If you turn this off, then all status effects are disabled, including Haste, Stun, Life3, Chaos, and so on. Moves that do only those effects will do nothing at all. I included it for some bizarre reason which I forgot already, so I'll just leave it in.
+
+	Frags Req'd to Win: This is a tad unusual. If the number is 0, then the game will not have a frag limit and will continue to its conclusion. For team/FFA battles, the game ends when only one team is left alive. For CTF battles, the winner is the team who lost their flag. If it's a respawn battle and the frag limit is 0, the game continues endlessly. If the number is positive, then the game will end EITHER when the above conditions are met, OR someone's kill count reaches the frag limit, then the game is over. If someone hits the frag limit, then that one person is the winner, regardless of the battle type. If the number is NEGATIVE, it operates the same way, except that many FATALITIES are required. A -1 would end the game when someone made a Fatality, and that person would win. Understand?
+
+	Good, explain it to me, then, 'cuz I don't...
+
+	Item Spawn Rate: This is just a number that determines how frequently new items and weapons are dropped into the battle. Lower numbers mean more items and weapons. A zero means no items or weapons are dropped.
+
+	Flag Time Limit: The amount of time that someone needs to hold the enemy's flag to win. If zero, then whenever the flag is taken, the game's over.
+
+	Game Time Limit: Puts an upper bound on the amount of Game Seconds the game is allowed to continue. The game is a draw if time runs out, OR if the frag limit is 0 and the game is Respawn, then the person with the greatest number of frags wins. When 60 Game Seconds are remaining, the game goes into Sudden Death Mode. In Sudden Death, everyone has Haste and attacks do greater damage, to attempt to wrap it up before time actually does run out.
+
+	Damage Multiplier: This is a percentage value modifiying the damage. 200% means everything does double damage. 50% is half damage. If you change the Max HP, change this too.
+
+	Maximum Hit Points: Allows you to set the maximum number of Hit Points from 100 HP to 5000 HP. If you change this, I recommend changing the Multiplier too, unless you have a special battle mode in mind. One idea is to do regular, non-respawn FFA, with damage at 50%-100% and Max HP at 5000 and see who survives.
+
+	Maximum Super Points: Allows you to set the number of Super Points that players can hold in reserve. This does NOT increase the maximum level of Super Attack that can be done, but merely allows players to do more Super Attacks if they hoard their SPs. The only danger to hoarding your SPs is that it becomes easier for enemies to steal them with appropriate weapons.
+
+	PART 7.2: COMMANDS
+
+	Allow Joining: If this is unchecked, the game ignores all requests to join during battle.
+	Allow /status: If unchecked, the game ignores all /status commands.
+	Allow /moves: If unchecked, the game ignores all /moves requests.
+	Allow /cpu: If checked, the game allows you to do /cpu to computerize yourself.
+	Allow /attacking: Most of these are self-explanatory so I'll skip to the ones requiring explanation.
+
+	Allow /rune to see what rune you have: /rune is a twofold command. If you don't have a rune, it will give you one. If you DO have a rune, it will tell you what rune you have. If you disable this option, /rune can only be used to get a rune if you don't have one.
+
+	Allow /rune to get a rune if you don't have one: If this is disabled, newcomers cannot grab runes.
+
+	PART 7.3: OUTPUT
+
+	Output Scroll Delay: This is a number defining how fast ChUB sends output to the chat room. If you are running in offline mode, set it to the lowest value possible. (But don't forget to set it back to normal when signing back on!) 1000 means that the bot will scroll X lines every second, where X is the "Lines Scrolled Per Interval" value. If you have a fast computer and a good connection, set it to 400. For slower computers/modems, try a 500 rate.
+
+	Lines Scrolled Per Interval: I usually set this to 1, but you have have it scroll more lines if you want. If you increase this number, decrease the Scroll Delay unless you wanna get scrolled off.
+
+	Font Name, Color Controls: This just changes the font ChUB uses to output to the chat room, so you can set your text so that it stands out.
+
+	PART 7.4: ARENA
+
+	To choose an arena, use the left and right arrow buttons. Now, if you do not have any arenas loaded, you will still have the default Grassy Field arena. To show what arena is being used, click Show. The arena name and description will be shown, but nothing else.
+
+	PART 7.5: MISC
+
+	Maximum # of Players in a Battle: This defaults at 10. Slower computers, use a lower value because more players means more lag. At no time should the maximum # of players be any greater than 15. That just causes more chaos and lag.
+
+
+	PART 8: THE BATTLE
+
+	To begin the battle, click either the stick of TNT, or choose "Begin" from the Battle menu. A list of characters will be displayed.
+
+	To unpause the battle (it defaults as being paused), click the wristwatch or choose "UnPause" from the Battle menu, and the battle will begin.
+
+	To display a battle statistics window, click the icon that looks like a sine graph, or choose Stats from the Battle menu. To display an extended character information (the old "Neo-Stats") window, choose the binocular icon or "Character Info" from the Battle menu.
+
+	To end the battle, click the exploded TNT or choose "End Battle".
+
+
+	PART 9: EXTRA CRAP
+
+	ChUB is loaded with extra features, such as an AFK bot, a twit list, and even a Pong game!
+
+	To start up the AFK bot, choose "AFK Bot" from the Extra menu. Yoshi will explain the AFK bot if asked to.
+
+	To turn your IMs on or off, choose IMs On or IMs Off from the IMs sub-menu in the Extra menu.
+
+	To access the twit list, choose "Twit List" from the Extras menu.
+
+	To use a Midi Player, choose "Midi Player" from the Extras menu.
+
+	To use the CD Player, choose "CD Player" from the Extras menu.
+
+	To access the old "NO SCROLLING!!"-type buttons, choose "Rants" from the Extras menu.
+	
+	And finally, for the old Mystery Button, choose "Mystery Menu Option" from the "Mystery Menu" sub-menu of the Extras menu.
+
+	Ever repeat a word so many times that it looks funny? I mean, what's an Extra? Who decided it would be an Extra? The word looks so funny and misspelled now.
+
+	Anyway, you've probably been wondering how to play Pong...
+
+	When a dataset is loaded, go to Edit Characters, and find an Empty Slot. Put the screen name as "PING" (all of these are WITHOUT quotes). Put him on Team P and put the team name as "PONG". Choose the fifth character in the list (excluding Empty Slot). If there is nobody else in the game, then add a random CPU after that. Go back to PING and make sure that the team name is still PONG, then close the window and begin battle. Unpause the battle and welcome the retro environment. The game plays to 10 goals.
+
+
+	PART 10: EPILOG
+
+	That should cover just about everything. Anything I skipped is unimportant and Yoshi can explain it. Speaking of which, you're probably wondering why he complains every time you curse. Well, are you sick of it?
+
+	Say a cuss word in the chat line. Yoshi will come up. Hold shift and move the mouse over Yoshi, and it will turn into a cross. Click Yoshi to shoot him. You'll get a bigger window where Yoshi is moving around. Click to shoot!! Each time you shoot him, Yoshi will turn around and start moving faster. Keep it up until Yoshi gives up, and you can cuss as much as you want without Yoshi bothering you!
+
+	Sorry, but you can't Bomb Milosevic in this version. I doubt I'll get around to it. But I hope you enjoy this game. This SHOULD be my final version of ChUB. I have worked long and hard on this bot to get rid of all the bugs so that you can enjoy it to its fullest. This doesn't necessarily mean that I'll give up programming, though. I may end up doing Pokémon 2000 after all, which means I'll have to pull up those old beta applications. ^_^
+
+	Enjoy!
+	Rick Foltz
+	"Kamek"
+	Beta Version #2 - Sunday, June 13, 1999

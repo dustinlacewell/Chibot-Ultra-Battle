@@ -1,0 +1,564 @@
+"Roll"
+"roll"
+2625
+"roll"
+"%SN is now Mega Man's sister, Roll!"
+"%SN joins in as Roll..."
+30
+50
+80
+60
+""
+"%SN goes and talks to Mega Man."
+"%SN hides."
+"%T finds %SN hiding!"
+"%SN says, 'I think you're due for an upgrade!'"
+"%SN says, 'I may be little but I can still kick your butt!'"
+"%SN ponders, 'Now how does Mega Man do that absorption thing?...'"
+""
+""
+"spatula"
+"%SN dashes at %T."
+"%SN beats %T to death with a spatula!!"
+"Roll Punch"
+"att"
+1
+"%SN charges at %T."
+"%SN charges at %T."
+""
+"%SN uses a Roll Punch on %T!"
+"%SN does a %S2-hit combo on %T and then trips them!"
+0
+""
+"%SN uses a Roll Punch on %T!"
+""
+"%T dodges %SN's punch."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+27
+80
+2
+"Buster Shot / Hyper Roll"
+"bs"
+1
+"%SN charges up her laser and aims at %T."
+"%SN transforms into Hyper Roll!! %T cowers in fear."
+""
+"%SN blasts %T with the Buster Shot!"
+"%SN shoots lasers, missiles, and grenades at %T!!"
+0
+""
+"%SN blasts %T twice with the Buster Shot!"
+""
+"%T ducks %SN's buster shot."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+90
+2
+"Roll Healing Power"
+"rhp"
+0
+"%SN searches for an Energy Tank."
+""
+"%SN searches for an Energy Tank."
+"%SN gives the Energy Tank to %T."
+""
+0
+"%SN uses the Energy Tank to heal herself."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+170
+3
+"Rock Ball / Rush Drill"
+"rb"
+1
+"%SN uses the Rock Ball weapon on %T."
+"Rush changes into a drill machine!"
+""
+"%SN kicks the rock ball and hits %T!"
+"%SN hops in and Rush drills %T up!"
+0
+""
+"%SN kicks the rock ball and hits %T!"
+""
+"%T dodges the Rock Ball."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+27
+90
+2
+"Leaf Shield"
+"ls"
+0
+"%SN uses the Leaf Shield and %T is surrounded by leaves."
+""
+""
+"%T's Leaf Shield fades away."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+3
+"Tornado Hold / Beat Plane"
+"th"
+1
+"%SN fires a propeller into the ground near %T."
+"%SN hops into the Beat Plane!!"
+""
+"A cyclone of energy engulfs %T!"
+"%SN fires the machine gun and launches missiles at %T!"
+0
+""
+"A cyclone of energy engulfs %T!"
+""
+"%T dodges the cyclone."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+120
+2
+"Toasters from Hell!!!"
+"toaster"
+0
+"%SN pulls out a buncha toasters!!!"
+""
+"%SN throws toasters helter-skelter and bonks her enemies!!"
+""
+""
+0
+""
+"%T is having toast for breakfast..."
+""
+"%T ducks and avoids the toaster rain."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+70
+5
+"Deadly Bouquet"
+"db"
+0
+"%SN leaps into the air and throws flowers at %T."
+""
+""
+"%SN's deadly bouquet has weird effects on %T."
+""
+0
+""
+""
+""
+"%T laughs at the flowers."
+5
+5
+0
+5
+5
+0
+0
+0
+0
+0
+""
+5
+0
+0
+0
+0
+5
+0
+0
+5
+0
+0
+5
+0
+0
+0
+0
+0
+21
+70
+2
+"Dr. Light"
+"Light"
+0
+"Dr. Light comes and fixes %SN up."
+""
+""
+"Dr. Light installs a power-up on %SN!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+100
+0
+100
+0
+0
+0
+0
+0
+0
+8
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"It's Roll, sister of Mega Man! She's so cute!"
+""
+""
+""

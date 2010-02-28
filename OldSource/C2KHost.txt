@@ -1,0 +1,212 @@
+*** CHUB 2000 ***
+*** HOST'S GUIDE ***
+(or, how to stop people from punting you for being a bad host)
+
+    This guide can be read by itself. However, to get the fullest understanding of Chibot Ultra Battle, it is advisable to read all three Guides: Player's Guide, Host's Guide, and Dataset Maker's Guide.
+
+    LEGAL CRAP:
+
+    Here's all the Legal Jargon. In most cases you can ignore this and be okay... but read it anyway, because by using ChUB you hereby agree to the following:
+
+    THIS PROGRAM IS NOT WARRANTED. BY USING THE PROGRAM, YOU AGREE NOT TO HOLD THE AUTHOR LIABLE FOR ANY DAMAGES DONE. THE AUTHOR PROVIDES THIS PROGRAM TO YOU "AS IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE, AND ANY DAMAGE OR INJURY THAT MAY RESULT FROM THE PROGRAM'S USE, IMPROPER OR OTHERWISE.
+
+    THIS PROGRAM IS FREEWARE. YOU MAY NOT CHARGE ANYTHING FOR THIS PROGRAM BEYOND A REASONABLE FEE FOR COPYING IT TO A DISK. COMMERCIAL USE OF THIS PROGRAM IS EXPRESSLY FORBIDDEN WITHOUT WRITTEN AND SIGNED APPROVAL BY THE AUTHOR. COMMERCIAL USE INVOLVES ANY USE OF THIS PROGRAM IN WHICH MONEY OR OTHER
+CONSENT IS INVOLVED.
+
+    THIS PROGRAM IS PROTECTED UNDER THE UNITED STATES COPYRIGHT LAWS. YOU AGREE NOT TO MODIFY THIS PROGRAM IN ANY WAY. YOU MAY NOT DISASSEMBLE IT IN ANY WAY. DOING SO IS CONSIDERED AN INFRINGEMENT OF COPYRIGHT AND IS ILLEGAL.
+
+    In layman's terms, that basically means: you can't blame me if this program blows out your motherboard, you can't hex-edit or decompile this program, and you can't charge money to people for playing it.
+
+    In Jive Speak: Yo dude, you best not be messin' wit' ma' stuff or I be whoopin' up on yo a$$! Ain't my fault if it screws yo' comp, and you best not be takin' no money for this thang!
+
+    In Pig Latin: on't-Day ecompile-day is-thay orgram-pay or-lay arge-chay oney-may or-fay is-thay orgram-pay. Also-lay, it's-lay ot-nay my-lay ault-fay if-lay it-lay crews-say your-lay omputer-cay.
+
+    In Morse Code: .--... .-. --.... okay, I don't really know Morse Code. But the point has been made. Don't mess with ChUB, because we both know you'll be punished by God if you do. Why risk Eternal Damnation?
+
+    If you don't agree to these terms, then please don't use my bot. It's as simple as that.
+
+
+    SYSTEM REQUIREMENTS:
+
+    Windows 3.1 (Win95 recommended)
+    4 Megabytes of RAM (16 recommended)
+    Pentium CPU (233 mHz Pentium or better recommended)
+      (The game will run on slower CPU's but I don't recommend it)
+    America Online 3.0 or 4.0 (AOL 4 recommended)
+    640x480-capable monitor (16-Bit Color recommended)
+    A brain (Common Sense Recommended)
+    Mouse recommended
+    Keyboard recommended
+
+    ADDITIONAL NOTES:
+
+    * See TROUBLESHOOTING section
+
+    * "All my moves hit but they aren't doing any damage!" or "I get Invalid Property Value when I go to Options Menu..." This means you didn't load any Arenas. Include an Arena in the .INI file and it should work ok.
+
+    * ChUB 2000 will be my last ChUB game. So, please do not email me asking if I can add such and such, because I won't. DO report any bugs.
+
+
+    I. Running CHIBOT.EXE
+
+    Hopefully, when you unzipped this ZIP file, you made sure to recursesubdirectories by using the -d switch in PKUNZIP, or by having the appropriate option set in WinZip. 
+
+    Run C2KFINAL.EXE. You'll get a list of .INI files. See CHIDATA.TXT for more info on creating datasets. Your old KUB FiNAL datasets will probably work with few complications, but read CHIDATA.TXT to see how to optimize your dataset and get rid of all those extra .TXT files.
+
+    Pick the .INI file you want and hit "LOAD" or "LOAD AND SORT". You'll see a black window come up with a bunch of filenames -- this just means that your dataset is loading. Once it's done, the box disappears and you get the intro window.
+
+
+    II. Chibot Anteroom
+
+    First off, we have a text bar. Type in it and hit "enter". Voila -- your text is sent to the chat room! 
+
+    Host chat is italicized to separate it from the bot text.
+
+    Here are the buttons on the window and what they do:
+
+    Credz: Shows the people who helped make Chibot Ultra Battle what it is today.
+    Twit: Stop certain people from playing your game.
+    Load New Dataset: Allows you to load a different dataset without exiting Chibot. This also clears all players.
+    Patience: Just says "BE PATIENT!" in case people are being impatient.
+    Available Chars: Shows a list of characters that can be picked.
+    Available Runes: Shows a list of Runes that can be picked. The same runes are available in every game, no matter what the dataset is.
+    Available Weapons: Shows a list of pickable weapons.    
+    Clear Chars: Clears all players and restarts selection.
+    Moves: Brings up the Moves Window.
+    Options: Brings up the Options Window.
+    Edit Chars: Brings up the Edit Characters Window.
+    Vote: Starts/ends the vote.
+    IMs On/Off: Turns IM's on or off.
+    Begin: Starts the game.
+    Exit: Leaves Chibot.
+
+    Other stuff on the Anteroom window:
+
+    Max Players: Changes the maximum number of players that can play at once. You cannot change this during battle.
+    1 Line, 2 Lines, 3 Lines, 4 Lines: Changes the bot's scrolling behavior. Tells it how many lines to send at once.
+    Scroll Delay: Tells the bot how often to send lines to the chat room. At one point, AOL permitted unlimited scrolling in a private room, but they got rid of it. :( However, if you have an overhead account (Aren't you lucky!) then I advise setting the scroll delay at 200 and the # of lines to 1. If you have a
+fast computer and connection, and little to no lag, set the scroll delay to 600 and the # of lines to 1. If you have a slower connection, you might want a higher scroll delay and probably set the # of lines to 2.
+
+    The selection will continue until you disable joining in the Options, or click on the gray area to begin the battle.
+
+
+    III. Option Window
+
+    Zombie Mode: Enables Zombie Mode. See CHIPLAY.TXT for more info.
+    Disable Joining: Turns off joining and rejects anyone else who attempts to join. In the text box, type a reason why joining is disabled if you want.
+    Pick Same Character: Allows two people to play as the same character.
+    Capture the Flag: Enables CTF play.
+    Respawn: Turns respawning on or off. If Respawning is off, then the game ends when only one person or team is left standing.
+    Defects: Allows the /defect and /newteam commands.
+    Multitarget Moves: Turns on or off moves that hit more than one person.
+    Extended Supers: If ON, level 4 and 5 supers are enabled. If OFF, only 3's are allowed.
+    Get Rate: Changes the frequency at which new items appear. Lower number = faster items.
+    Time Limit: Changes the time limit to the game. Pick seconds, minutes, or
+hours from the dropdown list box. Leave it at zero for no time limit.
+    Dmg. Multiplier: Allows you to change the amount of damage done. 100% = normal. 200% = double damage. 50% = half. 0% = useless battle.
+    Flag Time Limit: Change the amount of time, in game seconds, that the opponent needs to hold the flag in order to win the CTF game.
+    Frags to Win: Usually only for respawn. When someone's kill count reaches this number, the game will stop and that person will be the winner. If the number is negative, then that number of fatalities must be scored to win.
+    Max HP: Allows you to change the maximum amount of HP.
+    Max SP: Changes the Max SP. If this is 0, then no counterattacks or supers may be done.
+
+    Pick Arena: Allows you to choose an arena.
+    Show Options: Shows the options to the chat room.
+
+    Font Name, Font Color: From the Font Name box, you can pull down the list for a list of fonts you can use. Click on a font to see its preview -- the text on the box will change to that font. Also, there is an easier way to pick colors now -- hit "Pick..." under Font Color and you'll get a color selection dialog. (Known Bug: Bot stops responding to chat commands when choosing a color from the selection dialog.) Choose a color and hit OK, and the appropriate HTML color code will appear in the Font Color box. If you
+want to type your own color code, go ahead. If you want to use a font that is not listed in the box (but the box SHOULD list all fonts available to you) then go ahead and type it in.
+
+
+    III. Character Editor
+
+    EZTeams Button: This allows you to easily distribute the teams without going in and setting it up yourself. Note that EZTeams does not account for the strengths and weaknesses of each player. It will merely attempt to balance the players by number. Just tell it the number of teams you want and it will assign
+the teams, then tell you if the teams are even or not. If you have uneven teams, you might want to try a different number or add a few CPU's.
+
+    The box labeled "Screen Name" is for the Screen Name. Just type it in. Case IS sensitive. Do NOT leave this line blank. Click "CPU" to edit the CPU properties of this character. "QuickCPU" will make a default CPU character.
+
+    CPU: If this box is checked, the CPU will control this character and its name will be set to the character's full name.
+
+    Smart CPU: Ignore.
+
+    CPU/Goodwill: This will determine how often the CPU will heal or cover an ally in need. A high Goodwill will have them always heal when someone's in trouble. A lower Goodwill will have them heal less often, and a Goodwill of zero will tell the CPU never to heal anyone.
+
+    CPU/Greed: A high Greed will cause the CPU to /get items as often as they can. A lower Greed means they won't /get them as often. CPU's are stupid, though, they'll get an item even if it causes bad effects...
+
+    CPU/Wrath: This option determines the CPU's retaliation level. A Wrath of 100 will tell the CPU to always attack the person who attacked it last, and throw away all common sense. Note: CPU's WILL attack allies if they are attacked BY an ally. So if someone on your team is being a jerk and killing a
+friendly CPU, if the CPU has a high wrath level, they will fight back despite the fact that they're on the same team. CPU's with a lower Wrath rating will be more sensible and attack the enemy with the least HP first before settling differences. This is most noticeable in Free-For-All battle, if you pay
+attention. However if several people gang up on the same CPU, the CPU will go berserk and it won't know who to attack. Note: Some moves might not do damage but the CPU will retaliate anyway... they DEFINATELY don't like to have their moves stolen.
+
+    CPU/Arrogance: Simply tells the CPU how often to /taunt. A CPU will NEVER /taunt if their HP is less than 250.
+
+    When you're done editing the CPU attributes, hit Done to return.
+
+    Team ID: A simple letter or number or symbol. Uppercase only, please.
+
+    The combo box will have a character name in it. To change their character, just pull down the combo box, find the character you want, and click it. Badabing, badabang, badaboom!
+
+    random char: Assigns the current player a random character.
+    random CPU: Sets up a random CPU player with default attributes.
+
+    People have asked how to do Team Battles. It's really very simple. Suppose you had four people and you wanted to do a two on two... just pick two people and set their team ID to "A" and put the other two on team "B". For more teams use more letters or numbers. ONLY use alphanumerics. If you use symbols the bot
+might ignore that team and declare the other team the winner.     
+
+    A quicker way to set up teams is to uze the EZ-Teams button.
+
+
+    IV. Battle
+
+    Once you're finished with everything, make sure all windows are closed, then click on the red area of the anteroom window. (What do you MEAN, you don't have a mouse?!)
+
+    Exit Battle: Quit the battle.
+    Begin Battle: Begin the battle.
+    End Battle: End the battle.
+    Pause: Pause or unpause the battle.
+    Midi: Open the music window.
+    Stats: Shows some battle information.
+
+    Moves: Shows the Moves Window.
+    Chars: Lists the entities in the game.
+    Teams: Lists the teams and their names.
+
+    NeoStatus: Show the information window. This allows you to view a character's HP and MP, the number of kills they have, their current move, and what status they have, such as Regen or Life3.
+
+    No Scrolling: This will shout "NO SCROLLING" in big red bold letters. If you don't want your players to be doing something else, right-click this button and type in what you don't want happening. It will tell them (ex: "NO CPUS" or "NO WHINING".)
+    Slow Down: Tell 'em to Slow the #$%(* Down!!!
+    It's Paused: Remind 'em that it's paused
+
+    Mystery Button (has a bunch of ?'s on it): This area is owned by Team Rocket, and tresspassers will have all their Pokémon stolen.
+
+    Various Checkboxes: Allow/disallow certain behaviors. You can allow/disallow the following:
+
+    Joining -- game will IGNORE all joining and selection commands. It won't say that the game is full.
+    /status -- ignores all /status commands.
+    /attacking -- ignores all /attacking commands.
+    /cpu -- ignores /cpu and other computerization commands.
+    /version -- ignores /version.
+    /info -- ignores /info
+    Team Functions -- enables/disables /newteam, /defect, /teamname, and so on.
+
+    Scroll Rate: Changes the scroll rate.
+
+    Lagometer (that scrollbar with a number next to it): Allows you to change the rate at which the game speed flows. The default is 1750, which means that approximately 1.75 standard seconds are equal to one game second. 2000 will cause the battle to go twice as slow as real time, and 500 will cause it to go
+twice as fast as real time. If the battle is lagging because of an overflow of players/youma, then increase this value. Moves won't hit as quickly. However, this will also cause the input buffer to get backed up if players enter commands at a rapid rate. If more than 250 lines are stored in memory with no
+place to go, then the bot will overflow and end. If not for the overflow protection, then the game would have gone nuts and probably scrolled you off. Note that the current Time Remaining is also determined by the Game Speed -- if you've set Game Speed at 5000 and the Time Remaining says "10 Seconds" left,
+then there are really 50 seconds to go in human time. Moves take forever to hit at 5000, so try to steer clear of the higher settings unless there're 21 people playing :)
+
+
+    V. Warning!
+
+    A new command has been added to Chibot Ultra Battle -- /hostboot. If you are cheating, or if you start up your bot while someone else is hosting, the people in the chat room can use this command to get rid of you! 5 different people must use the command targeted at your name (ex: /hostboot-LoserJack). When the 5 people have voted to boot you, here's what will happen.
+    * Your game will terminate.
+    * You will be humiliated with the "<---- is a BIG CHEATER!" scroll.
+    * AOL will be closed. (You can reopen it to get back online.)
+    * You'll be warned not to be cheezy or host while someone else is already hosting.
+
+    Why did I add this? Well I'm sick of hosts who use cheap characters, or who host while someone else is hosting, or is just being a nusiance.
+
+    How can you prevent yourself from being HostBooted? Don't cheat!
+
+
+    VI. Last Word
+
+    This is my last ChUB release. I am no longer supporting the bot, so don't email me about it. If it doesn't work, go play PokéOmega (http://members.tripod.com/PokeOmega/)

@@ -1,0 +1,560 @@
+"Kaitou Ace"
+"Ace"
+""
+"kaitou ace"
+"%SN holds up a card and becomes Kaitou Ace."
+"%SN runs in flinging cards as Kaitou Ace."
+ 80 
+ 40 
+ 70 
+ 30 
+ 0 
+"%SN goes to be the teen idol, Saijou Ace."
+"%SN enlarges a card and slams it in front of him."
+"%T blows the card up."
+"%SN screams, 'I am Kaitou Ace! I think any girl can be pretty.'"
+""
+""
+""
+""
+"cd"
+"%SN flings a card into %T's neck."
+"%SN rips the card out, decapitating %T."
+"Card"
+"card"
+ 0 
+"%SN pulls out an Ace of Hearts."
+""
+""
+"%SN flings the card into %T."
+""
+ 0 
+""
+"%SN flings the card into %T."
+""
+"%T dodges the card."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 40 
+ 2 
+"Delicious Four-Card Shot"
+"dfcs"
+ 0 
+"%SN throws several cards."
+""
+""
+"The cards slice through everyone!"
+""
+ 0 
+""
+"The cards slice through everyone!"
+""
+"%T avoids a card."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 30 
+ 5 
+"Lightning Sheild"
+"ls"
+ 0 
+"%SN creates a sheild around himself."
+""
+""
+"%SN shatters the sheild, but not before he gains more life."
+""
+ 0 
+""
+""
+""
+"%SN doesn't gain more life."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+"Lightning Field Crush"
+"lfc"
+ 1 
+"%SN creates a forcefield around %T."
+"%SN creates a forcefield around %T."
+""
+"The field crushes down on %T."
+"The field collapses on to %T."
+ 0 
+""
+"The field crushes down on %T."
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 70 
+ 2 
+"Card Stream"
+"cs"
+ 1 
+"%SN flings what looks like one card."
+"%SN flings several cards."
+""
+"The cards casscade backwards and the cards slice %T."
+"The cards casscade backwards and thousands of cards slice %T."
+ 0 
+""
+"The cards casscade backwards and the cards slice %T"
+""
+"%T avoids the card stream."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 100 
+ 2 
+"Summon Dark Agents"
+"sda"
+ 0 
+"%SN summons several Dark Agents."
+""
+""
+"The agents steal %T's energy and give it to %SN."
+""
+ 0 
+""
+"The agents steal %T's energy and give it to %SN."
+""
+"%T beats all the agents."
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 50 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 11 
+ 80 
+ 2 
+"Good Love Fortune"
+"glf"
+ 0 
+"%SN gives %T a love fortune."
+""
+""
+"%T gains knowledge and experience from the love fortune."
+""
+ 0 
+""
+""
+""
+"%T decides not to take the love fortune from %SN."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Bad Love Fortune"
+"blf"
+ 0 
+"%SN gives %T a love fortune reading."
+""
+""
+"%SN sees terrible things in %T's future."
+""
+ 0 
+""
+"%SN sees terrible things in %T's future."
+""
+"%T throws %SN's cards all over the place"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 80 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Love Fortune"
+"fortune"
+ 0 
+"%SN decides to use his cards to find out info about %T."
+""
+""
+"%SN finds out a lot!"
+""
+ 0 
+""
+""
+""
+"%SN finds out nothing."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 23 
+ 0 
+ 2 
+"Venus Power Card."
+""
+ 0 
+"%SN charges his card with his own dark energies and the energies of Venus."
+""
+""
+"%SN flings his card and it explodes onto %T."
+""
+ 0 
+""
+"%SN flings his card and it explodes onto %T."
+""
+"%SN cries when his card doesn't explode."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+"%SN attacks."
+""
+"%T is hit."
+""
+ 0 
+""
+""
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+"%SN attacks."
+""
+""
+"%T is hit."
+""
+ 0 
+""
+""
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"Sailor V weeps for her 'first real love,' %SN."
+""
+""
+""
+""
+"Kunzite appears and tells %SN how he has honored the Dark Kingdom/"
+""
+""
+""
+""

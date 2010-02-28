@@ -1,0 +1,564 @@
+"Kamek's Shadow"
+"kShadow"
+21
+"kShadow"
+"%SN is now the ninja Shadow."
+"%SN joins in as the ninja Shadow."
+70
+41
+60
+49
+""
+"%SN sits down and stares into blank space."
+"Intercepter stands in front of %SN and growls."
+"%T makes a scary face and Interceptor runs away."
+"%SN says, '...'"
+""
+""
+""
+""
+"backstab"
+"%SN starts to backstab %T."
+"%SN backstabs %T. Fatality!"
+"Dagger Slash"
+"att"
+1
+"%SN goes toward %T."
+"%SN goes toward %T."
+""
+"%SN slashes %T with the dagger."
+"%SN cuts %T to ribbons!"
+0
+""
+"%SN slashes %T with the dagger."
+""
+"%T blocks %SN's dagger."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+20
+2
+"Wild Fang"
+"wf"
+0
+"%SN points at %T."
+""
+""
+"Interceptor bites %T!"
+""
+0
+""
+"Interceptor chews %T up!!"
+""
+"%T throws a piece of meat and Interceptor gobbles it down."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Striker Dagger"
+"striker"
+1
+"%SN pulls out the Striker Dagger and charges at %T."
+"%SN pulls out the Striker Dagger and charges at %T."
+""
+"%SN slashes %T with the Striker!"
+"%SN slashes %T with the Striker!"
+0
+""
+"%SN slashes %T with the Striker!"
+""
+"%T dodges %SN's slash."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+60
+2
+"Shadow Skean"
+"ss"
+0
+"%SN pulls out the Shadow Skean."
+""
+""
+"A wave of leaves breeze through, when the dust clears, %SN is gone!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+"Water Edge"
+"we"
+0
+"%SN throws the Water Edge at %T."
+""
+"A water wave sweeps through!"
+""
+""
+0
+""
+""
+""
+"%T dodges the attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+50
+4
+"Bolt Edge"
+"be"
+0
+"%SN throws the Bolt Edge at %T."
+""
+"A blast of lightning surges through!"
+""
+""
+0
+""
+""
+""
+"%T blocks the attack,"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+50
+4
+"Fire Skean"
+"fs"
+0
+"%SN throws the Fire Skean at %T."
+""
+"A blast of fire sweeps through!"
+""
+""
+0
+""
+""
+""
+"%T blocks the attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+50
+4
+"Excalibur"
+"exc"
+0
+"%SN throws an Excalibur at %T."
+""
+""
+"The sword buries itself deep into %T's flesh!"
+""
+0
+""
+"The sword buries itself deep into %T's flesh!"
+""
+"%T dodges the sword throw."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+80
+2
+"Shuriken"
+"st"
+1
+"%SN throws a Shuriken at %T."
+"%SN throws several Shurikens at %T."
+""
+"The shuriken buries itself into %T!"
+"%SN throws %S2 shurikens at %T!"
+0
+""
+"The shuriken buries itself into %T!"
+""
+"%T dodges the shuriken."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+40
+2
+"Tack Star"
+"ts"
+0
+"%SN throws a Tack Star at %T."
+""
+""
+"The Tack Star slams into %T!"
+""
+0
+""
+"%T screams as the Tack Star buries itself deep!"
+""
+"%T dodges the Tack Star."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

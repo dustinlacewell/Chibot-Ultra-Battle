@@ -1,0 +1,564 @@
+"Darkchild"
+"darkchild"
+28
+"darkchild"
+"Dark energy collapses in on %SN. They re-emerge garbed as Darkchild, mistress of Death!"
+"%SN appears from a black portal as Darkchild, mistress of Death!"
+0
+40
+100
+80
+"%T's pitiful attack can't penetrate %SN's shield."
+"%SN meditates to channel more power into herself."
+"%SN forms a barrier of dark energy around herself."
+"%T shatters %SN's energy barrier! You b!tch!"
+"%SN laughs loudly."
+""
+""
+""
+""
+"rsn"
+"%SN sends pulses of red energy into %T."
+"The red energy goes into %T and swells, causing them to explode in a supernova of energy!"
+"Bless"
+"bless"
+0
+"%SN concentrates as energy begins to swirl around."
+""
+""
+"%SN's energy engulfs %T, charging them with raw power!"
+""
+0
+"The energy engulfs %SN, charging her with raw power!"
+""
+""
+"%SN gets distracted and the energy disperses."
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+100
+100
+0
+0
+0
+50
+0
+100
+100
+0
+100
+0
+0
+0
+0
+0
+0
+3
+"Circle of Regeneration"
+"cr"
+0
+"%SN spins and a circle of energy appears under %T."
+""
+"%SN spins and a circle of energy appears on the ground around her."
+"The circle flares with energy and heals %T's wounds!"
+""
+0
+"The circle flares with energy and heals %SN's wounds!"
+""
+""
+"%SN gets dizzy and the circle fades."
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+0
+""
+-1
+-1
+0
+0
+-1
+-1
+-1
+0
+-1
+0
+0
+-1
+0
+0
+0
+0
+0
+2
+200
+3
+"Dark Barrier"
+"db"
+0
+"%SN spreads her arms out as a dark energy barrier forms around her team."
+""
+""
+"The dark energy disappears."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+50
+50
+0
+0
+0
+0
+0
+0
+66
+0
+1
+"Dispel Good"
+"dg"
+0
+"%SN gathers dark energy into her hands and forms it into a sphere."
+""
+""
+"%SN hurls the energy sphere at %T, dispelling all good status!"
+""
+0
+""
+""
+""
+"%T destroys %SN's dark energy ball with a burst of light."
+0
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+""
+0
+0
+-1
+-1
+0
+0
+0
+-1
+0
+-1
+-1
+0
+-1
+0
+0
+0
+0
+0
+0
+2
+"Dark Hordes"
+"dh"
+0
+"%SN summons dark hordes."
+""
+"Masses of demons burst from the ground and slaughter everyone!!"
+""
+""
+0
+"Masses of demons burst from the ground and slaughter everyone!!"
+"Several demons team up and tear %T to shreds!"
+""
+"%T kills all the monsters attacking them."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+90
+5
+"Shadow Staff Blast"
+"ssb"
+1
+"%SN holds up her Shadow Staff as the end of it crackles with dark energy."
+"%SN doubles herself and they both hold up their Shadow Staffs."
+""
+"%SN spins and unleashes an enormous blast of energy that slams into %T!!"
+"%SN and her double annihilate %T with %S2 blasts of shadow energy!!"
+0
+""
+"%SN spins and unleashes an enormous blast of energy that slams into %T!!"
+""
+"%T blocks %SN's shadow blast."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T blocks %SN's shadow blast?!  Not fair!!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+110
+2
+"Mute-Stun Spell"
+"mss"
+0
+"%SN forms a ball of purple and pink energy."
+""
+""
+"%SN traps %T in the energy ball and zaps them with energy!"
+""
+0
+""
+""
+""
+"%T avoids %SN's energy ball."
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Poison Enemies"
+"pe"
+0
+"%SN holds up her Shadow Staff as it glows a bright green."
+""
+"Bright green energy strikes everyone, poisoning them!"
+""
+""
+0
+""
+""
+""
+"%T deflects the energy beam from %SN's staff."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+70
+0
+5
+"Disguise Spell"
+"dis"
+0
+"%SN begins to glow brightly."
+""
+""
+"%SN stops glowing and reappears as %T!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+2
+"Revive"
+"revive"
+0
+"%SN forms a sphere of blue energy in her hands."
+""
+""
+"%SN encases %T in the energy orb and brings them back to life!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+0
+3
+"Dark Lightning Pulse"
+"dlp"
+1
+"%SN gathers lightning into her hand as it crackles intensely."
+"Lightning surges in %SN hand as the sky darkens."
+""
+"%SN hurls a wave of incredible energy across the field, blasting %T!"
+"A enormous bolt of lightning splits the sky and obliterates %T!!"
+0
+""
+"%SN hurls a wave of incredible energy across the field, blasting %T!"
+""
+"%T dodges %SN's lightning bolt."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T dodges the enormous lightning bolt."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+105
+2
+"Power Drain"
+"spd"
+0
+"%SN forms a sphere of pulsing energy between her hands."
+""
+""
+"The energy sphere glows brightly and steals %T's SP!"
+""
+0
+""
+""
+""
+"%T blocks %SN's SP theft attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+92
+0
+2
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"A mystical being possessed of extremely powerful magic."
+""
+""
+""

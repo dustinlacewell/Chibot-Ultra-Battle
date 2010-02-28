@@ -1,0 +1,564 @@
+"A Good Character"
+"good"
+0
+"good"
+"%SN appears as a pretty darn good character!"
+"%SN joins in as a pretty darn good character."
+60
+50
+50
+60
+""
+"%SN pops some Skittles into her mouth."
+"%SN hides inside a refrigerator!"
+"%T opens the refrigerator and finds %SN hiding."
+"%SN says, ''In the Hoser of Punisment, I'll smack you!''"
+"%SN admonishes, ''Eat lead!''"
+"%SN tells everyone, ''You guys suck didly uck!''"
+""
+""
+"2abu"
+"%SN stuffs %T into a package labeled, ''To Abu Dhabi.''"
+"The UPS comes and ships %T off to Abu Dhabi!!!"
+"Insult"
+"insult"
+0
+"%SN calls %T up on a cell phone and calls them a dirty word."
+""
+""
+"%T gets enraged at %SN!!"
+""
+0
+""
+""
+""
+"%T hangs up the phone and pays no attention to %SN."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Hyper Guard"
+"hg"
+0
+"%SN raises her hand and shouts ''Hyper Guard!!''"
+""
+""
+"%SN brings her hand down like someone starting a race."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+10
+0
+0
+0
+0
+0
+50
+50
+0
+25
+0
+0
+0
+0
+0
+0
+1
+"A Good Physical Attack"
+"agpa"
+1
+"%SN dashes at %T."
+"%SN charges at %T like a bull!!"
+""
+"%SN punches and kicks %T."
+"%SN rams into %T, knocking them %S2 feet away!"
+0
+""
+"%SN rams into %T, knocking them over!"
+""
+"%T gets out of the way and %SN crashes into the ground."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+2
+"A Good Pokeball Throw"
+"~agpt"
+0
+"%SN pulls out a Pokeball and throws it at %T!!"
+""
+""
+"The Pokeball hits %T's head and knocks them out!"
+""
+0
+""
+""
+""
+"%T dodges the Pokeball."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+50
+2
+"A Good Flame Thrower"
+"agft"
+1
+"%SN puts her arms together and aims at %T."
+"%SN sets herself on fire and goes toward %T!"
+""
+"%SN moves her arms apart and flames engulf %T!"
+"%SN gets near %T and the searing heat burns them."
+0
+""
+"%SN moves her arms apart and a mass of flames engulf %T!"
+""
+"%SN moves her arms apart but %T dodges the firey inferno."
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+70
+2
+"A Good Cure Spell"
+"agcs"
+0
+"%SN stares at %T and utters the words, ''good cure spell.''"
+""
+"%SN utters the words, ''good cure spell.''"
+"%T finds themselves cured!"
+""
+0
+"%SN finds herself cured!"
+""
+""
+""
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+0
+""
+-1
+-1
+0
+0
+-1
+-1
+0
+0
+-1
+0
+0
+-1
+0
+0
+0
+0
+0
+2
+100
+3
+"A Good Summon Spell"
+"agss"
+0
+"%SN looks for assistance from Kenny!"
+""
+"Kenny comes down and sprinkles all of %SN's allies with come-back-to-life-next-episode dust."
+"Kenny comes down and sprinkles all of %SN's allies with come-back-to-life-next-episode dust."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+85
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+"A Good Cheap Attack"
+"agca"
+0
+"%SN shouts, ''Block, if you know what's good for you!''"
+""
+"%SN emits white energy, expanding to consume everyone."
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+50
+5
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%SN withers and dies like an old plant."
+"%SN casts ''Ultima'' on everyone before dying, but the spell has no effect."
+"%SN vanishes into thin air."
+""
+""
+"Another gruesome kill."
+"%SN jumps up and down screaming ''I DID IT!!!''"
+"%SN sings, ''Joy to the World, %T's Dead! I barbecued their head!''"
+"%SN entraps %T inside a Pokeball. ''MINE!''"
+""
+"A pretty darn good character."
+""
+""
+""

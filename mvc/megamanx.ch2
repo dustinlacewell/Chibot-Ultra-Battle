@@ -1,0 +1,560 @@
+"Mega Man X"
+"megamanx"
+""
+"megamanX"
+"A Giant Capsule Slowly opens, Revealing %SN."
+"%SN rushes in as Mega Man X!"
+ 0 
+ 100 
+ 20 
+ 100 
+ 0 
+"%SN doesnt need rest...just maintainance."
+"%SN forms an energy shield."
+"%SN's shield Sparks, then fails."
+"%SN does a stupid pose."
+""
+""
+""
+""
+"xbsc"
+"%SN's X-Buster glows red as a giant ball of energy forms."
+"%SN releases a Giant burst of energy at %T!"
+"X-Buster."
+"xbuster"
+ 1 
+"%SN releases a burst of energy at %T from the X-Buster."
+"%SN charges the X-Buster......"
+""
+"%T reels from the Blast!"
+"%SN releases the X-Buster's Pinkish Charge on %T, Blasting them %S2 Times!"
+ 0 
+""
+"%T falls over."
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 25 
+ 120 
+ 2 
+"Storm Tornado"
+"StormT"
+ 1 
+"%SN releases a spiraling blast of wind at %T!"
+"%SN charges the Storm Tornado Weapon."
+""
+"%T gets caught in the wind! "
+"%SN releases the Blast, and is surrounded in a Funnel, Blasting %T!"
+ 0 
+""
+"%T gets blown off a cliff!"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 28 
+ 60 
+ 2 
+"Fire Buster"
+"fwall"
+ 0 
+"%SN Charges up the Fire Wall weapon."
+""
+"%SN lets forth an immense Blast of fire upon %T's team! BOOOOOOOM!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 24 
+ 75 
+ 4 
+"Leg Enhancement."
+"legE"
+ 0 
+"%T leaps into a Capsule."
+""
+"%SN leaps into a Capsule."
+"%T gets the Leg Enhancement and Speeds up!"
+""
+ 0 
+"%T Gets the Leg enhancement and Speeds up!"
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+"Shotgun Ice"
+"si"
+ 1 
+"%SN shoots ice at %T."
+"%SN forms a giant block of ice above %T."
+""
+"%T gets hit by the ice!"
+"A Giant Penguin-Shaped block of ice falls upon %T!"
+ 0 
+""
+"%T shivers into a block of ice."
+""
+""
+ 0 
+ 0 
+ 75 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 45 
+ 2 
+"Homing Missles"
+"~hm"
+ 0 
+"%SN fires several hundred Homing Missles into the air."
+""
+"Missles rain down, striking %T's Enemies!"
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 50 
+ 5 
+"Hadoken"
+"~hadoken"
+ 0 
+"Dr. Light speaks to %SN, Revealing the secrets of the Hadoken Move!"
+""
+""
+"%SN shouts 'HADOKEN!' and blasts %T!"
+""
+ 0 
+""
+"%T falls over, stunned!"
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 30 
+ 200 
+ 2 
+"Boomerang Cutter"
+"bcutter"
+ 0 
+"%SN flings a boomerang at %T."
+""
+""
+"%SN swipes some of %T's power!"
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 11 
+ 25 
+ 2 
+"Massive MegaMan X Blast"
+"mmmxb"
+ 0 
+"%SN summons Roll, Rush, Beat and Zero."
+""
+"An Immense Blast of energy consumes %T's Team!"
+""
+""
+ 0 
+""
+"%T Falls over."
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 80 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 100 
+ 4 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+"%SN's fusion engine explodes!"
+""
+""
+""
+""
+"%SN laughs and dances about."
+""
+""
+""
+""

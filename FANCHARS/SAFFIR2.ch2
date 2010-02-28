@@ -1,0 +1,560 @@
+"Saffiru"
+"Saffiru"
+""
+"saffiru"
+"%SN teleports from the Dark Moon as Saffiru!"
+"%SN teleports onto the battlefield."
+ 50 
+ 50 
+ 60 
+ 60 
+ 0 
+"%SN lies in Petz's bed."
+"%SN throws his hands up to protect himself."
+"%SN is blasted backwards."
+"%SN screams, 'Misa!!'"
+""
+""
+""
+""
+"def"
+"The dark moon on %SN's opens to reveal an eye."
+"%SN fires a beam into %T. %T is flooded with dark energy and explodes!"
+"Lightning Punch Attack"
+"lpa"
+ 1 
+"%SN charges at %T."
+"%SN charges at %T."
+""
+"%SN slams his fist into %T's gut!"
+"%SN unleashes a fury of punches onto %T!"
+ 0 
+""
+"%SN punches %T and a bolt of lightning rushes through their body!"
+""
+"%T ducks under %SN's punch."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 2 
+"Dark Energy Toss"
+"det"
+ 1 
+"%SN fires a beam of dark energy at %T."
+"%SN throws a ball of dark energy at the floor beneath %T."
+""
+"%SN's dark energy overwhelms %T."
+"The floor underneath %T explodes leaving a crater %S2 miles wide!"
+ 0 
+""
+"%SN's dark energy overwhelms %T! %T is thrown backwards!"
+""
+"%T avoids the energy."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 70 
+ 2 
+"Dark Crecent Moon Beam"
+"dcmb"
+ 0 
+"%SN's dark moon glows with energy."
+""
+""
+"A crescent moon shaped beam rips through %T's stomach."
+""
+ 0 
+""
+"A crescent moon shaped beam rips through %T's stomach! %T is blacked out!"
+""
+"%T avoids the beam."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 80 
+ 2 
+"Petz Heal"
+"ph"
+ 0 
+""
+""
+"Petz appears on the battlefield to patch %T up."
+""
+""
+ 0 
+"Petz applies her loving touch to %SN."
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 60 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 90 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+ 80 
+ 8 
+"Saffiru Teleport"
+"st"
+ 0 
+"%SN teleports before Wiseman's energy can hit him."
+""
+""
+"%SN gets another chance at life!"
+""
+ 0 
+""
+""
+""
+"%SN doesn't teleport soon enough."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 8 
+"Dark Panal Steal"
+"dps"
+ 1 
+"%SN steals the chip that controls the dark crystal."
+"%SN steals the chip that controls the dark crytal."
+""
+"%SN uses the chip to unleash an enormous amount of dark power onto %T."
+"%SN releases the energies of the dark crystal down on %T."
+ 0 
+""
+"%T is blasted into oblivion."
+""
+"%T swipes the chip back."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 80 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 100 
+ 2 
+"Angry Dimando"
+"ad"
+ 0 
+"%SN angers Dimando."
+""
+""
+"Dimando blasts at %SN, but he misses and blasts %T."
+""
+ 0 
+""
+"Ouch! %T will feel that when they get married!"
+""
+"%T runs like h-e-double hockey sticks!"
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 21 
+ 80 
+ 2 
+""
+""
+ 0 
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+ 0 
+""
+"Ouchie."
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+ 0 
+""
+"Ouchie."
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+ 0 
+""
+"Ouchie."
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+"%SN does an attack."
+""
+""
+"%T is hurt."
+""
+ 0 
+""
+"Ouchie."
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+"%SN does an attack."
+""
+""
+"%T is hit."
+""
+ 0 
+""
+"Ouchie."
+""
+"%T runs."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

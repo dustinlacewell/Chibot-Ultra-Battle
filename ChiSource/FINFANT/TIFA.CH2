@@ -1,0 +1,560 @@
+"Tifa Lockhart"
+"tifa"
+""
+"tifa"
+"The Premium Heart appears on %SN's hand as they become Tifa Lockhart."
+"%SN leaps over her bar counter and rushes into battle as Tifa Lockhart."
+ 100 
+ 50 
+ 60 
+ 10 
+ 0 
+"%SN goes back to her bar to serve some drinks."
+"%SN blocks with a bar stool."
+"%T blasts the bar stool into oblivion."
+"%SN laughs."
+""
+""
+""
+""
+"ls"
+"%SN equips Enemy Skill materia and learns Safer Sephiroth's 'Super Nova' spell."
+"A gigantic comet destroys half the Solar System, and explodes onto %T!!"
+"Beat Rush"
+"br"
+ 0 
+"%SN charges at %T."
+""
+""
+"%SN smashes into %T and executes a quick combo."
+""
+ 0 
+""
+"%SN smashes into %T and executes a quick combo!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 30 
+ 2 
+"Somersault"
+"ss"
+ 0 
+"%SN begins to flip."
+""
+""
+"%SN executes a flipping kick on %T."
+""
+ 0 
+""
+"%SN executes multiple flipping kicks on %T!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 50 
+ 2 
+"Water Kick"
+"wk"
+ 0 
+"%SN sweeps the ground."
+""
+""
+"A wave of water rises up and slams into %T."
+""
+ 0 
+""
+"A huge wave of water rises up and slams into %T!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 60 
+ 2 
+"Meteodrive"
+"md"
+ 0 
+"%SN grabs %T."
+""
+""
+"%SN executes an inverted huricanrana on %T straight into the cold hard ground."
+""
+ 0 
+""
+"%SN executes an inverted huricanrana on %T straight into the cold hard ground!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 70 
+ 2 
+"Dolphin Blow"
+"db"
+ 1 
+"%SN thrusts her arm upwards."
+"%SN thrusts her arm upwards, as a pool of water forms under."
+""
+"A mystical dolphin rises up from the ground, uppercutting %T."
+"%S2 mystical dolphins blast upwards from the pool of water, uppercutting %T in rapid succession!!"
+ 0 
+""
+"A mystical dolphin rises up from the ground, uppercutting %T!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 22 
+ 85 
+ 2 
+"Meteor Strike"
+"ms"
+ 0 
+"%SN grabs %T by the head and begins spinning them."
+""
+""
+"%SN leaps up into the air and slams %T into the ground."
+""
+ 0 
+""
+"%SN leaps up into the air and slams %T deep into the ground!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 80 
+ 2 
+"Final Heaven"
+"fh"
+ 1 
+"%SN fist glows brightly with power."
+"%SN fist glows brightly with power."
+""
+"%SN slams her fist through %T with the force of a nuclear blast!"
+"%SN slams her fist through %T with the force of a nuclear blast!!"
+ 0 
+""
+"%SN slams her fist through %T with the force of a nuclear blast!!"
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 100 
+ 2 
+"Haste Materia"
+"haste"
+ 0 
+"%SN equips Time Materia, and begins to cast 'Haste'"
+""
+"%SN casts, 'Haste' on her team."
+""
+""
+ 0 
+""
+""
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 100 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+"Summon"
+"phoenix"
+ 0 
+"%SN begins to summon Phoenix."
+""
+""
+"%T's body is bathed in the light of the Phoenix Flames."
+""
+ 0 
+""
+""
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 17 
+ 0 
+ 3 
+"Death Blow"
+"death"
+ 0 
+"%SN equips DeathBlow Materia."
+""
+""
+"%SN roundhouse kicks %T, as a flash of light rips through their body."
+""
+ 0 
+""
+"%SN roundhouse kicks %T, as a flash of light rips through their body."
+""
+"%T dodges %SN's attack."
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 19 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+ 0 
+""
+""
+""
+""
+""
+ 0 
+""
+""
+""
+""
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

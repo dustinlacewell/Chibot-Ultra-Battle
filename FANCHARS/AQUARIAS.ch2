@@ -1,0 +1,564 @@
+"Aquarias"
+"Aquarias"
+2224
+"~Aquarias"
+"Water gathers and a mysterious sign lands on it, forming Aquarias!"
+"%SN joins as Aquarias."
+0
+75
+70
+75
+"Aquarias's wall of water blocks the incoming attack."
+"Aquarias goes to rest at Gemini's."
+"Aquarias summons a wall of water to block."
+"Aquarias's wall of water collapses with the attacks."
+""
+""
+""
+""
+""
+""
+""
+""
+"Water Wall"
+"waterwall"
+0
+"Aquarias gathers walls and walls of water around him."
+"Aquarias gathers walls and walls of water around him."
+"Aquarias gathers walls and walls of water around him."
+"The walls of water around Aquarias freeze, protecting him."
+"The walls of water around Aquarias freeze, protecting him."
+0
+"The walls of water around Aquarias freeze, protecting him."
+"The walls of water around Aquarias freeze, protecting him."
+""
+"Aquarias's walls collapse."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"Aquarias's walls collapse."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+90
+0
+0
+0
+0
+0
+0
+0
+0
+8
+"Pices"
+"Pices"
+0
+"Aquarias summons Pices."
+"Aquarias summons Pices."
+"Aquarias summons Pices."
+"Pices waits on the side, getting ready to revive Aquarias."
+"Pices waits on the side, getting ready to revive Aquarias."
+0
+"Pices waits on the side, getting ready to revive Aquarias."
+"Pices waits on the side, getting ready to revive Aquarias."
+""
+"Pices gets lost and walks away."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"Pices gets lost and walks away."
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+"Whirlpool"
+"whirlpool"
+0
+"Aquarias summons a whirlpool to surround %T."
+"Aquarias summons a whirlpool to surround %T."
+"Aquarias summons a whirlpool to surround %T."
+"A whirlpool surrounds %T engulfing them."
+"A whirlpool surrounds %T engulfing them."
+0
+"A whirlpool surrounds %T engulfing them."
+"A whirlpool surrounds %T engulfing them."
+""
+"A whirlpool is seen nearby."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"A whirlpool is seen nearby."
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+0
+2
+"Ice Blast"
+"iceblast"
+1
+"Aquarias forms some water crystals."
+"Aquarias forms some water crystals."
+"Aquarias forms some water crystals."
+"Aquarias throws his crystals at %T."
+"Aquarias throws his crystals at %T."
+0
+"Aquarias throws his crystals at %T."
+"Aquarias throws his crystals at %T."
+""
+"Aquarias drops his crystals."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"Aquarias drops his crystals."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+90
+2
+"Sword Attack"
+"sword"
+0
+"Aquarias forms a sword of water."
+"Aquarias forms a sword of water."
+"Aquarias forms a sword of water."
+"Aquarias slices %T with his water sword."
+"Aquarias slices %T with his water sword."
+0
+"Aquarias slices %T with his water sword."
+"Aquarias slices %T with his water sword."
+""
+"Aquarias's sword drips and falls out of his hands."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"Aquarias's sword drips and falls out of his hands."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+2
+"Water Pillar"
+"pillar"
+0
+"Aquarias reaches his hand under some water."
+"Aquarias reaches his hand under some water."
+"Aquarias reaches his hand under some water."
+"Aquarias lifts his hand and a pillar rises up and hits %T."
+"Aquarias lifts his hand and a pillar rises up and hits %T."
+0
+"Aquarias lifts his hand and a pillar rises up and hits %T."
+"Aquarias lifts his hand and a pillar rises up and hits %T."
+""
+"Aquarias trips."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"Aquarias trips."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+100
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"The Zodiac sign of water, Aquarias is strong against Water"
+"but weak against Fire look out for his Whirlpool attack."
+""
+""

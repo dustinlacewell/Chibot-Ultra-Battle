@@ -1,0 +1,564 @@
+"Sally Chere"
+"sally"
+21
+"sally"
+"%SN shouts ''Hoser Chibot Power!'' and becomes Sally Chere."
+"%SN joins in as Sally Chere."
+50
+50
+60
+60
+""
+"%SN goes and pigs out on Cheese Nips."
+"%SN blocks with her Economics book."
+"%T rips through %SN's Economics book. ''Oh well, Economics sucked anyway.''"
+"%SN says, ''You suck!''"
+"%SN says, ''Die Newbie!''"
+"%SN laughs and points."
+""
+""
+"sicnewbie"
+"%SN summons a bunch of Newbies."
+"The Newbies terrorize %T... oh what a horrible fate!!!"
+"Slap"
+"att"
+1
+"%SN goes toward %T."
+"%SN goes toward %T."
+""
+"%SN slaps %T!"
+"%SN slaps the crap outta %T!"
+0
+""
+"%SN slaps %T!"
+""
+"%T ducks %SN's slap."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+70
+2
+"Regen"
+"regen"
+0
+"%SN starts casting ''Regen'' on %T."
+""
+""
+"%SN casts ''Regen'' on %T."
+""
+0
+""
+""
+""
+"%SN's spell failed."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+"Esuna"
+"Esuna"
+0
+"%SN starts casting ''Esuna'' on %T."
+""
+""
+"%SN casts ''Esuna'' on %T, curing their bad status."
+""
+0
+""
+""
+""
+"%SN's spell failed."
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+0
+""
+-1
+-1
+0
+0
+-1
+-1
+0
+0
+-1
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+0
+3
+"Knights of Round"
+"~KoR"
+0
+"%SN starts casting ''Ultimate End.'' (OH NO!!!)"
+""
+""
+"13 knights come out and get confused. They attack %SN!"
+""
+0
+""
+""
+""
+"13 knights come out but nothing happens."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+30
+500
+8
+"Swift Kick in the...!!!"
+"skit"
+1
+"%SN goes over to %T."
+"%SN goes over to %T."
+""
+"%SN gives %T a swift kick in the...!!!"
+"%SN beats the crap outta %T."
+0
+""
+"%SN gives %T a really swift kick!"
+""
+"%T dodges %SN's kick."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+90
+2
+"Ice Shards / Ice"
+"is"
+1
+"%SN makes a gesture and icicles appear underneath %T."
+"%SN makes a gesture and icicles appear underneath %T."
+""
+"The icicles turn into huge ice shards and slash %T!"
+"The icicles turn into %S2 ice shards and slash %T up!"
+0
+""
+"The icicles turn into gigantic ice shards and slash %T!"
+""
+"%T gets away from the icicles."
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+""
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+120
+2
+"Dark Barrier"
+"db"
+0
+"%SN's evil clone makes a dark barrier around %T's allies."
+""
+"%SN's evil clone makes a dark barrier around %T's allies."
+"The dark shield wears off."
+""
+0
+"The dark shield wears off."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+25
+0
+0
+0
+0
+0
+25
+25
+0
+0
+0
+0
+0
+0
+10
+0
+1
+"Big Guard"
+"bg"
+0
+"%SN starts casting ''Big Guard.''"
+""
+"%SN casts ''Big Guard'' and protects her allies."
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+100
+0
+0
+0
+0
+0
+0
+0
+0
+1
+"Transform"
+"tra"
+0
+"%SN starts to transform into %T."
+""
+""
+"%SN melts down and forms into %T."
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+2
+"Kamek (Heals)"
+"Kamek"
+0
+"%SN steals Kamek's magic wand."
+""
+"%SN steals Kamek's magic wand."
+"Kamek gets his wand back, but not before %SN heals %T!"
+""
+0
+"Kamek gets his wand back, but not before %SN heals herself!"
+""
+""
+"Kamek gets his wand back."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+100
+3
+"Protective Seal (Dispel + Shadow)"
+"ps"
+0
+"%SN makes a gesture and two dark energy balls zoom toward %T."
+""
+""
+"The dark balls converge on %T, creating a dark dome that dispels them."
+""
+0
+""
+""
+""
+"%T dodges the dark balls."
+0
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+""
+0
+0
+-1
+-1
+0
+0
+0
+0
+0
+-1
+-1
+0
+0
+0
+0
+0
+0
+21
+40
+2
+"Poisoned Brownies"
+"pbake"
+0
+"%SN starts baking some brownies. %T smells their hypnotizing aroma."
+""
+""
+"%T eats %SN's brownies, but they were poisoned!!!"
+""
+0
+""
+""
+""
+"%T eats %SN's brownies and burps. ''Thanks!'' says %T."
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+""
+""
+""
+""
+""
+"%SN says, ''Serves ya right, ya fonking newbie.''"
+"%SN jumps up and down shrieking!"
+""
+""
+""
+"That one girl, you know, Kamek's evil twin, or something. ~_~"
+""
+""
+""
